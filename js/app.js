@@ -970,8 +970,7 @@ async function loadFullDatabaseInBackground(userEntries) {
             const apiEntries = items.map(mapItemToStateFormat);
             
             // Combinar y deduplicar manteniendo prioridad para registros locales
-            const example = SEED_DATA.find(p => p.isExample) || SEED_DATA[0];
-            const merged = [example, ...userEntries];
+            const merged = [...userEntries];
             
             const existingIds = new Set(merged.map(p => p.id));
             apiEntries.forEach(item => {
@@ -1039,10 +1038,8 @@ async function initData() {
         apiEntries = SEED_DATA.filter(p => !p.isExample);
     }
 
-    const example = SEED_DATA.find(p => p.isExample) || SEED_DATA[0];
-    
     // Combinar mini con locales/modificados
-    const merged = [example, ...userEntries];
+    const merged = [...userEntries];
     const existingIds = new Set(merged.map(p => p.id));
     apiEntries.forEach(item => {
         if (!existingIds.has(item.id)) {
