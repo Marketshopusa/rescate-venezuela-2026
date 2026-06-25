@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESCATE VENEZUELA 2026 - Portal de Emergencia</title>
+    <!-- Meta tags SEO -->
+    <meta name="description" content="Portal de emergencia para el registro, localización y generación de carteles de búsqueda de personas desaparecidas tras los sismos en Venezuela.">
+    <meta name="keywords" content="sismo venezuela 2026, desaparecidos venezuela, rescate venezuela, buscar personas, sismo 7.1, sismo 7.5">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="styles/main.css?v=1.0.5">
+</head>
+<body>
+    <!-- Navbar -->
+    <header class="app-header">
+        <div class="container navbar-container">
+            <div class="logo">
+                <img src="images/rescue_logo.png" alt="Rescate Logo" class="logo-img">
+                <span class="logo-text"><span class="logo-rescate">RESCATE</span> <span class="logo-venezuela">VENEZUELA</span> <span class="logo-2026">2026</span></span>
+            </div>
+            <nav class="nav-actions">
+                <a href="#resources" class="nav-link"><i class="fa-solid fa-phone-volume"></i> Directorio de Ayuda</a>
+                <a href="#forum-anchor" class="nav-link"><i class="fa-solid fa-comments"></i> Foro 24/7</a>
+                <button class="btn btn-primary" id="btn-open-register">
+                    <i class="fa-solid fa-user-plus"></i> Registrar Familiar
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Flag Banner Header -->
+    <div class="flag-hero-banner" style="background-image: linear-gradient(rgba(11, 15, 25, 0.4), rgba(11, 15, 25, 0.95)), url('images/venezuela_flag_banner.png');">
+        <div class="container flag-hero-content">
+            <span class="crisis-badge"><i class="fa-solid fa-circle-radiation fa-spin text-red"></i> SITUACIÓN DE CRISIS</span>
+            <h1><span class="logo-rescate">RESCATE</span> <span class="logo-venezuela">VENEZUELA</span> <span class="logo-2026">2026</span></h1>
+            <p>Búsqueda, Registro y Localización de Ciudadanos tras el Terremoto Nacional</p>
+        </div>
+    </div>
+
+    <!-- Security & Privacy Disclaimer (Home Banner) -->
+    <section class="privacy-disclaimer-banner">
+        <div class="container">
+            <div class="disclaimer-box">
+                <div class="disclaimer-icon"><i class="fa-solid fa-shield-halved"></i></div>
+                <div class="disclaimer-text">
+                    <strong>Nota de Seguridad y Privacidad Humanitaria:</strong> 
+                    Este portal es una iniciativa ciudadana sin fines de lucro para ayudar en la búsqueda y rescate. 
+                    <span class="highlight">NO recopilamos números de identificación personal, Cédulas de Identidad, licencias ni pasaportes.</span> 
+                    Solo solicitamos los datos mínimos necesarios de contacto y descripción física para localizar a su familiar y coordinar con los entes de auxilio.
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Hero / Stats Dashboard -->
+    <section class="hero-stats">
+        <div class="container">
+            <!-- Real-time Stats Grid -->
+            <div class="stats-grid">
+                <div class="stat-card stat-total">
+                    <div class="stat-icon"><i class="fa-solid fa-users"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-label">Total Registrados</span>
+                        <h3 class="stat-value" id="stat-total-val">0</h3>
+                    </div>
+                </div>
+                <div class="stat-card stat-missing">
+                    <div class="stat-icon"><i class="fa-solid fa-person-circle-question"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-label">En Búsqueda</span>
+                        <h3 class="stat-value text-red" id="stat-missing-val">0</h3>
+                    </div>
+                </div>
+                <div class="stat-card stat-hospitalized">
+                    <div class="stat-icon"><i class="fa-solid fa-hospital"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-label">Hospitalizados</span>
+                        <h3 class="stat-value text-yellow" id="stat-hospitalized-val">0</h3>
+                    </div>
+                </div>
+                <div class="stat-card stat-safe">
+                    <div class="stat-icon"><i class="fa-solid fa-circle-check"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-label">Localizados (A Salvo)</span>
+                        <h3 class="stat-value text-green" id="stat-safe-val">0</h3>
+                    </div>
+                </div>
+                <div class="stat-card stat-deceased">
+                    <div class="stat-icon"><i class="fa-solid fa-skull-crossbones"></i></div>
+                    <div class="stat-info">
+                        <span class="stat-label">Fallecidos</span>
+                        <h3 class="stat-value text-gray" id="stat-deceased-val">0</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Dashboard Section (Two Column Layout) -->
+    <main class="main-dashboard container">
+        
+        <!-- Search and Filters Panel -->
+        <section class="control-panel">
+            <div class="search-bar">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="search-input" placeholder="Buscar por nombre, señas particulares, ciudad, refugio...">
+            </div>
+            <div class="filters-group">
+                <div class="filter-select-wrapper">
+                    <i class="fa-solid fa-map-location-dot select-icon"></i>
+                    <select id="filter-state">
+                        <option value="">Todos los Estados</option>
+                        <option value="Amazonas">Amazonas</option>
+                        <option value="Anzoátegui">Anzoátegui</option>
+                        <option value="Apure">Apure</option>
+                        <option value="Aragua">Aragua</option>
+                        <option value="Barinas">Barinas</option>
+                        <option value="Bolívar">Bolívar</option>
+                        <option value="Carabobo">Carabobo</option>
+                        <option value="Cojedes">Cojedes</option>
+                        <option value="Delta Amacuro">Delta Amacuro</option>
+                        <option value="Distrito Capital">Distrito Capital</option>
+                        <option value="Falcón">Falcón</option>
+                        <option value="Guárico">Guárico</option>
+                        <option value="Lara">Lara</option>
+                        <option value="Mérida">Mérida</option>
+                        <option value="Miranda">Miranda</option>
+                        <option value="Monagas">Monagas</option>
+                        <option value="Nueva Esparta">Nueva Esparta</option>
+                        <option value="Portuguesa">Portuguesa</option>
+                        <option value="Sucre">Sucre</option>
+                        <option value="Táchira">Táchira</option>
+                        <option value="Trujillo">Trujillo</option>
+                        <option value="Vargas / La Guaira">Vargas / La Guaira</option>
+                        <option value="Yaracuy">Yaracuy</option>
+                        <option value="Zulia">Zulia</option>
+                    </select>
+                </div>
+                <div class="filter-select-wrapper">
+                    <i class="fa-solid fa-heart-pulse select-icon"></i>
+                    <select id="filter-status">
+                        <option value="">Todos los Estatus</option>
+                        <option value="Desaparecido">Desaparecido</option>
+                        <option value="Hospitalizado">Hospitalizado</option>
+                        <option value="Localizado a Salvo">Localizado a Salvo</option>
+                        <option value="Fallecido">Fallecido</option>
+                    </select>
+                </div>
+                <button class="btn btn-secondary" id="btn-clear-filters">
+                    <i class="fa-solid fa-rotate-left"></i> Limpiar
+                </button>
+            </div>
+        </section>
+
+        <!-- Two Column Dashboard Grid -->
+        <div class="dashboard-columns">
+            
+            <!-- Left Side: Cards grid (2/3 width) -->
+            <section class="results-section">
+                <div class="results-header">
+                    <h2>Fichas de Búsqueda Activas</h2>
+                    <span class="results-count" id="results-count-text">Mostrando 0 resultados</span>
+                </div>
+
+                <div class="tabs-container">
+                    <button class="tab-btn active" id="tab-with-photos">
+                        <i class="fa-solid fa-image"></i> Con Foto
+                    </button>
+                    <button class="tab-btn" id="tab-without-photos">
+                        <i class="fa-solid fa-image-slash"></i> Desaparecidos sin Fotos
+                    </button>
+                </div>
+                
+                <div class="cards-grid" id="cards-grid">
+                    <!-- Se inyectarán dinámicamente desde app.js -->
+                </div>
+                
+                <!-- Empty State -->
+                <div class="empty-state hidden" id="empty-state">
+                    <i class="fa-solid fa-user-slash empty-icon"></i>
+                    <h3>No se encontraron registros</h3>
+                    <p>Intenta cambiar los filtros de búsqueda o agrega un nuevo familiar si no está registrado.</p>
+                    <button class="btn btn-primary" id="btn-empty-register">
+                        <i class="fa-solid fa-user-plus"></i> Registrar Familiar
+                    </button>
+                </div>
+            </section>
+
+            <!-- Right Side: Forum/Chat Sidebar (1/3 width) -->
+            <aside class="forum-sidebar" id="forum-anchor">
+                <div class="forum-header">
+                    <div class="forum-title-group">
+                        <h3><i class="fa-solid fa-comments text-blue"></i> Foro Comunitario 24/7</h3>
+                        <span class="online-indicator"><i class="fa-solid fa-circle"></i> <span id="online-users-count">142</span> activos</span>
+                    </div>
+                    <p class="forum-desc">Comparte información sobre refugios, heridos localizados y novedades del sismo en tiempo real.</p>
+                </div>
+                
+                <!-- Live chat container -->
+                <div class="chat-messages-container" id="chat-messages-container">
+                    <!-- Inyectados desde app.js -->
+                </div>
+                
+                <!-- Chat input form -->
+                <form id="chat-form" class="chat-form">
+                    <div class="chat-inputs">
+                        <input type="text" id="chat-username" required placeholder="Tu Nombre o Apodo" maxlength="30">
+                        <textarea id="chat-message" required placeholder="Escribe un reporte o mensaje aquí..." rows="2" maxlength="300"></textarea>
+                    </div>
+                    <div class="chat-footer">
+                        <span class="chat-warning"><i class="fa-solid fa-circle-exclamation text-yellow"></i> Solo reportes verificados</span>
+                        <button type="submit" class="btn btn-primary btn-send-chat">
+                            <i class="fa-solid fa-paper-plane"></i> Enviar
+                        </button>
+                    </div>
+                </form>
+            </aside>
+
+        </div>
+    </main>
+
+    <!-- Resources Section -->
+    <section class="resources-section" id="resources">
+        <div class="container">
+            <h2 class="section-title"><i class="fa-solid fa-phone-volume"></i> Directorio y Contactos de Emergencia (Nacionales e Internacionales)</h2>
+            <div class="resources-grid">
+                <!-- National Emergency Numbers -->
+                <div class="resources-card">
+                    <h3>Entes Nacionales (Venezuela)</h3>
+                    <ul class="emergency-list">
+                        <li>
+                            <span class="agency">Emergencias Nacionales (VEN 911)</span>
+                            <a href="tel:911" class="phone-link"><i class="fa-solid fa-phone"></i> 911</a>
+                        </li>
+                        <li>
+                            <span class="agency">Protección Civil Nacional</span>
+                            <a href="tel:08007768324" class="phone-link"><i class="fa-solid fa-phone"></i> 0800-PROTECT (7768324)</a>
+                        </li>
+                        <li>
+                            <span class="agency">Cruz Roja Venezolana</span>
+                            <a href="tel:02125714522" class="phone-link"><i class="fa-solid fa-phone"></i> 0212-571-4522</a>
+                        </li>
+                        <li>
+                            <span class="agency">Cuerpo de Bomberos de Caracas</span>
+                            <a href="tel:02125422444" class="phone-link"><i class="fa-solid fa-phone"></i> 0212-542-2444</a>
+                        </li>
+                    </ul>
+                </div>
+                
+                <!-- International Help Entities -->
+                <div class="resources-card">
+                    <h3>Entidades de Ayuda Internacional</h3>
+                    <ul class="emergency-list">
+                        <li>
+                            <span class="agency">Coordinación de Asuntos Humanitarios (OCHA ONU)</span>
+                            <span class="agency-detail"><i class="fa-solid fa-globe"></i> unocha.org/venezuela</span>
+                        </li>
+                        <li>
+                            <span class="agency">Cruz Roja Internacional (Búsqueda de Contacto)</span>
+                            <span class="agency-detail"><i class="fa-solid fa-hospital-user"></i> familylinks.icrc.org</span>
+                        </li>
+                        <li>
+                            <span class="agency">Cascos Blancos (Ayuda Humanitaria)</span>
+                            <span class="agency-detail"><i class="fa-solid fa-users-gear"></i> cascosblancos.gov.ar</span>
+                        </li>
+                        <li>
+                            <span class="agency">Médicos Sin Fronteras (MSF Venezuela)</span>
+                            <a href="tel:+582122849495" class="phone-link"><i class="fa-solid fa-phone"></i> 0212-284-9495</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+        <div class="container footer-content">
+            <p><strong>Venezuela Te Busca · Iniciativa solidaria · Terremoto 2026</strong></p>
+            <p class="footer-disclaimer">
+                Esta plataforma es gratuita y sin fines de lucro. Los datos publicados son responsabilidad exclusiva de quien los envía. Esta plataforma no verifica la información ni se hace responsable por el uso que terceros hagan de ella. Al registrar una persona o marcarla como encontrada, confirmas que tienes información directa sobre su situación.
+            </p>
+            <div class="footer-emergencies">
+                Emergencias: 911 (Movistar) · 112 (Digitel) · *1 (Movilnet) · 171 (Cantv fijo)
+            </div>
+            <div class="footer-links">
+                <a href="#" class="footer-link" id="btn-open-privacy">Política de Privacidad y Descargo de Responsabilidad</a>
+            </div>
+            <p class="footer-credit">Esta web humanitaria es un aporte de la gente de <strong>SYNTHETIC DIGITAL LAB</strong></p>
+        </div>
+    </footer>
+
+    <!-- Register Modal -->
+    <div class="modal-overlay hidden" id="modal-register">
+        <div class="modal-container">
+            <div class="modal-header">
+                <h2><i class="fa-solid fa-user-plus text-red"></i> Registrar Persona Desaparecida</h2>
+                <button class="btn-close-modal" id="btn-close-register"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            
+            <!-- Privacy notice inside modal -->
+            <div class="modal-privacy-alert">
+                <i class="fa-solid fa-shield-halved privacy-icon"></i>
+                <p><strong>Aviso Importante:</strong> Esta plataforma es humanitaria. <span class="highlight">NO solicite ni ingrese Cédulas de Identidad, números de pasaporte o licencias de conducir</span> por motivos de seguridad de los datos de su familiar.</p>
+            </div>
+
+            <form id="register-form" class="modal-body">
+                
+                <!-- Layout with photo uploader left/right and validation guidelines -->
+                <div class="photo-section-wrapper">
+                    <!-- Photo Upload Section -->
+                    <div class="form-group photo-upload-group">
+                        <label>Fotografía de la Persona <span class="required">*</span></label>
+                        <div class="photo-drag-area" id="photo-drag-area">
+                            <input type="file" id="photo-input" accept="image/*" hidden>
+                            
+                            <!-- Uploading/Scanning animation states -->
+                            <div class="photo-scanning-overlay hidden" id="photo-scanning-overlay">
+                                <i class="fa-solid fa-circle-notch fa-spin scan-spinner"></i>
+                                <p id="scan-status-text">Analizando imagen con IA de Moderación...</p>
+                            </div>
+
+                            <div class="upload-placeholder" id="upload-placeholder">
+                                <i class="fa-regular fa-image text-blue"></i>
+                                <p>Arrastra la foto aquí o <span>haz clic para subir</span></p>
+                                <small>Formatos aceptados: JPG, PNG. Tamaño máx. 5MB</small>
+                            </div>
+                            <div class="photo-preview-container hidden" id="photo-preview-container">
+                                <img src="" alt="Vista previa" id="photo-preview">
+                                <button type="button" class="btn-remove-photo" id="btn-remove-photo">
+                                    <i class="fa-solid fa-trash-can"></i> Quitar Foto
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <!-- Moderation scan alerts -->
+                        <div class="scan-alert hidden" id="scan-alert-box">
+                            <i id="scan-alert-icon" class="fa-solid"></i>
+                            <span id="scan-alert-message"></span>
+                        </div>
+                    </div>
+
+                    <!-- Photo Guidelines Panel (Anti-abuse) -->
+                    <div class="photo-guidelines-panel">
+                        <h4><i class="fa-solid fa-circle-info text-blue"></i> Reglas de la Fotografía</h4>
+                        <ul class="guidelines-list">
+                            <li><i class="fa-solid fa-check text-green"></i> <strong>Formato:</strong> Subir foto de rostro tipo carné o medio cuerpo de frente.</li>
+                            <li><i class="fa-solid fa-xmark text-red"></i> <strong>Sin heridas/Gore:</strong> No se permiten imágenes de personas ensangrentadas, heridas explícitas o fallecidos expuestos.</li>
+                            <li><i class="fa-solid fa-xmark text-red"></i> <strong>Filtro de Contenido:</strong> No subir contenido obsceno, erótico, partes íntimas ni de carácter no-humano.</li>
+                            <li><i class="fa-solid fa-triangle-exclamation text-yellow"></i> <strong>Bloqueo Activo:</strong> Nuestro sistema analiza la imagen en tiempo real. Subidas indebidas serán bloqueadas y reportadas.</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Form Fields Grid -->
+                <div class="fields-grid">
+                    <div class="form-group">
+                        <label for="reg-name">Nombre Completo <span class="required">*</span></label>
+                        <input type="text" id="reg-name" required placeholder="Nombre y Apellidos">
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-age">Edad <span class="required">*</span></label>
+                        <input type="number" id="reg-age" required placeholder="Ej: 34" min="0" max="120">
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-gender">Género <span class="required">*</span></label>
+                        <select id="reg-gender" required>
+                            <option value="">Selecciona...</option>
+                            <option value="Femenino">Femenino</option>
+                            <option value="Masculino">Masculino</option>
+                            <option value="Otro">Otro</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-status">Estatus Actual <span class="required">*</span></label>
+                        <select id="reg-status" required>
+                            <option value="Desaparecido" selected>Desaparecido</option>
+                            <option value="Hospitalizado">Hospitalizado</option>
+                            <option value="Localizado a Salvo">Localizado a Salvo</option>
+                            <option value="Fallecido">Fallecido</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-state">Estado (Venezuela) <span class="required">*</span></label>
+                        <select id="reg-state" required>
+                            <option value="">Selecciona Estado...</option>
+                            <option value="Amazonas">Amazonas</option>
+                            <option value="Anzoátegui">Anzoátegui</option>
+                            <option value="Apure">Apure</option>
+                            <option value="Aragua">Aragua</option>
+                            <option value="Barinas">Barinas</option>
+                            <option value="Bolívar">Bolívar</option>
+                            <option value="Carabobo">Carabobo</option>
+                            <option value="Cojedes">Cojedes</option>
+                            <option value="Delta Amacuro">Delta Amacuro</option>
+                            <option value="Distrito Capital">Distrito Capital</option>
+                            <option value="Falcón">Falcón</option>
+                            <option value="Guárico">Guárico</option>
+                            <option value="Lara">Lara</option>
+                            <option value="Mérida">Mérida</option>
+                            <option value="Miranda">Miranda</option>
+                            <option value="Monagas">Monagas</option>
+                            <option value="Nueva Esparta">Nueva Esparta</option>
+                            <option value="Portuguesa">Portuguesa</option>
+                            <option value="Sucre">Sucre</option>
+                            <option value="Táchira">Táchira</option>
+                            <option value="Trujillo">Trujillo</option>
+                            <option value="Vargas / La Guaira">Vargas / La Guaira</option>
+                            <option value="Yaracuy">Yaracuy</option>
+                            <option value="Zulia">Zulia</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-city">Ciudad / Municipio <span class="required">*</span></label>
+                        <input type="text" id="reg-city" required placeholder="Ej: Cumaná o Sucre">
+                    </div>
+                    <div class="form-group full-width">
+                        <label for="reg-address">Última Dirección Vista <span class="required">*</span></label>
+                        <input type="text" id="reg-address" required placeholder="Ej: Av. Bermúdez, cerca del Hospital Central">
+                    </div>
+                    <div class="form-group full-width">
+                        <label for="reg-description">Señas Particulares / Descripción</label>
+                        <textarea id="reg-description" rows="3" placeholder="Vestimenta, cicatrices, tatuajes, condiciones médicas especiales o necesidades..."></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-contact-name">Nombre del Familiar de Contacto <span class="required">*</span></label>
+                        <input type="text" id="reg-contact-name" required placeholder="Nombre del familiar o amigo">
+                    </div>
+                    <div class="form-group">
+                        <label for="reg-contact-phone">Teléfono de Contacto (WhatsApp) <span class="required">*</span></label>
+                        <input type="tel" id="reg-contact-phone" required placeholder="Ej: +58 412 1234567">
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="btn-cancel-register">Cancelar</button>
+                    <button type="submit" class="btn btn-primary" id="btn-submit-registration">Registrar Persona</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Privacy Policy Modal -->
+    <div class="modal-overlay hidden" id="modal-privacy">
+        <div class="modal-container" style="max-width: 600px;">
+            <div class="modal-header">
+                <h3>Políticas y Descargo de Responsabilidad</h3>
+                <button type="button" class="btn-close" id="btn-close-privacy" style="background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--text-muted);">&times;</button>
+            </div>
+            <div class="modal-body" style="line-height: 1.7; font-size: 0.9rem; max-height: 70vh; overflow-y: auto; padding: 20px;">
+                <p style="margin-bottom: 15px;"><strong>Venezuela Te Busca · Iniciativa solidaria · Terremoto 2026</strong></p>
+                <p style="margin-bottom: 15px;">Esta plataforma es gratuita y sin fines de lucro. Es una iniciativa civil creada como un canal de apoyo para facilitar el encuentro de familiares tras los terremotos.</p>
+                <p style="margin-bottom: 15px;"><strong>Descargo de Responsabilidad:</strong> Los datos publicados son responsabilidad exclusiva de quien los envía. Esta plataforma no verifica la información ni se hace responsable por el uso que terceros hagan de ella. Al registrar una persona o marcarla como encontrada, confirmas que tienes información directa sobre su situación.</p>
+                <div class="footer-emergencies" style="display: block; text-align: center; margin-top: 20px;">
+                    Emergencias: 911 (Movistar) · 112 (Digitel) · *1 (Movilnet) · 171 (Cantv fijo)
+                </div>
+                <p style="margin-top: 20px; font-size: 0.75rem; text-align: center; color: #64748b;">Esta web humanitaria es un aporte de la gente de <strong>SYNTHETIC DIGITAL LAB</strong></p>
+            </div>
+            <div class="modal-footer" style="padding: 15px 20px; border-top: 1px solid var(--border-color); display: flex; justify-content: flex-end;">
+                <button type="button" class="btn btn-primary" onclick="document.getElementById('modal-privacy').classList.add('hidden'); document.body.style.overflow = '';">Entendido</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Update Photo Modal -->
+    <div class="modal-overlay hidden" id="modal-update-photo">
+        <div class="modal-container" style="max-width: 500px;">
+            <div class="modal-header">
+                <h3 id="update-photo-title">Subir Foto Real</h3>
+                <button type="button" class="btn-close" id="btn-close-update-photo" style="background: none; border: none; font-size: 1.5rem; cursor: pointer; color: var(--text-muted);">&times;</button>
+            </div>
+            <form id="update-photo-form">
+                <input type="hidden" id="update-photo-person-id">
+                <input type="file" id="update-photo-input" class="hidden" accept="image/*">
+                <div class="modal-body">
+                    <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 15px;">
+                        Por favor sube una foto real y legible de la persona desaparecida. La imagen pasará por verificación automática antes de ser publicada.
+                    </p>
+                    <div class="photo-upload-area" id="update-photo-drag-area">
+                        <div class="upload-placeholder" id="update-upload-placeholder">
+                            <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
+                            <span class="upload-text">Arrastra una imagen aquí o haz clic para buscar</span>
+                            <span class="upload-hint">Formatos soportados: JPG, PNG. Máx 5MB</span>
+                        </div>
+                        <div class="photo-preview-container hidden" id="update-photo-preview-container">
+                            <img src="" alt="Vista previa" id="update-photo-preview" class="photo-preview-img">
+                            <button type="button" class="btn-remove-photo" id="btn-remove-update-photo">&times;</button>
+                        </div>
+                        <div class="scanning-overlay hidden" id="update-photo-scanning-overlay">
+                            <div class="scanner-line"></div>
+                            <span class="scan-status" id="update-scan-status-text">Escaneando imagen con IA...</span>
+                        </div>
+                    </div>
+                    
+                    <div class="scan-alert-box hidden" id="update-scan-alert-box">
+                        <i id="update-scan-alert-icon"></i>
+                        <span id="update-scan-alert-message"></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" id="btn-cancel-update-photo">Cancelar</button>
+                    <button type="submit" class="btn btn-primary" id="btn-submit-update-photo">Guardar Foto</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Offscreen Poster Element (Vertical 9:16 optimized for Social Media sharing with QR code) -->
+    <div class="offscreen-poster-container" id="offscreen-poster">
+        <div class="poster-card">
+            <!-- Venezuela flag banner at the top of the poster -->
+            <div class="poster-flag">
+                <span class="stripe-yellow"></span>
+                <span class="stripe-blue"></span>
+                <span class="stripe-red"></span>
+            </div>
+            
+            <div class="poster-header">
+                <h1 id="poster-main-title">SE BUSCA</h1>
+                <p class="poster-sub">EMERGENCIA SISMO VENEZUELA 2026</p>
+            </div>
+            
+            <div class="poster-photo-wrapper">
+                <img src="" alt="Familiar" id="poster-photo">
+            </div>
+
+            <div class="poster-details">
+                <h2 id="poster-name">NOMBRE COMPLETO</h2>
+                <div class="poster-badges">
+                    <span class="poster-badge badge-age" id="poster-age">00 años</span>
+                    <span class="poster-badge badge-gender" id="poster-gender">Género</span>
+                </div>
+                
+                <div class="poster-info-list">
+                    <div class="poster-info-item">
+                        <span class="item-label">Estado/Ciudad:</span>
+                        <span class="item-value" id="poster-location">Estado, Ciudad</span>
+                    </div>
+                    <div class="poster-info-item">
+                        <span class="item-label">Último contacto:</span>
+                        <span class="item-value" id="poster-address">Última Dirección</span>
+                    </div>
+                    <div class="poster-info-item desc-item">
+                        <span class="item-label">Señas / Detalles:</span>
+                        <p class="item-value-desc" id="poster-description">Descripción de señas particulares...</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact Panel and QR Code Section -->
+            <div class="poster-contact-grid">
+                <div class="poster-contact-panel">
+                    <div class="contact-title">¿TIENES INFORMACIÓN? CONTACTAR A:</div>
+                    <div class="contact-phone" id="poster-phone">+58 000-0000000</div>
+                    <div class="contact-name" id="poster-contact-name">Contacto: Nombre del Familiar</div>
+                </div>
+                
+                <!-- QR Code points back to the website -->
+                <div class="poster-qrcode-panel">
+                    <div class="qrcode-wrapper">
+                        <img src="" alt="Escanear QR" id="poster-qr">
+                    </div>
+                    <span class="qrcode-label">Escanea para dar información</span>
+                </div>
+            </div>
+
+            <div class="poster-footer">
+                <p>Portal Oficial: <strong>RESCATE VENEZUELA 2026</strong> (rescatevenezuela2026.org)</p>
+                <p>#RescateVenezuela2026 #SismoVenezuela #ServicioPublico</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Html2Canvas Script CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    
+    <!-- Mobile Bottom Tab Bar (100% Native App Feel) -->
+    <div class="mobile-bottom-nav">
+        <button class="nav-item active" id="mobile-tab-with-photos">
+            <i class="fa-solid fa-image"></i>
+            <span>Con Foto</span>
+        </button>
+        <button class="nav-item" id="mobile-tab-without-photos">
+            <i class="fa-solid fa-image-slash"></i>
+            <span>Sin Foto</span>
+        </button>
+        <button class="nav-item" id="mobile-tab-register">
+            <i class="fa-solid fa-circle-plus" style="font-size: 1.35rem; color: #2563eb;"></i>
+            <span>Registrar</span>
+        </button>
+        <button class="nav-item" id="mobile-tab-chat">
+            <i class="fa-solid fa-comments"></i>
+            <span>Foro 24/7</span>
+        </button>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/base64_images.js?v=1.0.5"></script>
+    <script src="js/generator.js?v=1.0.5"></script>
+    <script src="js/app.js?v=1.0.5"></script>
+</body>
+</html>
