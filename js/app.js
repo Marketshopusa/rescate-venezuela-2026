@@ -19,24 +19,24 @@ let appState = {
     visibleCount: 24              // Paginación progresiva
 };
 
-// Datos semilla iniciales (Mock Data) con 1 Ejemplo y 6 Casos Reales del Terremoto
+// Configuración de Google Sheets para actualizaciones en vivo (CSV)
+// El usuario debe crear un Google Sheet, publicarlo en la web como CSV e ingresar aquí las URLs
+const GOOGLE_SHEET_CONFIG = {
+    statsUrl: '',   // URL del CSV de estadísticas
+    reportsUrl: ''  // URL del CSV de reportes oficiales para el foro
+};
+
+// Estado adicional para almacenar contadores externos desde Google Sheets
+let externalStats = {
+    total: null,
+    missing: null,
+    hospitalized: null,
+    safe: null,
+    deceased: null
+};
+
+// Datos semilla iniciales (Mock Data) con Casos Reales del Terremoto
 const SEED_DATA = [
-    {
-        id: "seed-example",
-        name: "EJEMPLO: Juan Pérez",
-        age: 30,
-        gender: "Masculino",
-        status: "Desaparecido",
-        state: "Distrito Capital",
-        city: "Caracas",
-        address: "Av. Universidad, cerca de la estación del metro",
-        description: "Esta es una tarjeta de demostración. Muestra cómo se presenta la información física, el estatus de búsqueda y los datos del contacto del familiar.",
-        contactName: "Familiar de Ejemplo (Demostración)",
-        contactPhone: "+58 412-0000000",
-        photo: BASE64_PORTRAIT_CARLOS, // Imagen de muestra
-        isExample: true,
-        createdAt: new Date().toISOString()
-    },
     {
         id: "scraped-1",
         name: "LEOPOLDO PESTANA",
@@ -889,6 +889,10 @@ document.addEventListener('DOMContentLoaded', () => {
     initData().then(() => {
         renderStats();
         renderCards();
+        
+        // Sincronización inicial y bucle de consulta cada 5 minutos
+        fetchExternalUpdates();
+        setInterval(fetchExternalUpdates, 5 * 60 * 1000);
     });
 });
 
@@ -928,6 +932,117 @@ function mapLocationToState(loc) {
         return "Lara";
     }
     return "Vargas / La Guaira";
+}
+
+// Parser de CSV simple y robusto que tolera comillas e incluye celdas complejas
+function parseCSVLine(line) {
+    let result = [];
+    let insideQuotes = false;
+    let entry = '';
+    
+    for (let i = 0; i < line.length; i++) {
+        let char = line[i];
+        if (char === '"') {
+            insideQuotes = !insideQuotes;
+        } else if (char === ',' && !insideQuotes) {
+            result.push(entry.trim());
+            entry = '';
+        } else {
+            entry += char;
+        }
+    }
+    result.push(entry.trim());
+    return result;
+}
+
+// Consulta asíncrona de estadísticas y reportes oficiales desde Google Sheets
+async function fetchExternalUpdates() {
+    // 1. Sincronizar estadísticas desde Google Sheet
+    if (GOOGLE_SHEET_CONFIG.statsUrl) {
+        try {
+            const response = await fetch(GOOGLE_SHEET_CONFIG.statsUrl);
+            if (response.ok) {
+                const csvText = await response.text();
+                const lines = csvText.split(/\r?\n/);
+                
+                lines.forEach((line, idx) => {
+                    if (idx === 0 || !line.trim()) return; // Ignorar cabecera
+                    const cols = parseCSVLine(line);
+                    if (cols.length >= 2) {
+                        const category = cols[0].toLowerCase().trim();
+                        const val = parseInt(cols[1]);
+                        if (!isNaN(val)) {
+                            if (category.includes('total')) externalStats.total = val;
+                            else if (category.includes('busqueda') || category.includes('desaparecido') || category.includes('búsqueda')) externalStats.missing = val;
+                            else if (category.includes('hospitalizado')) externalStats.hospitalized = val;
+                            else if (category.includes('localizado') || category.includes('salvo')) externalStats.safe = val;
+                            else if (category.includes('fallecido') || category.includes('muerto')) externalStats.deceased = val;
+                        }
+                    }
+                });
+                console.log("Estadísticas externas cargadas desde Google Sheets:", externalStats);
+                renderStats();
+            }
+        } catch(e) {
+            console.error("Error al cargar estadísticas externas desde Google Sheets:", e);
+        }
+    }
+
+    // 2. Sincronizar reportes oficiales en vivo al foro
+    if (GOOGLE_SHEET_CONFIG.reportsUrl) {
+        try {
+            const response = await fetch(GOOGLE_SHEET_CONFIG.reportsUrl);
+            if (response.ok) {
+                const csvText = await response.text();
+                const lines = csvText.split(/\r?\n/);
+                
+                let newReports = [];
+                lines.forEach((line, idx) => {
+                    if (idx === 0 || !line.trim()) return; // Ignorar cabecera
+                    const cols = parseCSVLine(line);
+                    if (cols.length >= 2 && cols[1].trim()) {
+                        const timeStr = cols[0] || 'Hace poco';
+                        const message = cols[1];
+                        const link = cols[2] || '';
+                        
+                        // Generar ID único usando hash simple del mensaje para evitar duplicidad
+                        const msgId = 'report-' + btoa(unescape(encodeURIComponent(message.slice(0, 40)))).replace(/=/g, '');
+                        
+                        newReports.push({
+                            id: msgId,
+                            username: "📢 Reporte Oficial de Emergencia",
+                            message: message,
+                            role: "Oficial",
+                            time: timeStr,
+                            link: link
+                        });
+                    }
+                });
+
+                if (newReports.length > 0) {
+                    let chatIds = new Set(appState.chatMessages.map(m => m.id));
+                    let updated = false;
+                    
+                    newReports.forEach(rep => {
+                        if (!chatIds.has(rep.id)) {
+                            appState.chatMessages.push(rep);
+                            chatIds.add(rep.id);
+                            updated = true;
+                        }
+                    });
+                    
+                    if (updated) {
+                        if (appState.chatMessages.length > 30) {
+                            appState.chatMessages = appState.chatMessages.slice(-30);
+                        }
+                        renderChat();
+                    }
+                }
+            }
+        } catch(e) {
+            console.error("Error al cargar reportes oficiales desde Google Sheets:", e);
+        }
+    }
 }
 
 function mapItemToStateFormat(item) {
@@ -1601,11 +1716,11 @@ function updateActiveStatCard() {
 
 // Render stats
 function renderStats() {
-    const total = appState.persons.length;
-    const missing = appState.persons.filter(p => p.status === 'Desaparecido').length;
-    const hospitalized = appState.persons.filter(p => p.status === 'Hospitalizado').length;
-    const safe = appState.persons.filter(p => p.status === 'Localizado a Salvo').length;
-    const deceased = appState.persons.filter(p => p.status === 'Fallecido').length;
+    const total = externalStats.total !== null ? externalStats.total : appState.persons.length;
+    const missing = externalStats.missing !== null ? externalStats.missing : appState.persons.filter(p => p.status === 'Desaparecido').length;
+    const hospitalized = externalStats.hospitalized !== null ? externalStats.hospitalized : appState.persons.filter(p => p.status === 'Hospitalizado').length;
+    const safe = externalStats.safe !== null ? externalStats.safe : appState.persons.filter(p => p.status === 'Localizado a Salvo').length;
+    const deceased = externalStats.deceased !== null ? externalStats.deceased : appState.persons.filter(p => p.status === 'Fallecido').length;
 
     document.getElementById('stat-total-val').innerText = total;
     document.getElementById('stat-missing-val').innerText = missing;
@@ -1616,6 +1731,7 @@ function renderStats() {
     
     updateActiveStatCard();
 }
+
 
 // Render cards
 function renderCards() {
@@ -1785,22 +1901,38 @@ function renderChat() {
 
     appState.chatMessages.forEach(msg => {
         const item = document.createElement('div');
-        item.className = 'chat-message-item';
         
-        const initial = msg.username.charAt(0).toUpperCase();
-
+        let avatarContent = msg.username.charAt(0).toUpperCase();
+        let avatarClass = 'chat-avatar';
         let badgeHTML = '';
         let badgeClass = '';
-        if (msg.role === 'Moderador') badgeClass = 'badge-mod';
-        if (msg.role === 'Rescatista') badgeClass = 'badge-rescuer';
-        if (msg.role === 'Familiar') badgeClass = 'badge-family';
+        let itemClass = 'chat-message-item';
+        let linkHTML = '';
+
+        if (msg.role === 'Moderador') {
+            badgeClass = 'badge-mod';
+        } else if (msg.role === 'Rescatista') {
+            badgeClass = 'badge-rescuer';
+        } else if (msg.role === 'Familiar') {
+            badgeClass = 'badge-family';
+        } else if (msg.role === 'Oficial') {
+            badgeClass = 'badge-official';
+            itemClass = 'chat-message-item official';
+            avatarClass = 'chat-avatar official-avatar';
+            avatarContent = '<i class="fa-solid fa-bullhorn"></i>';
+            if (msg.link && msg.link.trim()) {
+                linkHTML = `<a href="${msg.link.trim()}" target="_blank" class="chat-official-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Ver Fuente Oficial</a>`;
+            }
+        }
+
+        item.className = itemClass;
 
         if (msg.role) {
             badgeHTML = `<span class="chat-user-badge ${badgeClass}">${msg.role}</span>`;
         }
 
         item.innerHTML = `
-            <div class="chat-avatar">${initial}</div>
+            <div class="${avatarClass}">${avatarContent}</div>
             <div class="chat-msg-body">
                 <div class="chat-msg-header">
                     <div>
@@ -1810,6 +1942,7 @@ function renderChat() {
                     <span class="chat-msg-time">${msg.time || 'Ahora'}</span>
                 </div>
                 <p class="chat-msg-text">${msg.message}</p>
+                ${linkHTML}
             </div>
         `;
         container.appendChild(item);
@@ -1817,6 +1950,7 @@ function renderChat() {
 
     container.scrollTop = container.scrollHeight;
 }
+
 
 // Live simulation
 function startLiveSimulation() {

@@ -806,6 +806,45 @@ body {
     word-break: break-word;
 }
 
+/* Estilos para Mensajes Oficiales (Boletines desde Google Sheets) */
+.chat-message-item.official {
+    background-color: #fdf2f8; /* Un rosa/rojo muy suave para destacar */
+    border: 1.5px solid #fbcfe8;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.chat-message-item.official .chat-msg-body {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+}
+
+.chat-avatar.official-avatar {
+    background-color: #db2777; /* Rosa oscuro/fucsia corporativo */
+    color: white;
+    border-color: #db2777;
+}
+
+.badge-official {
+    background-color: #db2777;
+    color: white;
+}
+
+.chat-official-link {
+    display: inline-block;
+    margin-top: 6px;
+    color: #2563eb;
+    font-weight: 700;
+    font-size: 0.78rem;
+    text-decoration: underline;
+}
+
+.chat-official-link:hover {
+    color: #1d4ed8;
+}
+
+
 .chat-form {
     border-top: 1px solid var(--border-color);
     padding-top: 12px;
