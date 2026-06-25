@@ -1082,7 +1082,23 @@ async function loadFullDatabaseInBackground(userEntries) {
         if (response.ok) {
             const data = await response.json();
             const items = data.items || [];
-            const apiEntries = items.map(mapItemToStateFormat);
+            
+            // Descomprimir de formato lista de listas si es necesario
+            let parsedItems = [];
+            if (data.keys && items.length > 0 && Array.isArray(items[0])) {
+                const keys = data.keys;
+                parsedItems = items.map(row => {
+                    let obj = {};
+                    keys.forEach((k, idx) => {
+                        obj[k] = row[idx];
+                    });
+                    return obj;
+                });
+            } else {
+                parsedItems = items;
+            }
+            
+            const apiEntries = parsedItems.map(mapItemToStateFormat);
             
             // Combinar y deduplicar manteniendo prioridad para registros locales
             const merged = [...userEntries];
@@ -1143,7 +1159,22 @@ async function initData() {
         if (response.ok) {
             const data = await response.json();
             const items = data.items || [];
-            apiEntries = items.map(mapItemToStateFormat);
+            
+            let parsedItems = [];
+            if (data.keys && items.length > 0 && Array.isArray(items[0])) {
+                const keys = data.keys;
+                parsedItems = items.map(row => {
+                    let obj = {};
+                    keys.forEach((k, idx) => {
+                        obj[k] = row[idx];
+                    });
+                    return obj;
+                });
+            } else {
+                parsedItems = items;
+            }
+            
+            apiEntries = parsedItems.map(mapItemToStateFormat);
             console.log(`Cargada base de datos instantánea (Mini): ${apiEntries.length} registros.`);
         } else {
             apiEntries = SEED_DATA.filter(p => !p.isExample);

@@ -82,24 +82,35 @@ while page <= total_pages:
 
 # 4. Save and overwrite files ONLY if we successfully fetched the entire database
 if len(all_items) >= live_count * 0.95:  # tolerance threshold of 95%
-    # Save all database
-    all_data = {
-        "items": all_items,
-        "total": len(all_items)
-    }
-    with open(all_json_path, "w", encoding="utf-8") as f:
-        json.dump(all_data, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(all_items)} records to scraped_persons_all.json")
+    keys = ['id', 'nombre', 'edad', 'ubicacion', 'descripcion', 'contacto', 'foto', 'estado', 'createdAt']
     
-    # Save mini database (first 200 items)
-    mini_items = all_items[:200]
-    mini_data = {
-        "items": mini_items,
-        "total": len(mini_items)
+    # Compress all items to list of lists format
+    compressed_all = [[x.get(k) for k in keys] for x in all_items]
+    all_data = {
+        "keys": keys,
+        "items": compressed_all,
+        "total": len(compressed_all)
     }
+    
+    # Save all database without indentation to minimize size
+    with open(all_json_path, "w", encoding="utf-8") as f:
+        json.dump(all_data, f, ensure_ascii=False)
+    print(f"Saved {len(all_items)} records (compressed) to scraped_persons_all.json")
+    
+    # Compress mini items (first 200)
+    mini_items = all_items[:200]
+    compressed_mini = [[x.get(k) for k in keys] for x in mini_items]
+    mini_data = {
+        "keys": keys,
+        "items": compressed_mini,
+        "total": len(compressed_mini)
+    }
+    
+    # Save mini database
     with open(mini_json_path, "w", encoding="utf-8") as f:
-        json.dump(mini_data, f, ensure_ascii=False, indent=2)
-    print(f"Saved {len(mini_items)} records to scraped_persons_mini.json")
+        json.dump(mini_data, f, ensure_ascii=False)
+    print(f"Saved {len(mini_items)} records (compressed) to scraped_persons_mini.json")
 else:
     print(f"Verification failed: expected {live_count} records, but only fetched {len(all_items)}. Database was not overwritten to protect integrity.")
     exit(1)
+
