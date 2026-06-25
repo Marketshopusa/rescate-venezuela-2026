@@ -1,0 +1,38 @@
+name: Sincronización Automática de Desaparecidos
+
+on:
+  schedule:
+    # Se ejecuta cada 6 horas (puedes cambiarlo si deseas más o menos frecuencia)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Permite ejecutar la sincronización manualmente con un botón en GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Clonar Repositorio
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Ejecutar Script de Sincronización
+      run: |
+        python js/sync_persons.py
+
+    - name: Subir Cambios a GitHub si hay Actualizaciones
+      run: |
+        git config --global user.name "Marketshopusa Autocommit"
+        git config --global user.email "marketshopusa-bot@github.com"
+        git add scraped_persons_all.json scraped_persons_mini.json
+        # Solo hacer commit si hay cambios detectados
+        if git diff --staged --quiet; then
+          echo "No hay nuevos registros. Todo al día."
+        else
+          git commit -m "Autosync: Actualización automática de desaparecidos y cifras oficiales"
+          git push
+        fi
