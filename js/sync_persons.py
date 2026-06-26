@@ -3,7 +3,8 @@ import json
 import time
 import os
 
-project_dir = r"C:\Users\synth\.gemini\antigravity\scratch\rescate-venezuela-2026"
+script_dir = os.path.dirname(os.path.abspath(__file__))
+project_dir = os.path.dirname(script_dir)
 all_json_path = os.path.join(project_dir, "scraped_persons_all.json")
 mini_json_path = os.path.join(project_dir, "scraped_persons_mini.json")
 
