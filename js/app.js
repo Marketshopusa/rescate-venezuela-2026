@@ -955,9 +955,69 @@ function parseCSVLine(line) {
     return result;
 }
 
-// Consulta asíncrona de estadísticas y reportes oficiales desde Google Sheets
+// Consulta asíncrona de estadísticas y reportes oficiales desde archivo local de control (official_data.json) y Google Sheets
 async function fetchExternalUpdates() {
-    // 1. Sincronizar estadísticas desde Google Sheet
+    // 1. Sincronizar estadísticas y reportes desde el archivo local de control (official_data.json)
+    try {
+        const response = await fetch('official_data.json?v=' + Date.now());
+        if (response.ok) {
+            const data = await response.json();
+            
+            // Cargar estadísticas oficiales
+            if (data.stats) {
+                if (data.stats.total !== undefined) externalStats.total = data.stats.total;
+                if (data.stats.missing !== undefined) externalStats.missing = data.stats.missing;
+                if (data.stats.hospitalized !== undefined) externalStats.hospitalized = data.stats.hospitalized;
+                if (data.stats.safe !== undefined) externalStats.safe = data.stats.safe;
+                if (data.stats.deceased !== undefined) externalStats.deceased = data.stats.deceased;
+                
+                console.log("Estadísticas externas cargadas desde official_data.json:", externalStats);
+                renderStats();
+            }
+
+            // Cargar reportes oficiales para el chat
+            if (data.reports && Array.isArray(data.reports)) {
+                let newReports = [];
+                data.reports.forEach(rep => {
+                    if (rep.message) {
+                        const msgId = 'report-' + btoa(unescape(encodeURIComponent(rep.message.slice(0, 40)))).replace(/=/g, '');
+                        newReports.push({
+                            id: msgId,
+                            username: "📢 Reporte Oficial de Emergencia",
+                            message: rep.message,
+                            role: "Oficial",
+                            time: rep.time || 'Hace poco',
+                            link: rep.link || ''
+                        });
+                    }
+                });
+
+                if (newReports.length > 0) {
+                    let chatIds = new Set(appState.chatMessages.map(m => m.id));
+                    let updated = false;
+                    
+                    newReports.forEach(rep => {
+                        if (!chatIds.has(rep.id)) {
+                            appState.chatMessages.push(rep);
+                            chatIds.add(rep.id);
+                            updated = true;
+                        }
+                    });
+                    
+                    if (updated) {
+                        if (appState.chatMessages.length > 35) {
+                            appState.chatMessages = appState.chatMessages.slice(-35);
+                        }
+                        renderChat();
+                    }
+                }
+            }
+        }
+    } catch(e) {
+        console.warn("No se pudo cargar el archivo local de control official_data.json:", e);
+    }
+
+    // 2. Sincronizar estadísticas desde Google Sheet (opcional, sobreescribe las locales)
     if (GOOGLE_SHEET_CONFIG.statsUrl) {
         try {
             const response = await fetch(GOOGLE_SHEET_CONFIG.statsUrl);
@@ -1987,6 +2047,9 @@ function renderChat() {
 function startLiveSimulation() {
     const usersCountEl = document.getElementById('online-users-count');
 
+    // Consultar actualizaciones de estadísticas y reportes oficiales cada 10 segundos
+    setInterval(fetchExternalUpdates, 10000);
+
     setInterval(() => {
         const baseUsers = 135;
         const variation = Math.floor(Math.random() * 21) - 10;
@@ -1995,9 +2058,8 @@ function startLiveSimulation() {
 
     let mockIndex = 0;
     setInterval(() => {
-        if (mockIndex >= MOCK_LIVE_MESSAGES.length) return;
-        
-        const mockData = MOCK_LIVE_MESSAGES[mockIndex];
+        if (MOCK_LIVE_MESSAGES.length === 0) return;
+        const mockData = MOCK_LIVE_MESSAGES[mockIndex % MOCK_LIVE_MESSAGES.length];
         const newMsg = {
             id: 'chat-mock-' + Date.now(),
             username: mockData.username,

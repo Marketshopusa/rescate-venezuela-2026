@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "total": 50109,
+    "missing": 44697,
+    "hospitalized": 134,
+    "safe": 5412,
+    "deceased": 92
+  },
+  "reports": [
+    {
+      "time": "18:15",
+      "message": "📢 Protección Civil confirma que los equipos de rescate continúan desplegados en las zonas afectadas de La Guaira y Cumaná.",
+      "link": "https://x.com/PCVeOficial"
+    },
+    {
+      "time": "18:30",
+      "message": "📢 Ministerio de Salud habilita línea telefónica de atención psicológica gratuita para familiares de las víctimas.",
+      "link": "https://x.com/MinSaludVE"
+    }
+  ]
+}
