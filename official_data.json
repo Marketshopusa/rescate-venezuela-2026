@@ -1,21 +1,61 @@
 {
   "stats": {
-    "total": 50109,
-    "missing": 44697,
-    "hospitalized": 134,
-    "safe": 5412,
-    "deceased": 92
+    "total": 56637,
+    "missing": 37763,
+    "hospitalized": 1520,
+    "safe": 18874,
+    "deceased": 188
   },
   "reports": [
     {
-      "time": "18:15",
-      "message": "📢 Protección Civil confirma que los equipos de rescate continúan desplegados en las zonas afectadas de La Guaira y Cumaná.",
-      "link": "https://x.com/PCVeOficial"
+      "time": "BBC",
+      "message": "Al menos 188 muertos y más de 1.500 heridos por un potente terremoto doble en Venezuela; buscan sobrevivientes entre los escombros",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xM3BCR1lhbFBOcXFSWDZWOWFyaXE2dU9EOTl2cFdqOS1hRUl3UFJvZ0JwaVlJQk1fVWZfLXdGM2dQWGJRNTl1VDNfSS1ZRVp5Y3lXaDFn?oc=5"
     },
     {
-      "time": "18:30",
-      "message": "📢 Ministerio de Salud habilita línea telefónica de atención psicológica gratuita para familiares de las víctimas.",
-      "link": "https://x.com/MinSaludVE"
+      "time": "facebook.com",
+      "message": "🚨ÚLTIMA HORA: terremoto sacude Venezuela👉 https://bbc.in/4g0cBRx",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUs5UzRJRFJ6N1FxZUVjODU1U1F4dDBxcGZCcl9ZMFVfYzdjbllCdGVSdFdhZkVCSFhTbUw3MVZ6LXp1dFZQTE4xbUpkQmd1c2V3TURlSFRqYXhYU1dUZWllZVFGTU82OGJ3UEdhQURwMnViaVQ5YnRwVEN0NkFleFUxSms5eC1XV21Bd19DeGpZdFdsdHhEZ3ZXZHViV0tyMUVmZmkxQkY?oc=5"
+    },
+    {
+      "time": "CNN en Español",
+      "message": "¿Qué se sabe del mayor terremoto que ha golpeado a Venezuela en más de un siglo?",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMHlFUzB1bTdjZVc0dFd2YkJyYlBxdmo0OGFHblQ3Y1MwME5zcUhlOWhRYnNzV2tSYmZkbG5kWHNXWW9XMW15UE43dXVyemNRUEliaU9OUW8wc3dpRkItQXRqNlFzLTBwQno1ZkNSSmFOM2g4T0V0bTgzVEdQSTBYLWFGcFRfZ1k?oc=5"
+    },
+    {
+      "time": "instagram.com",
+      "message": "El número de fallecidos en Venezuela a causa de los dos terremotos del miércoles se elevó a 188 y el de heridos a 1.520, mientras se calcula que al menos 346 construcciones, como edificios, hospitales y centros comerciales resultaron afectadas, informó es",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tMWxrSXd0U2h6WWpvbzN2MGlQV1hsc3RXRXFKMmwtdy1Wd05PaWNjZHBtc3kwS0pOaDZxU1NUWloyajN1M2k5ajBuU2xIR3lCaUE?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Al menos 164 muertos y 971 heridos por sismos en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWW9LUG1JS19faDdhNTdBbW5ldFlETEdoQUNpek9ST3BUcXhkMVB4NlF5SWRrM2pfTGFYMURtWWJIX3VGV2hpVjlQc1BvN0p3N3dSak9TSTA0MU5CaU1oZmQ2Tjhhb3d2SzJWZnprVmNOVlpXYV9HUjRxVTVRUjlHTTdCaS1BeDdCclZjMFl3X2ozd05DZ1R4dk5kTVFZRGRnbm1MeVhLYw?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Las impactantes imágenes de los graves daños causados por los potentes terremotos que han golpeado Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Mak1NcktwdFNhTmt5VFYxMjMtMXBsMVNncnNjTXFyUGFLaTUxRXlST1pxZGIzWE5ydHBvU3dUVkVqQ1RreGtKNlpVZm5TbVVOU3FrMVIwNkc5d2PSAWBBVV95cUxNRWo3VGh5RzB2XzMyTHRDRFdDemxTOGhOSlAwci1ZZkV5Nm8wc2RkMWdLTG5YLTR1d3VKd19IbFRhTlgzNHlpbXBRS29zcHlHWDc0Y2ZvNWRVQks4d28yS0U?oc=5"
+    },
+    {
+      "time": "Yahoo",
+      "message": "Qué se sabe de los dos fuertes terremotos que causaron graves destrozos y muertes en Caracas y otras zonas de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa3FZS195ZzVjX2Qyb3F1YnJ1Uk5sNEtRdWV1amlHTlY3bV8wQmk5bWJZbzRrUkYxb05qNERhZUw5RGJQUFJQMHIwakFCMkJveTcxdHNVX0xkVFhfdU1kcVNzVXBPR0ttUktWQkN6ZzBZTUxCdHE4b3FLNG5jZ3ZEcnJQdw?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "🇻🇪 ¿Cuál es la situación en Venezuela tras el doble terremoto? En este programa en vivo analizaremos cómo está el país, los datos de víctimas que vamos conociendo y las reacciones internacionales. Míralo aquí 👉 https://bbc.in/4ev9OhZ 🗓 Jueves 25 de ju",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRUMxU0FaSkZVV2E3N0U2clBNSHJpVUdnT2FUQlRtbFY3aVNWUGxfVThTU2NqRGlOYVRrekVUY0hyX0RLaUFrNHdTeDNPUFRGd2ctb1c0M1dLUW0wTG1YYmpDbTNvSWQ5T0NxeU5hcGpzVHRGS29aQlRmZTUxMlZsTWh4OEZ0ZjVTRUZwcmZKZWVjLWplWW9XN1hhZ3B6YWN0RV9QeF8xdHRleEN4UnV5cDVOVlR4MjFBWFUyZFdwX0Z0elZubUJoc3hjTWs3VXNUdzlBa3FreUhXZE4wVHgwWUh4Z18zSFU?oc=5"
+    },
+    {
+      "time": "La Nación",
+      "message": "Dos terremotos sacudieron Venezuela y provocaron el derrumbe de casas y edificios: 188 personas murieron y hay más de 1500 heridos",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcVExc2pzSjE4VXkyd0tVdWlKQWowa3VOWkJWQXhZM25USkt2RDRoaC1nOHdsQWNMQXRRRU1FTmY4S0d2TmY4eERxY0dUQ3NoTjRMQnh4ZnA4ZDNiMGlVYUFjeXhLSHBUdndhcVBSdkpvOFhqVnlUczA2M1RmWVdrMERoTkRGRXkxVHZkbWpDemlEanFHYVVOcDJpbTl0UmZLM3o3LW43Z0JjVFc0X0NiUWtsLVN0cjdubG90RWNyNmVTaHMxNjNPZWlwVzE?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Terremotos en Venezuela: lo que hay que saber",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOF9JZTdTeXhhRGxrdktDM0xGYldYSTVNZ2p6djg1MWZKWHhFdkNFd3BCQzRHWlpjLXZTOUpRSTB3N2NkSHo3MmxuQWJuYVZuY2h5UkRYVnNxS0ZMNWdtT0UyaHI3Q09GZWRTU2I0Uy1yTjRIMWcwWUlSekplejhMemd4d9IBgwFBVV95cUxOREJUbXVqbUhQMFZWdlNlLWM1bmxPYXRxaEZSTmpid2lYTm13WlVzTmtGakVIN1BRVDFqTUFZMlRaTVN6a25GZWEzZXBNaERuSy1WaE5Cc2tWanlnRnRDbjBCbHZuQzlvdlpIcU1xR2ZBLXFMbXdfLXVtMXh5OFp3LWI2TQ?oc=5"
     }
   ]
 }

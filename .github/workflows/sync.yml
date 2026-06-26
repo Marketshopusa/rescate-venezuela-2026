@@ -1,9 +1,9 @@
-name: Sincronización Automática de Desaparecidos
+name: Sincronización Automática de Desaparecidos y Noticias
 
 on:
   schedule:
-    # Se ejecuta cada 6 horas (puedes cambiarlo si deseas más o menos frecuencia)
-    - cron: '0 */6 * * *'
+    # Se ejecuta cada 30 minutos de forma totalmente automática
+    - cron: '*/30 * * * *'
   workflow_dispatch:
     # Permite ejecutar la sincronización manualmente con un botón en GitHub
 
@@ -20,19 +20,20 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Ejecutar Script de Sincronización
+    - name: Ejecutar Script de Sincronización y Crawler de Noticias
       run: |
         python js/sync_persons.py
+        python js/crawl_news.py
 
     - name: Subir Cambios a GitHub si hay Actualizaciones
       run: |
         git config --global user.name "Marketshopusa Autocommit"
         git config --global user.email "marketshopusa-bot@github.com"
-        git add scraped_persons_all.json scraped_persons_mini.json
+        git add scraped_persons_all.json scraped_persons_mini.json official_data.json
         # Solo hacer commit si hay cambios detectados
         if git diff --staged --quiet; then
-          echo "No hay nuevos registros. Todo al día."
+          echo "No hay nuevos registros ni noticias. Todo al día."
         else
-          git commit -m "Autosync: Actualización automática de desaparecidos y cifras oficiales"
+          git commit -m "Autosync: Actualización automática de desaparecidos, noticias y cifras oficiales"
           git push
         fi

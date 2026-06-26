@@ -1017,6 +1017,23 @@ async function fetchExternalUpdates() {
         console.warn("No se pudo cargar el archivo local de control official_data.json:", e);
     }
 
+    // 1b. Sobrescribir con cifras en tiempo real del API (CORS bypass local)
+    try {
+        const apiResponse = await fetch('/api/stats');
+        if (apiResponse.ok) {
+            const counts = await apiResponse.json();
+            if (counts && counts.total !== undefined) {
+                externalStats.total = counts.total;
+                externalStats.missing = counts.sinContacto;
+                externalStats.safe = counts.localizado;
+                console.log("Estadísticas en tiempo real cargadas desde /api/stats:", externalStats);
+                renderStats();
+            }
+        }
+    } catch(e) {
+        console.warn("No se pudo cargar la API en tiempo real (usando fallback de json/sheets):", e);
+    }
+
     // 2. Sincronizar estadísticas desde Google Sheet (opcional, sobreescribe las locales)
     if (GOOGLE_SHEET_CONFIG.statsUrl) {
         try {
