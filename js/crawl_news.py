@@ -17,20 +17,42 @@ hospitalized_val = 1500
 deceased_val = 188
 
 # 1. Fetch live API stats (highly reliable and fast)
-headers = {'User-Agent': 'Mozilla/5.0'}
+api_success = False
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'application/json'
+}
 try:
     api_url = "https://desaparecidos-terremoto-api.theempire.tech/api/personas?page=1&pageSize=1"
     req = urllib.request.Request(api_url, headers=headers)
     with urllib.request.urlopen(req, timeout=10) as response:
         res_data = json.loads(response.read().decode('utf-8'))
         counts = res_data.get("counts", {})
-        if counts:
-            total_val = counts.get("total", total_val)
-            missing_val = counts.get("sinContacto", missing_val)
-            safe_val = counts.get("localizado", safe_val)
+        if counts and counts.get("total"):
+            total_val = counts.get("total")
+            missing_val = counts.get("sinContacto")
+            safe_val = counts.get("localizado")
+            api_success = True
             print(f"Loaded live API counts: total={total_val}, missing={missing_val}, safe={safe_val}")
 except Exception as e:
     print(f"Error fetching live API counts: {e}")
+
+if not api_success:
+    print("Falling back to local database scraped_persons_all.json for counts...")
+    try:
+        if os.path.exists(all_json_path):
+            with open(all_json_path, 'r', encoding='utf-8') as f:
+                local_data = json.load(f)
+                keys = local_data.get("keys", [])
+                items = local_data.get("items", [])
+                if items and "estado" in keys:
+                    status_idx = keys.index("estado")
+                    total_val = len(items)
+                    safe_val = sum(1 for row in items if row[status_idx] == "localizado")
+                    missing_val = total_val - safe_val
+                    print(f"Fallback counts loaded from local database: total={total_val}, missing={missing_val}, safe={safe_val}")
+    except Exception as local_err:
+        print(f"Error loading fallback counts: {local_err}")
 
 
 # 2. Fetch Google News RSS

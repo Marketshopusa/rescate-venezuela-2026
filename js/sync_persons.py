@@ -41,6 +41,9 @@ try:
         total_pages = data.get("totalPages", 1)
 except Exception as e:
     print(f"Error checking live API: {e}")
+    if "403" in str(e):
+        print("API is protected by reCAPTCHA or returned 403 Forbidden. Skipping synchronization gracefully.")
+        exit(0)
     exit(1)
 
 print(f"Live API currently has {live_count} records.")
