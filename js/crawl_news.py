@@ -10,11 +10,11 @@ all_json_path = os.path.join(project_dir, 'scraped_persons_all.json')
 official_json_path = os.path.join(project_dir, 'official_data.json')
 
 # 1. Default fallback stats
-total_val = 50300
-missing_val = 44865
-safe_val = 5435
-hospitalized_val = 1500
-deceased_val = 188
+total_val = 58634
+missing_val = 36692
+safe_val = 21942
+hospitalized_val = 4300
+deceased_val = 235
 
 # 1. Fetch live API stats (highly reliable and fast)
 api_success = False
@@ -47,10 +47,14 @@ if not api_success:
                 items = local_data.get("items", [])
                 if items and "estado" in keys:
                     status_idx = keys.index("estado")
-                    total_val = len(items)
-                    safe_val = sum(1 for row in items if row[status_idx] == "localizado")
-                    missing_val = total_val - safe_val
-                    print(f"Fallback counts loaded from local database: total={total_val}, missing={missing_val}, safe={safe_val}")
+                    local_count = len(items)
+                    if local_count > total_val:
+                        total_val = local_count
+                        safe_val = sum(1 for row in items if row[status_idx] == "localizado")
+                        missing_val = total_val - safe_val
+                        print(f"Fallback counts loaded from local database: total={total_val}, missing={missing_val}, safe={safe_val}")
+                    else:
+                        print(f"Local database count ({local_count}) is smaller than or equal to defaults ({total_val}). Keeping defaults.")
     except Exception as local_err:
         print(f"Error loading fallback counts: {local_err}")
 
