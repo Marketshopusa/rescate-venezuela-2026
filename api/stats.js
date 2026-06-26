@@ -1,7 +1,7 @@
-export default async function handler(req, res) {
+module.exports = async (req, res) => {
   res.setHeader('Access-Control-Allow-Origin', '*');
   res.setHeader('Access-Control-Allow-Methods', 'GET');
-  res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate=30'); // Cache for 1 min
+  res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate=30');
   
   try {
     const response = await fetch('https://desaparecidos-terremoto-api.theempire.tech/api/personas?page=1&pageSize=1');
@@ -13,4 +13,4 @@ export default async function handler(req, res) {
   } catch (e) {
     res.status(500).json({ error: e.message });
   }
-}
+};
