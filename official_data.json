@@ -1,16 +1,16 @@
 {
   "stats": {
-    "total": 78753,
-    "missing": 50598,
+    "total": 78768,
+    "missing": 50064,
     "hospitalized": 4300,
-    "safe": 13765,
-    "deceased": 235
+    "safe": 14311,
+    "deceased": 1400
   },
   "reports": [
     {
-      "time": "EL PAÍS",
-      "message": "Última hora del terremoto en Venezuela, en directo | La cifra de muertos por el doble terremoto en Venezuela asciende a 1.430 y el número de españoles fallecidos se eleva a seis",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclU4aS12d3B6aUgwMFpNck02TWNfYlN1SU9TSk5uLUY1emRJQmlLNUtCeFVHSTBVdzZreDE4SHRqeS1FT3BiMGVyY0UwYi10eERsdnBBNndmcWxWN2pNamI2TlFfZFNQcjhGa3NxX0V1RDhJSTQtRXBOdEFxaUozbDUzTDEtSF9BM24zZnJIUTdzZVhENW130gGrAUFVX3lxTFAzc18xMDZSSnc2WTFSOU9wMlZPZ3VjdEQxOW91SUg4bjlfdll1S21oNVNscE42V3lnNVpXOEoyaTRRR1dWWG1LUy1XQ3VoQ0ZRTHRQT3FZS2pfTXhkUllTTWZtTmhUN1hJeFVVcnd0NjhxU29zVklqWDNJRHlsLU1xWDNDYm5OM29aWnM1Y2dHajM1TU9vMl9iOVlPb2ZZTXc2cG95c0V6OTR3Zw?oc=5"
+      "time": "BBC",
+      "message": "Qué es lo último sobre los terremotos en Venezuela que han dejado al menos 1.400 muertos y más de 3.200 heridos",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdWlBTDNTWi1RMFVFZ0REZ184MW1pYV9JckVtblFWUWhSdWRaXzktZE1rTHUzbC10dmllRnlRZGtubHcwQjhZVVoySE40S1N4cUR2T21XUDlfaXPSAWBBVV95cUxQcEtzcVFvOW5oQ1NDR21uQURIdzc0MFgzRnIxRnVadVhhWDZmTnZOc3lZWlNOQWJFZUhSNDNmZGVaQ2FXN1VkMkoyQTUzTk9vNnhyUlpoUXpaOU5VLWNJaS0?oc=5"
     },
     {
       "time": "N+",

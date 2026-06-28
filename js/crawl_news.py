@@ -14,7 +14,21 @@ total_val = 58634
 missing_val = 36692
 safe_val = 21942
 hospitalized_val = 4300
-deceased_val = 235
+deceased_val = 1000
+
+# Try to load existing counts from official_data.json to avoid regressing when articles fall off the RSS feed
+existing_deceased = deceased_val
+existing_hospitalized = hospitalized_val
+if os.path.exists(official_json_path):
+    try:
+        with open(official_json_path, 'r', encoding='utf-8') as f:
+            old_data = json.load(f)
+            if 'stats' in old_data:
+                existing_deceased = old_data['stats'].get('deceased', existing_deceased)
+                existing_hospitalized = old_data['stats'].get('hospitalized', existing_hospitalized)
+                print(f"Loaded existing baselines from official_data.json: deceased={existing_deceased}, hospitalized={existing_hospitalized}")
+    except Exception as e:
+        print(f"Error reading baselines from official_data.json: {e}")
 
 # 1. Fetch live API stats (using Playwright to bypass reCAPTCHA and CORS)
 api_success = False
@@ -93,8 +107,8 @@ rss_url = 'https://news.google.com/rss/search?q=sismo+venezuela+2026+OR+terremot
 headers = {'User-Agent': 'Mozilla/5.0'}
 reports = []
 
-max_deceased = deceased_val
-max_injured = hospitalized_val
+max_deceased = max(deceased_val, existing_deceased)
+max_injured = max(hospitalized_val, existing_hospitalized)
 
 try:
     req = urllib.request.Request(rss_url, headers=headers)
