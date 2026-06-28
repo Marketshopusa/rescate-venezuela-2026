@@ -1017,41 +1017,21 @@ async function fetchExternalUpdates() {
         console.warn("No se pudo cargar el archivo local de control official_data.json:", e);
     }
 
-    // 1b. Sobrescribir con cifras en tiempo real del API (Intentar directo primero, luego proxy fallback)
-    let statsLoaded = false;
+    // 1b. Sobrescribir con cifras en tiempo real del API a través del proxy local
     try {
-        const response = await fetch('https://desaparecidos-terremoto-api.theempire.tech/api/personas?page=1&pageSize=1');
-        if (response.ok) {
-            const data = await response.json();
-            if (data.counts && data.counts.total) {
-                externalStats.total = data.counts.total;
-                externalStats.missing = data.counts.sinContacto;
-                externalStats.safe = data.counts.localizado;
-                console.log("Estadísticas en tiempo real cargadas directamente en el cliente:", externalStats);
+        const apiResponse = await fetch('/api/stats');
+        if (apiResponse.ok) {
+            const counts = await apiResponse.json();
+            if (counts && counts.total !== undefined && counts.total > 0) {
+                externalStats.total = counts.total;
+                externalStats.missing = counts.sinContacto;
+                externalStats.safe = counts.localizado;
+                console.log("Estadísticas en tiempo real cargadas desde /api/stats (proxy):", externalStats);
                 renderStats();
-                statsLoaded = true;
             }
         }
     } catch(e) {
-        console.log("No se pudo cargar la API directamente (CORS o bloqueo), intentando proxy...", e);
-    }
-
-    if (!statsLoaded) {
-        try {
-            const apiResponse = await fetch('/api/stats');
-            if (apiResponse.ok) {
-                const counts = await apiResponse.json();
-                if (counts && counts.total !== undefined && counts.total > 0) {
-                    externalStats.total = counts.total;
-                    externalStats.missing = counts.sinContacto;
-                    externalStats.safe = counts.localizado;
-                    console.log("Estadísticas en tiempo real cargadas desde /api/stats (proxy):", externalStats);
-                    renderStats();
-                }
-            }
-        } catch(e) {
-            console.warn("No se pudo cargar la API en tiempo real (usando fallback de json/sheets):", e);
-        }
+        console.warn("No se pudo cargar la API en tiempo real (usando fallback de json/sheets):", e);
     }
 
     // 2. Sincronizar estadísticas desde Google Sheet (opcional, sobreescribe las locales)

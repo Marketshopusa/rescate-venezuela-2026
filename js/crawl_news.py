@@ -16,26 +16,55 @@ safe_val = 21942
 hospitalized_val = 4300
 deceased_val = 235
 
-# 1. Fetch live API stats (highly reliable and fast)
+# 1. Fetch live API stats (using Playwright to bypass reCAPTCHA and CORS)
 api_success = False
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'application/json'
-}
 try:
-    api_url = "https://desaparecidos-terremoto-api.theempire.tech/api/personas?page=1&pageSize=1"
-    req = urllib.request.Request(api_url, headers=headers)
-    with urllib.request.urlopen(req, timeout=10) as response:
-        res_data = json.loads(response.read().decode('utf-8'))
-        counts = res_data.get("counts", {})
-        if counts and counts.get("total"):
-            total_val = counts.get("total")
-            missing_val = counts.get("sinContacto")
-            safe_val = counts.get("localizado")
-            api_success = True
-            print(f"Loaded live API counts: total={total_val}, missing={missing_val}, safe={safe_val}")
-except Exception as e:
-    print(f"Error fetching live API counts: {e}")
+    print("Attempting to load live stats via Playwright...")
+    from playwright.sync_api import sync_playwright
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page()
+        page.set_viewport_size({"width": 1280, "height": 800})
+        page.goto("https://desaparecidosterremotovenezuela.com", timeout=30000)
+        
+        # Esperar a que el contador cargue
+        page.wait_for_selector(".styles_statValueNeutral__N1dhG", timeout=15000)
+        page.wait_for_timeout(2000) # delay para asegurar hidratación
+        
+        neutral_elements = page.query_selector_all(".styles_statValueNeutral__N1dhG")
+        total_text = page.query_selector(".styles_statValueNeutral__N1dhG").inner_text()
+        if len(neutral_elements) >= 2:
+            total_text = neutral_elements[0].inner_text()
+            
+        missing_text = page.inner_text(".styles_statValueDanger__Fzr5b")
+        safe_text = page.inner_text(".styles_statValueSuccess___8zCu")
+        
+        total_val = int(total_text.replace(".", "").replace(",", ""))
+        missing_val = int(missing_text.replace(".", "").replace(",", ""))
+        safe_val = int(safe_text.replace(".", "").replace(",", ""))
+        api_success = True
+        print(f"Loaded live scraped counts: total={total_val}, missing={missing_val}, safe={safe_val}")
+        browser.close()
+except Exception as playwright_err:
+    print(f"Playwright scraping failed: {playwright_err}. Trying API fallback...")
+    try:
+        api_url = "https://desaparecidos-terremoto-api.theempire.tech/api/personas?page=1&pageSize=1"
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept': 'application/json'
+        }
+        req = urllib.request.Request(api_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=10) as response:
+            res_data = json.loads(response.read().decode('utf-8'))
+            counts = res_data.get("counts", {})
+            if counts and counts.get("total"):
+                total_val = counts.get("total")
+                missing_val = counts.get("sinContacto")
+                safe_val = counts.get("localizado")
+                api_success = True
+                print(f"Loaded live API counts: total={total_val}, missing={missing_val}, safe={safe_val}")
+    except Exception as api_err:
+        print(f"Error fetching live API counts: {api_err}")
 
 if not api_success:
     print("Falling back to local database scraped_persons_all.json for counts...")

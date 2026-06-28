@@ -20,6 +20,12 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Instalar Dependencias de Playwright
+      run: |
+        python -m pip install --upgrade pip
+        pip install playwright
+        playwright install --with-deps chromium
+
     - name: Ejecutar Script de Sincronización y Crawler de Noticias
       run: |
         python js/sync_persons.py

@@ -1,61 +1,61 @@
 {
   "stats": {
-    "total": 58634,
-    "missing": 36692,
+    "total": 78753,
+    "missing": 50598,
     "hospitalized": 4300,
-    "safe": 21942,
-    "deceased": 1000
+    "safe": 13765,
+    "deceased": 235
   },
   "reports": [
     {
       "time": "EL PAÍS",
-      "message": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 920 la cifra de muertos y suma más de 3.000 heridos",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSjJ3TEYyRFFpbl84RnRVNnVIdWoyUVB2Y1BCREVxSm9aQXhGSURtRTBmR3F0RVhidGV0SFFBOXpid0NzOGRXbHB2NDdGMUJobUpGSl9UcC1xNHdsZnhyMjg0cnd3NVg1U2ZuOU9sS3o3bHJMTXZObVRGMTBnd3NRWEpB?oc=5"
+      "message": "Última hora del terremoto en Venezuela, en directo | La cifra de muertos por el doble terremoto en Venezuela asciende a 1.430 y el número de españoles fallecidos se eleva a seis",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclU4aS12d3B6aUgwMFpNck02TWNfYlN1SU9TSk5uLUY1emRJQmlLNUtCeFVHSTBVdzZreDE4SHRqeS1FT3BiMGVyY0UwYi10eERsdnBBNndmcWxWN2pNamI2TlFfZFNQcjhGa3NxX0V1RDhJSTQtRXBOdEFxaUozbDUzTDEtSF9BM24zZnJIUTdzZVhENW130gGrAUFVX3lxTFAzc18xMDZSSnc2WTFSOU9wMlZPZ3VjdEQxOW91SUg4bjlfdll1S21oNVNscE42V3lnNVpXOEoyaTRRR1dWWG1LUy1XQ3VoQ0ZRTHRQT3FZS2pfTXhkUllTTWZtTmhUN1hJeFVVcnd0NjhxU29zVklqWDNJRHlsLU1xWDNDYm5OM29aWnM1Y2dHajM1TU9vMl9iOVlPb2ZZTXc2cG95c0V6OTR3Zw?oc=5"
+    },
+    {
+      "time": "N+",
+      "message": "Temblor Hoy en Venezuela: Sismo de 5.5 Azota al País y Enciende las Alarmas de Emergencia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTI1bDdleGpmeEVkTXdxaU1nUFhuRG9OcHB5RW4yUVM2Q1c5azNPOXVSdUpCN1JHLWlZVHBGWEphdzVDLWxYd1BfaS1KOUJGRGNmZ1VfX1F3WV9wUXlibkx1emxhQU1OaEJ5SG1ISUQ5LTZ3TWN5WFlmcXdTeG9HY3NBV1pVb3Y4eWx1a1FFcEhOZlBqeHJlVzZuZUQtdWxkTk1LVW85MFRMMm1fa05IYy14T280azU1blFOQ0hiZ3d1TGJXT2Z6VExvcw?oc=5"
+    },
+    {
+      "time": "instagram.com",
+      "message": "Un terremoto de magnitud 4,8 sacudió este sábado la costa de Venezuela, y se pudo sentir en Caracas, el movimiento telúrico se produjo a las a las 15:20 hora local (19:20 GMT), según informó el Servicio Geológico de Estados Unidos (USGS, en inglés). Mi",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uZTBwMkRPRE02TWtpR3FrNFRNVXRjdzI0aEs3a04yQUpPOHFjc0pqRDduQm1nXzBTSFNiQ05LM2UtVDNhbHladEo1b2F4RDlyTlE?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Cifra de muertos por terremotos en Venezuela aumenta a 1.430",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcDhUYjBhS0VxM0hZRHQxd2FYdUxHcUM4NGRsbS0wRDZOaHR0YWoybDlxVkt6cW1BaS1XSGVtSWRQYklwY3I0WEtxLTJYNjNuSUNlYkVXZS1xQWMxNlVucWpwbFdxS0s0UjQ3OGtsTmEwaTA0QUxyeWRKMWVjQ28tRC1hYjNiQk5kWlRxZlBFak55aktic3FN0gGXAUFVX3lxTE5TelUwaGhER1pOeHBUbmp6UUZZOW03eE9aTmNlZk9XS05aaVJ3UGZaZ0d5MF9xWGhvdlVuT0xNZlRhQkRraDRmUFZrWmw1bnJjc2dNN25fZWtoZUJXRHlKZS1FRFlKVWtPZENvSXduQWM0dlB3SlVpa2hGYWVPV1JDYnpRdXFSY29BQ2xNeHZ6OVBHc3ltY1E?oc=5"
+    },
+    {
+      "time": "Agencia de noticias",
+      "message": "Un nuevo sismo de magnitud 4,8 sacude la costa de Venezuela - EFE",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oMTJQRlpMYkd6NGtETG5IRWJQZWVmTVNmX3NXd0FnN0czclVWYjZuOVhMUmxMUWxkTlhEaGxnVWJGTGVUVmctMXFfalQ1M2hmd3FtODEtWUhYam1KdXF5THVkRFlyNDJKWG56OTdBTEg?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación N.º 4 (27 de junio de 2026, Hora: 3:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT20wVms2XzdjeEtRTGtHZ1JTRE5nYk16YWk4LV9Uakd4WlN2YmlvcjdTNWZLeV9vOFZyVXV5TmY3VmlUeE9uS3Z0VkRnT01sTF9BUHM5TkVOc1BGSEJWNkZLczVXOVZBR1RkdnN2cm1wcjJBSXAyQkNuT1RqWUpqcnlxWExxem5HRFNlb0ZpbS1ENDhYSUpyNEJRMEZSZGg2T3FHUl9jQjVscVNZSDBYdVF1bG9DcWdMSVJBQURtT1hSRlhMRjlyN3h5d1JmWld2RzdWWDY0RQ?oc=5"
+    },
+    {
+      "time": "NTN24",
+      "message": "Volvió a temblar en Venezuela: reportan que sismo de magnitud 5.4 se sintió en zonas como Catia La Mar, Maracay y Naguanagua",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWEV4LW5sMGFET0lyME5OSG9Mazc1dDNiZWlpbVZxdTRtRXNFZjY5Z3djeDl5aHlkeGI3NVZzalhwX3RWay1EVElMYU9maWoydlpzZUpacE1BTWRIRDNIaGJlNm9KbG15X2ExMjM0MGxGdVJmYmc5djY3cUEtaW81ekpCWnpyaTNYUWtnZEhQaExhX1ozVHMwYUozMmcyZGxOcTFVOFBvZk9kczh5cmRZOW96YWJqV19xMlp6R0VVb2RqNU5NVnBvdUpZQnRNTFlHQUpSbGFoRkowVVp5TnV5QXpobDZZUk1YbU5CZzVINGE2S1EyUWlfY2dLNGJROHFu0gGAAkFVX3lxTE95VzJvaC14Tm1ZTUI2cmpaZkxjRVotVFUtdzBuTGstVlhQMHRiUWVzYktGUkN2S2FJbDdDd1NPOUdfTWFycVhWSHNER0ZuUGVCb0h3QlRxVWhrYTdfWnB5N3dZZ2NLY2V5dVBobzYwYjV0aGNSMHdpNXNjM1l4VGQ3QUpzeGZ6eEVUQU1WbG1Db2ZGWHg0Zk83QmJ6TE1mR0Y2dFRKa1NmT3pQVFhTSjNzVDNuTE5WdjlneVhiUFU0ZEU5N3hRT3hGSGVOcUJ3ZzMyQUVEdmdpRFdRMDVUNlZ1Ry1Db2puWVV2MFV6Z0ttMFJSY0xiRzdlTVd6cUZUYUo?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Doble terremoto en Venezuela: la inevitable comparación con Perú en cuanto a construcciones resistentes a sismos",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaEs0WG1ta203a05JeHRjbi1YdE4tYTlwcjdPa2NXV0tYRDRSQ3JmUGRFbGViTTlkYU82Q2VQOTJjV3BNQVdvNGRuRTBiWmVZb2dFcVBvU29Yd19nTFgtY3FhVmpMaXRRN3lqOUUybC10bXpWa2JOejlFTkh0S1hNVnlEZGxVMnhtSXFGVjNzZU1ZdTQ4Ulgta25QMGtMYTltYnJrTHlKNkpnTGdlODBCUGpWS3N5ZERydWppRXFwVkthd0VPbVpLQVVHR0tpNUJoT2gzMkFlcmtnVklmczk4WjAtMjlnM0nSAYICQVVfeXFMTXJ6Y1hTQmtpb2UzV1lkSk4wU3VnNjViMTJRZmdoak5CMkhFWENSUTJCN1ZUUkNwUV85ajN1a1J6M2Ryb082RFpkVlFlVGxPVUdCSDFjcGd2OEdXZzlkcF9RYkhXUGRSbUUzYXFfRTBYUzE4c0dSQnd5akc0djg3NjBkQ2RuYzR0dW9MMmQ0cDNrcVNvTk84eThsLUQ0bEdYUUk5UURJMWFfdDFzMjItazh3Ni1PZVBpNEdhNVpsTmNkTENOZXFRLXdicHRyS0VBQmYtOVgxNFVNV0ZJX29RcldIaWVSSTF5cjl5YVpoMlplSmpSUndsLUU2Wk95QWpLaWdn?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se comparan los de esta semana con los del pasado)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SnE4c3NoQTlxRGhiU3RqbzRYSVJySi1FZjg1bktDVXJ5azFmeWxudkdjMWhBYjh3SnRoMFRWN054U3lzTEVYa0JfZ1ZBREpOQmprX1AtWFNYa2_SAWBBVV95cUxPdHRtS2VSQkZPRThyXzJNZ3diU2kwTkhSU1ZBa1MyUlByR2NCeUNQVTZQSHpGd1k1RlZxZnIzUGt4YVpMWGVSSU5Lc2szUzlhNGpzSTJHb2dib2tRa0x6bDU?oc=5"
     },
     {
       "time": "DW.com",
       "message": "El terremoto que Venezuela esperaba, pero no pudo monitorear",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUQ4V0dmSWhmVk5sUGZhaDVSbHhmRG9tMGk0dkN3dDZabzNrazNtY0h1SEtqTGlIcThtX2RXSHVkNzY4TUZXbnRzV1kzSFN5SDJVNk9adHF5Q3pWcEczVXhpOUZ5ejdKRjlpVG1JSW9vV3VVclZCd0tfNTRyaWV4ZkxtVDQxSjUzUFZRZTJfeXRoZFlhc1Nn0gGXAUFVX3lxTE1IMkdDRnlIZTZoMzRBdDNENmFXNVhpaS1ZT0dyQnBSeEhKS28wR2R2RGh3R2Q4dFR1bHdKLVNYdUNfZkdTcUt0eXlYMGlNZC0tamlibmp3d1hZZFZDazY1YWVxdlBBM0hyV3p4SUxGQ3JxMnF6RUJYMHZVUXZWMTkwQ0hPNUJUbVNzVHp4S184STNWeFB6SlU?oc=5"
-    },
-    {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación N.º 3 (26 de junio de 2026, Hora: 3:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZi15UTVxbHhjMlhXb3Z1RU1CZDAzd3E5dzRzMlZpRGhLXzRISi1SbnNHYTl3TEZiWmxWajNnTFRsLTZBX0YxYWdseHZvUGJVRm5WVkczbW91OTJ4VXJNXzhGVHNfMF9wdFlNSEhBSTY5UlQtRjl0M1NESWRnTmdPR2NIcmp4UWpWaUx4S21zQmxYRTBNa1dXdUFhdVJESnJ3QWp0UWlvVWFzcHhKQ24wYkhaOU9uMjZxVGltc1NIaHFjZ0ZOYWZmNm9vQ0UyUXdqb043Y2tzWQ?oc=5"
-    },
-    {
-      "time": "The New York Times",
-      "message": "Terremotos en Venezuela: así se ve su impacto en los mapas",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1Mxb0lfck80MlViUXVlRy1ZZlJSSTd2RDFNS3BOVUZtRWFRX2thZlNLeGVZenFGVU9NVVRnSENsam4wV3RHcTRnbEFHR1o3TWVGUEluMllFRUxPUTZGTTE4R2tSVXBUTEdyb3h6aVFOOERGSlhBY3hFNm9EVFU0X3FmeWpNUWs?oc=5"
-    },
-    {
-      "time": "CNN en Español",
-      "message": "Los terremotos de Venezuela en mapas y gráficos",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM3FVc055Q1R4empYWDNDMXhyMHFWOWJzbXdSbF9SWk5hQmFqM1RWaGdjVmRidnBlS3FvV1NKX25ZYlNPaXl4SFhFbV85UkdmR3VZUTdTX3NUZjlfODZYczk3X09XODlmMzhTZnQ1dm9tWW00dEw1cjluLTBGUDhkeXg5Skg3NkMzZ0w0bnU2aGk0QQ?oc=5"
-    },
-    {
-      "time": "EL PAÍS",
-      "message": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDRYTkVMeWZFT0gwY0N2UjZTR0JHb0wyUXZMRlVnbjJZVkpBVmNYLWZ6aXpaajFNdDR0UGlJYlNPX3M1aF9hWnpLLXgySmE5VUtoWk5SZ1dQcjgwTkZzcWNxMFRiWDVDWS1PeTEwYWxBeUFVOUZLeDMwSjlvOUlGcW9fSEdoNkdVdzR3UE1XZE1kSE5RV0RmcGVqdmhveHd5VVlIOHlqRFdkSE5OSFdOMk8tV2k4dWNQcHE5Q3RKOA?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Terremotos en Venezuela: lo que hay que saber",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOF9JZTdTeXhhRGxrdktDM0xGYldYSTVNZ2p6djg1MWZKWHhFdkNFd3BCQzRHWlpjLXZTOUpRSTB3N2NkSHo3MmxuQWJuYVZuY2h5UkRYVnNxS0ZMNWdtT0UyaHI3Q09GZWRTU2I0Uy1yTjRIMWcwWUlSekplejhMemd4d9IBgwFBVV95cUxOREJUbXVqbUhQMFZWdlNlLWM1bmxPYXRxaEZSTmpid2lYTm13WlVzTmtGakVIN1BRVDFqTUFZMlRaTVN6a25GZWEzZXBNaERuSy1WaE5Cc2tWanlnRnRDbjBCbHZuQzlvdlpIcU1xR2ZBLXFMbXdfLXVtMXh5OFp3LWI2TQ?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Sube a 589 la cifra de muertos por terremotos en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGp1TmdZaVhFcndOQUl1alR3UzdIbHFweFYwTFRkb21WNS05c3RzWWRRZUVhcHN5TjNwMVRmTkwwVnU1OExHaFdySWNGOTNHWTVncVVLdVlXVlROc2lFSmhPbTkwa09fcDJnUldGT3hCV3drUjlCeFFwV2ExdHVDd0gwUExscU1KSUpFVHdlalU1Q19PcGU0R0JR?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Venezuela vivió el terremoto más potente desde el año 1900",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVU1SSHZtdHpjMDFjSzU5WWR4Y2J1ajhtdFl1bmNLUzA5M3R3OE9GMUtwYUlrTmxRWXNBYmd4QzNnR0k3S1dTTy1pd0IzX2hSYmp3YkVDeXhDUE9KYzRJU05IN2lCSHdUYUdIYTRsWENiX1p0ak5IM2oyTWpiWXFFeXZnUXhJaVVIZlpOQ1RkcEJHNnJSVVh3TzNGRk9GTzJueGFoQno0N2hhWlI2UnkyY05PMVIyc3lpRzF4elptaDVkZDTSAcMBQVVfeXFMT0hGbU5lY0t0MnNYVzFEaFVVb3VtZmlNd0lmNjNMM2lkSWxKWW5jRFJNVVNOTWRwaDNybk9rbVpjMDVfNG5McWpna1VuWDI1UHJZVzhEQzdzRVZJN3g1Y1BIRW5KeklOMEZHMFFYRU9MSWFyN3VPdFJLS3ExTVJ6TE9NMnRKMndETy15UmlBMlN3WDRuM0xzeVpidlpUUk5YUGdaYWNqdlRjeUJ6RGJoeThDdlQydHpUeDFjNUZNYllwWFcw?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Las víctimas extranjeras de los terremotos en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbm5LYVZQR2Vha0JZZEVHQW9OdmNDaENxbUx6Q0N6RlBSamU4ZEtlWmNlejZyMEZiT2pfXy1SZFhLUVdSNHY2SEtkUVo4WnZ4WmtnZUdRbEdZTWpuVDREZnZLemRzWFJ4VXdTcldETHdGcTlvLXlHeWY5dVMxOEsxRFFnY091alRRcjVUdDBPOXdBdHFvNjB1VlNjRUpLR25La1E4ZGNETFFENTNtbUdYWdIBsAFBVV95cUxQcmRYbHVobU5ycUUwUjU0S01DUjVUUElhTlRzSm5zVzA2aVVBTW1MUDM1ZG1uZFZ6OEhYdmlwSHBKWGo4QXdDc2l2N3pGM1BuZTFCY2JuN2lEb3dYTXZrTlJHZUV5b3NoU2xrNzBKVFZJUm0zVDNFbjBfdHhCVVRTcGl3d3RrdGtpR0ZPTlNScUlOM0JUd3M5WEdlVm1MUWYxVFJGU3dCZk5NUkR3QnM4Ug?oc=5"
     }
   ]
 }
