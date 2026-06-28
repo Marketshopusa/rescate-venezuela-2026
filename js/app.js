@@ -1139,7 +1139,13 @@ function mapItemToStateFormat(item) {
         description: item.descripcion || "",
         contactName: item.contacto ? "Familiar / Contacto" : "No especificado",
         contactPhone: item.contacto || "No especificado",
-        photo: item.foto || null,
+        photo: (() => {
+            if (!item.foto) return null;
+            if (item.foto.includes('reconexion-api-images-147455119818.s3.us-east-1.amazonaws.com')) {
+                return item.foto.replace('reconexion-api-images-147455119818.s3.us-east-1.amazonaws.com', 'cdn-imagenes.theempire.tech');
+            }
+            return item.foto;
+        })(),
         isExample: false,
         createdAt: (() => {
             if (item.createdAt) {
