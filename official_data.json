@@ -1,9 +1,9 @@
 {
   "stats": {
     "total": 81287,
-    "missing": 40782,
+    "missing": 40772,
     "hospitalized": 5000,
-    "safe": 15686,
+    "safe": 15677,
     "deceased": 2000
   },
   "reports": [
