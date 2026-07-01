@@ -4,7 +4,7 @@
     "missing": 0,
     "hospitalized": 5000,
     "safe": 0,
-    "deceased": 1700
+    "deceased": 2000
   },
   "reports": [
     {
@@ -33,11 +33,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZWZxeEFIenVReldZVENLM0dwUTN1LXJXME1ZbllHbGFtdE91OUxIQkZ2UWpGNVZGN2hzZTIzal9sTllnWS03NjJDeGV6ZHNWNDNmOWNBY3BiTExpVnhzUkNZaUJGVVNLNUk2STIyRm5VVWtYejc0Q0RTbW5KMnhLWDhRbjFqWDBfRmttMl9KRVFKak92c2xPRk84bmkwMDBoQzdkZ3N3NTlQRk1kN0JEWFBYeW1fR1BEeTNtMHI3NzJyeTVEODM5a2FPWnJUWDBVQVJnY1NiMlZvcEYtcnfSAfgBQVVfeXFMTy1FU1BhSE5sQWQ4YUdnakdVMENRQ1I4RlhmQkR5X0hQZFVUdEs4cHFOcUdwWUVfMnRFWkJxa1dYN0JnUndrSVhUMnZUcGZtR0drMGRNX0lpcDdMRk40SHlXcTFNblR3YWx4XzNPSzYtM25sNW1MeFdlLUFzMXBRTlFzeFNNN3RESHg3UUZkSU5YN2JuLVFlQkdzaGNJWVBESzdnQThSYkZiaGhqR0o0azRaTHc4N3E5WTdTei1vakpIOE9oVnprZUlpWXUxLUZHQlR3TXI4cmxaV21tc19EdkVhVTdONGpDQW9vY01mNjdHcS1yd001XzU?oc=5"
     },
     {
-      "time": "Telemundo",
-      "message": "Terremotos en Venezuela | Frustración por respuesta de emergencia",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWWxYb2VCV0JqQ3BUTzdZaVJ0R3k2V1pSOURub0kzQXFRYVNfbTBkWGVkc1FXVDAzWURCSy0tLWEzVTJaWW9fanJ3TkwxTmpoa24yaVRCRmtMLW5tV2hNMC13N2w3d1pPQTc4MG13bmpqZTRiQnEteXNCZmpCM3hDOVZIRm5JVUxEVnY2cU9EV1hybDJxUlA2ZG1jZ2R6NjJ6cldpNWU2MW1rYTNrbUE5S2VPTWFPNXVoY3A5c0lnM0FFVE81Yzgta0VkNkdBQm1ha0oyakJwYnFscUJQRklDUjdfWUVnWWRIT2w1emVHaw?oc=5"
-    },
-    {
       "time": "EL PAÍS",
       "message": "Terremoto en Venezuela - 28 de junio de 2026 | Exteriores eleva a 17 la cifra de españoles fallecidos y sitúa en 150 los desaparecidos",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGlzaUdiT1NXNnlxMHdxQXg4NmJQYTRKRU90VklVbndMdE90aG9QSWJFcHBiUk8yMU9ZUGpVUHF1WEtoVzJzNlpRUjBtdGItZDEwVlNFTlhIdV9lZlhTTFR5dXh3aEwzeC1OY0swM2t0TGNscFNKWXZLV01Bam5QOWpwckdtdGxDaTkzT0Qwc0ZrQ0duYkt30gGrAUFVX3lxTFBmX21KRmFMVmVIdWZtRXJ2VnJQaEl4Qmg0RHZvem5FTk5YZ2dkSXBfQl9haGtpUnlBTUZQM3l6ZEluaTZFUlNwVTZrbW9fMnYtYzRwM0Zaa0otOXowSXVfYndlbUd6WG90QTk3LWtsRTZQNUMtVVdkRjRDOXZMZWF6UTJ0UmV2T1dqUkt5UzlnQ3RTZmxqY1c0dWVFWTJzb2hEZnBRdmQ0LUVrQQ?oc=5"
@@ -48,14 +43,19 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWVZemZacE5Jd2dUb0x2U2ZZbDN2b1Y1ZVR0dFFLLXVIZ0U3SnhHMFNER0dFNVlfWlBVT3ZHZDNRWGNxZm1HNkh5TXBiLW1Lc2FtMTcwcjVXMHZNTG1ieFdERlllSDVXaXI4T2JaTFRaa1pQR1k2T3U3VXQxWVU4NzNVaFowOEhqT3lFU3FGSVhCQ2dsdHZ5S1Q4NE5sZVJ1TzFpVkJn?oc=5"
     },
     {
+      "time": "Infobae",
+      "message": "Venezuela fue sacudida por dos fuertes terremotos: uno de 7,2 y otro de 7,5",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2EzR3RNRlFEM2ZaYWZ1NFNzbmh2YnNVMjJKWkJfOUZEa1ljOF9LVV9UVDJ0RzF0elNSbFRiVkFhNDJnVFFZSXF4c3J5Tk5DYTR3WDkySWJWbDdPNWxacGljRjhkbjBPdXpfZkFteDNIWjJ4c0ZEdUh6MTZfQ2F4cEpEOXlGYzVMNm42eGZHVU5HSHBmbU1QXzVWTDFHZ0xqSkZTNmRjX25oQmcwWWxsTU9oelNWSTdmYTNHOFEzU3ZMYUFkZksweVR3NWR0b3p5R2dvS3dVai1ubDVZTTZYclZ6NWZOcUprY2ZZQ0tHZjFaQkXSAY4CQVVfeXFMTTNXckJUMm00aThiZkZlZGN3bmwwRkI2cHhNZXI2RHFrdDNfVmNYNVNPU2Q0aExaa2d4Q2VtYUw4dGxiWmtRdXprQ0ZwV3EzNXBodV9rcDYyREJ5alJIWGgta0FmYzloa2Faay15eE5HcnBhNzB1SHFOdFpueFNnSzFxUnVFUzBCcWVDYXdaMjFuRmthZHZaMzYycW1aaVBJT0lmei03bm5CLTNUX1loaDJhSmprQWlFSkhEMGU1ZWVxMl9pTldDTzVDcWo5Vkloa01hUlFHNjJWVWVzVmREQkQxU1IwRWN1SEt0dThQeFRxTDJtQXNKdVhqTkhjMlZXWnBaU04xcGVLTlFLZWd3?oc=5"
+    },
+    {
       "time": "BBC",
       "message": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se comparan los de esta semana con los del pasado)",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SnE4c3NoQTlxRGhiU3RqbzRYSVJySi1FZjg1bktDVXJ5azFmeWxudkdjMWhBYjh3SnRoMFRWN054U3lzTEVYa0JfZ1ZBREpOQmprX1AtWFNYa2_SAWBBVV95cUxPdHRtS2VSQkZPRThyXzJNZ3diU2kwTkhSU1ZBa1MyUlByR2NCeUNQVTZQSHpGd1k1RlZxZnIzUGt4YVpMWGVSSU5Lc2szUzlhNGpzSTJHb2dib2tRa0x6bDU?oc=5"
     },
     {
-      "time": "Infobae",
-      "message": "Venezuela fue sacudida por dos fuertes terremotos: uno de 7,2 y otro de 7,5",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2EzR3RNRlFEM2ZaYWZ1NFNzbmh2YnNVMjJKWkJfOUZEa1ljOF9LVV9UVDJ0RzF0elNSbFRiVkFhNDJnVFFZSXF4c3J5Tk5DYTR3WDkySWJWbDdPNWxacGljRjhkbjBPdXpfZkFteDNIWjJ4c0ZEdUh6MTZfQ2F4cEpEOXlGYzVMNm42eGZHVU5HSHBmbU1QXzVWTDFHZ0xqSkZTNmRjX25oQmcwWWxsTU9oelNWSTdmYTNHOFEzU3ZMYUFkZksweVR3NWR0b3p5R2dvS3dVai1ubDVZTTZYclZ6NWZOcUprY2ZZQ0tHZjFaQkXSAY4CQVVfeXFMTTNXckJUMm00aThiZkZlZGN3bmwwRkI2cHhNZXI2RHFrdDNfVmNYNVNPU2Q0aExaa2d4Q2VtYUw4dGxiWmtRdXprQ0ZwV3EzNXBodV9rcDYyREJ5alJIWGgta0FmYzloa2Faay15eE5HcnBhNzB1SHFOdFpueFNnSzFxUnVFUzBCcWVDYXdaMjFuRmthZHZaMzYycW1aaVBJT0lmei03bm5CLTNUX1loaDJhSmprQWlFSkhEMGU1ZWVxMl9pTldDTzVDcWo5Vkloa01hUlFHNjJWVWVzVmREQkQxU1IwRWN1SEt0dThQeFRxTDJtQXNKdVhqTkhjMlZXWnBaU04xcGVLTlFLZWd3?oc=5"
+      "time": "EL PAÍS",
+      "message": "Terremoto en Venezuela - 24 y 25 de junio de 2026 | Asciende a 235 la cifra de muertos y a 4.300 la de heridos",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXlJaGlMUHF2bExwTklXVlp6YlZ1QWhTRUh2QnRjYVBrWVZKc2NMckZhbDBHdWFEZmMtU1R0WWRTZ2VhS2RyZXhmdVAwYU5PVnpmSHloUG1STkR0Um5VbkJSeGxWMHdlUjQwcFlvb09SbnZBQXBPTERDNHV0Q0pjMm530gGWAUFVX3lxTE8yX2Utck5aQXYwTmpRTzBRX3pDdFdKS1I3Q0ZmMTBUOHdNanF4b2hicDNQZlRIcG1TVzlxSExoYzVJTTN3OEZTQmdPcjczOWJ6eXJONzcxRl9qcnFRRGJsbmlZZGpQX2hOc051UU1EZlNnNklZX2wwRl9tWXl6UVVzNWsxWHFudzJFUk5JYWRtX1ViTXM4UQ?oc=5"
     }
   ]
 }
