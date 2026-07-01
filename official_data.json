@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total": 0,
-    "missing": 0,
+    "total": 81287,
+    "missing": 40782,
     "hospitalized": 5000,
-    "safe": 0,
+    "safe": 15686,
     "deceased": 2000
   },
   "reports": [
@@ -24,7 +24,7 @@
     },
     {
       "time": "The New York Times",
-      "message": "Millones en Venezuela recibieron alertas antes de los terremotos",
+      "message": "Antes de los terremotos en Venezuela, millones recibieron alertas en sus celulares",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWd5UVB1eFMxRTRld2lzazRTd2x1elFBUjE3bXR5bTZZN3I1eW1kZVF1bFM2U0ZmckFtVmFLQkFKZW1odEctdVpWSUFnUHFlaFpBNkFJZ2h0aTU4eDJUeDM2amNhaHJTM2RRYkctTFc3ay1NdlhpMjZCNTg1Y0E1M0VMSVpiejc4T2hjNGVGX1k3TUVGdTVBZUtBRktqT3U1ZlNZYlZDMmpSbEMwZVhlMWdycDdZWGdicUE?oc=5"
     },
     {
@@ -54,8 +54,8 @@
     },
     {
       "time": "EL PAÍS",
-      "message": "Terremoto en Venezuela - 24 y 25 de junio de 2026 | Asciende a 235 la cifra de muertos y a 4.300 la de heridos",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXlJaGlMUHF2bExwTklXVlp6YlZ1QWhTRUh2QnRjYVBrWVZKc2NMckZhbDBHdWFEZmMtU1R0WWRTZ2VhS2RyZXhmdVAwYU5PVnpmSHloUG1STkR0Um5VbkJSeGxWMHdlUjQwcFlvb09SbnZBQXBPTERDNHV0Q0pjMm530gGWAUFVX3lxTE8yX2Utck5aQXYwTmpRTzBRX3pDdFdKS1I3Q0ZmMTBUOHdNanF4b2hicDNQZlRIcG1TVzlxSExoYzVJTTN3OEZTQmdPcjczOWJ6eXJONzcxRl9qcnFRRGJsbmlZZGpQX2hOc051UU1EZlNnNklZX2wwRl9tWXl6UVVzNWsxWHFudzJFUk5JYWRtX1ViTXM4UQ?oc=5"
+      "message": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDRYTkVMeWZFT0gwY0N2UjZTR0JHb0wyUXZMRlVnbjJZVkpBVmNYLWZ6aXpaajFNdDR0UGlJYlNPX3M1aF9hWnpLLXgySmE5VUtoWk5SZ1dQcjgwTkZzcWNxMFRiWDVDWS1PeTEwYWxBeUFVOUZLeDMwSjlvOUlGcW9fSEdoNkdVdzR3UE1XZE1kSE5RV0RmcGVqdmhveHd5VVlIOHlqRFdkSE5OSFdOMk8tV2k4dWNQcHE5Q3RKOA?oc=5"
     }
   ]
 }

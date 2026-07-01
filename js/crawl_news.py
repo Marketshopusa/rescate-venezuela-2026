@@ -16,7 +16,10 @@ safe_val = 21942
 hospitalized_val = 4300
 deceased_val = 1000
 
-# Try to load existing counts from official_data.json to avoid regressing when articles fall off the RSS feed
+# Try to load existing counts from official_data.json to avoid regressing
+existing_total = total_val
+existing_missing = missing_val
+existing_safe = safe_val
 existing_deceased = deceased_val
 existing_hospitalized = hospitalized_val
 if os.path.exists(official_json_path):
@@ -24,9 +27,12 @@ if os.path.exists(official_json_path):
         with open(official_json_path, 'r', encoding='utf-8') as f:
             old_data = json.load(f)
             if 'stats' in old_data:
+                existing_total = old_data['stats'].get('total', existing_total)
+                existing_missing = old_data['stats'].get('missing', existing_missing)
+                existing_safe = old_data['stats'].get('safe', existing_safe)
                 existing_deceased = old_data['stats'].get('deceased', existing_deceased)
                 existing_hospitalized = old_data['stats'].get('hospitalized', existing_hospitalized)
-                print(f"Loaded existing baselines from official_data.json: deceased={existing_deceased}, hospitalized={existing_hospitalized}")
+                print(f"Loaded existing baselines from official_data.json: total={existing_total}, missing={existing_missing}, safe={existing_safe}, deceased={existing_deceased}, hospitalized={existing_hospitalized}")
     except Exception as e:
         print(f"Error reading baselines from official_data.json: {e}")
 
@@ -41,9 +47,9 @@ try:
         page.set_viewport_size({"width": 1280, "height": 800})
         page.goto("https://desaparecidosterremotovenezuela.com", timeout=30000)
         
-        # Esperar a que el contador cargue
-        page.wait_for_selector(".styles_statValueNeutral__N1dhG", timeout=15000)
-        page.wait_for_timeout(2000) # delay para asegurar hidratación
+        # Esperar a que el contador cargue y se hidrate (sea distinto de '0')
+        page.wait_for_selector(".styles_statValueNeutral__N1dhG:not(:text('0'))", timeout=25000)
+        page.wait_for_timeout(1000) # delay pequeño adicional
         
         neutral_elements = page.query_selector_all(".styles_statValueNeutral__N1dhG")
         total_text = page.query_selector(".styles_statValueNeutral__N1dhG").inner_text()
@@ -53,11 +59,18 @@ try:
         missing_text = page.inner_text(".styles_statValueDanger__Fzr5b")
         safe_text = page.inner_text(".styles_statValueSuccess___8zCu")
         
-        total_val = int(total_text.replace(".", "").replace(",", ""))
-        missing_val = int(missing_text.replace(".", "").replace(",", ""))
-        safe_val = int(safe_text.replace(".", "").replace(",", ""))
-        api_success = True
-        print(f"Loaded live scraped counts: total={total_val}, missing={missing_val}, safe={safe_val}")
+        t_val = int(total_text.replace(".", "").replace(",", ""))
+        m_val = int(missing_text.replace(".", "").replace(",", ""))
+        s_val = int(safe_text.replace(".", "").replace(",", ""))
+        
+        if t_val > 0:
+            total_val = t_val
+            missing_val = m_val
+            safe_val = s_val
+            api_success = True
+            print(f"Loaded live scraped counts: total={total_val}, missing={missing_val}, safe={safe_val}")
+        else:
+            print("Scraped counts resolved to 0. Skipping update to avoid overwriting database with empty values.")
         browser.close()
 except Exception as playwright_err:
     print(f"Playwright scraping failed: {playwright_err}. Trying API fallback...")
@@ -81,25 +94,32 @@ except Exception as playwright_err:
         print(f"Error fetching live API counts: {api_err}")
 
 if not api_success:
-    print("Falling back to local database scraped_persons_all.json for counts...")
-    try:
-        if os.path.exists(all_json_path):
-            with open(all_json_path, 'r', encoding='utf-8') as f:
-                local_data = json.load(f)
-                keys = local_data.get("keys", [])
-                items = local_data.get("items", [])
-                if items and "estado" in keys:
-                    status_idx = keys.index("estado")
-                    local_count = len(items)
-                    if local_count > total_val:
-                        total_val = local_count
-                        safe_val = sum(1 for row in items if row[status_idx] == "localizado")
-                        missing_val = total_val - safe_val
-                        print(f"Fallback counts loaded from local database: total={total_val}, missing={missing_val}, safe={safe_val}")
-                    else:
-                        print(f"Local database count ({local_count}) is smaller than or equal to defaults ({total_val}). Keeping defaults.")
-    except Exception as local_err:
-        print(f"Error loading fallback counts: {local_err}")
+    print("API fetch and scraping failed/timed out. Restoring counts from previous official_data.json...")
+    if existing_total > 0:
+        total_val = existing_total
+        missing_val = existing_missing
+        safe_val = existing_safe
+        print(f"Restored counts from baselines: total={total_val}, missing={missing_val}, safe={safe_val}")
+    else:
+        print("Falling back to local database scraped_persons_all.json for counts...")
+        try:
+            if os.path.exists(all_json_path):
+                with open(all_json_path, 'r', encoding='utf-8') as f:
+                    local_data = json.load(f)
+                    keys = local_data.get("keys", [])
+                    items = local_data.get("items", [])
+                    if items and "estado" in keys:
+                        status_idx = keys.index("estado")
+                        local_count = len(items)
+                        if local_count > total_val:
+                            total_val = local_count
+                            safe_val = sum(1 for row in items if row[status_idx] == "localizado")
+                            missing_val = total_val - safe_val
+                            print(f"Fallback counts loaded from local database: total={total_val}, missing={missing_val}, safe={safe_val}")
+                        else:
+                            print(f"Local database count ({local_count}) is smaller than or equal to defaults ({total_val}). Keeping defaults.")
+        except Exception as local_err:
+            print(f"Error loading fallback counts: {local_err}")
 
 
 # 2. Fetch Google News RSS
