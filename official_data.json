@@ -9,18 +9,13 @@
   "reports": [
     {
       "time": "BBC",
+      "message": "Las impactantes cifras que revelan la magnitud de los terremotos que golpearon Venezuela hace una semana",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45RGJ0T1VUbnZxbkIxaWpFVDR2TEI4Q3ZiT3pjNG9PbVFWTTZOVFNaXzJQeEhMdjEwWEl6VzREeFZIenZoWTBsQU9LSkRjZkcydF9leW1hc2c2N1HSAWBBVV95cUxONlBIN2Z6MjExQURqaTBBeEJNeU81MmRvLTFsLU9HUXhQQzliZzNwQlcxb2ZBU0VyOXEzOV9xTGxaSnVvcURPbEkzRUNNeVN4TDR6M2ZOTTc0Zkx6cEpjTW0?oc=5"
+    },
+    {
+      "time": "BBC",
       "message": "Venezuela: por qué hay tantas réplicas después de los terremotos y cuánto tiempo pueden durar",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQXVyVUNFVGVjZzhLdXZHTmJ0UUVlaFVtWWFDUndsclV1NzB0TllDUllpUUdjWjZCb01vZzdlaXRQZXI4bTdnZDk4X2NFV2N6b2JXbHJGelRDTlHSAWBBVV95cUxNNnAzMUQ1Q1pQU1hHVHI1a0lRUTFxRHFGVXNnRGVkeGszdjdWRUZUMUxDMzVuXzFSX3ZkMGVxTXZ0YkYtbml5YjY3aWlGQ1g0Q0NNTmtBWmw1UFVPWUVXQkE?oc=5"
-    },
-    {
-      "time": "EL PAÍS",
-      "message": "Última hora del terremoto en Venezuela, en directo | El Gobierno de Venezuela eleva a 2.295 los fallecidos por el doble terremoto",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNktPWXJiakxBOXZTandZc1Y3TE0wX1A3NFByRzhUdlphbFZYOGRycFlHZW5sVDFTRFdidlZISXU0cWR4S1lpN1JrR043WmtZc1o1M0xPRnJhb0VfbDhLMmcxSUY4dS1TRHZGV2RBRjNDSlFpMkRhS0dXTVZCdWYweDZkbWd6SmxJdGpRT2QzRUx0MGZtYWFz0gGrAUFVX3lxTE5GWTlpT2UwbU1odnU1X21rakFSTm9ORDM5VjRNU1hxbHF2RlhuTVdvczVvT2FWX0pWTzhPQUVXdFhPWVhsSVpwdUcxdkNWUUJBTUVTbnZHNmJJTXhhMTQzUVhweXk2Y2Yyd1VRN0xvT1dKbUhaajRRcnVKdndzV05xbW5xTXRNSC1hTG9fVTRFNkdLQ3hMVWFEWmFLSXk2S3llMU9EZ0REVkZKbw?oc=5"
-    },
-    {
-      "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | La cifra de muertos se eleva a 2.295 una semana después de la tragedia - EFE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjV3RjQwU0prVnVxa1E1QWdSTnJvTjZzS3BVZTFtZTlpYzJyRmNHdEJJQ3ZkcjNWOUI1QkVTUDhhLXVGVmI5M2hhU3pLcnlIb25aU04yRlpIOGVYV0prQWhqUjRvdFVTaHpxakJMb05WX1BxOFVWUmFaZXRUU1U4dFBCaDdRcU5TVGhZSVJnQXJBY3IxOTRYMkI2Sy1USFU3Vm40VmZ3UDVfYU12a0x1UF9UTDhEQXBnNkE?oc=5"
     },
     {
       "time": "DW.com",
@@ -48,14 +43,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSjVaMnZxMkV3M0ozUUI3cThIejczaThDU0V4MHBzSDFSTnl3TWo4eTVzVkFtUmJDUnI3X0Fxcmk3VkJNYlVNbGV3aF9UMzN6MGlicE9FY3VBbjBRRjJQVDMzMkQxOGtCNmxpNmlYREk0YW4xOE14ak1rOV9YSGFfdTU5RHlfMkVJZ2J3enF4SU04dVlRczdWaV9qWQ?oc=5"
     },
     {
-      "time": "Cadena SER",
-      "message": "Última hora del terremoto en Venezuela, en directo | La cifra de fallecidos se eleva a 1.719",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQOFYweGZqZ3RQTXcyZllQeXNlUU94LTRocGYzR3JpV2UyMEwwTTVmS2NQUFJHVC1FcVRZc2w2djh0aDNENUJIZTVWX1oxc2dCWm9CZGlGNlVrNDY4WnJldXdHSDhJYXdQcC14d3NZTFBDc3lFdFpTYTZTNE1JZlVTRDZKN3ByS3RiX2xrNlQ5dHF0ekUzU280VnhmQ01OTlBIU1JaRXpxaGhOYjc0Uml4NHZvamVCQjFqNklwWFRmUTQ3UVI5NzJ4c0RuaEF1VzYxT0hyOG9UaHhnNXBMeEZfUlJDcUotXzVnTzdoS3pBQjIxNlNOTDhnYmV5T0Z1cU1VTG5jcEkzVVAxNjJmM250bjVIWHY5NXhGbHk5THpVYnNaRzVFNW5Dd9IBvAJBVV95cUxPV0FKR0gwbFprdy1vMGE3NmNqSlFvNlVaNU56eHFnRGFIZkpGMUw5RzByRTdvXzVYcDdfWk5GVDlvbXJzdU9ZUFFrZDJkbHZ4eHRXMHV1ZUdfdVZWVjZDRkVzLW9GbGxPTXJiSXhTLTlVaG9XZnpSYlhaMXpYdmhQMUh5RzVaOG4tOTVUeFZ0NWFrdVRlT3BVYjhzb3dnREIyYnNrWjYxWnYzN19PNkhoOENtY3V1R2dDemI2TzZjWjZXWVhvLURXM2g1bjhYZGlmX0NKTm1ReGlyOVByWGZ0cU45R3Vndl8zVDhjVFNTSlFWN045dEpWNThzRG5QNlhLYkJ0Y3VEeXdLV2loWXA4YzNVUUZoSWN6UGh3bXk0QlJmaXAzSTdvV0xERWhEdmtPRVVYTVdLOUxKdm5z?oc=5"
-    },
-    {
       "time": "Primicias",
       "message": "Nuevo sismo en Venezuela de magnitud 4,6 sacude zona destruida por anteriores terremotos",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3BrQ01ObjFHbXF0SHVOYlZTcU9VWDExRV85ZlBOR2RqZ2lUa0R6b3RhYjhYNkY0U0dEWVFtMm1MRHVackhqZmJ2X2xFT0Nha1FCbFFyMEhjS1M2c0t4QWhrbEl2LXhMcDliLXpuMW54WUg3aGtnYTktOE1vYVVlal81SXVBam1mTzlGdldrbHF6QVNjYm4yVlY2MnQ?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Dos terremotos, 39 segundos y más de 1.700 muertos: un geólogo argentino explica qué pasó en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZWZxeEFIenVReldZVENLM0dwUTN1LXJXME1ZbllHbGFtdE91OUxIQkZ2UWpGNVZGN2hzZTIzal9sTllnWS03NjJDeGV6ZHNWNDNmOWNBY3BiTExpVnhzUkNZaUJGVVNLNUk2STIyRm5VVWtYejc0Q0RTbW5KMnhLWDhRbjFqWDBfRmttMl9KRVFKak92c2xPRk84bmkwMDBoQzdkZ3N3NTlQRk1kN0JEWFBYeW1fR1BEeTNtMHI3NzJyeTVEODM5a2FPWnJUWDBVQVJnY1NiMlZvcEYtcnfSAfgBQVVfeXFMTy1FU1BhSE5sQWQ4YUdnakdVMENRQ1I4RlhmQkR5X0hQZFVUdEs4cHFOcUdwWUVfMnRFWkJxa1dYN0JnUndrSVhUMnZUcGZtR0drMGRNX0lpcDdMRk40SHlXcTFNblR3YWx4XzNPSzYtM25sNW1MeFdlLUFzMXBRTlFzeFNNN3RESHg3UUZkSU5YN2JuLVFlQkdzaGNJWVBESzdnQThSYkZiaGhqR0o0azRaTHc4N3E5WTdTei1vakpIOE9oVnprZUlpWXUxLUZHQlR3TXI4cmxaV21tc19EdkVhVTdONGpDQW9vY01mNjdHcS1yd001XzU?oc=5"
+    },
+    {
+      "time": "Univision",
+      "message": "Así te hemos contado la crisis que vive Venezuela a consecuencia de los terremotos que impactaron al país",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQYmFhUXNPbzIxME1YcEk1Vlp4c19ic3ExT1ZNWndsMjN2b0szWlpQY1JFNHJkemhZaTZOZUkzV2VRVXgtajV5LU5Cakh2d3VJWk11OExRNjl4YklVdmFQNVJvSnEwTEY5QTNKZVdVV0szeGg0b0JsQWoxZnZCOFVJbXZYTlNiN2FHZ3BlV0puRk96X2ZNdFpEbUhyeUF5UW5fZ3FOQkwydmZPYjY5bXlmYVEwamgwbjEtTEd3Qjg3UEt0bk4tZlBDbXdjT3oxN2d1TkQyaG85R1dZbTRUWTFOMnUzNU1aaDE3UXRra0pwb3dobW9nVjhBTmFha3ZNYXlVYjZaazJqTXgtdzdMdnFBRlY1SHRnNEY5NlhURUdWVW91NDFSanNRcUU5V3dkdkZPcTE4c3duYTBqeDJHc2NVYmI1TTFGNkw2LUk1cjRJUUdjTVZZaWdJV0xEdEVKeUcxQ0E?oc=5"
     }
   ]
 }
