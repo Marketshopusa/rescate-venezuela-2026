@@ -2,7 +2,7 @@
   "stats": {
     "total": 81287,
     "missing": 40772,
-    "hospitalized": 5000,
+    "hospitalized": 12400,
     "safe": 15677,
     "deceased": 2595
   },
@@ -13,9 +13,14 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQXVyVUNFVGVjZzhLdXZHTmJ0UUVlaFVtWWFDUndsclV1NzB0TllDUllpUUdjWjZCb01vZzdlaXRQZXI4bTdnZDk4X2NFV2N6b2JXbHJGelRDTlHSAWBBVV95cUxNNnAzMUQ1Q1pQU1hHVHI1a0lRUTFxRHFGVXNnRGVkeGszdjdWRUZUMUxDMzVuXzFSX3ZkMGVxTXZ0YkYtbml5YjY3aWlGQ1g0Q0NNTmtBWmw1UFVPWUVXQkE?oc=5"
     },
     {
-      "time": "BBC",
-      "message": "Qué se sabe de los dos fuertes terremotos que causaron graves destrozos y muertes en Caracas y otras zonas de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XeWlVVF9GOUhmUUJobjVzNzNMZUc2c3IwVEZPaUx6TUlGSFJmWDdqbklWWHNoNGVYeFJWZ1dqREVGNTA1Y25ybEY5YjVjVi14eWJfY3I2MmkxNFHSAWBBVV95cUxOclp5NXZ3OWJsMF9jbG9wakdaVFl4TU84SExtdVdzUE9saktpeDFmYlBZek1ZdnVCYWtFRElHY1lCSFhRM3lOdVFQNHhJaXpXQUN4RHFrXzdWeU5HaVFBSmQ?oc=5"
+      "time": "CNN en Español",
+      "message": "Terremotos en Venezuela, en vivo: noticias en La Guaira, Caracas, rescates y víctimas",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVM5dWpuTGJENlhfdnNSNnBpLWF5YkUteHZvWTBsSDZrZ3NCbDBqa2l5TXI1R0xtd1pmT3JpelNVa20yb1pVVV9IOURFLWF1blY4aEFILUtFcXBjYy1DR01RU2RNQUROa3d6ZmxRVmRYbVQwV0VpblEzMVBISDJuSGtjemNudEZKQV9iM2pxdVN6dzJ4X1VfbThJR2JjeTduQUROQldWUXpGMkFMNUlqU2xxTkdMNDZET0E?oc=5"
+    },
+    {
+      "time": "EL PAÍS",
+      "message": "El terremoto en Venezuela - 30 de junio de 2026 | El Gobierno de Venezuela eleva a 1.943 los fallecidos por el terremoto y a 10.571 los heridos",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcDlLanNpLVo0VEw4aGE4SzllSE9naDBzMEEyN2tOTmlqS2otNzYtRHUteUc3WURLUzVnVkR6V09haFU4UzRpZFdzbkMtcUx3c2EyNDBnOG1PdTg4ZW1hYWdaT3NUUXVPcFV4TndaZHlRd2p2UE1hUi1BTFJzcVZOVmJhcTJrTXkyT2hrYUl1WG9kTUdZdy1j0gGrAUFVX3lxTFBSeUlteHgxODF3Z0NZRTU0WkJEQjVXV3hSY0xSMTY2aWlwNE5CaFpUOGdoOGc2aTFzc0d1VFc2ZmppZWx5RjM2ZEF2U05lT2NFZFFWeWd0b2U0SnVaQjJ4ZDZGLUt3c2trcU80S3ZrRkU1U0pBcS1udmVoNGZpcFRUUklIbTFDMHN5NlM2QU1BMDE3LUktYzhiOTZOTXRZeDFhV0lwcmhveWZQQQ?oc=5"
     },
     {
       "time": "Infobae",
@@ -23,14 +28,14 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZWZxeEFIenVReldZVENLM0dwUTN1LXJXME1ZbllHbGFtdE91OUxIQkZ2UWpGNVZGN2hzZTIzal9sTllnWS03NjJDeGV6ZHNWNDNmOWNBY3BiTExpVnhzUkNZaUJGVVNLNUk2STIyRm5VVWtYejc0Q0RTbW5KMnhLWDhRbjFqWDBfRmttMl9KRVFKak92c2xPRk84bmkwMDBoQzdkZ3N3NTlQRk1kN0JEWFBYeW1fR1BEeTNtMHI3NzJyeTVEODM5a2FPWnJUWDBVQVJnY1NiMlZvcEYtcnfSAfgBQVVfeXFMTy1FU1BhSE5sQWQ4YUdnakdVMENRQ1I4RlhmQkR5X0hQZFVUdEs4cHFOcUdwWUVfMnRFWkJxa1dYN0JnUndrSVhUMnZUcGZtR0drMGRNX0lpcDdMRk40SHlXcTFNblR3YWx4XzNPSzYtM25sNW1MeFdlLUFzMXBRTlFzeFNNN3RESHg3UUZkSU5YN2JuLVFlQkdzaGNJWVBESzdnQThSYkZiaGhqR0o0azRaTHc4N3E5WTdTei1vakpIOE9oVnprZUlpWXUxLUZHQlR3TXI4cmxaV21tc19EdkVhVTdONGpDQW9vY01mNjdHcS1yd001XzU?oc=5"
     },
     {
-      "time": "The New York Times",
-      "message": "Venezuela busca a los sobrevivientes de los terremotos",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWF9kdGI3VWFzVmQ5MFY4aHJCZzlzUUtjU3I3cWtxbEJQMlA1b3VDUHRZbmVRRS0ySGs0eDlEYklueXp6Q1Ffd0xoc3dNVG1YbFR6RWhGMGNEZ1k0WkprM1RVVWh1X3FwZkJRRE1UNkhIbHA2V1Aw?oc=5"
-    },
-    {
       "time": "DW.com",
       "message": "Sube a 235 la cifra de muertos por terremotos en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnJSNU5yeUIxTHVDcGJvSHZTczlCeF9Za0RsOHJEVkJfNGN6b1psQ2d5QlU1MnNkem5SSU1xdkkwY2NKUERqNHpJMVBTdkNMbXRhb1c5eU1JRmUwYVF3Q1h5OE1nWFpNdW5FVkc5aGV3V2MwX3laTHREVGFLUkI2b3pULWVLZmF6NVpkMnQ0NkxSVjFIVVIwOXNn?oc=5"
+    },
+    {
+      "time": "The New York Times",
+      "message": "Venezuela busca a los sobrevivientes de los terremotos",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWF9kdGI3VWFzVmQ5MFY4aHJCZzlzUUtjU3I3cWtxbEJQMlA1b3VDUHRZbmVRRS0ySGs0eDlEYklueXp6Q1Ffd0xoc3dNVG1YbFR6RWhGMGNEZ1k0WkprM1RVVWh1X3FwZkJRRE1UNkhIbHA2V1Aw?oc=5"
     },
     {
       "time": "BBC",
@@ -48,14 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclU4aS12d3B6aUgwMFpNck02TWNfYlN1SU9TSk5uLUY1emRJQmlLNUtCeFVHSTBVdzZreDE4SHRqeS1FT3BiMGVyY0UwYi10eERsdnBBNndmcWxWN2pNamI2TlFfZFNQcjhGa3NxX0V1RDhJSTQtRXBOdEFxaUozbDUzTDEtSF9BM24zZnJIUTdzZVhENW130gGrAUFVX3lxTFAzc18xMDZSSnc2WTFSOU9wMlZPZ3VjdEQxOW91SUg4bjlfdll1S21oNVNscE42V3lnNVpXOEoyaTRRR1dWWG1LUy1XQ3VoQ0ZRTHRQT3FZS2pfTXhkUllTTWZtTmhUN1hJeFVVcnd0NjhxU29zVklqWDNJRHlsLU1xWDNDYm5OM29aWnM1Y2dHajM1TU9vMl9iOVlPb2ZZTXc2cG95c0V6OTR3Zw?oc=5"
     },
     {
-      "time": "EL PAÍS",
-      "message": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDRYTkVMeWZFT0gwY0N2UjZTR0JHb0wyUXZMRlVnbjJZVkpBVmNYLWZ6aXpaajFNdDR0UGlJYlNPX3M1aF9hWnpLLXgySmE5VUtoWk5SZ1dQcjgwTkZzcWNxMFRiWDVDWS1PeTEwYWxBeUFVOUZLeDMwSjlvOUlGcW9fSEdoNkdVdzR3UE1XZE1kSE5RV0RmcGVqdmhveHd5VVlIOHlqRFdkSE5OSFdOMk8tV2k4dWNQcHE5Q3RKOA?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Venezuela vivió el terremoto más potente desde el año 1900",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVU1SSHZtdHpjMDFjSzU5WWR4Y2J1ajhtdFl1bmNLUzA5M3R3OE9GMUtwYUlrTmxRWXNBYmd4QzNnR0k3S1dTTy1pd0IzX2hSYmp3YkVDeXhDUE9KYzRJU05IN2lCSHdUYUdIYTRsWENiX1p0ak5IM2oyTWpiWXFFeXZnUXhJaVVIZlpOQ1RkcEJHNnJSVVh3TzNGRk9GTzJueGFoQno0N2hhWlI2UnkyY05PMVIyc3lpRzF4elptaDVkZDTSAcMBQVVfeXFMT0hGbU5lY0t0MnNYVzFEaFVVb3VtZmlNd0lmNjNMM2lkSWxKWW5jRFJNVVNOTWRwaDNybk9rbVpjMDVfNG5McWpna1VuWDI1UHJZVzhEQzdzRVZJN3g1Y1BIRW5KeklOMEZHMFFYRU9MSWFyN3VPdFJLS3ExTVJ6TE9NMnRKMndETy15UmlBMlN3WDRuM0xzeVpidlpUUk5YUGdaYWNqdlRjeUJ6RGJoeThDdlQydHpUeDFjNUZNYllwWFcw?oc=5"
+      "time": "CNN en Español",
+      "message": "Resumen de noticias de los terremotos en Venezuela, el 24 y 25 de junio",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWVZemZacE5Jd2dUb0x2U2ZZbDN2b1Y1ZVR0dFFLLXVIZ0U3SnhHMFNER0dFNVlfWlBVT3ZHZDNRWGNxZm1HNkh5TXBiLW1Lc2FtMTcwcjVXMHZNTG1ieFdERlllSDVXaXI4T2JaTFRaa1pQR1k2T3U3VXQxWVU4NzNVaFowOEhqT3lFU3FGSVhCQ2dsdHZ5S1Q4NE5sZVJ1TzFpVkJn?oc=5"
     }
   ]
 }
