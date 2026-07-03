@@ -4,58 +4,58 @@
     "missing": 40772,
     "hospitalized": 5000,
     "safe": 15677,
-    "deceased": 2000
+    "deceased": 2595
   },
   "reports": [
-    {
-      "time": "BBC",
-      "message": "Qué se sabe de los dos fuertes terremotos que causaron graves destrozos y muertes en Caracas y otras zonas de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XeWlVVF9GOUhmUUJobjVzNzNMZUc2c3IwVEZPaUx6TUlGSFJmWDdqbklWWHNoNGVYeFJWZ1dqREVGNTA1Y25ybEY5YjVjVi14eWJfY3I2MmkxNFHSAWBBVV95cUxOclp5NXZ3OWJsMF9jbG9wakdaVFl4TU84SExtdVdzUE9saktpeDFmYlBZek1ZdnVCYWtFRElHY1lCSFhRM3lOdVFQNHhJaXpXQUN4RHFrXzdWeU5HaVFBSmQ?oc=5"
-    },
     {
       "time": "BBC",
       "message": "Venezuela: por qué hay tantas réplicas después de los terremotos y cuánto tiempo pueden durar",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQXVyVUNFVGVjZzhLdXZHTmJ0UUVlaFVtWWFDUndsclV1NzB0TllDUllpUUdjWjZCb01vZzdlaXRQZXI4bTdnZDk4X2NFV2N6b2JXbHJGelRDTlHSAWBBVV95cUxNNnAzMUQ1Q1pQU1hHVHI1a0lRUTFxRHFGVXNnRGVkeGszdjdWRUZUMUxDMzVuXzFSX3ZkMGVxTXZ0YkYtbml5YjY3aWlGQ1g0Q0NNTmtBWmw1UFVPWUVXQkE?oc=5"
     },
     {
-      "time": "facebook.com",
-      "message": "Volvían a reemprender la vida en Venezuela. Se encontraron con el doble terremoto. Lee más en los comentarios 👇 https://bbc.in/4p3S4hp",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNFR6RXVIRWpxVmFUZXhQRnJxVTE3R3RHcDhhTGY2SVFvVmpjblBQTTQxM0EzWHdTeGgtVE9JcTlpbGJOV0hrc01UR2h5dVZGczhIY3ZHM2JIVlJhaFdCeU5jLWZDalJkdmFBc2prdHFPUjJWMnpDSFZqS3gxa01DQ0M3TkVISlU0VGxlTUw4aU1MTk5kUE1GN1lydUJxcVZ6ZHM5YmFLWVpWaWdLN2Nqb1ZDUEx4NURzVWNwSjN1UE1QM2R0SVUwMmc5WUp6cmJGek9uTG55Z0pJTlUtZzRjMg?oc=5"
+      "time": "BBC",
+      "message": "Qué se sabe de los dos fuertes terremotos que causaron graves destrozos y muertes en Caracas y otras zonas de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XeWlVVF9GOUhmUUJobjVzNzNMZUc2c3IwVEZPaUx6TUlGSFJmWDdqbklWWHNoNGVYeFJWZ1dqREVGNTA1Y25ybEY5YjVjVi14eWJfY3I2MmkxNFHSAWBBVV95cUxOclp5NXZ3OWJsMF9jbG9wakdaVFl4TU84SExtdVdzUE9saktpeDFmYlBZek1ZdnVCYWtFRElHY1lCSFhRM3lOdVFQNHhJaXpXQUN4RHFrXzdWeU5HaVFBSmQ?oc=5"
     },
     {
-      "time": "DW.com",
-      "message": "Venezuela: fallecidos por terremotos aumentan a 2.295",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdk95Tl90TnRmVXFDVkJVOURTTXJYeHNHWTdlUWNlZHpQNHozQ1N4WV80VFRweEl6bXNvQzJqRXEwZUxJWUpfV0NjQlB0bzZDd3Vab1hod0ZrNHVRZ3pVVVdUM1dnVzZDUDFDaVIyWEVlSko1YXFBOVNIUGNucDZWa2tOaWloajN0aWFOMNIBjAFBVV95cUxQb1FOV3lzaUtESXN1Q2M3ZnRTQk1YSTVncEgyUDNKb1BQVE9lSkZKN1VFNzR2dDZqWVlRVVktNzNsVC1JbjJhNFVaalJIOGFzRHFua2VfNDl6Z1J5UGROOVFWNV9JZTM2VGhMbGx3LTNEaEYzTHBiRmkwN3JtTkpDa2hSczBKVW5UdlZRSQ?oc=5"
+      "time": "Infobae",
+      "message": "Dos terremotos, 39 segundos y más de 1.700 muertos: un geólogo argentino explica qué pasó en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZWZxeEFIenVReldZVENLM0dwUTN1LXJXME1ZbllHbGFtdE91OUxIQkZ2UWpGNVZGN2hzZTIzal9sTllnWS03NjJDeGV6ZHNWNDNmOWNBY3BiTExpVnhzUkNZaUJGVVNLNUk2STIyRm5VVWtYejc0Q0RTbW5KMnhLWDhRbjFqWDBfRmttMl9KRVFKak92c2xPRk84bmkwMDBoQzdkZ3N3NTlQRk1kN0JEWFBYeW1fR1BEeTNtMHI3NzJyeTVEODM5a2FPWnJUWDBVQVJnY1NiMlZvcEYtcnfSAfgBQVVfeXFMTy1FU1BhSE5sQWQ4YUdnakdVMENRQ1I4RlhmQkR5X0hQZFVUdEs4cHFOcUdwWUVfMnRFWkJxa1dYN0JnUndrSVhUMnZUcGZtR0drMGRNX0lpcDdMRk40SHlXcTFNblR3YWx4XzNPSzYtM25sNW1MeFdlLUFzMXBRTlFzeFNNN3RESHg3UUZkSU5YN2JuLVFlQkdzaGNJWVBESzdnQThSYkZiaGhqR0o0azRaTHc4N3E5WTdTei1vakpIOE9oVnprZUlpWXUxLUZHQlR3TXI4cmxaV21tc19EdkVhVTdONGpDQW9vY01mNjdHcS1yd001XzU?oc=5"
     },
     {
       "time": "The New York Times",
-      "message": "El impacto de los terremotos en Venezuela en un mapa",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNM1Mxb0lfck80MlViUXVlRy1ZZlJSSTd2RDFNS3BOVUZtRWFRX2thZlNLeGVZenFGVU9NVVRnSENsam4wV3RHcTRnbEFHR1o3TWVGUEluMllFRUxPUTZGTTE4R2tSVXBUTEdyb3h6aVFOOERGSlhBY3hFNm9EVFU0X3FmeWpNUWs?oc=5"
-    },
-    {
-      "time": "Telemundo Miami (51)",
-      "message": "A una semana de los catastróficos terremotos en Venezuela: 2,295 muertos y 11,267 heridos",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOFRMQklmRzlTaGNWSEY1UVF1d0gxMnlHdzJkemlsbmlrR2x3Z1NmekJ1NERLVktlTHNhWHhmeVFqSUdMNFlNRXRBMm9NeFZlbklJWXphMjUtaXFIdVZEeGo3Mm9PUV9DWHh1bGdZODRYQ0RzaFRFemJicjd1SktJNTBpdnpFWVJmd2FCanktMExYYlZMRVFPaWZMUnRXVVhybTlxT2JJYVVVWm00alFRYTZkdHRoVjRyR1UxdkxXOEZuMDF0U1FDc3lGYUNGUzRzd3lSOGR4Y9IB3wFBVV95cUxOUHE5V2pKajNmXzhIWHcxRG5qdk5nRERCdTFxWXh5azhNanZydlo0Nnc3OW5zb2tqYVgxX2J6NjJnR1I3RG1oZzc4T0NiX1E2Qy15bkl4YmYtTmlsRHdPbVJLN1hJQ0tmbnh1QUZFZFk3VjU1Snp3UDQzTzY5TkN1bWpfVjdPNkxDNGdfczFZV1VKT3IwMlhYWkpuRTFFTlhnVm5wNnBsSFlQbHJWaWhKbklnelZ5Rk5nVHN1TUFKdVJqNmgwS21mU0JLalp4RHl1eHlEWjN6TUhkVUdBMmFR?oc=5"
+      "message": "Venezuela busca a los sobrevivientes de los terremotos",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWF9kdGI3VWFzVmQ5MFY4aHJCZzlzUUtjU3I3cWtxbEJQMlA1b3VDUHRZbmVRRS0ySGs0eDlEYklueXp6Q1Ffd0xoc3dNVG1YbFR6RWhGMGNEZ1k0WkprM1RVVWh1X3FwZkJRRE1UNkhIbHA2V1Aw?oc=5"
     },
     {
       "time": "DW.com",
-      "message": "Fuerte réplica sacude Caracas y La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUtXVmQ1SkFhb1VWeFZmUzlqcWVCOHZybTlRRklQejJUSVhCaHJXcWwwSkZ5T19lWDRtV0xuNG40T0wxT0NoblJVX002QWwzWnQ1NExvLUctcmgxOFFGanlNWWhOd29reDJtX3Y3V3htVXBIckZRUzRxd3RKWndfaVc1N19pY3RzVV9LNFFFTmlzakpITnV1eS1BYw?oc=5"
+      "message": "Sube a 235 la cifra de muertos por terremotos en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnJSNU5yeUIxTHVDcGJvSHZTczlCeF9Za0RsOHJEVkJfNGN6b1psQ2d5QlU1MnNkem5SSU1xdkkwY2NKUERqNHpJMVBTdkNMbXRhb1c5eU1JRmUwYVF3Q1h5OE1nWFpNdW5FVkc5aGV3V2MwX3laTHREVGFLUkI2b3pULWVLZmF6NVpkMnQ0NkxSVjFIVVIwOXNn?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se comparan los de esta semana con los del pasado)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SnE4c3NoQTlxRGhiU3RqbzRYSVJySi1FZjg1bktDVXJ5azFmeWxudkdjMWhBYjh3SnRoMFRWN054U3lzTEVYa0JfZ1ZBREpOQmprX1AtWFNYa2_SAWBBVV95cUxPdHRtS2VSQkZPRThyXzJNZ3diU2kwTkhSU1ZBa1MyUlByR2NCeUNQVTZQSHpGd1k1RlZxZnIzUGt4YVpMWGVSSU5Lc2szUzlhNGpzSTJHb2dib2tRa0x6bDU?oc=5"
     },
     {
       "time": "EL PAÍS",
-      "message": "Venezuela no logra hacer el luto tras el terremoto",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTJFQTdqd2l4YnVFRURqMVR1T3diQmNJOUV3QlZXTGtfX3VNQ1QyNEtkTEo4Y3VmQkhSS0NCRWoxYWl6aHdYell5U1M2V2NEcXdNLTFqaUJ0Z3lPYTAwd0VVbGYyNDhXUjJJWk9KSEIwUm1ZR3hrNlNCcldEU1FMSTY3aGtsbk5jU0laWnNLSS1QZFNrbF8yTNIBrAFBVV95cUxOSmt5dE1uRmlNXzQ5SjRBZWw5d2ZTS2VyXzFuZXhYUEk2UDNjTm94a1ZQdmk3ZTFaOTROMDZEak9LTEpwa2JPb2hORnBUTFBYME1XWnZETWNtUkcxNVVaMGlmeDQtNVUtd0phSjk5dUVpYWY1aWttVDVUWE5HdHNxM04wbVZ5ZTFuZlV1YkI3b0VtT0pQQXV5MXB3M2sxUkFEYXZSQXdVMHhSRFFP?oc=5"
+      "message": "Terremoto en Venezuela - 24 y 25 de junio de 2026 | Asciende a 235 la cifra de muertos y a 4.300 la de heridos",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXlJaGlMUHF2bExwTklXVlp6YlZ1QWhTRUh2QnRjYVBrWVZKc2NMckZhbDBHdWFEZmMtU1R0WWRTZ2VhS2RyZXhmdVAwYU5PVnpmSHloUG1STkR0Um5VbkJSeGxWMHdlUjQwcFlvb09SbnZBQXBPTERDNHV0Q0pjMm530gGWAUFVX3lxTE8yX2Utck5aQXYwTmpRTzBRX3pDdFdKS1I3Q0ZmMTBUOHdNanF4b2hicDNQZlRIcG1TVzlxSExoYzVJTTN3OEZTQmdPcjczOWJ6eXJONzcxRl9qcnFRRGJsbmlZZGpQX2hOc051UU1EZlNnNklZX2wwRl9tWXl6UVVzNWsxWHFudzJFUk5JYWRtX1ViTXM4UQ?oc=5"
+    },
+    {
+      "time": "EL PAÍS",
+      "message": "Terremoto en Venezuela - 27 de junio de 2026 | La cifra de muertos por el doble terremoto en Venezuela asciende a 1.430 y el número de españoles fallecidos se eleva a seis",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclU4aS12d3B6aUgwMFpNck02TWNfYlN1SU9TSk5uLUY1emRJQmlLNUtCeFVHSTBVdzZreDE4SHRqeS1FT3BiMGVyY0UwYi10eERsdnBBNndmcWxWN2pNamI2TlFfZFNQcjhGa3NxX0V1RDhJSTQtRXBOdEFxaUozbDUzTDEtSF9BM24zZnJIUTdzZVhENW130gGrAUFVX3lxTFAzc18xMDZSSnc2WTFSOU9wMlZPZ3VjdEQxOW91SUg4bjlfdll1S21oNVNscE42V3lnNVpXOEoyaTRRR1dWWG1LUy1XQ3VoQ0ZRTHRQT3FZS2pfTXhkUllTTWZtTmhUN1hJeFVVcnd0NjhxU29zVklqWDNJRHlsLU1xWDNDYm5OM29aWnM1Y2dHajM1TU9vMl9iOVlPb2ZZTXc2cG95c0V6OTR3Zw?oc=5"
+    },
+    {
+      "time": "EL PAÍS",
+      "message": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDRYTkVMeWZFT0gwY0N2UjZTR0JHb0wyUXZMRlVnbjJZVkpBVmNYLWZ6aXpaajFNdDR0UGlJYlNPX3M1aF9hWnpLLXgySmE5VUtoWk5SZ1dQcjgwTkZzcWNxMFRiWDVDWS1PeTEwYWxBeUFVOUZLeDMwSjlvOUlGcW9fSEdoNkdVdzR3UE1XZE1kSE5RV0RmcGVqdmhveHd5VVlIOHlqRFdkSE5OSFdOMk8tV2k4dWNQcHE5Q3RKOA?oc=5"
     },
     {
       "time": "DW.com",
-      "message": "Venezuela: rescatan con vida a hombre a 8 días de los sismos",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOW1YWl9ka2hPcWJ5Y0xRZWtOamJ5aUFnYXFTcGc0MHFOR3NsXzJvRnF5ek0xTzFGSkwxcnZJbXlpYmh5em5oYXBlVkhXZE4wWnlFTlhUclFfNWI2bjc3bzBUOXZGaE1jOXNBUkxZVXdVaEh2YmlVS0d1eXpUQmtyN2Rndlc5RU1EaVJqT05Yb29FU3FETHRKRUx2eFJGUER4Q05aYXdmenlmajdQa2930gGvAUFVX3lxTE9VOFItUDh2cnBhT3dGM1otb0ExeVRNQVYyd0dIWGNjSDQ1V2lxMWhLeGxObnlkY1F4b3VmY0lSdC1TUU01QmN0NmRzVDB2bTl6d2NKVGdERjFhWVRfb0NJSDVsLUdpQk16MjFoMkgtNkJRdWdha2l1RTZfTm16MzEwMlBnczZINkhUbjM1OGNfMEFjb2tpa09BekVfcnYwOERJbGhYdHh3dFNwYjdjb0U?oc=5"
-    },
-    {
-      "time": "Gaceta UNAM",
-      "message": "El doble terremoto de Venezuela revela su compleja red de fallas",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOME1kS2VSWUU3Tmp6WEkwS3pkRUNmbU5uN2FIOHgtWnpLb2liU1VPd1J5Ulc2YkxDeGVQTGlId1plMVdqQkpNcndLYU1yQllNeWtSb2lUWnJaMGQ3SEg5UGNlbkdDZWFGaEgwLU12N2kxeENRVEFLSk5UNzFncHJNclhUOWZ3UGNJNkp6LVVFY0ozM2dLeThXTzhIQTNQc0hfX2c5TVh2dVRjd3BVTjZvWnVwcTRUYTVOcmN0VjJTeXNvemhXOERV?oc=5"
+      "message": "Venezuela vivió el terremoto más potente desde el año 1900",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVU1SSHZtdHpjMDFjSzU5WWR4Y2J1ajhtdFl1bmNLUzA5M3R3OE9GMUtwYUlrTmxRWXNBYmd4QzNnR0k3S1dTTy1pd0IzX2hSYmp3YkVDeXhDUE9KYzRJU05IN2lCSHdUYUdIYTRsWENiX1p0ak5IM2oyTWpiWXFFeXZnUXhJaVVIZlpOQ1RkcEJHNnJSVVh3TzNGRk9GTzJueGFoQno0N2hhWlI2UnkyY05PMVIyc3lpRzF4elptaDVkZDTSAcMBQVVfeXFMT0hGbU5lY0t0MnNYVzFEaFVVb3VtZmlNd0lmNjNMM2lkSWxKWW5jRFJNVVNOTWRwaDNybk9rbVpjMDVfNG5McWpna1VuWDI1UHJZVzhEQzdzRVZJN3g1Y1BIRW5KeklOMEZHMFFYRU9MSWFyN3VPdFJLS3ExTVJ6TE9NMnRKMndETy15UmlBMlN3WDRuM0xzeVpidlpUUk5YUGdaYWNqdlRjeUJ6RGJoeThDdlQydHpUeDFjNUZNYllwWFcw?oc=5"
     }
   ]
 }
