@@ -4,28 +4,23 @@
     "missing": 34300,
     "hospitalized": 12666,
     "safe": 14830,
-    "deceased": 2595
+    "deceased": 2645
   },
   "reports": [
-    {
-      "time": "EL PAÍS",
-      "message": "El terremoto en Venezuela - 2 de julio de 2026 | Delcy Rodríguez: “Politizar una situación humanitaria como esta es miserable”",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFE3X1BoYlhJTzRMQ25IOWtOLWkzcGZSd25fMmh6SmxvbEE5S1B5N2NWU0xKTmdfeVc1aElJcHVOWnpFSnNPMGk5TjI3M00tSUh6WlItNWhPd0luY1ZJaVEtckRFaE5tWnM2TG9QeHdsQUxxeGlNQjhYQjlfY2N6M3pZRkJwcllvRnJ0dExZU2otQWJ3eWZz0gGrAUFVX3lxTFB1QUF0UGRPdkRnQU84WmRJTnJPLUxWWDFwQXhOeDNadUtZRm9qSDJ1QTNjQ2pqemVIQTdKMlQ5Q3BTeGswXzZHaTFLVHl0MWFwYzhDaVk5bGhLZndiQlkxUTRkbmNpZjVDYUVMWS14S25SWFNRZl9KcWotRlZTRDllZHpnOVJmdndtNVFHbWRNSWlXUGJvbkttb204cVFZaU1FLVZ4LXNXelpoOA?oc=5"
-    },
     {
       "time": "BBC",
       "message": "Terremoto en Venezuela: 3 factores que explican por qué se derrumbaron tantos edificios en La Guaira",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblHSAWBBVV95cUxPTkVxamRkRTE1enE0UjEyM2FjWlY2UmpKSngydGp6aGdINjNuc1hQWHBmbUxSSFJfSGR6X3ZQWTNkZlRFTGpsZFVoR3JHRTEyMVdoWFFmM0NzVXh1TDhGVHU?oc=5"
     },
     {
-      "time": "Infobae",
-      "message": "Terremotos en Venezuela: la NASA mostró cómo los sismos desplazaron la superficie terrestre",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzZoNmNqV0ZjeTFJRzJIelU4cVAwTHQtZExNRXlKaF84M3FiN2VsZndwNExWbnpSUWc3NzNzMFljVmxlS2JFc1lNVEVsUmFUWlZxci1JV0hRZU5WZS13alB0ZzRRLVJZT0NtamhSN3NmRkV2M3EyNHNXcDBua1IxdjRDQkRVdUI3OXdkTjZPRU94Z3F0UGNSb2RURjRnMzEtN0d4TmJFLXFNWTdLSTB4dWNzQjdZQk5mOVRQR2xuYnlvZEdvU2MxbzFfbGNXTnBwb0VDY0tMZWlJZ3Nza2NlVmtiUHnSAf8BQVVfeXFMT0hNOHZieHppQk9EWnBLeU9UQXZ0RERuTl8yQWRlWkRjVFU0OXV1bk13THFPVDctc2ltUWUwRHJHRFREcGJnT3NWMHZOZkxxQjhSX2pkVmtlN2NNRU9oWHBzbE13QkJzYmUwbkQtRmFLZWdvZGZ5OWZhcjM3cEVhZEprR1ZhYnJtZGI4aS1oVnh5VjFUYTdxcWNLR094bDlqaUFZeV94WmF2SGhkMGFnekhEWWlZWjBEYi1jSGhSZFJGQXNSaDdlSmwzZ3NQZ2MxTmpBQkNreGJuZi1jMUt3dl85U28tcW56Z0o5eERBRHNDaG4yMnhIQ0o5RldLT3hv?oc=5"
+      "time": "EL PAÍS",
+      "message": "El terremoto en Venezuela - 2 de julio de 2026 | Delcy Rodríguez: “Politizar una situación humanitaria como esta es miserable”",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFE3X1BoYlhJTzRMQ25IOWtOLWkzcGZSd25fMmh6SmxvbEE5S1B5N2NWU0xKTmdfeVc1aElJcHVOWnpFSnNPMGk5TjI3M00tSUh6WlItNWhPd0luY1ZJaVEtckRFaE5tWnM2TG9QeHdsQUxxeGlNQjhYQjlfY2N6M3pZRkJwcllvRnJ0dExZU2otQWJ3eWZz0gGrAUFVX3lxTFB1QUF0UGRPdkRnQU84WmRJTnJPLUxWWDFwQXhOeDNadUtZRm9qSDJ1QTNjQ2pqemVIQTdKMlQ5Q3BTeGswXzZHaTFLVHl0MWFwYzhDaVk5bGhLZndiQlkxUTRkbmNpZjVDYUVMWS14S25SWFNRZl9KcWotRlZTRDllZHpnOVJmdndtNVFHbWRNSWlXUGJvbkttb204cVFZaU1FLVZ4LXNXelpoOA?oc=5"
     },
     {
-      "time": "Univision",
-      "message": "Últimas noticias del terremoto en Venezuela: la cifra de víctimas sube a 1,943 fallecidos, 10,571 heridos y más de 15 mil damnificados",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYjJFb0stY1VxREpWS3doSmF2czBScnVYQ3RxTFpaWnA1N2R5Q2VrUkJMX3BfSF90bEtwaGdWWXd5NnJOVHg5SmFmdTRZOGZuUDF3ZUNHYi0xU0w4ZWk2cUVZOTluWXNhYUlhY0FNVC16dFJDYTR5R1pHRjNiY0VZZ1F1WUxmSGtnWlZyVWdMVGFCT2xZRkp4cG5KaXBJMXlUNHRNQzNNeXJxZ1NkRHR0OWpFQlgzWHA0WFRiTw?oc=5"
+      "time": "Infobae",
+      "message": "Terremotos en Venezuela: la NASA mostró cómo los sismos desplazaron la superficie terrestre",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdzZoNmNqV0ZjeTFJRzJIelU4cVAwTHQtZExNRXlKaF84M3FiN2VsZndwNExWbnpSUWc3NzNzMFljVmxlS2JFc1lNVEVsUmFUWlZxci1JV0hRZU5WZS13alB0ZzRRLVJZT0NtamhSN3NmRkV2M3EyNHNXcDBua1IxdjRDQkRVdUI3OXdkTjZPRU94Z3F0UGNSb2RURjRnMzEtN0d4TmJFLXFNWTdLSTB4dWNzQjdZQk5mOVRQR2xuYnlvZEdvU2MxbzFfbGNXTnBwb0VDY0tMZWlJZ3Nza2NlVmtiUHk?oc=5"
     },
     {
       "time": "DW.com",
@@ -38,14 +33,14 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWF9kdGI3VWFzVmQ5MFY4aHJCZzlzUUtjU3I3cWtxbEJQMlA1b3VDUHRZbmVRRS0ySGs0eDlEYklueXp6Q1Ffd0xoc3dNVG1YbFR6RWhGMGNEZ1k0WkprM1RVVWh1X3FwZkJRRE1UNkhIbHA2V1Aw?oc=5"
     },
     {
-      "time": "BBC",
-      "message": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se comparan los de esta semana con los del pasado)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SnE4c3NoQTlxRGhiU3RqbzRYSVJySi1FZjg1bktDVXJ5azFmeWxudkdjMWhBYjh3SnRoMFRWN054U3lzTEVYa0JfZ1ZBREpOQmprX1AtWFNYa2_SAWBBVV95cUxPdHRtS2VSQkZPRThyXzJNZ3diU2kwTkhSU1ZBa1MyUlByR2NCeUNQVTZQSHpGd1k1RlZxZnIzUGt4YVpMWGVSSU5Lc2szUzlhNGpzSTJHb2dib2tRa0x6bDU?oc=5"
-    },
-    {
       "time": "EL PAÍS",
       "message": "Terremoto en Venezuela - 27 de junio de 2026 | La cifra de muertos por el doble terremoto en Venezuela asciende a 1.430 y el número de españoles fallecidos se eleva a seis",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclU4aS12d3B6aUgwMFpNck02TWNfYlN1SU9TSk5uLUY1emRJQmlLNUtCeFVHSTBVdzZreDE4SHRqeS1FT3BiMGVyY0UwYi10eERsdnBBNndmcWxWN2pNamI2TlFfZFNQcjhGa3NxX0V1RDhJSTQtRXBOdEFxaUozbDUzTDEtSF9BM24zZnJIUTdzZVhENW130gGrAUFVX3lxTFAzc18xMDZSSnc2WTFSOU9wMlZPZ3VjdEQxOW91SUg4bjlfdll1S21oNVNscE42V3lnNVpXOEoyaTRRR1dWWG1LUy1XQ3VoQ0ZRTHRQT3FZS2pfTXhkUllTTWZtTmhUN1hJeFVVcnd0NjhxU29zVklqWDNJRHlsLU1xWDNDYm5OM29aWnM1Y2dHajM1TU9vMl9iOVlPb2ZZTXc2cG95c0V6OTR3Zw?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Por qué Venezuela es tan propensa a sufrir terremotos destructivos (y cómo se comparan los de esta semana con los del pasado)",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92SnE4c3NoQTlxRGhiU3RqbzRYSVJySi1FZjg1bktDVXJ5azFmeWxudkdjMWhBYjh3SnRoMFRWN054U3lzTEVYa0JfZ1ZBREpOQmprX1AtWFNYa2_SAWBBVV95cUxPdHRtS2VSQkZPRThyXzJNZ3diU2kwTkhSU1ZBa1MyUlByR2NCeUNQVTZQSHpGd1k1RlZxZnIzUGt4YVpMWGVSSU5Lc2szUzlhNGpzSTJHb2dib2tRa0x6bDU?oc=5"
     },
     {
       "time": "EL PAÍS",
@@ -56,6 +51,11 @@
       "time": "CNN en Español",
       "message": "Resumen de noticias de los terremotos en Venezuela, el 24 y 25 de junio",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWVZemZacE5Jd2dUb0x2U2ZZbDN2b1Y1ZVR0dFFLLXVIZ0U3SnhHMFNER0dFNVlfWlBVT3ZHZDNRWGNxZm1HNkh5TXBiLW1Lc2FtMTcwcjVXMHZNTG1ieFdERlllSDVXaXI4T2JaTFRaa1pQR1k2T3U3VXQxWVU4NzNVaFowOEhqT3lFU3FGSVhCQ2dsdHZ5S1Q4NE5sZVJ1TzFpVkJn?oc=5"
+    },
+    {
+      "time": "EL PAÍS",
+      "message": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDRYTkVMeWZFT0gwY0N2UjZTR0JHb0wyUXZMRlVnbjJZVkpBVmNYLWZ6aXpaajFNdDR0UGlJYlNPX3M1aF9hWnpLLXgySmE5VUtoWk5SZ1dQcjgwTkZzcWNxMFRiWDVDWS1PeTEwYWxBeUFVOUZLeDMwSjlvOUlGcW9fSEdoNkdVdzR3UE1XZE1kSE5RV0RmcGVqdmhveHd5VVlIOHlqRFdkSE5OSFdOMk8tV2k4dWNQcHE5Q3RKOA?oc=5"
     }
   ]
 }
