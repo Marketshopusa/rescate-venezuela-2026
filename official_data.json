@@ -2,7 +2,7 @@
   "stats": {
     "total": 82024,
     "missing": 33287,
-    "hospitalized": 12666,
+    "hospitalized": 16592,
     "safe": 14639,
     "deceased": 3000
   },
@@ -18,19 +18,14 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVM5dWpuTGJENlhfdnNSNnBpLWF5YkUteHZvWTBsSDZrZ3NCbDBqa2l5TXI1R0xtd1pmT3JpelNVa20yb1pVVV9IOURFLWF1blY4aEFILUtFcXBjYy1DR01RU2RNQUROa3d6ZmxRVmRYbVQwV0VpblEzMVBISDJuSGtjemNudEZKQV9iM2pxdVN6dzJ4X1VfbThJR2JjeTduQUROQldWUXpGMkFMNUlqU2xxTkdMNDZET0E?oc=5"
     },
     {
-      "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | Sube a 2.954 la cifra de fallecidos - EFE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXhUVGlxTkVFLVhWNU1WOV9fc3V4OXhXRFBVX01PVE5WUEItN3V1cERLX28yRk1ydHRoZzRDUXZwRnZEakVDZWxUN2JqU3pBUjFOeXpYVXZ5b3lxV1h5dDlWQ3ZhOVViXzF3eVRKUnhKbzI0dzlaRWxkeWxLbGNya2l2c2lyaXdzLThSRjNOWE1FVXhKbDFtMzZxSm9kSG5HdnJZLVZDTnRKU3hNWDJNcDJtMlZIVXFkN0E?oc=5"
-    },
-    {
       "time": "EL PAÍS",
       "message": "El terremoto en Venezuela - 2 de julio de 2026 | Delcy Rodríguez: “Politizar una situación humanitaria como esta es miserable”",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTFE3X1BoYlhJTzRMQ25IOWtOLWkzcGZSd25fMmh6SmxvbEE5S1B5N2NWU0xKTmdfeVc1aElJcHVOWnpFSnNPMGk5TjI3M00tSUh6WlItNWhPd0luY1ZJaVEtckRFaE5tWnM2TG9QeHdsQUxxeGlNQjhYQjlfY2N6M3pZRkJwcllvRnJ0dExZU2otQWJ3eWZz0gGrAUFVX3lxTFB1QUF0UGRPdkRnQU84WmRJTnJPLUxWWDFwQXhOeDNadUtZRm9qSDJ1QTNjQ2pqemVIQTdKMlQ5Q3BTeGswXzZHaTFLVHl0MWFwYzhDaVk5bGhLZndiQlkxUTRkbmNpZjVDYUVMWS14S25SWFNRZl9KcWotRlZTRDllZHpnOVJmdndtNVFHbWRNSWlXUGJvbkttb204cVFZaU1FLVZ4LXNXelpoOA?oc=5"
     },
     {
-      "time": "Univision",
-      "message": "Así te hemos contado el séptimo día de la crisis que vive Venezuela tras el doble terremoto que ha causado casi 3,000 muertos hasta el momento",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFNTMDFET250enJyZTNDaXd2c3BveTRzY0FSX3NrblVmcHYwcWtJNlhBODQxdnVPRXNJZnhybi1UbThnYzA0aE51S2xWRGJ4Q3JhWGs5dzE3d3BneTJFX1VxWjJUU0VjajdsZEZXazZjbFluLTFGa2xLbnoydmktZDFmVm1xUFBkajFjZ1JjbTRWbGpnZnhGS05FUVN3d1hpbkM1bWg5bUlCUjdSSnpDYjNpWmx0R1diTVItTHk1aDE1TFpBMDhadHdFcnVWTkQ3M3JxeGI0aHFMS1pEaUZQSjJKcnFNY1Bq?oc=5"
+      "time": "Agencia de noticias",
+      "message": "Terremoto en Venezuela, en vivo | Sube a 2.954 la cifra de fallecidos - EFE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXhUVGlxTkVFLVhWNU1WOV9fc3V4OXhXRFBVX01PVE5WUEItN3V1cERLX28yRk1ydHRoZzRDUXZwRnZEakVDZWxUN2JqU3pBUjFOeXpYVXZ5b3lxV1h5dDlWQ3ZhOVViXzF3eVRKUnhKbzI0dzlaRWxkeWxLbGNya2l2c2lyaXdzLThSRjNOWE1FVXhKbDFtMzZxSm9kSG5HdnJZLVZDTnRKU3hNWDJNcDJtMlZIVXFkN0E?oc=5"
     },
     {
       "time": "El Comercio Perú",
@@ -38,9 +33,9 @@
       "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVHMwZmowRlJhOUhhZ2RJczJuRy0zdXFob3pjY1RUVDRyNU1OZ1RBRGNBbGVVVE5PaTBsdVpOTGJtNnY2ZkJpYUsyRkZXUFZQaW5uMU54d2V2d0hFbWVEeGZ0QjVRZnNqdmtxaUJnWlZ4ZDhHRUh0NGJGRUtkQktRUFU4aUlOV09rUC1FdzF2NkY2MktrbHpEMnM3SzBXTWRRV0gxSE90aWlITDBYYjlmcHlTQVVablVQOTVfeTBLWlI2Z3hrMzB5eWJhckZZYlQxVHBqdGpIU2JWQkR6dmpiOVFCblNkTFhhQWZrTEItTDBwVFNVWFN1a29YTnpXMTQ5RXVPUmtsck5wbnpSZ3JqRVF6em1lMTJRSFpPcExlNHlLMUJsQVRwM1lVY29FUm00dVBhR3NtQQ?oc=5"
     },
     {
-      "time": "CNN en Español",
-      "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
+      "time": "Univision",
+      "message": "Así te hemos contado el séptimo día de la crisis que vive Venezuela tras el doble terremoto que ha causado casi 3,000 muertos hasta el momento",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFNTMDFET250enJyZTNDaXd2c3BveTRzY0FSX3NrblVmcHYwcWtJNlhBODQxdnVPRXNJZnhybi1UbThnYzA0aE51S2xWRGJ4Q3JhWGs5dzE3d3BneTJFX1VxWjJUU0VjajdsZEZXazZjbFluLTFGa2xLbnoydmktZDFmVm1xUFBkajFjZ1JjbTRWbGpnZnhGS05FUVN3d1hpbkM1bWg5bUlCUjdSSnpDYjNpWmx0R1diTVItTHk1aDE1TFpBMDhadHdFcnVWTkQ3M3JxeGI0aHFMS1pEaUZQSjJKcnFNY1Bq?oc=5"
     },
     {
       "time": "DW.com",
@@ -56,6 +51,11 @@
       "time": "EL PAÍS",
       "message": "Terremoto en Venezuela - 27 de junio de 2026 | La cifra de muertos por el doble terremoto en Venezuela asciende a 1.430 y el número de españoles fallecidos se eleva a seis",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclU4aS12d3B6aUgwMFpNck02TWNfYlN1SU9TSk5uLUY1emRJQmlLNUtCeFVHSTBVdzZreDE4SHRqeS1FT3BiMGVyY0UwYi10eERsdnBBNndmcWxWN2pNamI2TlFfZFNQcjhGa3NxX0V1RDhJSTQtRXBOdEFxaUozbDUzTDEtSF9BM24zZnJIUTdzZVhENW130gGrAUFVX3lxTFAzc18xMDZSSnc2WTFSOU9wMlZPZ3VjdEQxOW91SUg4bjlfdll1S21oNVNscE42V3lnNVpXOEoyaTRRR1dWWG1LUy1XQ3VoQ0ZRTHRQT3FZS2pfTXhkUllTTWZtTmhUN1hJeFVVcnd0NjhxU29zVklqWDNJRHlsLU1xWDNDYm5OM29aWnM1Y2dHajM1TU9vMl9iOVlPb2ZZTXc2cG95c0V6OTR3Zw?oc=5"
+    },
+    {
+      "time": "CNN en Español",
+      "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
     }
   ]
 }
