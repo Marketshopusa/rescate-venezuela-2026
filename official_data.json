@@ -8,14 +8,14 @@
   },
   "reports": [
     {
+      "time": "BBC",
+      "message": "Terremoto en Venezuela: 3 factores que explican por qué se derrumbaron tantos edificios en La Guaira",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblHSAWBBVV95cUxPTkVxamRkRTE1enE0UjEyM2FjWlY2UmpKSngydGp6aGdINjNuc1hQWHBmbUxSSFJfSGR6X3ZQWTNkZlRFTGpsZFVoR3JHRTEyMVdoWFFmM0NzVXh1TDhGVHU?oc=5"
+    },
+    {
       "time": "Primicias",
       "message": "Terremoto en Venezuela: ¿por qué se derrumbaron tantos edificios y qué similitudes guarda con el de Ecuador de 2016?",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2FDWGdqdm5TMFFDX0JiUGd0b0pwVmZvMkJYekxJV1E2dWdISkQ3eUZ3LU5wNmhacTVkMHdRTGZ5cVd4V2Y2aDl2OW5xTXJzX19CS29GTFduTVdTWWQ5eFhWSDFSVEludnhNaTdYNHBod2xmdVRwNmVKTE9UTjBoUHN0blpqQmN3THNjVGh6bUs2bHZWbUZMdVFiaGhxTUZ5OGI0MWJaUV9fWVgwRzdV?oc=5"
-    },
-    {
-      "time": "El Periódico",
-      "message": "Última hora del terremoto en Venezuela, en directo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0x1dEM4VENjbUJ0aTA2X0QwT013STNya3Z0Y3JlUlh2WUdWTk9kSWhOVWtWNjloalZFMERDZEE1R1V5eEJZbVluWWhONmVFTldEaEhocmk5TF96cFdkOFJsaHQ4S3k2Z0hPY1h1b1dWTHdnWEFfYlhsU0htelVkRUd6QUV0dTlWY3hPTDJBOFlxY05jbGRPZlhMczZVU01BMC12bHdvdmNEbDTSAasBQVVfeXFMTy1YQ2F1RHhVMkdJWlNEMG12cEluWGl4RzNyZlNTU0NlUGl5ZVBLS0g1SDlLeWh0Y1BDR0lTQ1gtXzVFTWVFZzFsZk9kd0FBMVVyV2VaUWxDWXEwZXlZbUNyQ1dWaG5JeWxzbnVzWTVkdHkzTnZiT2IzNjZaYXpWLXl1VEhWN05LOHFBNG5sZzdLbjBqYTNqSEQ5M1dzTWNfQV9CenViRGhISDY0?oc=5"
     },
     {
       "time": "CNN en Español",
@@ -23,9 +23,19 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYU9SSkl4bkJ2OTdZemRBWlhBcnEyb2tHVTVHZ0F1T0tXaVV6cnc2UlFFaXRsSDNQSTFObEhMTDE3QmNabU1IQXhpNUpxMVA2eXpLOG9hTmQwVW8xYVh2WUswVE9WU2FGTWRfM0V1SXVtZDRvNVNjb1FTSFZzYTl5Q3BSbkZld18xUkNlUzBNQTVfOWlaMDhzdllxUGxPSTRtbU5wUHUtclBqY1ZHODRBVDNnNmE?oc=5"
     },
     {
-      "time": "Univision",
-      "message": "Así te hemos contado el séptimo día de la crisis que vive Venezuela tras el doble terremoto que ha causado casi 3,000 muertos hasta el momento",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFNTMDFET250enJyZTNDaXd2c3BveTRzY0FSX3NrblVmcHYwcWtJNlhBODQxdnVPRXNJZnhybi1UbThnYzA0aE51S2xWRGJ4Q3JhWGs5dzE3d3BneTJFX1VxWjJUU0VjajdsZEZXazZjbFluLTFGa2xLbnoydmktZDFmVm1xUFBkajFjZ1JjbTRWbGpnZnhGS05FUVN3d1hpbkM1bWg5bUlCUjdSSnpDYjNpWmx0R1diTVItTHk1aDE1TFpBMDhadHdFcnVWTkQ3M3JxeGI0aHFMS1pEaUZQSjJKcnFNY1Bq?oc=5"
+      "time": "El Periódico",
+      "message": "Última hora del terremoto en Venezuela, en directo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0x1dEM4VENjbUJ0aTA2X0QwT013STNya3Z0Y3JlUlh2WUdWTk9kSWhOVWtWNjloalZFMERDZEE1R1V5eEJZbVluWWhONmVFTldEaEhocmk5TF96cFdkOFJsaHQ4S3k2Z0hPY1h1b1dWTHdnWEFfYlhsU0htelVkRUd6QUV0dTlWY3hPTDJBOFlxY05jbGRPZlhMczZVU01BMC12bHdvdmNEbDTSAasBQVVfeXFMTy1YQ2F1RHhVMkdJWlNEMG12cEluWGl4RzNyZlNTU0NlUGl5ZVBLS0g1SDlLeWh0Y1BDR0lTQ1gtXzVFTWVFZzFsZk9kd0FBMVVyV2VaUWxDWXEwZXlZbUNyQ1dWaG5JeWxzbnVzWTVkdHkzTnZiT2IzNjZaYXpWLXl1VEhWN05LOHFBNG5sZzdLbjBqYTNqSEQ5M1dzTWNfQV9CenViRGhISDY0?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Qué es el \"doblete sísmico\" que sacudió Venezuela y por qué provocó tantos daños",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQm44eFNfWTN1UVotdHRxMkRBbFRMajY0aTgzMlJoVC1md3RTdjF5a05uYkdaU0ZEYWYxSl9OYTBNcFBIUHMxOFMtVjhoc3A0alJhdXdJenAwODTSAWBBVV95cUxNd3JrNm5fVXNFcmJoZmdVR05IZWFuYnF4aXNTeEtCbWkwNGxZdXA4SXgzWk0xOWM1aUluYm9ndG5CWGJvblFlc3VzQmJ0Tzg0dVlCbWRaYlR1LWEyaDFhLXM?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Qué es lo último sobre los terremotos en Venezuela que han dejado al menos 1.450 muertos y más de 3.150 heridos",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdWlBTDNTWi1RMFVFZ0REZ184MW1pYV9JckVtblFWUWhSdWRaXzktZE1rTHUzbC10dmllRnlRZGtubHcwQjhZVVoySE40S1N4cUR2T21XUDlfaXPSAWBBVV95cUxQcEtzcVFvOW5oQ1NDR21uQURIdzc0MFgzRnIxRnVadVhhWDZmTnZOc3lZWlNOQWJFZUhSNDNmZGVaQ2FXN1VkMkoyQTUzTk9vNnhyUlpoUXpaOU5VLWNJaS0?oc=5"
     },
     {
       "time": "El Comercio Perú",
@@ -33,29 +43,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUXR4Qlh3N1BkVjJNc0tyME82THhqM3R1ZUJsTHloQVhUc2x2ZTNWU2g2YnBUcVVTdE5tOFRhby14MEJmMUk1WU1idjg2T2g4eWkxVDk0LV9PY1owNC1kd1JyaFdZZGpjZUlDSDN3Z0F4RElYV090VmIwUG80LWxQVG56OXltTXlFZm1qVTM3cWdTYldHRm9JaUVOenN2djVYQ0xYdXNNTzNvaXBJbWdSWEZwXzY5X0lSc0dCV1JIZXJ3TUdrdnFPMDEzTUE5c0dPUkVqWGstU0w2SlhxSVNZVk9wY09uSXRPUEl4YlNqTTdrdS1Ja1pVZTlYcGNLMmVNYkYzVERZYWVhUnk0YW0tV0U0Q2ZUa3hYVUdwSzFGdDJGWVRGSFlZM1Zn?oc=5"
     },
     {
+      "time": "Univision",
+      "message": "Así te hemos contado el séptimo día de la crisis que vive Venezuela tras el doble terremoto que ha causado casi 3,000 muertos hasta el momento",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFNTMDFET250enJyZTNDaXd2c3BveTRzY0FSX3NrblVmcHYwcWtJNlhBODQxdnVPRXNJZnhybi1UbThnYzA0aE51S2xWRGJ4Q3JhWGs5dzE3d3BneTJFX1VxWjJUU0VjajdsZEZXazZjbFluLTFGa2xLbnoydmktZDFmVm1xUFBkajFjZ1JjbTRWbGpnZnhGS05FUVN3d1hpbkM1bWg5bUlCUjdSSnpDYjNpWmx0R1diTVItTHk1aDE1TFpBMDhadHdFcnVWTkQ3M3JxeGI0aHFMS1pEaUZQSjJKcnFNY1Bq?oc=5"
+    },
+    {
       "time": "Agencia de noticias",
       "message": "Terremoto en Venezuela, en vivo | Sube a 2.645 la cifra de fallecidos - EFE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHN1TmdUTlhpdVNpbHl3RXpoMTl4SFJmN3JWWThkNGw4cUZPZW1STms3MmhKWEhGQUVEb182WHZHczEyVTN5VlVudS1GR3I5SGpLWGhpU1RYQ2NTMm9rRklRczlNY3BrZ040Ml9oUThCbWwtVXV0cmxHdGNHNHNBb1JnNnE1Y0I2aWY2Wkc3Ri1PU1o5b0xsTlJ4QXR4R2RoVlpzaHdtYUdRS3lSNDJLR0t1MzhNcUFSb0E?oc=5"
     },
     {
-      "time": "BBC",
-      "message": "Terremoto en Venezuela: 3 factores que explican por qué se derrumbaron tantos edificios en La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblHSAWBBVV95cUxPTkVxamRkRTE1enE0UjEyM2FjWlY2UmpKSngydGp6aGdINjNuc1hQWHBmbUxSSFJfSGR6X3ZQWTNkZlRFTGpsZFVoR3JHRTEyMVdoWFFmM0NzVXh1TDhGVHU?oc=5"
-    },
-    {
       "time": "EL PAÍS",
       "message": "El terremoto en Venezuela - 29 de junio de 2026 | Venezuela eleva a más de 1.700 la cifra de fallecidos por los terremotos y hay 5.000 heridos",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWU45bzRiRHhSckRsQ01VVURLODgtRDI1NzFTUWRMQlBTR0MwZ2hSb2c2a3ZGYV92ZlZndWtkR2V6TVFjQ3EySFlrN0FPaHhqMXBwSThXVTBBYXdCLWU4aC0zdzV6aFg1cVFZczdiYkJnYjFvSEJLWlZMLTJIN0pkakZEeDVGcUUwa0htTE1ZN1d0bzlZeV9Z?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Venezuela vivió el terremoto más potente desde el año 1900",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVU1SSHZtdHpjMDFjSzU5WWR4Y2J1ajhtdFl1bmNLUzA5M3R3OE9GMUtwYUlrTmxRWXNBYmd4QzNnR0k3S1dTTy1pd0IzX2hSYmp3YkVDeXhDUE9KYzRJU05IN2lCSHdUYUdIYTRsWENiX1p0ak5IM2oyTWpiWXFFeXZnUXhJaVVIZlpOQ1RkcEJHNnJSVVh3TzNGRk9GTzJueGFoQno0N2hhWlI2UnkyY05PMVIyc3lpRzF4elptaDVkZDTSAcMBQVVfeXFMT0hGbU5lY0t0MnNYVzFEaFVVb3VtZmlNd0lmNjNMM2lkSWxKWW5jRFJNVVNOTWRwaDNybk9rbVpjMDVfNG5McWpna1VuWDI1UHJZVzhEQzdzRVZJN3g1Y1BIRW5KeklOMEZHMFFYRU9MSWFyN3VPdFJLS3ExTVJ6TE9NMnRKMndETy15UmlBMlN3WDRuM0xzeVpidlpUUk5YUGdaYWNqdlRjeUJ6RGJoeThDdlQydHpUeDFjNUZNYllwWFcw?oc=5"
-    },
-    {
-      "time": "The New York Times",
-      "message": "Venezuela busca a los sobrevivientes de los terremotos",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWF9kdGI3VWFzVmQ5MFY4aHJCZzlzUUtjU3I3cWtxbEJQMlA1b3VDUHRZbmVRRS0ySGs0eDlEYklueXp6Q1Ffd0xoc3dNVG1YbFR6RWhGMGNEZ1k0WkprM1RVVWh1X3FwZkJRRE1UNkhIbHA2V1Aw?oc=5"
     }
   ]
 }
