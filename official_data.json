@@ -4,7 +4,7 @@
     "missing": 33287,
     "hospitalized": 16840,
     "safe": 14639,
-    "deceased": 3342
+    "deceased": 3535
   },
   "reports": [
     {
@@ -26,6 +26,11 @@
       "time": "El Comercio Perú",
       "message": "Temblor en Venezuela: sismos reportados el domingo 5 de julio | Protección Civil | Caracas | La Guaira | lbposting",
       "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNUXR4Qlh3N1BkVjJNc0tyME82THhqM3R1ZUJsTHloQVhUc2x2ZTNWU2g2YnBUcVVTdE5tOFRhby14MEJmMUk1WU1idjg2T2g4eWkxVDk0LV9PY1owNC1kd1JyaFdZZGpjZUlDSDN3Z0F4RElYV090VmIwUG80LWxQVG56OXltTXlFZm1qVTM3cWdTYldHRm9JaUVOenN2djVYQ0xYdXNNTzNvaXBJbWdSWEZwXzY5X0lSc0dCV1JIZXJ3TUdrdnFPMDEzTUE5c0dPUkVqWGstU0w2SlhxSVNZVk9wY09uSXRPUEl4YlNqTTdrdS1Ja1pVZTlYcGNLMmVNYkYzVERZYWVhUnk0YW0tV0U0Q2ZUa3hYVUdwSzFGdDJGWVRGSFlZM1Zn?oc=5"
+    },
+    {
+      "time": "Univision",
+      "message": "Así te hemos contado el séptimo día de la crisis que vive Venezuela tras el doble terremoto que ha causado casi 3,000 muertos hasta el momento",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUFNTMDFET250enJyZTNDaXd2c3BveTRzY0FSX3NrblVmcHYwcWtJNlhBODQxdnVPRXNJZnhybi1UbThnYzA0aE51S2xWRGJ4Q3JhWGs5dzE3d3BneTJFX1VxWjJUU0VjajdsZEZXazZjbFluLTFGa2xLbnoydmktZDFmVm1xUFBkajFjZ1JjbTRWbGpnZnhGS05FUVN3d1hpbkM1bWg5bUlCUjdSSnpDYjNpWmx0R1diTVItTHk1aDE1TFpBMDhadHdFcnVWTkQ3M3JxeGI0aHFMS1pEaUZQSjJKcnFNY1Bq?oc=5"
     },
     {
       "time": "BBC",
@@ -51,11 +56,6 @@
       "time": "The New York Times",
       "message": "Venezuela busca a los sobrevivientes de los terremotos",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWF9kdGI3VWFzVmQ5MFY4aHJCZzlzUUtjU3I3cWtxbEJQMlA1b3VDUHRZbmVRRS0ySGs0eDlEYklueXp6Q1Ffd0xoc3dNVG1YbFR6RWhGMGNEZ1k0WkprM1RVVWh1X3FwZkJRRE1UNkhIbHA2V1Aw?oc=5"
-    },
-    {
-      "time": "BBC",
-      "message": "Qué se sabe de los dos fuertes terremotos que causaron graves destrozos y muertes en Caracas y otras zonas de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XeWlVVF9GOUhmUUJobjVzNzNMZUc2c3IwVEZPaUx6TUlGSFJmWDdqbklWWHNoNGVYeFJWZ1dqREVGNTA1Y25ybEY5YjVjVi14eWJfY3I2MmkxNFHSAWBBVV95cUxOclp5NXZ3OWJsMF9jbG9wakdaVFl4TU84SExtdVdzUE9saktpeDFmYlBZek1ZdnVCYWtFRElHY1lCSFhRM3lOdVFQNHhJaXpXQUN4RHFrXzdWeU5HaVFBSmQ?oc=5"
     }
   ]
 }
