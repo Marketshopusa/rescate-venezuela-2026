@@ -8,19 +8,19 @@
   },
   "reports": [
     {
+      "time": "Agencia de noticias",
+      "message": "Terremoto en Venezuela, en vivo - EFE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHlHYnhzUEJ6SmRyVExnSjh1SnRHZkZjX2E5ak9WbVVFZHUzaU4ybkZjZWpiMXhrWFFuOGc0eUI5c0QtYm95R2hjdVV5TlR2ekNDSGRseXZXbDlmQTJHVnhlV210STR1MnZKMng1aFZkNzduV3pVZllXMzhwMjVycHVrbzY4MXdHaUkwSnJMcnhlMWxfcmxkYnBPVFdCMWRIYVdRM1hJeWRPV0hubzdfbWgxSVR5WVZXTmc?oc=5"
+    },
+    {
       "time": "El Comercio Perú",
-      "message": "Temblor hoy en Venezuela, 7 de julio: epicentro y magnitud del sismo por el Funvisis",
+      "message": "Temblor en Venezuela: magnitud de los sismos reportados el martes 7 de julio",
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNN3huRnozdllhTWdhdnBNYWMyNFY0WFk3b2hKZ2VNN2toTmowZndmZTlvYll0ZDJoUzNSYnN0UGkwOUhkWHJCejhjNDJVOUxsN3pwaS1MSGV2VHRKeXZCMnctMU5HVXBxcXd0Qld3VG1sVVpKVVNRTWFXN1hybWxBSmowQnprazBnY3dHUHdXb3NGR2p0LUJPQmZjcExXWWpJMlFlc3ktMXNsRk9CTXlQb3R3d3RtTUQybF9fbzR6dVlUWXBvaFhNQk1LTnd4WmFmRk1CeEdTMmk0OTBESDJ5dEVnX20yZ05tOEdWSVZEV1Y2d3M1dmVMQVAyZThIVzhRYUJPUmtuQm8zSXFFbTlEQkFITkctTXl1NzhqZEFJeHZkRW05NnpBTHZITVg?oc=5"
     },
     {
       "time": "El Periódico",
       "message": "Última hora del terremoto en Venezuela, en directo",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0x1dEM4VENjbUJ0aTA2X0QwT013STNya3Z0Y3JlUlh2WUdWTk9kSWhOVWtWNjloalZFMERDZEE1R1V5eEJZbVluWWhONmVFTldEaEhocmk5TF96cFdkOFJsaHQ4S3k2Z0hPY1h1b1dWTHdnWEFfYlhsU0htelVkRUd6QUV0dTlWY3hPTDJBOFlxY05jbGRPZlhMczZVU01BMC12bHdvdmNEbDTSAasBQVVfeXFMTy1YQ2F1RHhVMkdJWlNEMG12cEluWGl4RzNyZlNTU0NlUGl5ZVBLS0g1SDlLeWh0Y1BDR0lTQ1gtXzVFTWVFZzFsZk9kd0FBMVVyV2VaUWxDWXEwZXlZbUNyQ1dWaG5JeWxzbnVzWTVkdHkzTnZiT2IzNjZaYXpWLXl1VEhWN05LOHFBNG5sZzdLbjBqYTNqSEQ5M1dzTWNfQV9CenViRGhISDY0?oc=5"
-    },
-    {
-      "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | Sube a 2.954 la cifra de fallecidos - EFE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXhUVGlxTkVFLVhWNU1WOV9fc3V4OXhXRFBVX01PVE5WUEItN3V1cERLX28yRk1ydHRoZzRDUXZwRnZEakVDZWxUN2JqU3pBUjFOeXpYVXZ5b3lxV1h5dDlWQ3ZhOVViXzF3eVRKUnhKbzI0dzlaRWxkeWxLbGNya2l2c2lyaXdzLThSRjNOWE1FVXhKbDFtMzZxSm9kSG5HdnJZLVZDTnRKU3hNWDJNcDJtMlZIVXFkN0E?oc=5"
     },
     {
       "time": "El Comercio Perú",
@@ -53,9 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xWF9kdGI3VWFzVmQ5MFY4aHJCZzlzUUtjU3I3cWtxbEJQMlA1b3VDUHRZbmVRRS0ySGs0eDlEYklueXp6Q1Ffd0xoc3dNVG1YbFR6RWhGMGNEZ1k0WkprM1RVVWh1X3FwZkJRRE1UNkhIbHA2V1Aw?oc=5"
     },
     {
-      "time": "Infobae",
-      "message": "Terremotos en Venezuela EN VIVO: al menos 235 muertos, 4.300 heridos y 157 desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVGlFbktXLWk4c2E2TTU2bFM5bFpUUTB2b0VadURWc2ZpSTNDNU1HVjJLNHJOMHhrNVoyZkZOMUxSTUhIc1hrbVlVYlhKb0JQTTd0bEM5OGEwZkEyS09LUVNtTG9nR2ZpWVBLY0xwN2V2ZW5Wd0hmcldGSHp6OERvblB30gGcAUFVX3lxTE1qMHQ1SFY5VlFOeUREa2Zta3ZlajRndU4tMGMzWEp1Z0x5bVFrRm1qOEdjaFRLamRqYl9DcHBFdEc1YlpOYWhQWUhrUEJwQUdDS08tUWNUSWtmV3JkT0E3MXR3bjVjNW4teVQzZG5xOEZseHEtQmVpWkQwTlY1RHZGZXpkTnNqSnF6NVN5aHF2SjdwUjVTRi13ZWlUQg?oc=5"
+      "time": "BBC",
+      "message": "Qué es el \"doblete sísmico\" que sacudió Venezuela y por qué provocó tantos daños",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQm44eFNfWTN1UVotdHRxMkRBbFRMajY0aTgzMlJoVC1md3RTdjF5a05uYkdaU0ZEYWYxSl9OYTBNcFBIUHMxOFMtVjhoc3A0alJhdXdJenAwODTSAWBBVV95cUxNd3JrNm5fVXNFcmJoZmdVR05IZWFuYnF4aXNTeEtCbWkwNGxZdXA4SXgzWk0xOWM1aUluYm9ndG5CWGJvblFlc3VzQmJ0Tzg0dVlCbWRaYlR1LWEyaDFhLXM?oc=5"
     }
   ]
 }
