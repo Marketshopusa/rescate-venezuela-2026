@@ -9,7 +9,7 @@
   "reports": [
     {
       "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos asciende a 3.811 - EFE",
+      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos se acerca a 4.000 - EFE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFRzSkRkWHg4RzdlS2dmZko3QndzTGUtODdsUzhodWhIYW9NTmVPWUxTQmo3ekN6cGVjNDhtQ2lVLXpXNnBvaTlqbE1uMUJJZGQxWE9GS3JkT1VWU3J5UzR3OWRoOTVYMTduMWY4VjI4OTN2UGdxOTRTSzFSc0d6TE5YbGZha3Jlc1VzRjdDVDBmbWdtaGJwVUtqblRQQzFRNDRLVFZFeU5yY0dNSFpZY1NhZXh3Z2lFa2c?oc=5"
     },
     {
@@ -44,6 +44,11 @@
     },
     {
       "time": "CNN en Español",
+      "message": "Resumen de noticias de los terremotos en Venezuela, el 24 y 25 de junio",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWVZemZacE5Jd2dUb0x2U2ZZbDN2b1Y1ZVR0dFFLLXVIZ0U3SnhHMFNER0dFNVlfWlBVT3ZHZDNRWGNxZm1HNkh5TXBiLW1Lc2FtMTcwcjVXMHZNTG1ieFdERlllSDVXaXI4T2JaTFRaa1pQR1k2T3U3VXQxWVU4NzNVaFowOEhqT3lFU3FGSVhCQ2dsdHZ5S1Q4NE5sZVJ1TzFpVkJn?oc=5"
+    },
+    {
+      "time": "CNN en Español",
       "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
     },
@@ -51,11 +56,6 @@
       "time": "EL PAÍS",
       "message": "El terremoto en Venezuela - 1 de julio de 2026 | El Gobierno de Venezuela eleva a 2.295 los fallecidos por el doble terremoto",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNktPWXJiakxBOXZTandZc1Y3TE0wX1A3NFByRzhUdlphbFZYOGRycFlHZW5sVDFTRFdidlZISXU0cWR4S1lpN1JrR043WmtZc1o1M0xPRnJhb0VfbDhLMmcxSUY4dS1TRHZGV2RBRjNDSlFpMkRhS0dXTVZCdWYweDZkbWd6SmxJdGpRT2QzRUx0MGZtYWFz0gGrAUFVX3lxTE5GWTlpT2UwbU1odnU1X21rakFSTm9ORDM5VjRNU1hxbHF2RlhuTVdvczVvT2FWX0pWTzhPQUVXdFhPWVhsSVpwdUcxdkNWUUJBTUVTbnZHNmJJTXhhMTQzUVhweXk2Y2Yyd1VRN0xvT1dKbUhaajRRcnVKdndzV05xbW5xTXRNSC1hTG9fVTRFNkdLQ3hMVWFEWmFLSXk2S3llMU9EZ0REVkZKbw?oc=5"
-    },
-    {
-      "time": "BBC",
-      "message": "Qué es el \"doblete sísmico\" que sacudió Venezuela y por qué provocó tantos daños",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQm44eFNfWTN1UVotdHRxMkRBbFRMajY0aTgzMlJoVC1md3RTdjF5a05uYkdaU0ZEYWYxSl9OYTBNcFBIUHMxOFMtVjhoc3A0alJhdXdJenAwODTSAWBBVV95cUxNd3JrNm5fVXNFcmJoZmdVR05IZWFuYnF4aXNTeEtCbWkwNGxZdXA4SXgzWk0xOWM1aUluYm9ndG5CWGJvblFlc3VzQmJ0Tzg0dVlCbWRaYlR1LWEyaDFhLXM?oc=5"
     }
   ]
 }
