@@ -8,9 +8,9 @@
   },
   "reports": [
     {
-      "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos se acerca a 4.000 - EFE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFRzSkRkWHg4RzdlS2dmZko3QndzTGUtODdsUzhodWhIYW9NTmVPWUxTQmo3ekN6cGVjNDhtQ2lVLXpXNnBvaTlqbE1uMUJJZGQxWE9GS3JkT1VWU3J5UzR3OWRoOTVYMTduMWY4VjI4OTN2UGdxOTRTSzFSc0d6TE5YbGZha3Jlc1VzRjdDVDBmbWdtaGJwVUtqblRQQzFRNDRLVFZFeU5yY0dNSFpZY1NhZXh3Z2lFa2c?oc=5"
+      "time": "El Periódico",
+      "message": "Última hora del terremoto en Venezuela, en directo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21PUjNxVFhHNEJvd09vNXV6YUptR0w0dXFPZ2hjMlJLRWI3OEUxX0ZmVERDN1VRVTRVSzhfNUFiUTAwNHhnSTFvZFVoY2wwbG1nR3JVVGNxTmpCT2dfQUo2TTFZMExadmxuelJ6X3E1VVoza3l1cWxON2toa1RzLUF3ZEtlN1BudWNZY2pUaGpoOUdmTENqNUwzWFZiN3IzZG05MERzQVNDS0nSAasBQVVfeXFMT0tzTUpRVG1VM1IzS3JMSndsYkxzU3RzNnlob004QmF2UEltY3ZtWmNIWTdXXzczX0FiME8wMjQ4MkZSWmJ1bktHNGtCSEdPSmxyc2xuczNqY3VHTTlzZWtLX2ZrVTNsdjEtV0dqLUNBZzI5Mk9sVDBhU2lFWG1aOVd5U2RNOEdVTzAxbHM0Rlk1VFB3Z1U4ZjBPTGZWdmNjWkZSazN6U2RsM1Fr?oc=5"
     },
     {
       "time": "The New York Times",
@@ -18,14 +18,19 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjVLS3lOamFXcS03M1pGVDNONExuTDBtRkJ0MkU3emFNbGg4eUpzWjBvVkJPVEhORENUdlZrUjNwWUdickw2c0VfUzQxc1BjVV84SXRFdHdSV1Rma21aal9XdEVtNUZDd0lqbE9oOV9xS2FkcFprQUtyQ3lhalpLSmdrenhfbGdkOUNJbThBdnVqbllkRHJsakZrdlEtNkpDZHZOYndvUQ?oc=5"
     },
     {
+      "time": "Agencia de noticias",
+      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos se acerca a 4.000 - EFE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFRzSkRkWHg4RzdlS2dmZko3QndzTGUtODdsUzhodWhIYW9NTmVPWUxTQmo3ekN6cGVjNDhtQ2lVLXpXNnBvaTlqbE1uMUJJZGQxWE9GS3JkT1VWU3J5UzR3OWRoOTVYMTduMWY4VjI4OTN2UGdxOTRTSzFSc0d6TE5YbGZha3Jlc1VzRjdDVDBmbWdtaGJwVUtqblRQQzFRNDRLVFZFeU5yY0dNSFpZY1NhZXh3Z2lFa2c?oc=5"
+    },
+    {
+      "time": "El Comercio Perú",
+      "message": "Temblor en Venezuela hoy, jueves 9 de julio: reporte de magnitud y epicentro vía FUNVISIS",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOU0R0S09RX3FoaU4yZjNOM0ZtX3dmOThUbVBYVml4WmJCN3FYUjd6NnBrLTNHZEFXdk9aQXItOEx0RkQ4ZVN3eUFINWdFV2tQaUdpSG9DajAwZEM3REdMRkxvV1J6QmZSdEZGZkdHMWozRlBwV0Q1RFhqTWliUVpWT2pNLUVwaC1uTFZ4anphSDZjR3BJcEd0Zl9QVlRYX0xIQTVVMkRUTWhCN3JIMlFsT0w5ckNZLXVTODd1R2RNcXhsUGpYamp4ejFuZVItU0R5NlNXcEtHLVBEeDZkRkM4ZHV2MW92dUZlVlRUQS1lNm4zVVlFZWl0YlE3aFdlS0hvOTdwalJCNXZqaFk5cDJSd2hXSkYwV3lpbVIwcnAxQWF4dXI0T2NZMk9ManN6Sk9NLTBOSnFSUDJCdw?oc=5"
+    },
+    {
       "time": "Primicias",
       "message": "Cifra de muertos por el doble terremoto en Venezuela ya supera los 3.600, informa el Gobierno",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWTdlVGJQOEZZMUdoVEJsd0NxeVZzS2EzdGxJckJhS1FHSUNLRHhEVXF4c0FiY2F4djdhUXFibk00bWVSb1VpVTh4Y2FiakVhRXluRlAteF80QmNRREtKVE9HRDhINUNPX2EtaW4zV1RrVThtMVZrWnVxV1RpVS1zLWQ0SUZWLVJPV2ZEWEozMTFRd2ZObnRVRUV5OWlxblB3QkU0bXYxZU5MSUpob2l3Wnd0Nnc?oc=5"
-    },
-    {
-      "time": "El Periódico",
-      "message": "Última hora del terremoto en Venezuela, en directo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS3liYkNCd2F5SEtXYkE5SnNnWHl3cmRrUTVZZXhZbzM3c1UxQXB0QmQ4emk1N1otZjU3MHUyd2NIc1BMTmtfbTFhTzR6U1RIZlVraEFCcnVhR0RqT0ZfM1VoUVhVSjQxRHFldW9ZSmttUmJ2S2x5NGVDT212LVVVcy1BWVRBSjQ2YzBRMFdfeUhUZXFYZmtFdGJMeTVCUTlRckxvV2c5VVRXT0nSAasBQVVfeXFMUGNKbUF0RlJQRkdmT1B1c29FWHk5NTdRczNySHBWV3pOaExJbjNLUkdjR09UaEVqS2g4VUxGc3hWVmRnSjNCeWI0SXJWd0hRaUZBb0ZkbEthOWNBRzBkakxjN3VINTM3NmZWZEpWUHEwN010Nlhya0NvNjkyOXVQQmgteUdYMzQweFZhTGU0T3JqaXU5UEUzWEN2VXdhQ3JwREtrdXlvR19mTFF3?oc=5"
     },
     {
       "time": "BBC",
@@ -46,11 +51,6 @@
       "time": "CNN en Español",
       "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
-    },
-    {
-      "time": "EL PAÍS",
-      "message": "El terremoto en Venezuela - 1 de julio de 2026 | El Gobierno de Venezuela eleva a 2.295 los fallecidos por el doble terremoto",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNktPWXJiakxBOXZTandZc1Y3TE0wX1A3NFByRzhUdlphbFZYOGRycFlHZW5sVDFTRFdidlZISXU0cWR4S1lpN1JrR043WmtZc1o1M0xPRnJhb0VfbDhLMmcxSUY4dS1TRHZGV2RBRjNDSlFpMkRhS0dXTVZCdWYweDZkbWd6SmxJdGpRT2QzRUx0MGZtYWFz0gGrAUFVX3lxTE5GWTlpT2UwbU1odnU1X21rakFSTm9ORDM5VjRNU1hxbHF2RlhuTVdvczVvT2FWX0pWTzhPQUVXdFhPWVhsSVpwdUcxdkNWUUJBTUVTbnZHNmJJTXhhMTQzUVhweXk2Y2Yyd1VRN0xvT1dKbUhaajRRcnVKdndzV05xbW5xTXRNSC1hTG9fVTRFNkdLQ3hMVWFEWmFLSXk2S3llMU9EZ0REVkZKbw?oc=5"
     },
     {
       "time": "BBC",
