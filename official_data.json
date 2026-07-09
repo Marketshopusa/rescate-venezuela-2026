@@ -8,6 +8,11 @@
   },
   "reports": [
     {
+      "time": "Agencia de noticias",
+      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos se acerca a 4.000 - EFE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFRzSkRkWHg4RzdlS2dmZko3QndzTGUtODdsUzhodWhIYW9NTmVPWUxTQmo3ekN6cGVjNDhtQ2lVLXpXNnBvaTlqbE1uMUJJZGQxWE9GS3JkT1VWU3J5UzR3OWRoOTVYMTduMWY4VjI4OTN2UGdxOTRTSzFSc0d6TE5YbGZha3Jlc1VzRjdDVDBmbWdtaGJwVUtqblRQQzFRNDRLVFZFeU5yY0dNSFpZY1NhZXh3Z2lFa2c?oc=5"
+    },
+    {
       "time": "El Periódico",
       "message": "Última hora del terremoto en Venezuela, en directo",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21PUjNxVFhHNEJvd09vNXV6YUptR0w0dXFPZ2hjMlJLRWI3OEUxX0ZmVERDN1VRVTRVSzhfNUFiUTAwNHhnSTFvZFVoY2wwbG1nR3JVVGNxTmpCT2dfQUo2TTFZMExadmxuelJ6X3E1VVoza3l1cWxON2toa1RzLUF3ZEtlN1BudWNZY2pUaGpoOUdmTENqNUwzWFZiN3IzZG05MERzQVNDS0nSAasBQVVfeXFMT0tzTUpRVG1VM1IzS3JMSndsYkxzU3RzNnlob004QmF2UEltY3ZtWmNIWTdXXzczX0FiME8wMjQ4MkZSWmJ1bktHNGtCSEdPSmxyc2xuczNqY3VHTTlzZWtLX2ZrVTNsdjEtV0dqLUNBZzI5Mk9sVDBhU2lFWG1aOVd5U2RNOEdVTzAxbHM0Rlk1VFB3Z1U4ZjBPTGZWdmNjWkZSazN6U2RsM1Fr?oc=5"
@@ -16,11 +21,6 @@
       "time": "The New York Times",
       "message": "Por qué los terremotos gemelos en Venezuela fueron tan mortales",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjVLS3lOamFXcS03M1pGVDNONExuTDBtRkJ0MkU3emFNbGg4eUpzWjBvVkJPVEhORENUdlZrUjNwWUdickw2c0VfUzQxc1BjVV84SXRFdHdSV1Rma21aal9XdEVtNUZDd0lqbE9oOV9xS2FkcFprQUtyQ3lhalpLSmdrenhfbGdkOUNJbThBdnVqbllkRHJsakZrdlEtNkpDZHZOYndvUQ?oc=5"
-    },
-    {
-      "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos se acerca a 4.000 - EFE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeFRzSkRkWHg4RzdlS2dmZko3QndzTGUtODdsUzhodWhIYW9NTmVPWUxTQmo3ekN6cGVjNDhtQ2lVLXpXNnBvaTlqbE1uMUJJZGQxWE9GS3JkT1VWU3J5UzR3OWRoOTVYMTduMWY4VjI4OTN2UGdxOTRTSzFSc0d6TE5YbGZha3Jlc1VzRjdDVDBmbWdtaGJwVUtqblRQQzFRNDRLVFZFeU5yY0dNSFpZY1NhZXh3Z2lFa2c?oc=5"
     },
     {
       "time": "El Comercio Perú",
@@ -38,11 +38,6 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblHSAWBBVV95cUxPTkVxamRkRTE1enE0UjEyM2FjWlY2UmpKSngydGp6aGdINjNuc1hQWHBmbUxSSFJfSGR6X3ZQWTNkZlRFTGpsZFVoR3JHRTEyMVdoWFFmM0NzVXh1TDhGVHU?oc=5"
     },
     {
-      "time": "CNN en Español",
-      "message": "Resumen de noticias de los terremotos en Venezuela, el 24 y 25 de junio",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWVZemZacE5Jd2dUb0x2U2ZZbDN2b1Y1ZVR0dFFLLXVIZ0U3SnhHMFNER0dFNVlfWlBVT3ZHZDNRWGNxZm1HNkh5TXBiLW1Lc2FtMTcwcjVXMHZNTG1ieFdERlllSDVXaXI4T2JaTFRaa1pQR1k2T3U3VXQxWVU4NzNVaFowOEhqT3lFU3FGSVhCQ2dsdHZ5S1Q4NE5sZVJ1TzFpVkJn?oc=5"
-    },
-    {
       "time": "EL PAÍS",
       "message": "El terremoto en Venezuela - 29 de junio de 2026 | Venezuela eleva a más de 1.700 la cifra de fallecidos por los terremotos y hay 5.000 heridos",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWU45bzRiRHhSckRsQ01VVURLODgtRDI1NzFTUWRMQlBTR0MwZ2hSb2c2a3ZGYV92ZlZndWtkR2V6TVFjQ3EySFlrN0FPaHhqMXBwSThXVTBBYXdCLWU4aC0zdzV6aFg1cVFZczdiYkJnYjFvSEJLWlZMLTJIN0pkakZEeDVGcUUwa0htTE1ZN1d0bzlZeV9Z?oc=5"
@@ -56,6 +51,11 @@
       "time": "BBC",
       "message": "Qué es el \"doblete sísmico\" que sacudió Venezuela y por qué provocó tantos daños",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mQm44eFNfWTN1UVotdHRxMkRBbFRMajY0aTgzMlJoVC1md3RTdjF5a05uYkdaU0ZEYWYxSl9OYTBNcFBIUHMxOFMtVjhoc3A0alJhdXdJenAwODTSAWBBVV95cUxNd3JrNm5fVXNFcmJoZmdVR05IZWFuYnF4aXNTeEtCbWkwNGxZdXA4SXgzWk0xOWM1aUluYm9ndG5CWGJvblFlc3VzQmJ0Tzg0dVlCbWRaYlR1LWEyaDFhLXM?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Qué es lo último sobre los terremotos en Venezuela que han dejado al menos 1.450 muertos y más de 3.150 heridos",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdWlBTDNTWi1RMFVFZ0REZ184MW1pYV9JckVtblFWUWhSdWRaXzktZE1rTHUzbC10dmllRnlRZGtubHcwQjhZVVoySE40S1N4cUR2T21XUDlfaXPSAWBBVV95cUxQcEtzcVFvOW5oQ1NDR21uQURIdzc0MFgzRnIxRnVadVhhWDZmTnZOc3lZWlNOQWJFZUhSNDNmZGVaQ2FXN1VkMkoyQTUzTk9vNnhyUlpoUXpaOU5VLWNJaS0?oc=5"
     }
   ]
 }
