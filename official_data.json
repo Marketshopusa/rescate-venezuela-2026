@@ -4,14 +4,9 @@
     "missing": 33287,
     "hospitalized": 16840,
     "safe": 14639,
-    "deceased": 4000
+    "deceased": 4118
   },
   "reports": [
-    {
-      "time": "El Periódico",
-      "message": "Última hora del terremoto en Venezuela, en directo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21PUjNxVFhHNEJvd09vNXV6YUptR0w0dXFPZ2hjMlJLRWI3OEUxX0ZmVERDN1VRVTRVSzhfNUFiUTAwNHhnSTFvZFVoY2wwbG1nR3JVVGNxTmpCT2dfQUo2TTFZMExadmxuelJ6X3E1VVoza3l1cWxON2toa1RzLUF3ZEtlN1BudWNZY2pUaGpoOUdmTENqNUwzWFZiN3IzZG05MERzQVNDS0nSAasBQVVfeXFMT0tzTUpRVG1VM1IzS3JMSndsYkxzU3RzNnlob004QmF2UEltY3ZtWmNIWTdXXzczX0FiME8wMjQ4MkZSWmJ1bktHNGtCSEdPSmxyc2xuczNqY3VHTTlzZWtLX2ZrVTNsdjEtV0dqLUNBZzI5Mk9sVDBhU2lFWG1aOVd5U2RNOEdVTzAxbHM0Rlk1VFB3Z1U4ZjBPTGZWdmNjWkZSazN6U2RsM1Fr?oc=5"
-    },
     {
       "time": "DW.com",
       "message": "Doble terremoto en Venezuela: una tragedia anunciada",
@@ -19,13 +14,23 @@
     },
     {
       "time": "El Comercio Perú",
-      "message": "Temblor en Venezuela hoy, viernes 10 de julio: epicentro y magnitud según reporte FUNVISIS",
+      "message": "Temblor en Venezuela: reportes de los últimos sismos, 10 de julio | Protección Civil | Caracas | La Guaira | lbposting",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOU0R0S09RX3FoaU4yZjNOM0ZtX3dmOThUbVBYVml4WmJCN3FYUjd6NnBrLTNHZEFXdk9aQXItOEx0RkQ4ZVN3eUFINWdFV2tQaUdpSG9DajAwZEM3REdMRkxvV1J6QmZSdEZGZkdHMWozRlBwV0Q1RFhqTWliUVpWT2pNLUVwaC1uTFZ4anphSDZjR3BJcEd0Zl9QVlRYX0xIQTVVMkRUTWhCN3JIMlFsT0w5ckNZLXVTODd1R2RNcXhsUGpYamp4ejFuZVItU0R5NlNXcEtHLVBEeDZkRkM4ZHV2MW92dUZlVlRUQS1lNm4zVVlFZWl0YlE3aFdlS0hvOTdwalJCNXZqaFk5cDJSd2hXSkYwV3lpbVIwcnAxQWF4dXI0T2NZMk9ManN6Sk9NLTBOSnFSUDJCdw?oc=5"
     },
     {
+      "time": "El Periódico",
+      "message": "Última hora del terremoto en Venezuela, en directo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21PUjNxVFhHNEJvd09vNXV6YUptR0w0dXFPZ2hjMlJLRWI3OEUxX0ZmVERDN1VRVTRVSzhfNUFiUTAwNHhnSTFvZFVoY2wwbG1nR3JVVGNxTmpCT2dfQUo2TTFZMExadmxuelJ6X3E1VVoza3l1cWxON2toa1RzLUF3ZEtlN1BudWNZY2pUaGpoOUdmTENqNUwzWFZiN3IzZG05MERzQVNDS0nSAasBQVVfeXFMT0tzTUpRVG1VM1IzS3JMSndsYkxzU3RzNnlob004QmF2UEltY3ZtWmNIWTdXXzczX0FiME8wMjQ4MkZSWmJ1bktHNGtCSEdPSmxyc2xuczNqY3VHTTlzZWtLX2ZrVTNsdjEtV0dqLUNBZzI5Mk9sVDBhU2lFWG1aOVd5U2RNOEdVTzAxbHM0Rlk1VFB3Z1U4ZjBPTGZWdmNjWkZSazN6U2RsM1Fr?oc=5"
+    },
+    {
       "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos se acerca a 4.000 - EFE",
+      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos supera ya los 4.100 - EFE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2FNdWpLQlU5bHYtOXp2Y3BHT3VYUW5aWEN4Y1FRSTBZZ2d4SWFJYWppb2hrRWU4U1lqN1VTdS02ZUVodHlIOFRVMF9lT00zYnp2UHplc0JDa1I3ZEFsLWgwalp4ZDd2YUVEVHJSNVlQTHl6XzI4b3h5OGxzNW5jVEtjVkZRVTNBYnE5LTJrQTJzZW1HZnpnOTJPVjMzMkV4NXd2VEt5bnNiUmhjSnRtekJfdWJIVjZKcEE?oc=5"
+    },
+    {
+      "time": "Primicias",
+      "message": "¿Qué es el terremoto por desgarre que sacudió Venezuela? Se registran más de 1.100 réplicas",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGF3NWZmYVk0MnVpZnVDaE1PbGJYdHlHcGNnbkVib0xwblZkS3dqS2hWNWNCMDRDN2lzUElLbkF3S0xGQTRDWUxtQTFpWWFMdE5FQ0c4TTJxWmF5ZUxkem9Dd0haQnFIdXlJUjlNQ2FGUmhHOEV3TVZiWmRPUGcwZHU4UFVWampTc0pqXzZxU3RIaUJzb0dfblpNdzdxR1pFZVlMdDJiZWk?oc=5"
     },
     {
       "time": "Primicias",
@@ -38,6 +43,11 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjVLS3lOamFXcS03M1pGVDNONExuTDBtRkJ0MkU3emFNbGg4eUpzWjBvVkJPVEhORENUdlZrUjNwWUdickw2c0VfUzQxc1BjVV84SXRFdHdSV1Rma21aal9XdEVtNUZDd0lqbE9oOV9xS2FkcFprQUtyQ3lhalpLSmdrenhfbGdkOUNJbThBdnVqbllkRHJsakZrdlEtNkpDZHZOYndvUQ?oc=5"
     },
     {
+      "time": "Infobae",
+      "message": "El total de muertos por el doble terremoto en Venezuela superó los 4.000",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWtRMVJ4bERnTXI0aDQ4MVB4NTlXWVFhQ3Z1MlNDYmNQMzJnSm0tWWpEZ0ZpVEFqV1JKXzVkZ1dpS0FiZkN4TTVKZHZ6N0lvb2lZVDRJRVNBcGIyRDI5dFF6NU5QcUt0bHVkUFRnTzNZaklLOHlVVjBuYzZoWUtxOUVQVVhDNG9oRi1jSm9jV1VLY0FYbGZhTzZZN2NSTXNyTWZNTURPc0xPekFWS1B2YkV6SmJvQ1ct0gHTAUFVX3lxTFBSbFpLUURjbEdzVW1uVEdKVGFoQ0VMTG9xelpoTEQxTHlueDBRZ0h5UGJ3VEhWWGJnVFdhSDhOZjN2b0ZMaWM3SDFwOEF3cEtvM0FYTC02UmpJY1hoNFhNTDRtZ2dCSDBxb3d0Nm81MkV6SFd2Mm50X3RBZXFJUl9uNTlfSlJkTWtUVWRSTHBNTExFWk5uTUc4eFBsQ1hNT3lsZXJLS1ZJZTVTQkZBZ0llZEhFcmptR2wzQjIwUlEtYTU5UGpRY3lac0VEOVVhTXh6bmM?oc=5"
+    },
+    {
       "time": "Primicias",
       "message": "Cifra de muertos por el doble terremoto en Venezuela ya supera los 3.600, informa el Gobierno",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWTdlVGJQOEZZMUdoVEJsd0NxeVZzS2EzdGxJckJhS1FHSUNLRHhEVXF4c0FiY2F4djdhUXFibk00bWVSb1VpVTh4Y2FiakVhRXluRlAteF80QmNRREtKVE9HRDhINUNPX2EtaW4zV1RrVThtMVZrWnVxV1RpVS1zLWQ0SUZWLVJPV2ZEWEozMTFRd2ZObnRVRUV5OWlxblB3QkU0bXYxZU5MSUpob2l3Wnd0Nnc?oc=5"
@@ -46,16 +56,6 @@
       "time": "BBC",
       "message": "3 factores que explican por qué se derrumbaron tantos edificios en La Guaira por el terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblE?oc=5"
-    },
-    {
-      "time": "EL PAÍS",
-      "message": "El terremoto en Venezuela - 29 de junio de 2026 | Venezuela eleva a más de 1.700 la cifra de fallecidos por los terremotos y hay 5.000 heridos",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWU45bzRiRHhSckRsQ01VVURLODgtRDI1NzFTUWRMQlBTR0MwZ2hSb2c2a3ZGYV92ZlZndWtkR2V6TVFjQ3EySFlrN0FPaHhqMXBwSThXVTBBYXdCLWU4aC0zdzV6aFg1cVFZczdiYkJnYjFvSEJLWlZMLTJIN0pkakZEeDVGcUUwa0htTE1ZN1d0bzlZeV9Z?oc=5"
-    },
-    {
-      "time": "CNN en Español",
-      "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
     }
   ]
 }
