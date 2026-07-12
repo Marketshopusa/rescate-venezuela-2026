@@ -8,19 +8,14 @@
   },
   "reports": [
     {
-      "time": "DW.com",
-      "message": "Doble terremoto en Venezuela: una tragedia anunciada",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVF9FSUtXRDBCclQ2WjFrWV9weGxNMTlBMjlhU1FWd3NYbDlrVmRFUEhfSzlGREpqbW1zcXRMbVk5b0M5Mmg3eXRFV0c2ZTdxS0JhX1c5cjZ3WDB5NHNCRHZ0YkhYOFhhOXJwM0hXVXQwVUsyZUVNREJIZ3BSSXZndFJGVG1SWkNlX3hicdIBjAFBVV95cUxOV2QwdjZlQm1XZlZjM3FDeThuNXlDa01BTGl6UGJ6eG9aSHllX2J1OWhBM3BGbG1Ld0hoZVlFRWh6ckxUc3lRdk5pc3hKRUZmNklaYTRIZ21lakhMLVpmb18tcmZWRXZwX3dSSEQ2Y2V1dUxqVzBva2R1YjBzQ1FLS3hpTWN2bzRBY3dFVw?oc=5"
-    },
-    {
-      "time": "El Periódico",
-      "message": "Última hora del terremoto en Venezuela, en directo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21PUjNxVFhHNEJvd09vNXV6YUptR0w0dXFPZ2hjMlJLRWI3OEUxX0ZmVERDN1VRVTRVSzhfNUFiUTAwNHhnSTFvZFVoY2wwbG1nR3JVVGNxTmpCT2dfQUo2TTFZMExadmxuelJ6X3E1VVoza3l1cWxON2toa1RzLUF3ZEtlN1BudWNZY2pUaGpoOUdmTENqNUwzWFZiN3IzZG05MERzQVNDS0nSAasBQVVfeXFMT0tzTUpRVG1VM1IzS3JMSndsYkxzU3RzNnlob004QmF2UEltY3ZtWmNIWTdXXzczX0FiME8wMjQ4MkZSWmJ1bktHNGtCSEdPSmxyc2xuczNqY3VHTTlzZWtLX2ZrVTNsdjEtV0dqLUNBZzI5Mk9sVDBhU2lFWG1aOVd5U2RNOEdVTzAxbHM0Rlk1VFB3Z1U4ZjBPTGZWdmNjWkZSazN6U2RsM1Fr?oc=5"
-    },
-    {
       "time": "El Comercio Perú",
       "message": "Temblor en Venezuela: últimos sismos reportados hoy, domingo 12 de julio",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbGRaQ0hVNEZYTU94c1JiSVp0Tm8wcEVFUndUMktjaVVVQTdKYnhjWHpsd0VlX1pEMFVUbWlMNHA5SnVTSnNEZWsyUDdwMzlaNE9Ub1N2QWh0UUhNRFNHNEZhUnR6bHVza2F6N29jSXVpVHVHbnE5aW9jbEVOSE5iXzFiTjdGazNxQURkekZ5WXpQVFA0UFNYdUNuZUMxVnBVWENaN2ExLTY2UkRYMDUyQWJqMWlnTmdvNHBBMTN1RWpUNE84bUJycUZZUklLS2xyTTRBNm1oRXR2NHp3UFVVakdncGppaGxndU5ZSWk4MXZTaXRFOUlTUVQ5NDYzWTRnX29GVVFGY1JEdWh3dk95ODBqRjBDRXpCd3Fsc1JB?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Doble terremoto en Venezuela: una tragedia anunciada",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVF9FSUtXRDBCclQ2WjFrWV9weGxNMTlBMjlhU1FWd3NYbDlrVmRFUEhfSzlGREpqbW1zcXRMbVk5b0M5Mmg3eXRFV0c2ZTdxS0JhX1c5cjZ3WDB5NHNCRHZ0YkhYOFhhOXJwM0hXVXQwVUsyZUVNREJIZ3BSSXZndFJGVG1SWkNlX3hicdIBjAFBVV95cUxOV2QwdjZlQm1XZlZjM3FDeThuNXlDa01BTGl6UGJ6eG9aSHllX2J1OWhBM3BGbG1Ld0hoZVlFRWh6ckxUc3lRdk5pc3hKRUZmNklaYTRIZ21lakhMLVpmb18tcmZWRXZwX3dSSEQ2Y2V1dUxqVzBva2R1YjBzQ1FLS3hpTWN2bzRBY3dFVw?oc=5"
     },
     {
       "time": "Infobae",
@@ -31,6 +26,16 @@
       "time": "Agencia de noticias",
       "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos supera ya los 4.100 - EFE",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2FNdWpLQlU5bHYtOXp2Y3BHT3VYUW5aWEN4Y1FRSTBZZ2d4SWFJYWppb2hrRWU4U1lqN1VTdS02ZUVodHlIOFRVMF9lT00zYnp2UHplc0JDa1I3ZEFsLWgwalp4ZDd2YUVEVHJSNVlQTHl6XzI4b3h5OGxzNW5jVEtjVkZRVTNBYnE5LTJrQTJzZW1HZnpnOTJPVjMzMkV4NXd2VEt5bnNiUmhjSnRtekJfdWJIVjZKcEE?oc=5"
+    },
+    {
+      "time": "Revista Semana",
+      "message": "Venezuela registra un nuevo sismo en medio de la emergencia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUUxaHJpZ2hDaDI0LWdySjhiajZyNl9SdDdNVDBYYi1kOFdELUdTQlRRSUt5d1hqVzE1cUR1YUJ1ekdQbkZOVS1rM09SMjY1MjJVYnhFOE9rejY1dndSWGNCTGJEaGhzT3ZneXNheThOcWFwV0tUcWhDTDB2cnEyUFZCLTBMbTY0aFlyaTBhN2p5Y2N3cmJDUUJKMURsa1FjbXpuMVNlWUzSAa4BQVVfeXFMTmdjWEZxbmg3S2xkaGhLVEtXeFpXcmJWMGZldloyeDluNTFTcjM1aGs2UkdmaGZQSThpczBtRkJXdDFETXJhVnRnbklQUEhWMkFpQ1E4eEVkR0pfVzBjWDA0bkVjTzJoel9vMjVPUk5yaG9qcTdQazRGNXRabm1KVzJ4SEh6dnRxV0I1ZFVSbVphTjg5czdwWmp6SXZNNHJoeEl5S2ZlVndzT0plQmZn?oc=5"
+    },
+    {
+      "time": "El Periódico",
+      "message": "Última hora del terremoto en Venezuela, en directo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21PUjNxVFhHNEJvd09vNXV6YUptR0w0dXFPZ2hjMlJLRWI3OEUxX0ZmVERDN1VRVTRVSzhfNUFiUTAwNHhnSTFvZFVoY2wwbG1nR3JVVGNxTmpCT2dfQUo2TTFZMExadmxuelJ6X3E1VVoza3l1cWxON2toa1RzLUF3ZEtlN1BudWNZY2pUaGpoOUdmTENqNUwzWFZiN3IzZG05MERzQVNDS0nSAasBQVVfeXFMT0tzTUpRVG1VM1IzS3JMSndsYkxzU3RzNnlob004QmF2UEltY3ZtWmNIWTdXXzczX0FiME8wMjQ4MkZSWmJ1bktHNGtCSEdPSmxyc2xuczNqY3VHTTlzZWtLX2ZrVTNsdjEtV0dqLUNBZzI5Mk9sVDBhU2lFWG1aOVd5U2RNOEdVTzAxbHM0Rlk1VFB3Z1U4ZjBPTGZWdmNjWkZSazN6U2RsM1Fr?oc=5"
     },
     {
       "time": "Primicias",
@@ -51,11 +56,6 @@
       "time": "BBC",
       "message": "3 factores que explican por qué se derrumbaron tantos edificios en La Guaira por el terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblE?oc=5"
-    },
-    {
-      "time": "CNN en Español",
-      "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
     }
   ]
 }
