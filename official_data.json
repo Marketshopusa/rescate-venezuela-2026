@@ -8,34 +8,29 @@
   },
   "reports": [
     {
-      "time": "El Periódico",
-      "message": "Última hora del terremoto en Venezuela, en directo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnUtYzZLenMzNXZEUXZQTXFtcC1NRGlJMnI3QmRCdXpqcFlmbmd3cE9nTE9jWUN4c3oxMV8wLVlfSVhVUWUwYVpGVzI1ejV1VkdnOGNvZ1hSYUkyYWJ0Y1U3QllXVHFsS0lIMzVSRUs0WlpEM2k2VTc4ZFlDRUI5SUVObDY0N3hrLXhiNndrM18yS1FveFFrZVNzblB0di1aSDZkc3AwUko5dDDSAasBQVVfeXFMT3JtcHFNbXBNbTI3anFzWFpUakJNRGFOcFpqLVR2Q1FtckZReFdtYVBLTnNKdEk4YkFjdGlwVFNkNXdHek9SSC0xYU01VDVXOWJCcmo5eEVsQUphZEpKZWlrd0xCRS1PbkF1T256QzRKUmNOcnlFQXFTSmRlU25aaXJMWDI2bk1od0N5Wjhzdlk1YmVhWEpBRk1ZUHluemxZTEdsMk9lVjAwa0Mw?oc=5"
+      "time": "dw.com",
+      "message": "Venezuela: muertos por sismos del 24 de junio suben a 4.561",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXIzY18wQWJQYkM2VHV4YnI0X0txSmNkT09kdUNIMzQ5ZExFS2JBcEJYQlpHYU9VWGJrMjF4Q3lmSlhMS2cyZ3NoRk9Pd1E1S2dMcGxQMUVhUHR5eWNVS2pPaVR3QlBDMHBBOUlPUWRXSW05Q0xUb3RtYzBFdF9FNE1DZ1B0OS0weUx2aU5DNTI2ZVVhZGhSaNIBmAFBVV95cUxPd3lPVmRXTG1NaGVHTXRvOV85TndaLS1UWWJTRDg4Tml4ZXpncm5RaW55M1c2YUFOby1vRkhoRlA0T0dDWE9QZVdNZ0tpazJBMC12YldacFdhRlUwSlV4c3d5T1lYTDg2UjBCdDVqTnRYZVRJTnNXa2VyQmZrcVJhbzNHNHRmR2Q4V3dXaDZqekdTNXRwU3NsQw?oc=5"
     },
     {
-      "time": "El Comercio Perú",
-      "message": "Temblor en Venezuela del lunes 13 de julio: consulta los últimos reportes aquí",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVTloVHhVQ3ZRTWFuYVU5aFZTc21HMFdtMndIcnhfUkNYZS1MYlMwRDBiSmdpNVNEMzhxc0tjbzNVSnlMLV9wX0F4ZFhjLUdVLWVZeVNHeTlETFZ4MTNIZTBwUTEwc1BhLW9mRGpLa3VyTkFUbURBMkt2WE9BcG16WlZaeVBzNGhQUjg5cnd4RWlCYzhYNkREM1ZLZThfWjNPR0poSzFxalVicnpOYVVQOEFETjMwZUVmYW9XaGs0UjlRVDItWkFLUksxY0hZZWFRM1NNSDVRYWd3SEdIYWFkbmh5eC1nbXlEYWZmRTUtTVdPaFlJYVN0djlkX2V0ak9DUnRWSDN1a0ZNbUFVYkZfTzRHZHRGdjdWTUJwMHJJNGFCRjNTVEVhajdCTzg3VzlKb2FlTGExbmJ1LXF4U2pDU0VBRjVhMkJNRXo5aXhhdFpHRDNK?oc=5"
+      "time": "Telemundo Miami (51)",
+      "message": "13 de julio: Aumenta a 4,561 la cifra de fallecidos por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNnE0clVmY2RhMkh5ZUlYNVktTHAwWkFfeTg0Wl9FSVNHSkNOa2ZOdnZBTjhlSEdIZVZIdVBNYUd3NnBTb0YxTUxyRktsTHZYSWZDUWpzamdJQnpJUXhWbEpjN08zeFdJODhsUWMxRFpCU20yMG80NXNCWVUzRlBtLVkxd3dzeG9jb3NJTUU3cEdZTE9uT2pFSXV4V2VZTkI2U0xKakpHVU1JVkJPdWxmUTJNR3ZkUnl6Mm5rTXNZUERWNWxmdWNYM2RldUQyWEJrd1kwdG42SGnSAeABQVVfeXFMUFRydzY5Q2EyeDdPcUVJZVBnZmtiWWU5cUtVMDJPNEtJanlJSC1aMWd6SnVJOW1vY0Z2LWNiNHYwNDhHMkV1ejkxN3FxeFhhX0RLNE93ZzE5RC1SckNsUjNkZW43cXB3LUotVS1HVlJYQmtURkhqc3ZmZXVpbXVTdjhydjY0YWNReDNVcnVtQ2JVWFJUdGc3cHpkNk1IQ0lOLWJJMHZzUWNpeDlUdlZ5Vno3aTZTODlHcnR4c1EtcHBHQkI0NFlXSjI5S3lCQUdxc0xqaVdPNmFmZU55YmFtOTU?oc=5"
     },
     {
-      "time": "Primicias",
-      "message": "¿Qué es el terremoto por desgarre que sacudió Venezuela? Se registran más de 1.100 réplicas",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGF3NWZmYVk0MnVpZnVDaE1PbGJYdHlHcGNnbkVib0xwblZkS3dqS2hWNWNCMDRDN2lzUElLbkF3S0xGQTRDWUxtQTFpWWFMdE5FQ0c4TTJxWmF5ZUxkem9Dd0haQnFIdXlJUjlNQ2FGUmhHOEV3TVZiWmRPUGcwZHU4UFVWampTc0pqXzZxU3RIaUJzb0dfblpNdzdxR1pFZVlMdDJiZWk?oc=5"
-    },
-    {
-      "time": "Revista Semana",
-      "message": "Venezuela registra un nuevo sismo en medio de la emergencia",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOUUxaHJpZ2hDaDI0LWdySjhiajZyNl9SdDdNVDBYYi1kOFdELUdTQlRRSUt5d1hqVzE1cUR1YUJ1ekdQbkZOVS1rM09SMjY1MjJVYnhFOE9rejY1dndSWGNCTGJEaGhzT3ZneXNheThOcWFwV0tUcWhDTDB2cnEyUFZCLTBMbTY0aFlyaTBhN2p5Y2N3cmJDUUJKMURsa1FjbXpuMVNlWUzSAa4BQVVfeXFMTmdjWEZxbmg3S2xkaGhLVEtXeFpXcmJWMGZldloyeDluNTFTcjM1aGs2UkdmaGZQSThpczBtRkJXdDFETXJhVnRnbklQUEhWMkFpQ1E4eEVkR0pfVzBjWDA0bkVjTzJoel9vMjVPUk5yaG9qcTdQazRGNXRabm1KVzJ4SEh6dnRxV0I1ZFVSbVphTjg5czdwWmp6SXZNNHJoeEl5S2ZlVndzT0plQmZn?oc=5"
+      "time": "NASA Ciencia (.gov)",
+      "message": "Dónde se desplazó la superficie terrestre por los terremotos de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzJqN3RmazZtN1FSTkZLX09sS1dYZW5lZElWaWJvTVFVeHQ1ZHlVSU9tU0pIMWRsRWxBZlFLelNoMFQ1UXhfUXRSblM5Zy1walVLa3VBMUREOTd3R0dkQ0FUbi1FRmE0bU1paXBOUGNLclppYVpwdmNRcTkxbWRyOGdUcVg4QS05c1U0RmFOMVlDRjB1aVJ3TnkxLTlST0dtOGxQR1ZRSEotV0VkNDB6d0I1ZDRqV3VlNUJB?oc=5"
     },
     {
       "time": "Infobae",
-      "message": "El total de muertos por el doble terremoto en Venezuela superó los 4.000",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWtRMVJ4bERnTXI0aDQ4MVB4NTlXWVFhQ3Z1MlNDYmNQMzJnSm0tWWpEZ0ZpVEFqV1JKXzVkZ1dpS0FiZkN4TTVKZHZ6N0lvb2lZVDRJRVNBcGIyRDI5dFF6NU5QcUt0bHVkUFRnTzNZaklLOHlVVjBuYzZoWUtxOUVQVVhDNG9oRi1jSm9jV1VLY0FYbGZhTzZZN2NSTXNyTWZNTURPc0xPekFWS1B2YkV6SmJvQ1ct0gHTAUFVX3lxTFBSbFpLUURjbEdzVW1uVEdKVGFoQ0VMTG9xelpoTEQxTHlueDBRZ0h5UGJ3VEhWWGJnVFdhSDhOZjN2b0ZMaWM3SDFwOEF3cEtvM0FYTC02UmpJY1hoNFhNTDRtZ2dCSDBxb3d0Nm81MkV6SFd2Mm50X3RBZXFJUl9uNTlfSlJkTWtUVWRSTHBNTExFWk5uTUc4eFBsQ1hNT3lsZXJLS1ZJZTVTQkZBZ0llZEhFcmptR2wzQjIwUlEtYTU5UGpRY3lac0VEOVVhTXh6bmM?oc=5"
+      "message": "Nuevo balance del doble terremoto en Venezuela: la cifra de muertos aumentó a 4.561",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1hScGNPcHFPZF8wai1NaGFySnRZY3JJUXNWSEtxRXJzQkRCLVFIR0o0MmxVdUpHV0dHUHB0SWtKTDk2cGpFdEM4VWZ3WGE5R3gyV3FxclVVX3lsdE1vMEZDeS1Md0FyM3JsbDdEUDdyX3hQQlF5WTFkdU1vTkdqdlVrcHFJaXpXWU9yVmVfczA4WnJSYXZHMEF6SGpMT0dybEt6bzlscFhNRlVwb0dVNW9DOUUwdVBvU2ZtME9CNWhQR3duNmfSAeABQVVfeXFMTUgzMEg4VVNqdzl2TXktYWdxTUhqZzFzVWFmZ3dLRVdWcmtpZG1HeHFmR2F3T1JyekF6Z0pXR25OaURnVi1KX3pvY3ZtLUtfRHM5b1NPeDZValV3T1NVbmxBaUJQT1IzcGctZjk4bldBQXZ3MkJCd3Jkb04wbzlHcENhdkZ5YjVzaEJzV2xRVXVVZzc5Q2dxS1V3RWVYUUp4MVVIVkhyUldxM2xUdWc0a3hYTEJkS05VbXdIZ3RNRTNkQWs2RGtIeXNlZnZ1b2xVdk54MHdQelMxMUpGV243UGY?oc=5"
     },
     {
-      "time": "El Comercio Perú",
-      "message": "Temblor en Venezuela: revisa los últimos sismos del domingo 12 de julio",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNbGRaQ0hVNEZYTU94c1JiSVp0Tm8wcEVFUndUMktjaVVVQTdKYnhjWHpsd0VlX1pEMFVUbWlMNHA5SnVTSnNEZWsyUDdwMzlaNE9Ub1N2QWh0UUhNRFNHNEZhUnR6bHVza2F6N29jSXVpVHVHbnE5aW9jbEVOSE5iXzFiTjdGazNxQURkekZ5WXpQVFA0UFNYdUNuZUMxVnBVWENaN2ExLTY2UkRYMDUyQWJqMWlnTmdvNHBBMTN1RWpUNE84bUJycUZZUklLS2xyTTRBNm1oRXR2NHp3UFVVakdncGppaGxndU5ZSWk4MXZTaXRFOUlTUVQ5NDYzWTRnX29GVVFGY1JEdWh3dk95ODBqRjBDRXpCd3Fsc1JB?oc=5"
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #19 (12 de julio de 2026, Hora: 09:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZzVpSlhySktxVnpRSURxSFFCVVNDcTVNdGlwUjJ5aGxMMEdVNFhkbmQ0SWtIYkpVZDdZcG9temxqR0tRb0daNEhSc041OG9ZRjZueGhFYjhxV1B2ck1Ta3dBX0dGTWJIdTJRNFlXSnplZlRXM0lSQjlmWFhDb2tSRVJIOWIyaDR0WnRuaS1haGVyTmJhR0hGUGJyNEszcVFTcVI4N2JLTUlRSUxyWWx5S09EX1k3TDBHNXp3VGdLc2NhMGFfdzVlZGdnUnhVYVk3TDY5V19B?oc=5"
     },
     {
       "time": "Agencia de noticias",
@@ -43,19 +38,24 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2FNdWpLQlU5bHYtOXp2Y3BHT3VYUW5aWEN4Y1FRSTBZZ2d4SWFJYWppb2hrRWU4U1lqN1VTdS02ZUVodHlIOFRVMF9lT00zYnp2UHplc0JDa1I3ZEFsLWgwalp4ZDd2YUVEVHJSNVlQTHl6XzI4b3h5OGxzNW5jVEtjVkZRVTNBYnE5LTJrQTJzZW1HZnpnOTJPVjMzMkV4NXd2VEt5bnNiUmhjSnRtekJfdWJIVjZKcEE?oc=5"
     },
     {
-      "time": "BBC",
-      "message": "3 factores que explican por qué se derrumbaron tantos edificios en La Guaira por el terremoto en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblE?oc=5"
+      "time": "facebook.com",
+      "message": "#Venezuela | El Gobierno nacional informó este sábado que la conducción, planificación y ejecución de la recuperación de las zonas afectadas por el sismo del pasado 24 de junio será una responsabilidad exclusiva del Estado venezolano. \"Hasta la fecha,",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMmR3elVDRExVSFJqU0FvTGYtb3Q0NzZ2aXhuaTVPM09QR25CcTBCeW9yWFRYTWRUVjFnQVdlbG1lRDc2QjJyVjRWemN2cUVuSVljR05rTmpBRldLeVVaNm91aDJ4elQ2ZmhxaGxkMnJCSG4wS3JHc2g0LUloVUJpaVRRdlZhVDdLcHdGU2dPUnV3U0tsVVo5RzZxNU5aU1F2WVNIblVuT0ZOZ3NJX3A5Yi1xS01yeWZmSjU4SDJ1anZCWVMxQWJCOGt4R0JPMC1TVTYzRnFNZUk4VndrSWRQbU1DWi1UNk1ZemUxLQ?oc=5"
     },
     {
-      "time": "CNN en Español",
-      "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
+      "time": "Diario Primicia",
+      "message": "Funvisis confirma sismo de magnitud 4,2 este lunes #13Jul",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGlMMGxvSklHYkVHZEI1bXB6djhWLUR5NjdrTDdqdi1RN3NuMmZ3SFlRRnZpdk5rMnZFc2lwVC0zMlBqOG9GNDNjSFFaMU1MOXVnUndBdzladmVLelhhUTZqNG9GNjBwV3RYVXZwNGFFZ3FUNVlsNnh2a29lSEFqMk9YeGJlOVA3dy0wSFpyMUM?oc=5"
     },
     {
-      "time": "dw.com",
-      "message": "Venezuela: muertos por sismos del 24 de junio suben a 4.561",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXIzY18wQWJQYkM2VHV4YnI0X0txSmNkT09kdUNIMzQ5ZExFS2JBcEJYQlpHYU9VWGJrMjF4Q3lmSlhMS2cyZ3NoRk9Pd1E1S2dMcGxQMUVhUHR5eWNVS2pPaVR3QlBDMHBBOUlPUWRXSW05Q0xUb3RtYzBFdF9FNE1DZ1B0OS0weUx2aU5DNTI2ZVVhZGhSaNIBmAFBVV95cUxPd3lPVmRXTG1NaGVHTXRvOV85TndaLS1UWWJTRDg4Tml4ZXpncm5RaW55M1c2YUFOby1vRkhoRlA0T0dDWE9QZVdNZ0tpazJBMC12YldacFdhRlUwSlV4c3d5T1lYTDg2UjBCdDVqTnRYZVRJTnNXa2VyQmZrcVJhbzNHNHRmR2Q4V3dXaDZqekdTNXRwU3NsQw?oc=5"
+      "time": "France 24",
+      "message": "Venezuela: el balance del doble terremoto supera los 4.330 muertos, dos semanas después de la tragedia",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORE5qQ2RXWmdlUXAtS045VHB3VGhQbFk4NnB6WHhzTnNwbTM5bUoyMy12cnBaRWhfYTQ0OXV0VTkzVjlQV2NDTnNnSDlhQUswWFRHeHBMTkJYUFlKSl9iMDJCMDdJS3dlSXpOMEk1bFl4MDRDUXlibElOWkYtLWQzaE9yTzRXdGhpSngzc1luMjJkTlFJNUh1dzJxWFBfellxbmZHUHgzbGlpYllvMktNOUhJZ3RuQTdPZ01KS3ZiRGRGcXlPNW14SHRtMVVyb3dhRlBKR0NKNDNhM0RVSTdfeQ?oc=5"
+    },
+    {
+      "time": "El Nacional",
+      "message": "Nuevo sismo de magnitud 3,6 sacudió La Guaira la noche del sábado, según Funvisis",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa0JlSHdyWmRJWVJWQmdlVXhpYmpFOWJqMEFFYXk1dldvWnNoX0pQSXlObGtUS2FYZzBaRm5YZGlqYVJkU3J5d05ubUgzZGJhX2xlWS1aUVVXU0dQX2pTRFBiUy1fZUpJd2dmZ0pXZHNuMU9SV2o2dnRqeDRCT3hzM08tZHlxMnJ2S0g0cXQwQkNVUWRwcUhVVkpmaWlQTW5ubm1MdXktWVNFN2VDc2hJVzZ4X2JCQQ?oc=5"
     }
   ]
 }
