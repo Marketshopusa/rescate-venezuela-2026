@@ -8,44 +8,14 @@
   },
   "reports": [
     {
-      "time": "El Periódico",
-      "message": "Última hora del terremoto en Venezuela, en directo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTNlZ3J6MFdpSEY3Q1N0eW1iWmdtc2xiYWRqWEZDN1JVNmdSSjRuZktOTU40dEtLN211bms5UUtBelJEUmVGOXZNb2xnOENUVDlIbHNNc1lzRVR5amt2MVFBam1LX3k4NDhIRElseHN5Qml6Q0dQMHRzWXdHb0hEYjd4OWFuNW10LWRERGV5eEJDLTFUUWlwLUxJaV9RMF8zUk5HOXdIVjlVRmPSAasBQVVfeXFMTkNXVmh5ZkVqYW9IMEJFck1MVlQ2VU1rclVhcGJKZWRzVlpvWlNleEhBSW9peVNtQTZzeC1EVWNnNTVGYzVOX3A3ZVd5YURXUHF3RFBtVGRxMGpKZXRzUUYxNTQ1bVRyNDFKaFhzcXpWRUUzRGM1Y1R6Z2hRZFBELUFSa2N0MnhSZ1Z6Uk5ZenJoQWlxVU4zd0xwckMtX0J5amVleGhyTlljZmpn?oc=5"
-    },
-    {
-      "time": "El Comercio Perú",
-      "message": "Temblor en Venezuela hoy, martes 14 de julio: epicentro, hora y magnitud",
-      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVTloVHhVQ3ZRTWFuYVU5aFZTc21HMFdtMndIcnhfUkNYZS1MYlMwRDBiSmdpNVNEMzhxc0tjbzNVSnlMLV9wX0F4ZFhjLUdVLWVZeVNHeTlETFZ4MTNIZTBwUTEwc1BhLW9mRGpLa3VyTkFUbURBMkt2WE9BcG16WlZaeVBzNGhQUjg5cnd4RWlCYzhYNkREM1ZLZThfWjNPR0poSzFxalVicnpOYVVQOEFETjMwZUVmYW9XaGs0UjlRVDItWkFLUksxY0hZZWFRM1NNSDVRYWd3SEdIYWFkbmh5eC1nbXlEYWZmRTUtTVdPaFlJYVN0djlkX2V0ak9DUnRWSDN1a0ZNbUFVYkZfTzRHZHRGdjdWTUJwMHJJNGFCRjNTVEVhajdCTzg3VzlKb2FlTGExbmJ1LXF4U2pDU0VBRjVhMkJNRXo5aXhhdFpHRDNK?oc=5"
-    },
-    {
-      "time": "Infobae",
-      "message": "Ascendió a 4.490 el número de muertos por los devastadores terremotos en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNlc3QW5yQ0QzbzJLSUFPcW1GUEhTOER3YWRhTnFtSTc2aUxlVUZXSXNkWEZCci01aUtSWEtadXFnc0dNT1p4bUZ6UGxRMi10TGNIUHNma2RIY29kZzRYRDFMMGl3RjdMSFdJTjdZMDNtMmZiNDhTNUxaU1oyNUhCVGhlMFo1OUQtNEE5cFV0dHBsajlISkwzTmtiZl9YNzN2STVQUERickRqbzlqOXdrXzZUQUdNdHVybThmc2FJSkxlbVNlVFHSAeABQVVfeXFMUDRjamVkZlVhU3ZJYld5bkYtU3hyNzM3RF8zSGg0M0x3d2Jmd25lWDFCZlFCUkw1Nm1ELTA4MDRhQ1ZsbkVOVU5ybG41dGNqR1lrMzlUajV1dzVCMUN5ZTFpaXd6WmVoQWE2RGNFU05vS0pMZm9kaVE3SHVTaVJYSldNellJZ2JBVzI1SHNFWjU3X0tjUXNhMzlaZnY3enl3ODl2dEk4MlhpS3QyQzVKT3JFVnd5a3V3RTdKc2RPd3pSbUFZeHhYZWhILV9rbTNwUTNfR1UyOWQ2UGMzNndFdmQ?oc=5"
-    },
-    {
-      "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos supera ya los 4.100 - EFE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2FNdWpLQlU5bHYtOXp2Y3BHT3VYUW5aWEN4Y1FRSTBZZ2d4SWFJYWppb2hrRWU4U1lqN1VTdS02ZUVodHlIOFRVMF9lT00zYnp2UHplc0JDa1I3ZEFsLWgwalp4ZDd2YUVEVHJSNVlQTHl6XzI4b3h5OGxzNW5jVEtjVkZRVTNBYnE5LTJrQTJzZW1HZnpnOTJPVjMzMkV4NXd2VEt5bnNiUmhjSnRtekJfdWJIVjZKcEE?oc=5"
-    },
-    {
-      "time": "BBC",
-      "message": "3 factores que explican por qué se derrumbaron tantos edificios en La Guaira por el terremoto en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblE?oc=5"
-    },
-    {
-      "time": "CNN en Español",
-      "message": "Dudas sobre las cifras del sismo en Venezuela: crece el número de muertos pero el mayor interrogante son los desaparecidos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
+      "time": "DW.com",
+      "message": "Venezuela: muertos por sismos del 24 de junio suben a 4.561",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXIzY18wQWJQYkM2VHV4YnI0X0txSmNkT09kdUNIMzQ5ZExFS2JBcEJYQlpHYU9VWGJrMjF4Q3lmSlhMS2cyZ3NoRk9Pd1E1S2dMcGxQMUVhUHR5eWNVS2pPaVR3QlBDMHBBOUlPUWRXSW05Q0xUb3RtYzBFdF9FNE1DZ1B0OS0weUx2aU5DNTI2ZVVhZGhSaNIBmAFBVV95cUxPd3lPVmRXTG1NaGVHTXRvOV85TndaLS1UWWJTRDg4Tml4ZXpncm5RaW55M1c2YUFOby1vRkhoRlA0T0dDWE9QZVdNZ0tpazJBMC12YldacFdhRlUwSlV4c3d5T1lYTDg2UjBCdDVqTnRYZVRJTnNXa2VyQmZrcVJhbzNHNHRmR2Q4V3dXaDZqekdTNXRwU3NsQw?oc=5"
     },
     {
       "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #20 (13 de julio de 2026, Hora: 09:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT1F4eXlHYjdvTEZNY3o2M2hPVGJ2TTc2TUlpUlprcDBmNzFfa0NpNVNTWE9JamREYWRTRlYzNnRFRDJtSGtVdW5JUnhTYnZaSVM4SEI2MDJZaGtkbGlnUlYzaWxGUlpTbnBUZGh5cTVEU0pPVjVWU3Z6c0VRWjRUaDJqSVR3VmNZUVN5VUZzal9PWDV3emhGbWtteGk1ajlhNENWQ29QRWlGQXBhSXlhUjZacXpVQXZSQ2JlV2NjdEc0ei1xVVQ0aTdFa0JDbGg5YVZBMVBn?oc=5"
-    },
-    {
-      "time": "dw.com",
-      "message": "Venezuela: muertos por sismos del 24 de junio suben a 4.561",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXIzY18wQWJQYkM2VHV4YnI0X0txSmNkT09kdUNIMzQ5ZExFS2JBcEJYQlpHYU9VWGJrMjF4Q3lmSlhMS2cyZ3NoRk9Pd1E1S2dMcGxQMUVhUHR5eWNVS2pPaVR3QlBDMHBBOUlPUWRXSW05Q0xUb3RtYzBFdF9FNE1DZ1B0OS0weUx2aU5DNTI2ZVVhZGhSaNIBmAFBVV95cUxPd3lPVmRXTG1NaGVHTXRvOV85TndaLS1UWWJTRDg4Tml4ZXpncm5RaW55M1c2YUFOby1vRkhoRlA0T0dDWE9QZVdNZ0tpazJBMC12YldacFdhRlUwSlV4c3d5T1lYTDg2UjBCdDVqTnRYZVRJTnNXa2VyQmZrcVJhbzNHNHRmR2Q4V3dXaDZqekdTNXRwU3NsQw?oc=5"
+      "message": "Terremotos en Venezuela: Reporte de situación #19 (12 de julio de 2026, Hora: 09:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZzVpSlhySktxVnpRSURxSFFCVVNDcTVNdGlwUjJ5aGxMMEdVNFhkbmQ0SWtIYkpVZDdZcG9temxqR0tRb0daNEhSc041OG9ZRjZueGhFYjhxV1B2ck1Ta3dBX0dGTWJIdTJRNFlXSnplZlRXM0lSQjlmWFhDb2tSRVJIOWIyaDR0WnRuaS1haGVyTmJhR0hGUGJyNEszcVFTcVI4N2JLTUlRSUxyWWx5S09EX1k3TDBHNXp3VGdLc2NhMGFfdzVlZGdnUnhVYVk3TDY5V19B?oc=5"
     },
     {
       "time": "Telemundo Miami (51)",
@@ -56,6 +26,36 @@
       "time": "Infobae",
       "message": "Nuevo balance del doble terremoto en Venezuela: la cifra de muertos aumentó a 4.561",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1hScGNPcHFPZF8wai1NaGFySnRZY3JJUXNWSEtxRXJzQkRCLVFIR0o0MmxVdUpHV0dHUHB0SWtKTDk2cGpFdEM4VWZ3WGE5R3gyV3FxclVVX3lsdE1vMEZDeS1Md0FyM3JsbDdEUDdyX3hQQlF5WTFkdU1vTkdqdlVrcHFJaXpXWU9yVmVfczA4WnJSYXZHMEF6SGpMT0dybEt6bzlscFhNRlVwb0dVNW9DOUUwdVBvU2ZtME9CNWhQR3duNmfSAeABQVVfeXFMTUgzMEg4VVNqdzl2TXktYWdxTUhqZzFzVWFmZ3dLRVdWcmtpZG1HeHFmR2F3T1JyekF6Z0pXR25OaURnVi1KX3pvY3ZtLUtfRHM5b1NPeDZValV3T1NVbmxBaUJQT1IzcGctZjk4bldBQXZ3MkJCd3Jkb04wbzlHcENhdkZ5YjVzaEJzV2xRVXVVZzc5Q2dxS1V3RWVYUUp4MVVIVkhyUldxM2xUdWc0a3hYTEJkS05VbXdIZ3RNRTNkQWs2RGtIeXNlZnZ1b2xVdk54MHdQelMxMUpGV243UGY?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "#Venezuela | El Gobierno nacional informó este sábado que la conducción, planificación y ejecución de la recuperación de las zonas afectadas por el sismo del pasado 24 de junio será una responsabilidad exclusiva del Estado venezolano. \"Hasta la fecha,",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMmR3elVDRExVSFJqU0FvTGYtb3Q0NzZ2aXhuaTVPM09QR25CcTBCeW9yWFRYTWRUVjFnQVdlbG1lRDc2QjJyVjRWemN2cUVuSVljR05rTmpBRldLeVVaNm91aDJ4elQ2ZmhxaGxkMnJCSG4wS3JHc2g0LUloVUJpaVRRdlZhVDdLcHdGU2dPUnV3U0tsVVo5RzZxNU5aU1F2WVNIblVuT0ZOZ3NJX3A5Yi1xS01yeWZmSjU4SDJ1anZCWVMxQWJCOGt4R0JPMC1TVTYzRnFNZUk4VndrSWRQbU1DWi1UNk1ZemUxLQ?oc=5"
+    },
+    {
+      "time": "Agencia de noticias",
+      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos supera ya los 4.100 - EFE",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2FNdWpLQlU5bHYtOXp2Y3BHT3VYUW5aWEN4Y1FRSTBZZ2d4SWFJYWppb2hrRWU4U1lqN1VTdS02ZUVodHlIOFRVMF9lT00zYnp2UHplc0JDa1I3ZEFsLWgwalp4ZDd2YUVEVHJSNVlQTHl6XzI4b3h5OGxzNW5jVEtjVkZRVTNBYnE5LTJrQTJzZW1HZnpnOTJPVjMzMkV4NXd2VEt5bnNiUmhjSnRtekJfdWJIVjZKcEE?oc=5"
+    },
+    {
+      "time": "NASA Ciencia (.gov)",
+      "message": "Dónde se desplazó la superficie terrestre por los terremotos de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzJqN3RmazZtN1FSTkZLX09sS1dYZW5lZElWaWJvTVFVeHQ1ZHlVSU9tU0pIMWRsRWxBZlFLelNoMFQ1UXhfUXRSblM5Zy1walVLa3VBMUREOTd3R0dkQ0FUbi1FRmE0bU1paXBOUGNLclppYVpwdmNRcTkxbWRyOGdUcVg4QS05c1U0RmFOMVlDRjB1aVJ3TnkxLTlST0dtOGxQR1ZRSEotV0VkNDB6d0I1ZDRqV3VlNUJB?oc=5"
+    },
+    {
+      "time": "instagram.com",
+      "message": "Plan Venezuela Renace inspecciona infraestructuras afectadas por sismos en Miranda Desde el municipio Guaicaipuro del estado Miranda, fue presentado el plan de trabajo oficial de la Gran Misión Venezuela Renace en la entidad, que contempla la realiza",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MaVBDUFlWM0x5T0s2VlJyYTFocmkzM1VTbFUzalVoRTdTdWxtUnJRb1VQYlZZVW1DeTUtUFlwMHg4c3ZQajZRMkY4VkdXYUZvSHc?oc=5"
+    },
+    {
+      "time": "France 24",
+      "message": "Venezuela: el balance del doble terremoto supera los 4.330 muertos, dos semanas después de la tragedia",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORE5qQ2RXWmdlUXAtS045VHB3VGhQbFk4NnB6WHhzTnNwbTM5bUoyMy12cnBaRWhfYTQ0OXV0VTkzVjlQV2NDTnNnSDlhQUswWFRHeHBMTkJYUFlKSl9iMDJCMDdJS3dlSXpOMEk1bFl4MDRDUXlibElOWkYtLWQzaE9yTzRXdGhpSngzc1luMjJkTlFJNUh1dzJxWFBfellxbmZHUHgzbGlpYllvMktNOUhJZ3RuQTdPZ01KS3ZiRGRGcXlPNW14SHRtMVVyb3dhRlBKR0NKNDNhM0RVSTdfeQ?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #20 (13 de julio de 2026, Hora: 09:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOT1F4eXlHYjdvTEZNY3o2M2hPVGJ2TTc2TUlpUlprcDBmNzFfa0NpNVNTWE9JamREYWRTRlYzNnRFRDJtSGtVdW5JUnhTYnZaSVM4SEI2MDJZaGtkbGlnUlYzaWxGUlpTbnBUZGh5cTVEU0pPVjVWU3Z6c0VRWjRUaDJqSVR3VmNZUVN5VUZzal9PWDV3emhGbWtteGk1ajlhNENWQ29QRWlGQXBhSXlhUjZacXpVQXZSQ2JlV2NjdEc0ei1xVVQ0aTdFa0JDbGg5YVZBMVBn?oc=5"
     }
   ]
 }
