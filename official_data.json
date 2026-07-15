@@ -4,13 +4,13 @@
     "missing": 33287,
     "hospitalized": 16840,
     "safe": 14639,
-    "deceased": 4700
+    "deceased": 4734
   },
   "reports": [
     {
-      "time": "dw.com",
-      "message": "Sismos en Venezuela: toneladas de escombros en las costas",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZm9wY3J3VVpMbWJkSFdXU2pVVzJCbklhZE5icko4THcxT1E5TVRSUTcxaVZSSXRhMEFXaU41UnlPazlnZ1FEbmNNRU1hR2RoZFhzTm5yemk4aTNlNENGdlgwM2JMR29IeHJEU2g1ZjV0YXlCZTExU1pJUU9oU1FlTU93eDNCNjM1c2RZcUxxWVpxZjIwdnA4MEh1YmlxSVJZSmVMRk9NQUdTU3JyR3ZlTXJ5ampCSnlQZWZ5TDE0MFB5a2JKcEVaZWZWZl96d9IBzgFBVV95cUxPeUNYSUJmTEZFa0pTZjlCMHEtay1aZ05XV1VmenRXMUVqa2FULVdUMDhoZ3d3SG96R2tpQVdqd2VlU3NjdnA1a1lmTm5fNjdSR0dKdVBYX0NHOXRFM3ozREFPZVhISHR4dUxJVGh0a1R1eGowa3ljNVgtaklrNU11N3BORkRjaVJPemdtQTYxbFBNRjl6a1VsNk9nX0ZJSW5NV3Q3emRJcTkyRW5qaGJjQ05QRzdJYk44S3NCcVpXUmdybktuMld5TElhVzYxZw?oc=5"
+      "time": "DW.com",
+      "message": "Venezuela reporta 4.734 fallecidos en los terremotos",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2Rrbk5WOGw1LVRWWFhtemwwZlVpRnFOTFEyWi02SW5raVpfYmUzY0FlZnVDZTYwdUxqV1pkOGc1WktlQ21mS2NoMHd6NE5ibWs2dGFyMVJaRDU1Y3dKal9Ob3YxOGNobkR2N1otS3VmbGUxeGlrNWJZU1lhTFU2RWZSckFRODJtRzFIStIBjAFBVV95cUxNVWlmejNKYWd3bXRFREVxWjh4UWFlSDdXU1dmZzVyN1hVMU9lbU9pSWg1dkdEbTA0ZFduY1FXVUZTR3RwYW1acGoyVnlVWXA5bG85MWN1MG5QUTkxbElVSF80ZlJpWVRhQTdFWDlHMEN4X1hWX0NRc2c0REg1T1ZXdFlnSFFSaWkzWEtMag?oc=5"
     },
     {
       "time": "Diario Libre",
@@ -48,12 +48,12 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzJqN3RmazZtN1FSTkZLX09sS1dYZW5lZElWaWJvTVFVeHQ1ZHlVSU9tU0pIMWRsRWxBZlFLelNoMFQ1UXhfUXRSblM5Zy1walVLa3VBMUREOTd3R0dkQ0FUbi1FRmE0bU1paXBOUGNLclppYVpwdmNRcTkxbWRyOGdUcVg4QS05c1U0RmFOMVlDRjB1aVJ3TnkxLTlST0dtOGxQR1ZRSEotV0VkNDB6d0I1ZDRqV3VlNUJB?oc=5"
     },
     {
-      "time": "France 24",
-      "message": "Venezuela: el balance del doble terremoto supera los 4.330 muertos, dos semanas después de la tragedia",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORE5qQ2RXWmdlUXAtS045VHB3VGhQbFk4NnB6WHhzTnNwbTM5bUoyMy12cnBaRWhfYTQ0OXV0VTkzVjlQV2NDTnNnSDlhQUswWFRHeHBMTkJYUFlKSl9iMDJCMDdJS3dlSXpOMEk1bFl4MDRDUXlibElOWkYtLWQzaE9yTzRXdGhpSngzc1luMjJkTlFJNUh1dzJxWFBfellxbmZHUHgzbGlpYllvMktNOUhJZ3RuQTdPZ01KS3ZiRGRGcXlPNW14SHRtMVVyb3dhRlBKR0NKNDNhM0RVSTdfeQ?oc=5"
+      "time": "BBC",
+      "message": "\"Tenemos muchos niños fallecidos. Estamos muertos por dentro\": la tragedia que dejan los terremotos en la escuela de béisbol Criollitos de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3QjZ3UWljNnpLZk1Cb3NRQ1NzOGprdW9iMXVyTDRJRVV1Zk1fOE01NWZJTlkwZ1BlSXpJUjZUVmQ0WFBXMjRIOGNsaGNGbVQ3YUNZdUcwaHFmTHc?oc=5"
     },
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Venezuela: muertos por sismos del 24 de junio suben a 4.561",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXIzY18wQWJQYkM2VHV4YnI0X0txSmNkT09kdUNIMzQ5ZExFS2JBcEJYQlpHYU9VWGJrMjF4Q3lmSlhMS2cyZ3NoRk9Pd1E1S2dMcGxQMUVhUHR5eWNVS2pPaVR3QlBDMHBBOUlPUWRXSW05Q0xUb3RtYzBFdF9FNE1DZ1B0OS0weUx2aU5DNTI2ZVVhZGhSaNIBmAFBVV95cUxPd3lPVmRXTG1NaGVHTXRvOV85TndaLS1UWWJTRDg4Tml4ZXpncm5RaW55M1c2YUFOby1vRkhoRlA0T0dDWE9QZVdNZ0tpazJBMC12YldacFdhRlUwSlV4c3d5T1lYTDg2UjBCdDVqTnRYZVRJTnNXa2VyQmZrcVJhbzNHNHRmR2Q4V3dXaDZqekdTNXRwU3NsQw?oc=5"
     }
