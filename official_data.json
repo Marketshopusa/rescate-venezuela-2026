@@ -8,14 +8,14 @@
   },
   "reports": [
     {
-      "time": "DW.com",
-      "message": "Venezuela reporta 4.734 fallecidos en los terremotos",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2Rrbk5WOGw1LVRWWFhtemwwZlVpRnFOTFEyWi02SW5raVpfYmUzY0FlZnVDZTYwdUxqV1pkOGc1WktlQ21mS2NoMHd6NE5ibWs2dGFyMVJaRDU1Y3dKal9Ob3YxOGNobkR2N1otS3VmbGUxeGlrNWJZU1lhTFU2RWZSckFRODJtRzFIStIBjAFBVV95cUxNVWlmejNKYWd3bXRFREVxWjh4UWFlSDdXU1dmZzVyN1hVMU9lbU9pSWg1dkdEbTA0ZFduY1FXVUZTR3RwYW1acGoyVnlVWXA5bG85MWN1MG5QUTkxbElVSF80ZlJpWVRhQTdFWDlHMEN4X1hWX0NRc2c0REg1T1ZXdFlnSFFSaWkzWEtMag?oc=5"
-    },
-    {
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #21 (14 de julio de 2026, Hora: 09:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZl9VWkhqZUhjVnJEYi1YblVRb0NJdU5VNTZHcGY0d3lLREl2Y1N3YVVDWVVONEUwVVF5bDJQUDRxSmRDVVhBUExNd0dOVVYxM3B3eVd2RTdmWjRyNGw4RjNNZWZ4MWxhTVBOdVkyRFc4U3g5MFlaVFcxR2VnZ2UyeTA4alNUd0UtdmE5LTBkMjh3N0l5djZnRGx5ZkRqWms3M25lb0NnUHd3czkzbTROSGZFLXFKZ1lJN0djc0x1eGU5XzBpeFM4cTFGMV9ZVlhwa25DUjNR?oc=5"
+    },
+    {
+      "time": "dw.com",
+      "message": "Venezuela reporta 4.734 fallecidos en los terremotos",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2Rrbk5WOGw1LVRWWFhtemwwZlVpRnFOTFEyWi02SW5raVpfYmUzY0FlZnVDZTYwdUxqV1pkOGc1WktlQ21mS2NoMHd6NE5ibWs2dGFyMVJaRDU1Y3dKal9Ob3YxOGNobkR2N1otS3VmbGUxeGlrNWJZU1lhTFU2RWZSckFRODJtRzFIStIBjAFBVV95cUxNVWlmejNKYWd3bXRFREVxWjh4UWFlSDdXU1dmZzVyN1hVMU9lbU9pSWg1dkdEbTA0ZFduY1FXVUZTR3RwYW1acGoyVnlVWXA5bG85MWN1MG5QUTkxbElVSF80ZlJpWVRhQTdFWDlHMEN4X1hWX0NRc2c0REg1T1ZXdFlnSFFSaWkzWEtMag?oc=5"
     },
     {
       "time": "Infobae",
@@ -23,19 +23,14 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWhZNjl0NmZXWFlRVWEtSjJoX0FPS1d1SWtzZ3J4dkdNYjJwcm5pa3cxTFA0T2lPNjBLRU1EbjItOXVhc2Y4aDFzN180REJZNG1iVi1TOVNQRXNieUxER3JPMS0zTVFMM25QRHVuY0lwSXd6LS1aenNJTU1HVWdidzlyS245VWI3VFBTaVdHSzJWbzhmUmU0MWl6UFJmWUFWNWNybW1RNjBKYzlKQldtb19SeVp3Z9IB0AFBVV95cUxPblpXVW96Um1lejBLazduOG83NG5Uc2d3YjJnRURwMUVFc2lhT0IyUkJabFYxaV9lbE0wR2FRV0FkSHNpUWNhMFdZNVJkZGxxazl3dGxOaDE1Tnl1S0RRanpDdU9sSjl5T1gxMVcyRkJWQWtlRVUxUUxrY2ZTTm9Dc3FYSkNNWEpVd0h0WTUxSVJtSE1JcGFreXBrdmN2MTdQWGVGM3lwVlV6a01JSFlyRnFIYkwtV3hwYUhBZjFnREwwc29lTHpBVmlOOWlRREJ3?oc=5"
     },
     {
-      "time": "Diario Libre",
-      "message": "Aumentan a 4,734 los muertos por los terremotos de hace casi tres semanas en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGRLbWtDR3AzTlZBTVRUSkI4LURJcmlkNHRQWF8wYUY1OTZrVzJ5S1FwalpWQkhaVE1Zem0wa0JtRFQzUjlMRzZ0SzJKVTR6Y2llQV9sc1h6NlFtcXVhY0JucXRJb3pIdEU1ZmNJQ2NPUXRCMEtncjBCaks4N2Vkd3FQa0RyelVaMzBQVWkxc2Q2UFlaX18xTGNtYzRmMm9kVTNmeW1xRGN2UUZMOVJSV2dkTDhYOEtXdEhmUXJR0gHDAUFVX3lxTE1BTFZrOEh6OE1Ca1p2TGZIUWtzT2t6VWd2NTV1TU9VVjFzREpuckF1WXVGQVVZTXNYNklJWWY3ME1CU3h3eU1mV2Nxc0FNTkwwcjJVNlJMQUFGWkN2RHFEbk42OEk0b18zU0YxNUJYMEd0TFdBSnpkODNUcEJNb0sxS1ZYMHNjTGVkUHN3RTB0eU9PR0JvN3VPcnh2dXFncjZORXBwN2tOYTZfbi1CMElhalV3cndHZzZJdXZuWHpQZjJlRQ?oc=5"
-    },
-    {
       "time": "Telemundo Miami (51)",
       "message": "13 de julio: Aumenta a 4,561 la cifra de fallecidos por el doble terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNnE0clVmY2RhMkh5ZUlYNVktTHAwWkFfeTg0Wl9FSVNHSkNOa2ZOdnZBTjhlSEdIZVZIdVBNYUd3NnBTb0YxTUxyRktsTHZYSWZDUWpzamdJQnpJUXhWbEpjN08zeFdJODhsUWMxRFpCU20yMG80NXNCWVUzRlBtLVkxd3dzeG9jb3NJTUU3cEdZTE9uT2pFSXV4V2VZTkI2U0xKakpHVU1JVkJPdWxmUTJNR3ZkUnl6Mm5rTXNZUERWNWxmdWNYM2RldUQyWEJrd1kwdG42SGnSAeABQVVfeXFMUFRydzY5Q2EyeDdPcUVJZVBnZmtiWWU5cUtVMDJPNEtJanlJSC1aMWd6SnVJOW1vY0Z2LWNiNHYwNDhHMkV1ejkxN3FxeFhhX0RLNE93ZzE5RC1SckNsUjNkZW43cXB3LUotVS1HVlJYQmtURkhqc3ZmZXVpbXVTdjhydjY0YWNReDNVcnVtQ2JVWFJUdGc3cHpkNk1IQ0lOLWJJMHZzUWNpeDlUdlZ5Vno3aTZTODlHcnR4c1EtcHBHQkI0NFlXSjI5S3lCQUdxc0xqaVdPNmFmZU55YmFtOTU?oc=5"
     },
     {
-      "time": "Agencia de noticias",
-      "message": "Terremoto en Venezuela, en vivo | El número de muertos por los sismos supera ya los 4.100 - EFE",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2FNdWpLQlU5bHYtOXp2Y3BHT3VYUW5aWEN4Y1FRSTBZZ2d4SWFJYWppb2hrRWU4U1lqN1VTdS02ZUVodHlIOFRVMF9lT00zYnp2UHplc0JDa1I3ZEFsLWgwalp4ZDd2YUVEVHJSNVlQTHl6XzI4b3h5OGxzNW5jVEtjVkZRVTNBYnE5LTJrQTJzZW1HZnpnOTJPVjMzMkV4NXd2VEt5bnNiUmhjSnRtekJfdWJIVjZKcEE?oc=5"
+      "time": "Diario Libre",
+      "message": "Aumentan a 4,734 los muertos por los terremotos de hace casi tres semanas en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUGRLbWtDR3AzTlZBTVRUSkI4LURJcmlkNHRQWF8wYUY1OTZrVzJ5S1FwalpWQkhaVE1Zem0wa0JtRFQzUjlMRzZ0SzJKVTR6Y2llQV9sc1h6NlFtcXVhY0JucXRJb3pIdEU1ZmNJQ2NPUXRCMEtncjBCaks4N2Vkd3FQa0RyelVaMzBQVWkxc2Q2UFlaX18xTGNtYzRmMm9kVTNmeW1xRGN2UUZMOVJSV2dkTDhYOEtXdEhmUXJR0gHDAUFVX3lxTE1BTFZrOEh6OE1Ca1p2TGZIUWtzT2t6VWd2NTV1TU9VVjFzREpuckF1WXVGQVVZTXNYNklJWWY3ME1CU3h3eU1mV2Nxc0FNTkwwcjJVNlJMQUFGWkN2RHFEbk42OEk0b18zU0YxNUJYMEd0TFdBSnpkODNUcEJNb0sxS1ZYMHNjTGVkUHN3RTB0eU9PR0JvN3VPcnh2dXFncjZORXBwN2tOYTZfbi1CMElhalV3cndHZzZJdXZuWHpQZjJlRQ?oc=5"
     },
     {
       "time": "facebook.com",
@@ -48,14 +43,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzJqN3RmazZtN1FSTkZLX09sS1dYZW5lZElWaWJvTVFVeHQ1ZHlVSU9tU0pIMWRsRWxBZlFLelNoMFQ1UXhfUXRSblM5Zy1walVLa3VBMUREOTd3R0dkQ0FUbi1FRmE0bU1paXBOUGNLclppYVpwdmNRcTkxbWRyOGdUcVg4QS05c1U0RmFOMVlDRjB1aVJ3TnkxLTlST0dtOGxQR1ZRSEotV0VkNDB6d0I1ZDRqV3VlNUJB?oc=5"
     },
     {
-      "time": "DW.com",
-      "message": "Venezuela: muertos por sismos del 24 de junio suben a 4.561",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTXIzY18wQWJQYkM2VHV4YnI0X0txSmNkT09kdUNIMzQ5ZExFS2JBcEJYQlpHYU9VWGJrMjF4Q3lmSlhMS2cyZ3NoRk9Pd1E1S2dMcGxQMUVhUHR5eWNVS2pPaVR3QlBDMHBBOUlPUWRXSW05Q0xUb3RtYzBFdF9FNE1DZ1B0OS0weUx2aU5DNTI2ZVVhZGhSaNIBmAFBVV95cUxPd3lPVmRXTG1NaGVHTXRvOV85TndaLS1UWWJTRDg4Tml4ZXpncm5RaW55M1c2YUFOby1vRkhoRlA0T0dDWE9QZVdNZ0tpazJBMC12YldacFdhRlUwSlV4c3d5T1lYTDg2UjBCdDVqTnRYZVRJTnNXa2VyQmZrcVJhbzNHNHRmR2Q4V3dXaDZqekdTNXRwU3NsQw?oc=5"
+      "time": "dw.com",
+      "message": "Sismos en Venezuela: toneladas de escombros en las costas",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZm9wY3J3VVpMbWJkSFdXU2pVVzJCbklhZE5icko4THcxT1E5TVRSUTcxaVZSSXRhMEFXaU41UnlPazlnZ1FEbmNNRU1hR2RoZFhzTm5yemk4aTNlNENGdlgwM2JMR29IeHJEU2g1ZjV0YXlCZTExU1pJUU9oU1FlTU93eDNCNjM1c2RZcUxxWVpxZjIwdnA4MEh1YmlxSVJZSmVMRk9NQUdTU3JyR3ZlTXJ5ampCSnlQZWZ5TDE0MFB5a2JKcEVaZWZWZl96d9IBzgFBVV95cUxPeUNYSUJmTEZFa0pTZjlCMHEtay1aZ05XV1VmenRXMUVqa2FULVdUMDhoZ3d3SG96R2tpQVdqd2VlU3NjdnA1a1lmTm5fNjdSR0dKdVBYX0NHOXRFM3ozREFPZVhISHR4dUxJVGh0a1R1eGowa3ljNVgtaklrNU11N3BORkRjaVJPemdtQTYxbFBNRjl6a1VsNk9nX0ZJSW5NV3Q3emRJcTkyRW5qaGJjQ05QRzdJYk44S3NCcVpXUmdybktuMld5TElhVzYxZw?oc=5"
     },
     {
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #19 (12 de julio de 2026, Hora: 09:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZzVpSlhySktxVnpRSURxSFFCVVNDcTVNdGlwUjJ5aGxMMEdVNFhkbmQ0SWtIYkpVZDdZcG9temxqR0tRb0daNEhSc041OG9ZRjZueGhFYjhxV1B2ck1Ta3dBX0dGTWJIdTJRNFlXSnplZlRXM0lSQjlmWFhDb2tSRVJIOWIyaDR0WnRuaS1haGVyTmJhR0hGUGJyNEszcVFTcVI4N2JLTUlRSUxyWWx5S09EX1k3TDBHNXp3VGdLc2NhMGFfdzVlZGdnUnhVYVk3TDY5V19B?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Nuevo balance del doble terremoto en Venezuela: la cifra de muertos aumentó a 4.561",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1hScGNPcHFPZF8wai1NaGFySnRZY3JJUXNWSEtxRXJzQkRCLVFIR0o0MmxVdUpHV0dHUHB0SWtKTDk2cGpFdEM4VWZ3WGE5R3gyV3FxclVVX3lsdE1vMEZDeS1Md0FyM3JsbDdEUDdyX3hQQlF5WTFkdU1vTkdqdlVrcHFJaXpXWU9yVmVfczA4WnJSYXZHMEF6SGpMT0dybEt6bzlscFhNRlVwb0dVNW9DOUUwdVBvU2ZtME9CNWhQR3duNmfSAeABQVVfeXFMTUgzMEg4VVNqdzl2TXktYWdxTUhqZzFzVWFmZ3dLRVdWcmtpZG1HeHFmR2F3T1JyekF6Z0pXR25OaURnVi1KX3pvY3ZtLUtfRHM5b1NPeDZValV3T1NVbmxBaUJQT1IzcGctZjk4bldBQXZ3MkJCd3Jkb04wbzlHcENhdkZ5YjVzaEJzV2xRVXVVZzc5Q2dxS1V3RWVYUUp4MVVIVkhyUldxM2xUdWc0a3hYTEJkS05VbXdIZ3RNRTNkQWs2RGtIeXNlZnZ1b2xVdk54MHdQelMxMUpGV243UGY?oc=5"
     }
   ]
 }
