@@ -4,7 +4,7 @@
     "missing": 33287,
     "hospitalized": 16840,
     "safe": 14639,
-    "deceased": 4734
+    "deceased": 4829
   },
   "reports": [
     {
@@ -38,6 +38,11 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
     },
     {
+      "time": "El Diario Venezuela",
+      "message": "Terremotos en Venezuela: confirman 4.829 muertos y 16.740 heridos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xVzI4OUttaWxLY1lpcUtRQkxqdVowbDk2SkVYTlZYSklNTXlmNXlGWDI4bEJLTmlKTXJwNWNLR1ppS0ZGVW90ZmswYTlhTGhock5scUEtak01Uk16b0xHZm1lelpvcVFRYjJKa241d21pOWdOTGY4WUxxYjQ?oc=5"
+    },
+    {
       "time": "BBC",
       "message": "Qué puede aprender Venezuela de Chile, Japón y otros países que construyen edificios \"sobre patines\" para resistir terremotos",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jdXdJSzZHV053WF9yVnJGcUhkRDNoOFFjMURzdTVpQmJnYl9vS3FJZkRmSGhwOXRXVERDSTZ3TGNfTFk2VWlHMU9rbnVENENEWGlPblA0N1VzQnM?oc=5"
@@ -51,11 +56,6 @@
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #21 (14 de julio de 2026, Hora: 09:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZl9VWkhqZUhjVnJEYi1YblVRb0NJdU5VNTZHcGY0d3lLREl2Y1N3YVVDWVVONEUwVVF5bDJQUDRxSmRDVVhBUExNd0dOVVYxM3B3eVd2RTdmWjRyNGw4RjNNZWZ4MWxhTVBOdVkyRFc4U3g5MFlaVFcxR2VnZ2UyeTA4alNUd0UtdmE5LTBkMjh3N0l5djZnRGx5ZkRqWms3M25lb0NnUHd3czkzbTROSGZFLXFKZ1lJN0djc0x1eGU5XzBpeFM4cTFGMV9ZVlhwa25DUjNR?oc=5"
-    },
-    {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: confirman 4.734 muertos y 16.740 heridos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qeWZrcEQ3TU1kbUlsWVItdG8wOXBtMWNqVWNIdGVYQWJsbE04dnRVendEQi0ySXVYYnl1cl9OS2Q4czlDWV9YWUVObTBCdzlGTUx6OVlFby14QzBIWEM5NkpYV2xSdVJBa2I1WWpmRFFDYXA1NnhjWV9hUmo?oc=5"
     }
   ]
 }
