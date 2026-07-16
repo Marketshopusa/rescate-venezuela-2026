@@ -8,11 +8,6 @@
   },
   "reports": [
     {
-      "time": "El Periódico",
-      "message": "Última hora del terremoto en Venezuela, en directo",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTNlZ3J6MFdpSEY3Q1N0eW1iWmdtc2xiYWRqWEZDN1JVNmdSSjRuZktOTU40dEtLN211bms5UUtBelJEUmVGOXZNb2xnOENUVDlIbHNNc1lzRVR5amt2MVFBam1LX3k4NDhIRElseHN5Qml6Q0dQMHRzWXdHb0hEYjd4OWFuNW10LWRERGV5eEJDLTFUUWlwLUxJaV9RMF8zUk5HOXdIVjlVRmPSAasBQVVfeXFMTkNXVmh5ZkVqYW9IMEJFck1MVlQ2VU1rclVhcGJKZWRzVlpvWlNleEhBSW9peVNtQTZzeC1EVWNnNTVGYzVOX3A3ZVd5YURXUHF3RFBtVGRxMGpKZXRzUUYxNTQ1bVRyNDFKaFhzcXpWRUUzRGM1Y1R6Z2hRZFBELUFSa2N0MnhSZ1Z6Uk5ZenJoQWlxVU4zd0xwckMtX0J5amVleGhyTlljZmpn?oc=5"
-    },
-    {
       "time": "Infobae",
       "message": "La cifra de muertos en Venezuela subió a 4.734 tras el doble terremoto",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWhZNjl0NmZXWFlRVWEtSjJoX0FPS1d1SWtzZ3J4dkdNYjJwcm5pa3cxTFA0T2lPNjBLRU1EbjItOXVhc2Y4aDFzN180REJZNG1iVi1TOVNQRXNieUxER3JPMS0zTVFMM25QRHVuY0lwSXd6LS1aenNJTU1HVWdidzlyS245VWI3VFBTaVdHSzJWbzhmUmU0MWl6UFJmWUFWNWNybW1RNjBKYzlKQldtb19SeVp3Z9IB0AFBVV95cUxPblpXVW96Um1lejBLazduOG83NG5Uc2d3YjJnRURwMUVFc2lhT0IyUkJabFYxaV9lbE0wR2FRV0FkSHNpUWNhMFdZNVJkZGxxazl3dGxOaDE1Tnl1S0RRanpDdU9sSjl5T1gxMVcyRkJWQWtlRVUxUUxrY2ZTTm9Dc3FYSkNNWEpVd0h0WTUxSVJtSE1JcGFreXBrdmN2MTdQWGVGM3lwVlV6a01JSFlyRnFIYkwtV3hwYUhBZjFnREwwc29lTHpBVmlOOWlRREJ3?oc=5"
@@ -21,6 +16,11 @@
       "time": "El Comercio Perú",
       "message": "Temblor en Venezuela del martes 14 de julio: epicentro según último reporte FUNIVISIS",
       "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVTloVHhVQ3ZRTWFuYVU5aFZTc21HMFdtMndIcnhfUkNYZS1MYlMwRDBiSmdpNVNEMzhxc0tjbzNVSnlMLV9wX0F4ZFhjLUdVLWVZeVNHeTlETFZ4MTNIZTBwUTEwc1BhLW9mRGpLa3VyTkFUbURBMkt2WE9BcG16WlZaeVBzNGhQUjg5cnd4RWlCYzhYNkREM1ZLZThfWjNPR0poSzFxalVicnpOYVVQOEFETjMwZUVmYW9XaGs0UjlRVDItWkFLUksxY0hZZWFRM1NNSDVRYWd3SEdIYWFkbmh5eC1nbXlEYWZmRTUtTVdPaFlJYVN0djlkX2V0ak9DUnRWSDN1a0ZNbUFVYkZfTzRHZHRGdjdWTUJwMHJJNGFCRjNTVEVhajdCTzg3VzlKb2FlTGExbmJ1LXF4U2pDU0VBRjVhMkJNRXo5aXhhdFpHRDNK?oc=5"
+    },
+    {
+      "time": "El Periódico",
+      "message": "Última hora del terremoto en Venezuela, en directo",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZnUtYzZLenMzNXZEUXZQTXFtcC1NRGlJMnI3QmRCdXpqcFlmbmd3cE9nTE9jWUN4c3oxMV8wLVlfSVhVUWUwYVpGVzI1ejV1VkdnOGNvZ1hSYUkyYWJ0Y1U3QllXVHFsS0lIMzVSRUs0WlpEM2k2VTc4ZFlDRUI5SUVObDY0N3hrLXhiNndrM18yS1FveFFrZVNzblB0di1aSDZkc3AwUko5dDDSAasBQVVfeXFMT3JtcHFNbXBNbTI3anFzWFpUakJNRGFOcFpqLVR2Q1FtckZReFdtYVBLTnNKdEk4YkFjdGlwVFNkNXdHek9SSC0xYU01VDVXOWJCcmo5eEVsQUphZEpKZWlrd0xCRS1PbkF1T256QzRKUmNOcnlFQXFTSmRlU25aaXJMWDI2bk1od0N5Wjhzdlk1YmVhWEpBRk1ZUHluemxZTEdsMk9lVjAwa0Mw?oc=5"
     },
     {
       "time": "Infobae",
@@ -38,6 +38,11 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEllcG43WXlkQ1lhUnpuaTZQbG9EYk03S0pTc3FXSFIySndkbURtVm05Zkt6VWpCYTBMcEJweUo1TlRNVFpiSWNBdTBKYUR1TllFaXZSR1VFZ1d6WmM3U090Q3RaczVzTHppNFZLM3NsTGFTbUhsUTY0TDZuajZmVUI4U2dDRjU4YWYtVE1ZVHpGdmhYa2F1QzBGMnNIQQ?oc=5"
     },
     {
+      "time": "DW.com",
+      "message": "Venezuela sube a 4.829 la cifra de muertos en terremotos",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEFkWVJKQW9FZlJTYTRHQXpKQ21qczFveS1aa3RVbWowZTc4bnd4ekpfamNibGQ4ekVlR21Ec3JhUmpnSW5adWRLQ0h1d25kRW5iOEhvV1p6UmRZZWFhODR2Z0FkV2ZaUThDWjFXWEphOTVBRHpzcVoxNVdTdmJoRnNZSlpvXzRtanZYTlRTYzdRZ9IBkgFBVV95cUxPaGI4RWk3V0lxd2tpUkdWOUJ4ellxSEF5dVNQVXM4d1dDeVd2ODNEejhkOXBpVHZTZjBSNjdvUDhLUWtaRHI3ZHRqTHVwODQ2bzFXT2RXU1ZtOVp6VmVTbFNrdmRBaHd3SEExd0xuWVIzV2NHZnljUWZfNUFfUFd5aVVNWVYzVTBtTGZNbF80d3lIZw?oc=5"
+    },
+    {
       "time": "El Diario Venezuela",
       "message": "Terremotos en Venezuela: confirman 4.829 muertos y 16.740 heridos",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xVzI4OUttaWxLY1lpcUtRQkxqdVowbDk2SkVYTlZYSklNTXlmNXlGWDI4bEJLTmlKTXJwNWNLR1ppS0ZGVW90ZmswYTlhTGhock5scUEtak01Uk16b0xHZm1lelpvcVFRYjJKa241d21pOWdOTGY4WUxxYjQ?oc=5"
@@ -46,11 +51,6 @@
       "time": "BBC",
       "message": "Qué puede aprender Venezuela de Chile, Japón y otros países que construyen edificios \"sobre patines\" para resistir terremotos",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jdXdJSzZHV053WF9yVnJGcUhkRDNoOFFjMURzdTVpQmJnYl9vS3FJZkRmSGhwOXRXVERDSTZ3TGNfTFk2VWlHMU9rbnVENENEWGlPblA0N1VzQnM?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Venezuela reporta 4.734 fallecidos en los terremotos",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2Rrbk5WOGw1LVRWWFhtemwwZlVpRnFOTFEyWi02SW5raVpfYmUzY0FlZnVDZTYwdUxqV1pkOGc1WktlQ21mS2NoMHd6NE5ibWs2dGFyMVJaRDU1Y3dKal9Ob3YxOGNobkR2N1otS3VmbGUxeGlrNWJZU1lhTFU2RWZSckFRODJtRzFIStIBjAFBVV95cUxNVWlmejNKYWd3bXRFREVxWjh4UWFlSDdXU1dmZzVyN1hVMU9lbU9pSWg1dkdEbTA0ZFduY1FXVUZTR3RwYW1acGoyVnlVWXA5bG85MWN1MG5QUTkxbElVSF80ZlJpWVRhQTdFWDlHMEN4X1hWX0NRc2c0REg1T1ZXdFlnSFFSaWkzWEtMag?oc=5"
     },
     {
       "time": "ReliefWeb",
