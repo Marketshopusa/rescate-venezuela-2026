@@ -8,6 +8,11 @@
   },
   "reports": [
     {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #22 (15 de julio de 2026, Hora: 09:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZGdxcFJGQ3ZLS2JsRkdGekt1TFNhTDVnQXhjSWNtMGtRbzVwY2Z1WGM4N3V2cXpFWVUxUVlmRzZza3BEd3VlcUZlcHBCWktCNFRJZEJLVDMwUWY3dTNQZXRyamVIZ3M2UzdqdVJLVlYyZnZ0dnU4WjJIUmt5eDZHZVZ1d3JIMFU0ZnAxb1JaeWxZWDhOeUdCdFJhVkhncm5yZVpPTGlYTlE3Y0taVVp3RnlRNFR5a0RpaVpYajdSX1QxNkpha19QVU1DVk9OdzdoUzc1V1Fn?oc=5"
+    },
+    {
       "time": "DW.com",
       "message": "Venezuela sube a 4.829 la cifra de muertos en terremotos",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeEFkWVJKQW9FZlJTYTRHQXpKQ21qczFveS1aa3RVbWowZTc4bnd4ekpfamNibGQ4ekVlR21Ec3JhUmpnSW5adWRLQ0h1d25kRW5iOEhvV1p6UmRZZWFhODR2Z0FkV2ZaUThDWjFXWEphOTVBRHpzcVoxNVdTdmJoRnNZSlpvXzRtanZYTlRTYzdRZ9IBkgFBVV95cUxPaGI4RWk3V0lxd2tpUkdWOUJ4ellxSEF5dVNQVXM4d1dDeVd2ODNEejhkOXBpVHZTZjBSNjdvUDhLUWtaRHI3ZHRqTHVwODQ2bzFXT2RXU1ZtOVp6VmVTbFNrdmRBaHd3SEExd0xuWVIzV2NHZnljUWZfNUFfUFd5aVVNWVYzVTBtTGZNbF80d3lIZw?oc=5"
@@ -23,11 +28,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPOXE2M0dCZkRpRWRvM0ktaTJrR0hkYklROHFxRWpOZUNLNkxEQWFjYllRYjVxMkQ2MFNOX01lRTFhTFpaM1VVbHlycEtRd3F6cnh5dW5YdzF6TGRfdkZTLXF3VDFzX045MGxERUdXSXRrRlVRVmt6RFJBWjhlSG5YcXBSeDNlbXNGMEpwRXpjSUc1SmtCNWtULWtXVjlVMXVZSElwQTRfNV9ZUkg2dUplRXZ2MUwzQUNqcXNTSkdyS0dzOXZydHpUVUJEWDk2cWpINVpmbEhzQmRISUlqdndTaw?oc=5"
     },
     {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #21 (14 de julio de 2026, Hora: 09:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZl9VWkhqZUhjVnJEYi1YblVRb0NJdU5VNTZHcGY0d3lLREl2Y1N3YVVDWVVONEUwVVF5bDJQUDRxSmRDVVhBUExNd0dOVVYxM3B3eVd2RTdmWjRyNGw4RjNNZWZ4MWxhTVBOdVkyRFc4U3g5MFlaVFcxR2VnZ2UyeTA4alNUd0UtdmE5LTBkMjh3N0l5djZnRGx5ZkRqWms3M25lb0NnUHd3czkzbTROSGZFLXFKZ1lJN0djc0x1eGU5XzBpeFM4cTFGMV9ZVlhwa25DUjNR?oc=5"
-    },
-    {
       "time": "Infobae",
       "message": "La cifra de muertos en Venezuela subió a 4.734 tras el doble terremoto",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWhZNjl0NmZXWFlRVWEtSjJoX0FPS1d1SWtzZ3J4dkdNYjJwcm5pa3cxTFA0T2lPNjBLRU1EbjItOXVhc2Y4aDFzN180REJZNG1iVi1TOVNQRXNieUxER3JPMS0zTVFMM25QRHVuY0lwSXd6LS1aenNJTU1HVWdidzlyS245VWI3VFBTaVdHSzJWbzhmUmU0MWl6UFJmWUFWNWNybW1RNjBKYzlKQldtb19SeVp3Z9IB0AFBVV95cUxPblpXVW96Um1lejBLazduOG83NG5Uc2d3YjJnRURwMUVFc2lhT0IyUkJabFYxaV9lbE0wR2FRV0FkSHNpUWNhMFdZNVJkZGxxazl3dGxOaDE1Tnl1S0RRanpDdU9sSjl5T1gxMVcyRkJWQWtlRVUxUUxrY2ZTTm9Dc3FYSkNNWEpVd0h0WTUxSVJtSE1JcGFreXBrdmN2MTdQWGVGM3lwVlV6a01JSFlyRnFIYkwtV3hwYUhBZjFnREwwc29lTHpBVmlOOWlRREJ3?oc=5"
@@ -38,24 +38,24 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNnE0clVmY2RhMkh5ZUlYNVktTHAwWkFfeTg0Wl9FSVNHSkNOa2ZOdnZBTjhlSEdIZVZIdVBNYUd3NnBTb0YxTUxyRktsTHZYSWZDUWpzamdJQnpJUXhWbEpjN08zeFdJODhsUWMxRFpCU20yMG80NXNCWVUzRlBtLVkxd3dzeG9jb3NJTUU3cEdZTE9uT2pFSXV4V2VZTkI2U0xKakpHVU1JVkJPdWxmUTJNR3ZkUnl6Mm5rTXNZUERWNWxmdWNYM2RldUQyWEJrd1kwdG42SGnSAeABQVVfeXFMUFRydzY5Q2EyeDdPcUVJZVBnZmtiWWU5cUtVMDJPNEtJanlJSC1aMWd6SnVJOW1vY0Z2LWNiNHYwNDhHMkV1ejkxN3FxeFhhX0RLNE93ZzE5RC1SckNsUjNkZW43cXB3LUotVS1HVlJYQmtURkhqc3ZmZXVpbXVTdjhydjY0YWNReDNVcnVtQ2JVWFJUdGc3cHpkNk1IQ0lOLWJJMHZzUWNpeDlUdlZ5Vno3aTZTODlHcnR4c1EtcHBHQkI0NFlXSjI5S3lCQUdxc0xqaVdPNmFmZU55YmFtOTU?oc=5"
     },
     {
+      "time": "Efecto Cocuyo",
+      "message": "Actividad sísmica persiste en Venezuela tras el doble terremoto de junio",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRVJUQmUtRHpqRXBkVmRoUGhGZTdXdkxua0o4WTFiVG5zZC1NQ3hFbmtsOExsUjlzTmpPWEY3SVV2a0pmNmxHb2RHWEpmeHNqU2dtM3kyWm1xSEtHcGoxN2dsWkxvLTFFdFdJMTFhUTdYdnJtS1BIVlNYbHBtcmFVd1AxRGx3OTN0VjM2b3BUeE9SLWZ0Q01xUFJIODk4N1ZOYTRFN0p1cUFNQ0k1YXFDNg?oc=5"
+    },
+    {
       "time": "BBC",
       "message": "Qué puede aprender Venezuela de Chile, Japón y otros países que construyen edificios \"sobre patines\" para resistir terremotos",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jdXdJSzZHV053WF9yVnJGcUhkRDNoOFFjMURzdTVpQmJnYl9vS3FJZkRmSGhwOXRXVERDSTZ3TGNfTFk2VWlHMU9rbnVENENEWGlPblA0N1VzQnM?oc=5"
     },
     {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #21 (14 de julio de 2026, Hora: 09:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZl9VWkhqZUhjVnJEYi1YblVRb0NJdU5VNTZHcGY0d3lLREl2Y1N3YVVDWVVONEUwVVF5bDJQUDRxSmRDVVhBUExNd0dOVVYxM3B3eVd2RTdmWjRyNGw4RjNNZWZ4MWxhTVBOdVkyRFc4U3g5MFlaVFcxR2VnZ2UyeTA4alNUd0UtdmE5LTBkMjh3N0l5djZnRGx5ZkRqWms3M25lb0NnUHd3czkzbTROSGZFLXFKZ1lJN0djc0x1eGU5XzBpeFM4cTFGMV9ZVlhwa25DUjNR?oc=5"
+    },
+    {
       "time": "DW.com",
       "message": "Venezuela reporta 4.734 fallecidos en los terremotos",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2Rrbk5WOGw1LVRWWFhtemwwZlVpRnFOTFEyWi02SW5raVpfYmUzY0FlZnVDZTYwdUxqV1pkOGc1WktlQ21mS2NoMHd6NE5ibWs2dGFyMVJaRDU1Y3dKal9Ob3YxOGNobkR2N1otS3VmbGUxeGlrNWJZU1lhTFU2RWZSckFRODJtRzFIStIBjAFBVV95cUxNVWlmejNKYWd3bXRFREVxWjh4UWFlSDdXU1dmZzVyN1hVMU9lbU9pSWg1dkdEbTA0ZFduY1FXVUZTR3RwYW1acGoyVnlVWXA5bG85MWN1MG5QUTkxbElVSF80ZlJpWVRhQTdFWDlHMEN4X1hWX0NRc2c0REg1T1ZXdFlnSFFSaWkzWEtMag?oc=5"
-    },
-    {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #19 (12 de julio de 2026, Hora: 09:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZzVpSlhySktxVnpRSURxSFFCVVNDcTVNdGlwUjJ5aGxMMEdVNFhkbmQ0SWtIYkpVZDdZcG9temxqR0tRb0daNEhSc041OG9ZRjZueGhFYjhxV1B2ck1Ta3dBX0dGTWJIdTJRNFlXSnplZlRXM0lSQjlmWFhDb2tSRVJIOWIyaDR0WnRuaS1haGVyTmJhR0hGUGJyNEszcVFTcVI4N2JLTUlRSUxyWWx5S09EX1k3TDBHNXp3VGdLc2NhMGFfdzVlZGdnUnhVYVk3TDY5V19B?oc=5"
-    },
-    {
-      "time": "Infobae",
-      "message": "Nuevo balance del doble terremoto en Venezuela: la cifra de muertos aumentó a 4.561",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX1hScGNPcHFPZF8wai1NaGFySnRZY3JJUXNWSEtxRXJzQkRCLVFIR0o0MmxVdUpHV0dHUHB0SWtKTDk2cGpFdEM4VWZ3WGE5R3gyV3FxclVVX3lsdE1vMEZDeS1Md0FyM3JsbDdEUDdyX3hQQlF5WTFkdU1vTkdqdlVrcHFJaXpXWU9yVmVfczA4WnJSYXZHMEF6SGpMT0dybEt6bzlscFhNRlVwb0dVNW9DOUUwdVBvU2ZtME9CNWhQR3duNmfSAeABQVVfeXFMTUgzMEg4VVNqdzl2TXktYWdxTUhqZzFzVWFmZ3dLRVdWcmtpZG1HeHFmR2F3T1JyekF6Z0pXR25OaURnVi1KX3pvY3ZtLUtfRHM5b1NPeDZValV3T1NVbmxBaUJQT1IzcGctZjk4bldBQXZ3MkJCd3Jkb04wbzlHcENhdkZ5YjVzaEJzV2xRVXVVZzc5Q2dxS1V3RWVYUUp4MVVIVkhyUldxM2xUdWc0a3hYTEJkS05VbXdIZ3RNRTNkQWs2RGtIeXNlZnZ1b2xVdk54MHdQelMxMUpGV243UGY?oc=5"
     }
   ]
 }
