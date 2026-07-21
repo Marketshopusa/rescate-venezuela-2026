@@ -8,19 +8,19 @@
   },
   "reports": [
     {
-      "time": "facebook.com",
-      "message": "#Ahora | Parte oficial del 18 de julio por los sismos registrados en Venezuela el pasado 24 de junio. | #EUVzla |",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlQtOGFvbmhLWk5zMTZpdHNISUtXSFhWZmhISW52ZVBkSXJ0VFk0WWlWVzVjemo0bDVPa3B6bkZpWTMwWHRKWDZKQmd5MmMyTjEyZk5FdU96dkw1OGxQTzFLaDlWTS1wUkpLUXNQV3lYV0xnM1RCSk03MEU1SzdaZGtPbi1DbnJ5dlhlOExtcUVVZDk3SWsyLWdycnFtREx0bkk5cXhiVDl3OE1ha2g5T25QbElhajZldmVvczloMjZzQy1lQkdUVVo0V19mdWdQMlFLN0FDdXo?oc=5"
-    },
-    {
       "time": "CNN en Español",
       "message": "A casi un mes del doble terremoto en Venezuela, la cifra de muertos supera los 5.000",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
     },
     {
+      "time": "facebook.com",
+      "message": "#Ahora | Parte oficial del 18 de julio por los sismos registrados en Venezuela el pasado 24 de junio. | #EUVzla |",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlQtOGFvbmhLWk5zMTZpdHNISUtXSFhWZmhISW52ZVBkSXJ0VFk0WWlWVzVjemo0bDVPa3B6bkZpWTMwWHRKWDZKQmd5MmMyTjEyZk5FdU96dkw1OGxQTzFLaDlWTS1wUkpLUXNQV3lYV0xnM1RCSk03MEU1SzdaZGtPbi1DbnJ5dlhlOExtcUVVZDk3SWsyLWdycnFtREx0bkk5cXhiVDl3OE1ha2g5T25QbElhajZldmVvczloMjZzQy1lQkdUVVo0V19mdWdQMlFLN0FDdXo?oc=5"
+    },
+    {
       "time": "DW.com",
-      "message": "Cifra de fallecidos por sismos en Venezuela roza los 5.000",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeW1zQ3IxRE0zOEJMMUhYa3VSeGFVakk0WmhhTEtpY0lJMFV5aHpWYndHY3ZZRnFmeWFVVEt1TkliTG1KeVBVNjVxeXFpMDhXU25wV0h5QWZLS3VqZk4ydy1IS0F4dTg0ZDdpaF9ON2hYOEtFekNyWFdGZm1peTZjenJ6SjR5dEZhMVduUGJXdUdXVHR40gGUAUFVX3lxTE0wWkhnY3JsSWdYTUQwSFpIcld4WUxpcVBxUnd3dGpnaEdUZGlhbmtHLTFhSm1CMkFEcWd3SXFidVV5MndHWnJPaWhrZWtlaS1KdTFHd1J0S2lqWDA4WmZJWWM4X1ZIVjRnaHpZYkxybHVsTmxDb21OVWQxTmVTYVZMeDBFU01aajdqRnp5cTh1ZjFRN0k?oc=5"
+      "message": "Sube a 5.208 la cifra de muertos por terremotos en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUU1RlhiRnpHbWdSR0xtcTRZUmZneUJ0VHk4WWlpSjRfVWR2ZW84Tl81cWVPanZkdGU2R21venF1cFB2c01WT0FXT01MQXZOMXBYbFhGLUNRQjBmcWpGZmxRTHMxVVdPQ19ZWElQdENPVHRnOF8zci1aWGR2SjgwbVJpMmtaZjRFa3NZTEZSZVd4YjB2bDFr0gGXAUFVX3lxTE5QenZvU1dzdkc4Z0FlYVMyZm91N0lLR01sNTFWcFpZbkhRakM4Qy1sVlg0dHJXd2syQU9RUGZEMmg0aEh3dl9pbWtvbjIySFNRM29odl9mMXhPTmV2OVdHNXFpbUNUT2JuR1pWMXNIV096QlZEeWFYMU1ROVBtT2NfdjJsaXk0YUpUNnFVcWhKOWMtOUc5NXM?oc=5"
     },
     {
       "time": "Infobae",
@@ -33,14 +33,14 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRWQ3dEJUT244UGd5QVJCZEw2eG8zbUdGZXNNUGxIc3o1Y1BXbnRnLS00SGQzV3BUZDhGZXk5OE9fRXpvUk5faE9YeWtJLTFScHVoTHdDTl9KaHU5QmtZZnhSQzE0RlBxeDBKY0NxandRWFJ6aHgxbTFpaTB6bkVHOXJvbDZCUjdYVHQ5ZlpBdUtndVowVHJ2YmRNNXZrLWlmZGoxS2hKc1VHX1lOdHUxenE1d2pNRUxXU1R2WUFjeHF3UzBOYThScXlUMS1fYmc2R05jWGM3bU4wdw?oc=5"
     },
     {
-      "time": "Revista Semana",
-      "message": "Dos fuertes temblores sacudieron a Venezuela este 20 de julio: estos fueron sus epicentros",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUTJQcC1BSGhySWVOMlFXRDVINXBQMUZxT2pic29pWDRmZ05vb3VyRm5vQ3BxOGN6UGJ3bTJ1RGZ2akVPQVRWQ3RyQWNoMFFPbHV0SHNaSDdLQktxS1J2NTJlSHNxeU1GMjA5VzhwUkFDMXB1eDRReHN0bHVUY3ktMnROQ0Zlb2tqbk5nTUJQQzJfbkxodnVHZWluNkI4QjhqYUt3aW12ZlE4emdFc0J0cTdCVkN0QnhidklXVHdDd2hZc3lxNWpmbUNNSk05WVUt0gHWAUFVX3lxTE9Na3VnenZtZllPUzN1RnVPVVF5QmRzVGRQZzA2UmEzbDM1ZG43RTRxbTRIWURac2hBamhWbmh6Z242YkZWYmxEM1RONDVJRDNkbTF0cW9pVWU1UEQzR3k1T0dWdzVsSmNUOWw4cVNyTUYzSm5DTjRCYURwY2xyTWVIbjlEcDR6YnRoU3VyNmlheDE4RGd0N2ZVQ3VMYmJSTXRFQWd1bWZBR3FFTW5tV1ZMN3VQLW1xNV9KLUsyUlVNbmZTRHEzbHYtZ2FsWnBkV3hsMklHZkE?oc=5"
-    },
-    {
       "time": "El Diario Venezuela",
       "message": "Terremotos en Venezuela: confirman 5.119 muertos y 16.740 heridos",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4bGUyWWlKZHg1ejNib3ZneXlQUUotSkRaajgwNjF1aTZXdzUyWlNDQTdHZHVxQ0tYLTIxc053Z0VwYzh3WDBYT2liNmxNdjJBZHlYR0FPd1VIODNiQ1NKekpwNXJzdkJJWWdaVzNiblRpX2o5TGZTY3JRVkE?oc=5"
+    },
+    {
+      "time": "Revista Semana",
+      "message": "Dos fuertes temblores sacudieron a Venezuela este 20 de julio: estos fueron sus epicentros",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUTJQcC1BSGhySWVOMlFXRDVINXBQMUZxT2pic29pWDRmZ05vb3VyRm5vQ3BxOGN6UGJ3bTJ1RGZ2akVPQVRWQ3RyQWNoMFFPbHV0SHNaSDdLQktxS1J2NTJlSHNxeU1GMjA5VzhwUkFDMXB1eDRReHN0bHVUY3ktMnROQ0Zlb2tqbk5nTUJQQzJfbkxodnVHZWluNkI4QjhqYUt3aW12ZlE4emdFc0J0cTdCVkN0QnhidklXVHdDd2hZc3lxNWpmbUNNSk05WVUt0gHWAUFVX3lxTE9Na3VnenZtZllPUzN1RnVPVVF5QmRzVGRQZzA2UmEzbDM1ZG43RTRxbTRIWURac2hBamhWbmh6Z242YkZWYmxEM1RONDVJRDNkbTF0cW9pVWU1UEQzR3k1T0dWdzVsSmNUOWw4cVNyTUYzSm5DTjRCYURwY2xyTWVIbjlEcDR6YnRoU3VyNmlheDE4RGd0N2ZVQ3VMYmJSTXRFQWd1bWZBR3FFTW5tV1ZMN3VQLW1xNV9KLUsyUlVNbmZTRHEzbHYtZ2FsWnBkV3hsMklHZkE?oc=5"
     },
     {
       "time": "Efecto Cocuyo",
@@ -54,8 +54,8 @@
     },
     {
       "time": "DW.com",
-      "message": "Sube a 5.208 la cifra de muertos por terremotos en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUU1RlhiRnpHbWdSR0xtcTRZUmZneUJ0VHk4WWlpSjRfVWR2ZW84Tl81cWVPanZkdGU2R21venF1cFB2c01WT0FXT01MQXZOMXBYbFhGLUNRQjBmcWpGZmxRTHMxVVdPQ19ZWElQdENPVHRnOF8zci1aWGR2SjgwbVJpMmtaZjRFa3NZTEZSZVd4YjB2bDFr0gGXAUFVX3lxTE5QenZvU1dzdkc4Z0FlYVMyZm91N0lLR01sNTFWcFpZbkhRakM4Qy1sVlg0dHJXd2syQU9RUGZEMmg0aEh3dl9pbWtvbjIySFNRM29odl9mMXhPTmV2OVdHNXFpbUNUT2JuR1pWMXNIV096QlZEeWFYMU1ROVBtT2NfdjJsaXk0YUpUNnFVcWhKOWMtOUc5NXM?oc=5"
+      "message": "Cifra de fallecidos por sismos en Venezuela roza los 5.000",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeW1zQ3IxRE0zOEJMMUhYa3VSeGFVakk0WmhhTEtpY0lJMFV5aHpWYndHY3ZZRnFmeWFVVEt1TkliTG1KeVBVNjVxeXFpMDhXU25wV0h5QWZLS3VqZk4ydy1IS0F4dTg0ZDdpaF9ON2hYOEtFekNyWFdGZm1peTZjenJ6SjR5dEZhMVduUGJXdUdXVHR40gGUAUFVX3lxTE0wWkhnY3JsSWdYTUQwSFpIcld4WUxpcVBxUnd3dGpnaEdUZGlhbmtHLTFhSm1CMkFEcWd3SXFidVV5MndHWnJPaWhrZWtlaS1KdTFHd1J0S2lqWDA4WmZJWWM4X1ZIVjRnaHpZYkxybHVsTmxDb21OVWQxTmVTYVZMeDBFU01aajdqRnp5cTh1ZjFRN0k?oc=5"
     }
   ]
 }
