@@ -8,29 +8,29 @@
   },
   "reports": [
     {
-      "time": "CNN en Español",
-      "message": "A casi un mes del doble terremoto en Venezuela, la cifra de muertos supera los 5.000",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
-    },
-    {
       "time": "facebook.com",
       "message": "#Ahora | Parte oficial del 18 de julio por los sismos registrados en Venezuela el pasado 24 de junio. | #EUVzla |",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlQtOGFvbmhLWk5zMTZpdHNISUtXSFhWZmhISW52ZVBkSXJ0VFk0WWlWVzVjemo0bDVPa3B6bkZpWTMwWHRKWDZKQmd5MmMyTjEyZk5FdU96dkw1OGxQTzFLaDlWTS1wUkpLUXNQV3lYV0xnM1RCSk03MEU1SzdaZGtPbi1DbnJ5dlhlOExtcUVVZDk3SWsyLWdycnFtREx0bkk5cXhiVDl3OE1ha2g5T25QbElhajZldmVvczloMjZzQy1lQkdUVVo0V19mdWdQMlFLN0FDdXo?oc=5"
     },
     {
+      "time": "El Diario Venezuela",
+      "message": "Terremotos en Venezuela: confirman 5.278 muertos y 16.740 heridos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KRVlkWXdaeWZIY3pUNjBidVV4Q1lvVU5CZjBMb1NnOGFYMlRZMDhyRjRiMFBDejVvVVVMZ2pOVGZjY1dIX2lHU3Z3dlczblhHNGZkeUxOVnpaQjU4MEpCcjFEZ2daRTFzd1JMeElFM2o2ZFdlT3I0ZFd4NEk?oc=5"
+    },
+    {
+      "time": "CNN en Español",
+      "message": "A casi un mes del doble terremoto en Venezuela, la cifra de muertos supera los 5.000",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
+    },
+    {
       "time": "dw.com",
       "message": "Sube a 5.208 la cifra de muertos por terremotos en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUU1RlhiRnpHbWdSR0xtcTRZUmZneUJ0VHk4WWlpSjRfVWR2ZW84Tl81cWVPanZkdGU2R21venF1cFB2c01WT0FXT01MQXZOMXBYbFhGLUNRQjBmcWpGZmxRTHMxVVdPQ19ZWElQdENPVHRnOF8zci1aWGR2SjgwbVJpMmtaZjRFa3NZTEZSZVd4YjB2bDFr0gGXAUFVX3lxTE5QenZvU1dzdkc4Z0FlYVMyZm91N0lLR01sNTFWcFpZbkhRakM4Qy1sVlg0dHJXd2syQU9RUGZEMmg0aEh3dl9pbWtvbjIySFNRM29odl9mMXhPTmV2OVdHNXFpbUNUT2JuR1pWMXNIV096QlZEeWFYMU1ROVBtT2NfdjJsaXk0YUpUNnFVcWhKOWMtOUc5NXM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNUU1RlhiRnpHbWdSR0xtcTRZUmZneUJ0VHk4WWlpSjRfVWR2ZW84Tl81cWVPanZkdGU2R21venF1cFB2c01WT0FXT01MQXZOMXBYbFhGLUNRQjBmcWpGZmxRTHMxVVdPQ19ZWElQdENPVHRnOF8zci1aWGR2SjgwbVJpMmtaZjRFa3NZTEZSZVd4YjB2bDFr?oc=5"
     },
     {
       "time": "Infobae",
-      "message": "El gobierno de Venezuela ascendió a 5.208 muertos el balance de víctimas por el doble terremoto",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmY1alFsWERmbTJEUmpkLUZoRF9CQ1hhcGM5UkRJMXppUUx6cHBZYWtLeklsZ3AtYm9MRjk1a1FIdFZRZ1lMcjUzWFRrZFd4WDA0RHhlUHY5eFpNZUxRMFdzX1piYjhEZ1FYZ24tQ25kMmZxdW9TTVBQeUduQm9QWlRuQWc3YWxBcnFkWWZ5YmI4RER2M25DWV9OZ0JSb2d1QkhBWjhjLU90emdpZDI4X0ZWakc0N0RDZUliOUUzeU01TnJhT3VSOFctWDJrTjFsbTUxc0ZNb9IB8gFBVV95cUxNajlPcXRDM193R29TcjRPUk54TUVDY3pVc1MxYklaOGI0V2lVblVXXzd2b3VOMjVaeWVlQUVHZ0JuMVdzOVNsVEhGZ1JfNG16cE0tSkdGaUY5V19Ec2dSWktfT1JxVkdqeEJKZjl5eTV6c1EzZElqblpHNkFsbEZqbWx3UDJlWF8yMmZEY1RrU2NvOXRMSjZwWkVRdndkVGw5enZzVFJ1WGdtZnhMNE1Rcko3YUN3NkJNOWlYUE52S3R4NE9fNllLTGlaQkZTMllvY1I5bWpBcnRlUU52ckM3dC1Tbko0TTNJRWRMemV6QkRidw?oc=5"
-    },
-    {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: confirman 5.119 muertos y 16.740 heridos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4bGUyWWlKZHg1ejNib3ZneXlQUUotSkRaajgwNjF1aTZXdzUyWlNDQTdHZHVxQ0tYLTIxc053Z0VwYzh3WDBYT2liNmxNdjJBZHlYR0FPd1VIODNiQ1NKekpwNXJzdkJJWWdaVzNiblRpX2o5TGZTY3JRVkE?oc=5"
+      "message": "La cifra de muertos por el doble terremoto en Venezuela ascendió a 4.930",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV21qQmx4TERwV05FVXRHZHlNZk1YWlVBNzNwaElPb0RuZlFzTVRER3BVdEl5RC1kLXpFVjJOMFVLQ0JSbWNfalNHSXByMWJBZVRVR1FKRnJLTHR1SWx4ZHdWb0w5enVJcjczSHhVUE9xZ0lCX2hMd1Y0QVBCV0Q0dlJYV09kblpxNDVOdDM4NWhMajZia1oyUmFSVmkwbGVnRkFnLVFVNVdnWTQ2d3NJTmoyTDV0eUJT0gHTAUFVX3lxTE1hNnZUOURnQWo3TTQ1R0RuTHJFaFpNcG9KNUVIaVZKTWFPUy1IR01tR0tIemxPNEFPcGhtMDVKUDM0NjdWcFZKY25FY3dOd2NtRGQzY3R6RUFEVUV4eDB5S0NvTE9nOHFWWmJQQzNPbVprYXV2MERaRHl6M0YwNTBOckViSXdHY1RfUm56ZHA0bFJXX3BFWm9oVkdReVU5Z1NpSXI1NEpIckRXOUhpT3B3YzJYNDRfaFJ2em82N0haeFFGbFdUUzJ3MnZXZV8xZmx2Z0k?oc=5"
     },
     {
       "time": "France 24",
@@ -49,13 +49,13 @@
     },
     {
       "time": "Infobae",
-      "message": "La cifra de muertos por el doble terremoto en Venezuela ascendió a 4.930",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV21qQmx4TERwV05FVXRHZHlNZk1YWlVBNzNwaElPb0RuZlFzTVRER3BVdEl5RC1kLXpFVjJOMFVLQ0JSbWNfalNHSXByMWJBZVRVR1FKRnJLTHR1SWx4ZHdWb0w5enVJcjczSHhVUE9xZ0lCX2hMd1Y0QVBCV0Q0dlJYV09kblpxNDVOdDM4NWhMajZia1oyUmFSVmkwbGVnRkFnLVFVNVdnWTQ2d3NJTmoyTDV0eUJT0gHTAUFVX3lxTE1hNnZUOURnQWo3TTQ1R0RuTHJFaFpNcG9KNUVIaVZKTWFPUy1IR01tR0tIemxPNEFPcGhtMDVKUDM0NjdWcFZKY25FY3dOd2NtRGQzY3R6RUFEVUV4eDB5S0NvTE9nOHFWWmJQQzNPbVprYXV2MERaRHl6M0YwNTBOckViSXdHY1RfUm56ZHA0bFJXX3BFWm9oVkdReVU5Z1NpSXI1NEpIckRXOUhpT3B3YzJYNDRfaFJ2em82N0haeFFGbFdUUzJ3MnZXZV8xZmx2Z0k?oc=5"
+      "message": "Venezuela superó los 5.000 fallecidos tras el doble terremoto: hay 16.000 heridos",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa1NVTFJXU0l5N0c4a0p1ZkNmN2ZXZHRfd0U1aVNOZ0xoNGdZSkpaZGkxWmR0dlBycHYxY1ljSk5wTVloZHNINF9sNUtMeWF0SXlBNkxQdF9yQVRqYXFJU3R3TnNCMGp5MFdDMG0xNlcycGItNWhEdC1UTnlLSlhWZVM3ams1Unl3bkdhRVpmWTJwenVzaVBHN01MODJhcmJMeUlxU0g2WUNLb3I0bHo3LTY1TkFRYnNqLVU2QUhpYXU4Z9IB3AFBVV95cUxNOGFWa2pFWE1RWjQ0MmV4cTBpOUpJWXFlNm0yc3lCSWlhOExiOXhESVpvN24tX3NWbUdUdXJYdkZ0T0lKQXBUc1RMQUVlTDVDMlFPLTdZYXdBbDZVXzQ5VUttdER2bHhwVmE4dVdmTVBhMllsODhuWExINGxkakctb2xkbks1UjlrUktmZEg0MTItb3RaVVdZRnhjZkozakxmbXhyRExaNmVISDJPLXIwM3I2TlpBM3hSYUpuVEpOSHJ0NGo1REFaVFlJQURIU3REcnJpLTRULUd2ZUlo?oc=5"
     },
     {
-      "time": "dw.com",
-      "message": "Terremotos en Venezuela: tras la cifra de fallecidos",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcS1PYUlpakJ0UWJNTjYwS2NLOHVvUU9DSmM2dkdCZU5YcDFYM3RkVFRGYktHR3BULWQ1Qk9tVjB3WHNRQ2YyM0JvTGxWOUQyZWlXdnN6UjlMaGxqekl3dHBEOEVFVURIOUlpdk0xT2FBaFRzajNkLWhpczlPcmVXTURibFlxR2g5WGNQZ9IBjAFBVV95cUxPYjVqQzQ2bVQ2QmZkRDBDelBMbFZCdTk3NTRpR2VZbW1pZGY0dzhwOTZQUnBkVTlWWU1DRWhwQjVyQXlWT3ZJZFBQcnNRamF4Wk5wLW9kTHdhS3FUaEVQNXhZZEJyMGx5WVJnTXhEcERYVTB3LWJIaVNUUGN4b3BablE2aWJfa3dBU19FRA?oc=5"
+      "time": "El Diario Venezuela",
+      "message": "Terremotos en Venezuela: confirman 5.119 muertos y 16.740 heridos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4bGUyWWlKZHg1ejNib3ZneXlQUUotSkRaajgwNjF1aTZXdzUyWlNDQTdHZHVxQ0tYLTIxc053Z0VwYzh3WDBYT2liNmxNdjJBZHlYR0FPd1VIODNiQ1NKekpwNXJzdkJJWWdaVzNiblRpX2o5TGZTY3JRVkE?oc=5"
     }
   ]
 }
