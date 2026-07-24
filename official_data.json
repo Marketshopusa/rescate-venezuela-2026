@@ -8,14 +8,14 @@
   },
   "reports": [
     {
-      "time": "France 24",
-      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
-    },
-    {
       "time": "DW.com",
       "message": "Venezuela: aumenta a 5.346 cifra de muertos por terremotos",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNTlpd1hNTGJ1TEJoSk1fWHQ4NjRaUmp6Nzk2cGd3bldjYkZVazI2UDlrVzh0OGxrYzlOM1FyRG1BZk5NVXhYR1BzU0dxQmdzRjkyZEdrTmUtcUE4ZXlCb1F6b2Y0bUxqbzRRbnpDSU5KMW9fRnFoTlk3eU5ZbG1vT0N2RVlGV0FFRmNHa2JGeGEwNFV1cFg2LWMwc9IBmwFBVV95cUxQZVVFRGNmRFFpZEtNTXZlU2tLZENod3BXa280Wnp5ZG5OM3pWUDgwOWdEems1Nk9vRnFHU01JRzd0NUhLbkVyR2c3TmVRQ19Eb1Fmd2FNamRQTktBbUd1NUdwRF9QTzV0cXo5NjZWa29STmZBNTE0dmhMMmpqSWxVRVpCRjVqUERjYXpWMktlUjRSeWl2eVNMUGJYTQ?oc=5"
+    },
+    {
+      "time": "France 24",
+      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
     },
     {
       "time": "CNN en Español",
@@ -38,14 +38,14 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13Qm5vRlBpMktsY2lMZUVOb3hyc2ZDdTAyb3NoS1U5aWZnSm0zNjVaQ1VQUGVRcW0wM3c3ZXUwand6UzdndzZMZ2IxOHp2cW55ZzNzWXhEdV9sVGVWT09sTkVKV2lqcDA2MnNTZC1HTTZjLVpURkxFT0xacjQ?oc=5"
     },
     {
-      "time": "La iguana TV",
-      "message": "Venezuela demuestra su resiliencia y fortaleza al cumplirse un mes del doble sismo del 24J",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96aGFaMEhCX3E2Tl9wR2x3Z3NkdnNGeEV4d1NtcG5iWEhYYUFLeWVLOTlaYkoxdlN1LWdvcGpyb2RzcWFEWFFaNGJTal9vUXdVVllFRkc4ZjY3NUxMNXp6NmR3MS1GM2hETUdfb05lOGhWRmhJaVo2aFBVV1g?oc=5"
-    },
-    {
       "time": "EL PAÍS",
       "message": "El terremoto más allá de La Guaira: los pueblos costeros venezolanos se aferran al mar",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnBna2dPQ0VuNm0tc2I3MkZfRV8tOG44aF96cXp3dEtGMXJiYlZQaGdRUU9DYU1lWFFYaWt3akt1U3Jfc1FCQkE5VkNUTWxLcFVucGo0RHA2azUxbUlPUjJ3RnF5MGM5STJoQ01aZUo3dnYzcC0tQk80dVJCSHh3Z2NYYl9Lbkhzck5TXzdBMUR4ZHdVMVBaMDBUX2hGbjZSVEI3QmNuMXNPRlB5dHV5QUQ1Yl9HcmFfRVFMVFlMVVNrWGhCX0Fr0gHbAUFVX3lxTE0yVVFjMFJqVndrejJXTXJUZXphMGJueDlMUTZMMGlmcUF1b1h6bGZCX2tlNVNLRXd0ZjBkMXNGdnM1VmZ4S3FkOG0yOTAxb1FoUi1DYVRnYVV5bVVOS0w4NndvYXEzaEhMSHdjbVNiSjJobjZuNXN3dGhsYXk0TUhJRlQwUWEzTWdzekxYSlBjSGtUemZsUnpkOWQxTWQ3NDg2d292b3ZvRkVQd2hmNTJnaWVBQmRvT0g5SWNqcEs2Q1ZNb0cwQWRFa3VLMVU0MnFtaTYyazA5Q0JyQQ?oc=5"
+    },
+    {
+      "time": "La iguana TV",
+      "message": "Venezuela demuestra su resiliencia y fortaleza al cumplirse un mes del doble sismo del 24J",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96aGFaMEhCX3E2Tl9wR2x3Z3NkdnNGeEV4d1NtcG5iWEhYYUFLeWVLOTlaYkoxdlN1LWdvcGpyb2RzcWFEWFFaNGJTal9vUXdVVllFRkc4ZjY3NUxMNXp6NmR3MS1GM2hETUdfb05lOGhWRmhJaVo2aFBVV1g?oc=5"
     },
     {
       "time": "DW.com",
