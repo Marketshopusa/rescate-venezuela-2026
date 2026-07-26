@@ -9,18 +9,13 @@
   "reports": [
     {
       "time": "Euronews.com",
-      "message": "Las cifras de la tragedia un mes después del doble terremoto en Venezuela",
+      "message": "Cifras tras los terremotos en Venezuela un mes después de la tragedia",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGhkeVlKdlV1ejQ4OVBIaEZ2RTJMNFl5MUNSTDNnOEdPejBLQnZ3YTEyWlk5b3lVVm9SMEVfUzU5NkFCLXRtM3dsaFp6Q0lhVUJHMGY3NjYwclp1R3hKMFh6cW5rYTA5TWJjZVAwcFdHME9aZUhHcTFZaFItM2M1NGhkSHZVTGc0MV9Gb2lmNmh5cXgyaFVYQzFFMTBLWk1KNERPTkE2dkdPMGVX?oc=5"
     },
     {
       "time": "facebook.com",
       "message": "La cifra de muertos por el doble terremoto que sacudió Venezuela hace un mes subió a 5 mil 546, informó Jorge Rodríguez, presidente de la Asamblea Nacional. El balance oficial también reporta 16 mil 740 personas heridas y 17 mil 907 que perdieron sus v",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3A1Q3JHQXVpNXVEdE5aVnlDclg3Uy1GUUxvMWZQbVNmdldTZW9Ub1FqVDFnMTAwanFTeEJCVjZYU3pvdHVTSnVELWhGTXJQWTNRaVhWM1pSYTg5MTNEQ2JkdWY1eV92WHExQTJZaXpvdy1lQXlOZDZjSG1qVDRKeXFoelpyTkRMdlhpT0lBRko2eEVJZFBHR2RBNlh2NDBkaS1qaGVTTzNFTWpuOFdqRDRyLTR2dUR3UGNPQUwxbHBlekRFdEFzMXV5VTZpWTdnb1N3d2JZNDQxX3A0WXdCTzhB?oc=5"
-    },
-    {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: confirman 5.546 muertos y 16.740 heridos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pRG5JVVlhRkpnbnQ1SlhVcVNtTDRsT3QyUVgxRnY4ZXYxSTYxTzJ1dkJPc043SHJQN3BfR2E4M055SE1ESzZMS0JGU0VfUVZwOU1CeXBxd3lqY01NMm03QnZEWkdjVnRyQmRsZ0o4aHpNaGlQTWo4WkZsbzI?oc=5"
     },
     {
       "time": "France 24",
@@ -33,6 +28,11 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEdnRFVKdG1iZDFGeUVMVXZnV3k0NWE3UzhVUjJobl9CSV9ybVpMUGtpUWdfNC1saVRzZWl6RXVJMURfd3F6WkEyNWU1Z29uZHhRX2ZuNlZWVk9xMEJiRGx1cE1fYndpNk1zVkJ4QlE4aWphdmQyaDdiVEJIZENKU2k3QjIzNnBrUE5sbDNhVjlENkEwMjI3VERn?oc=5"
     },
     {
+      "time": "El Diario Venezuela",
+      "message": "Terremotos en Venezuela: confirman 5.546 muertos y 16.740 heridos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pRG5JVVlhRkpnbnQ1SlhVcVNtTDRsT3QyUVgxRnY4ZXYxSTYxTzJ1dkJPc043SHJQN3BfR2E4M055SE1ESzZMS0JGU0VfUVZwOU1CeXBxd3lqY01NMm03QnZEWkdjVnRyQmRsZ0o4aHpNaGlQTWo4WkZsbzI?oc=5"
+    },
+    {
       "time": "DW.com",
       "message": "Venezuela: aumenta a 5.346 cifra de muertos por terremotos",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNTlpd1hNTGJ1TEJoSk1fWHQ4NjRaUmp6Nzk2cGd3bldjYkZVazI2UDlrVzh0OGxrYzlOM1FyRG1BZk5NVXhYR1BzU0dxQmdzRjkyZEdrTmUtcUE4ZXlCb1F6b2Y0bUxqbzRRbnpDSU5KMW9fRnFoTlk3eU5ZbG1vT0N2RVlGV0FFRmNHa2JGeGEwNFV1cFg2LWMwc9IBmwFBVV95cUxQZVVFRGNmRFFpZEtNTXZlU2tLZENod3BXa280Wnp5ZG5OM3pWUDgwOWdEems1Nk9vRnFHU01JRzd0NUhLbkVyR2c3TmVRQ19Eb1Fmd2FNamRQTktBbUd1NUdwRF9QTzV0cXo5NjZWa29STmZBNTE0dmhMMmpqSWxVRVpCRjVqUERjYXpWMktlUjRSeWl2eVNMUGJYTQ?oc=5"
@@ -43,11 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeERPUHpxSkEyU2RwM2pCVFplMnlDTl93TDVxRkxzekVuSDVQcVdNc2hobTU3QXl3RlF3THNGZW5JdWN0RjFQWGFNc3VhV0pZb3JvaU02bmNhVjdGTjdyM1hEWXpsMXE1dWlBd0lrR25QeUFOeE1PV2ZhaVkxLWdaRTJXT1F6REhyaHVoRjBBQmt4Q2ZnWl8zc2pEWUYxcFp5bHlqT2hneGlLYVB2RE1jeDlOY2pnQXgtQ2U1bEtGcUVxZE82SDlQYWdhVdIB5gFBVV95cUxNNGx6Q2x6UzYzWkNvN2xvYjRMV2M4cW96NkRsc1IteGtXZkNKYVI1VERPc2c0QkFoMGxhVkM3b3g2ZW5CcXRiTlVldmY2YzI4Z2lvUlpTZFVwMmZueklwdk5oZWRTM0sway10T1p0Zkl4TkxYQUt5VTBmVVBsQTdlMmJ5Z01Bc0RZd1JyTWEwNkFYaHR2aUUtOC1hX2lrU1BzaUYzRUk2ZENXN3ZUWTFsdDJFTGlLSkFySm9MYUJzMi1UMEJ5ZVBwQllKRThwa3BJaVVMWFlJU0JqZ3lBcmpnZGd4ajNsQQ?oc=5"
     },
     {
-      "time": "Telemundo Miami (51)",
-      "message": "Sube a 5,278 la cifra de muertos por el doble terremoto en Venezuela, según el Gobierno",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNSXV5NUxsQ3M4ejFiSGZaQ3JvSXdmbE4tVTdPdWVkOVV5TnRKUGFUbGxwaTNsU2xRNk4xbzNnRzdUU0V3UEFQRHhtZll4a2w2SXlLaGJrN2hkdEs0OWNBQnNySFBybElZdjlrVktwZTFrOWItQk5OQldmR0xseDVEbTRIamZIa2RpbVZFSG9sNkI0b1Q0d1pDQkRBazRNaVRndW1pRWZCWUZRTVVQWGFQZV8xZm13Z3BCc1Z5TzBXTnN6cjl0Y3ExNnJYdzJPQTI2eHJUOTJjQ2xmMVVZV0QxZzVleThBSjdoWmt3MnpFQnprLUUyZjVtU1Zodl94MjhMZEdNcmpMTW5ucGN0MmUxWDBoWGFxd9IBngJBVV95cUxQd29pbXFEamhuNnl2Y1NkSE5NMWlNbzJ2Z1N6YXV4amVxNG1iYnJwZ2J6cE90cWwyWXdDbVJsczB5VXlqcFNEVHRVODVPVlQyWHBTaF9GaFZ4eDZEZFR0UU0xRS1sWFp4QmJDRmpUMDZrendKeWFCYnpfWnhIaGpTdWU3UTYycTc2OV80eldLclZCa2dsLVJrNWlDeDNpX2d4SndURmJfek4wcUlHdDlMeU9OZ3FIaC10aHYtZlpoWmNBLUg5Wjhrd19BM1FQd2tkNmxLM2VDRzl0ak4xbEJ4Z25OelMwRllDSjhwQjNOb2lkdERsaHhFRDlpN2NJYXZkSVlKRHZ0NkJjSkFzRVdxdGtCbVRMZnVxdmhCaXN3?oc=5"
-    },
-    {
       "time": "Noticias Venevisión",
       "message": "Funvisis reportó un sismo de magnitud 3,1 al norte de Naiguatá este 25 de julio",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeERFZk9UVkwxNE52bnpUVnd1c3RqX0hpM3FZeVFFeXVaY3dvSWFiczd3dHVNZjZaSXZaelcybzl1SjczazVHdEYwVFlpS3c3blRPM0I4NlRBcjZHcVQySnNwV3hVWnk2dGI5UUdNMEw0b1NPdEp2emhJZkJoRk5ONW9qTHZ2ck4yQmlNcy1DUmxkTEdEZDVJMlF0MG1VV2VEb3QtMFpiUTZQSGFnYnc0bGFIVW54OWFzWVhGS0ZGV01kY2NpOWc?oc=5"
@@ -56,6 +51,11 @@
       "time": "facebook.com",
       "message": "Un mes después del doble terremoto en Venezuela: Cifra de fallecidos llega a 5.546 y 16.740 heridos | #EUVzla | #ElUniversal shre.ink/jrMk",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUN6dFJ2RVBCZ2lGSEY5MUk4QWRzNVN4b2hnV0ZtZk4yUENRTy1ZVG92Y3hpcWpDTFlGM1dMZ2ZIRVhEU2p0NUI5bFBvYklDdVhxM2cycFlfSnFkenNheExXQkRkbTlxVVNRSHRKbVU3RXlVeUZtN09TQ2c0ZUxzcTZVZUpkTDdYWWZyRDZmZ3VnOHZLMC1haGstaENGZGhEaWEtLUp3NEEyZzVxbE15SFFXbEtmemNPUnU5aElMaUpsVlVGWHBFNXJGNmkzQkRCSzZoQ1B4cjkzNjFOTzBR?oc=5"
+    },
+    {
+      "time": "France 24",
+      "message": "Aumentan a 5.398 los muertos por los terremotos en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS0pkYkg4Mm1SeUxZZ0wzQ2lUc212ZlM2VjhDdlM2a3Z5bG1kMFhzLV9IbXNIRlJMRWlxd1FXdTcwdVNUTHh5LTZWNVNud2tNVDFkWHJlWW52eDZyVmpaa1pQSjczNlRYUThfRXdUV2tLOHI1RHRHYTdQTWlhUFhFX3Ytd0kyS2lzTUhYcUFyZnZRUkVTMzktaEdyX3hNbThDUEMyWllPSWRkRjh1a1NVR24wRDNLZGx6NXVMTVJnamxkTEVfOWdETk00ZmdsZTJ1ek9WR2JoWklDd0UtZkZ3?oc=5"
     }
   ]
 }
