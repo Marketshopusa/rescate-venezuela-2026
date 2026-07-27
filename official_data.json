@@ -8,14 +8,14 @@
   },
   "reports": [
     {
-      "time": "facebook.com",
-      "message": "Un mes después del doble terremoto en Venezuela: Cifra de fallecidos llega a 5.546 y 16.740 heridos | #EUVzla | #ElUniversal shre.ink/jrMk",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUN6dFJ2RVBCZ2lGSEY5MUk4QWRzNVN4b2hnV0ZtZk4yUENRTy1ZVG92Y3hpcWpDTFlGM1dMZ2ZIRVhEU2p0NUI5bFBvYklDdVhxM2cycFlfSnFkenNheExXQkRkbTlxVVNRSHRKbVU3RXlVeUZtN09TQ2c0ZUxzcTZVZUpkTDdYWWZyRDZmZ3VnOHZLMC1haGstaENGZGhEaWEtLUp3NEEyZzVxbE15SFFXbEtmemNPUnU5aElMaUpsVlVGWHBFNXJGNmkzQkRCSzZoQ1B4cjkzNjFOTzBR?oc=5"
-    },
-    {
       "time": "Infobae",
       "message": "Terremotos en Venezuela: aumentaron a 5.546 la cifra de muertos a un mes de la tragedia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeERPUHpxSkEyU2RwM2pCVFplMnlDTl93TDVxRkxzekVuSDVQcVdNc2hobTU3QXl3RlF3THNGZW5JdWN0RjFQWGFNc3VhV0pZb3JvaU02bmNhVjdGTjdyM1hEWXpsMXE1dWlBd0lrR25QeUFOeE1PV2ZhaVkxLWdaRTJXT1F6REhyaHVoRjBBQmt4Q2ZnWl8zc2pEWUYxcFp5bHlqT2hneGlLYVB2RE1jeDlOY2pnQXgtQ2U1bEtGcUVxZE82SDlQYWdhVdIB5gFBVV95cUxNNGx6Q2x6UzYzWkNvN2xvYjRMV2M4cW96NkRsc1IteGtXZkNKYVI1VERPc2c0QkFoMGxhVkM3b3g2ZW5CcXRiTlVldmY2YzI4Z2lvUlpTZFVwMmZueklwdk5oZWRTM0sway10T1p0Zkl4TkxYQUt5VTBmVVBsQTdlMmJ5Z01Bc0RZd1JyTWEwNkFYaHR2aUUtOC1hX2lrU1BzaUYzRUk2ZENXN3ZUWTFsdDJFTGlLSkFySm9MYUJzMi1UMEJ5ZVBwQllKRThwa3BJaVVMWFlJU0JqZ3lBcmpnZGd4ajNsQQ?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "Un mes después del doble terremoto en Venezuela: Cifra de fallecidos llega a 5.546 y 16.740 heridos | #EUVzla | #ElUniversal shre.ink/jrMk",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOUN6dFJ2RVBCZ2lGSEY5MUk4QWRzNVN4b2hnV0ZtZk4yUENRTy1ZVG92Y3hpcWpDTFlGM1dMZ2ZIRVhEU2p0NUI5bFBvYklDdVhxM2cycFlfSnFkenNheExXQkRkbTlxVVNRSHRKbVU3RXlVeUZtN09TQ2c0ZUxzcTZVZUpkTDdYWWZyRDZmZ3VnOHZLMC1haGstaENGZGhEaWEtLUp3NEEyZzVxbE15SFFXbEtmemNPUnU5aElMaUpsVlVGWHBFNXJGNmkzQkRCSzZoQ1B4cjkzNjFOTzBR?oc=5"
     },
     {
       "time": "France 24",
@@ -28,7 +28,7 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEdnRFVKdG1iZDFGeUVMVXZnV3k0NWE3UzhVUjJobl9CSV9ybVpMUGtpUWdfNC1saVRzZWl6RXVJMURfd3F6WkEyNWU1Z29uZHhRX2ZuNlZWVk9xMEJiRGx1cE1fYndpNk1zVkJ4QlE4aWphdmQyaDdiVEJIZENKU2k3QjIzNnBrUE5sbDNhVjlENkEwMjI3VERn?oc=5"
     },
     {
-      "time": "Euronews",
+      "time": "Euronews.com",
       "message": "Cifras tras los terremotos en Venezuela un mes después de la tragedia",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZGhkeVlKdlV1ejQ4OVBIaEZ2RTJMNFl5MUNSTDNnOEdPejBLQnZ3YTEyWlk5b3lVVm9SMEVfUzU5NkFCLXRtM3dsaFp6Q0lhVUJHMGY3NjYwclp1R3hKMFh6cW5rYTA5TWJjZVAwcFdHME9aZUhHcTFZaFItM2M1NGhkSHZVTGc0MV9Gb2lmNmh5cXgyaFVYQzFFMTBLWk1KNERPTkE2dkdPMGVX?oc=5"
     },
@@ -48,14 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSDU1dVNzdWxwejRReEE5QlpnQWdwNGxuNnVaZjlndTlqQ3dvWnNRVTg0ZnBDeVBkMGhXdGxUeXdPeHh3di1ITmNDOXlGU3daaENhLVRWb3Y2bUc5Z3NVbk5zTkxvVHZpTC0tLU03LXNBUmdjMFo5bWVkVmNJV1hBQ1E4MA?oc=5"
     },
     {
+      "time": "EL PAÍS",
+      "message": "El amor truncado por el terremoto de Venezuela: “Parece una broma del universo, ¿cinco horas de conocerle y jamás lo volveré a ver?”",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeFdiN2Q3NWZrQjItX1JBOHdCRXdMS08zdzNiS1JyV203UTc5V3hwMGRZM0dIc2pUQVVFMWlkZC1rci1CaFRlcGdpZmRKak14eGJBY1VIXzNpT29vNmJqT1RRWkFON2pINGlfZzhocENzdVVSbGhEQkFsc0gzTFBHTGUzaDRocFB2SklobjN4bnNxQzdqYzd0MjR2cDdMNjUxQnFVSUVzTExFU21WSnd1djIxclQzRzhDWUJZQTQySkV2X29BUWJVNU9PcG11cm5kc0RTVURvYVhlcDd6QzRnajNSWl8zZ9IB-gFBVV95cUxOdU1NVmFlM3JURkVydlJRcGJEb3hKZjhkRmFoemZtTlRONzNOUUxDRDZoMWNyR05PT1lCQkZwS2NIbUd4MXJNZ0U3bGI5NF9QQ0hSTGNYdzFDbmx2MWE0TTdwd0xNZjRJRDJheUxzQVBCTEpzZjhNNG12Z3dMN2dKMjZZTndtMVhZWVhqb3FtbVpNeXI3Q3dSdTE5OHV6RkxkOTl4ckE5T1J1a2p4NmE4VVpYb3BoendxNHk0TGY1R1BzQV9kM0VqZ3ZSM2tEZ1pMS01hcHl2dDZ4cTBRZzRRRVJGUkhSb0t5RUNrUVF1V1hNTzctQTNhOXVR?oc=5"
+    },
+    {
       "time": "facebook.com",
       "message": "La cifra de muertos por el doble terremoto que sacudió Venezuela hace un mes subió a 5 mil 546, informó Jorge Rodríguez, presidente de la Asamblea Nacional. El balance oficial también reporta 16 mil 740 personas heridas y 17 mil 907 que perdieron sus v",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3A1Q3JHQXVpNXVEdE5aVnlDclg3Uy1GUUxvMWZQbVNmdldTZW9Ub1FqVDFnMTAwanFTeEJCVjZYU3pvdHVTSnVELWhGTXJQWTNRaVhWM1pSYTg5MTNEQ2JkdWY1eV92WHExQTJZaXpvdy1lQXlOZDZjSG1qVDRKeXFoelpyTkRMdlhpT0lBRko2eEVJZFBHR2RBNlh2NDBkaS1qaGVTTzNFTWpuOFdqRDRyLTR2dUR3UGNPQUwxbHBlekRFdEFzMXV5VTZpWTdnb1N3d2JZNDQxX3A0WXdCTzhB?oc=5"
-    },
-    {
-      "time": "Infobae",
-      "message": "Venezuela, un mes después del terremoto: “El trauma que sufrieron se está convirtiendo en un trauma para el futuro”",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPYzRCVXB2OEc5X1kxWmFUNVZoRmJxSmVnaklfdDhfWUc4TFl1RGk2cUt0MEZpUmx6cmNhVzAwMUw1QVZuN2FhX1IxbXh4MTQxZ2dSeGpzaDlrcEVhSGFrMUxxTVBCWDB2V3N1ZG9QX3QtU0dnbEt6Vl9LUU1JWEFlZWVDOENXU3JVRmNrZlRrU1hIVGtEUkZFa0V1X2tLTDZOWDRsRzE0ejNEdGljU1NycTF5UkYzV1FjaUVjX2Q5Wl9VeG81d0tVQlktX1pTcmUwOE5lMkhXM01TR0dEa21qeUdUc2gzeUpGNk0zRExB0gGIAkFVX3lxTFBOSTNMVjF4T3pURXZSdDF3RmVEMlB2YjJrTWIzbE9JTlBPN2ZpOTk1QmRzSnd6V3p3UlNKcmZpNFpjand2cmFZYTQ2bDJSMHowY1BBVnFleHpOOVZZSHRvamIzT3FHcVBRQzFHMXhPUlpJenFMUWtYTmRTZFFsMjJpQnJQSnVybkFGVXI4c2ZQX19XZ21pTUp1SHFHVjNFbnF2NGpnQzFTVUFhNjRtbklhYW9mYnVGakl0S2FaLW9vMWVUNHlGX0F5UFlqZjhUSmhOMWVkR2Q1S1BmZ256amp1dGxOUV85cG9kTHEwbzA2blZ4YXpYSndSbnR1S1ptc1NhcGZjVFN6dw?oc=5"
     }
   ]
 }
