@@ -8,14 +8,24 @@
   },
   "reports": [
     {
-      "time": "instagram.com",
-      "message": "Reportan sismo de magnitud 3.1 al oeste de La Guaira Autoridades de la Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportaron este lunes un movimiento telúrico a las 07:15 hora local, con epicentro a 10 km al oeste de La Guaira, a",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX2l6Znp3RzZucWg1R1BmX1Q4cm95MFpvY2Y3WUhERFg0cThTWW8yN2hxcXN1RHM5ZlNxYXNlbUNpeGUwWnhKVFFhcGhHMzJ1cWc?oc=5"
+      "time": "El Diario Venezuela",
+      "message": "El Servicio Geológico de EE UU reubicó el epicentro del segundo terremoto de magnitud 7,5 en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN1lNeUNTNlNIakxqZ0xIb09JZWliMEw2eUozZWFIRkxZRU5NVEJTeVRHeVcydkJNM1kxOEx6TmNFY3d0RENkakNhdjhxMS1xWWE2UDE2cXVjYjFlYl85UGwyRzNUUDVYUVlRQ21FSndFWkZCQXVTX2lEZEJQTFJmUU4wOTFRUQ?oc=5"
+    },
+    {
+      "time": "DiarioVea",
+      "message": "Ubican epicentro del segundo terremoto del 24 de junio a 17 kilómetros de Catia La Mar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWs5Ml9sbGdySVh3bzBZZGhMTWY2b2NCa0dGcDVRbGx5ZTFjcnRhZmhYWVA4UHlwRndLOGJFNnNoSDJyZHFKTVktZThsUHVxWVRQLVlCUURJSkROb3lENTZrQm9nWlgwQzhFMjFKMkhkVm40bmpRZE9xajVHTXVVcTBsUkw0b3VZS080QTdTdHQwZS02dDFVSWZNemJlelhZZVRaVl80NmFHeU1FX2dwX2xB?oc=5"
     },
     {
       "time": "Efecto Cocuyo",
       "message": "USGS determina que epicentro de sismo de 7,5 fue en costas de La Guaira y no en Yaracuy",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenBHSmhWMTA0dS1yNEt1UW1QXzl1bFhnSTZ6ajVpSEZOa01vVURhZkdRQlJKczQzNWZiVnpBa2YyUktLR1dHWEFKMW1Ob19CbmVBaU84SjFwWGtON2UyYU5Fa29td014YXV2bU1MS1dJbDJ4eHVBUk13d2czNkwtSVFoVS1wZTRCYlZNSVJhVlNyTU81RDVCcjRkNFRjMFJ2bU4yQ0tlTGxhd1prbkQzNmVCeVBwNVMzcTdUa2lmdXZHVUU?oc=5"
+    },
+    {
+      "time": "instagram.com",
+      "message": "Reportan sismo de magnitud 3.1 al oeste de La Guaira Autoridades de la Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportaron este lunes un movimiento telúrico a las 07:15 hora local, con epicentro a 10 km al oeste de La Guaira, a",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX2l6Znp3RzZucWg1R1BmX1Q4cm95MFpvY2Y3WUhERFg0cThTWW8yN2hxcXN1RHM5ZlNxYXNlbUNpeGUwWnhKVFFhcGhHMzJ1cWc?oc=5"
     },
     {
       "time": "Infobae",
@@ -33,29 +43,19 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43bGU3bmEwbkZWNkdJQVgyS3g1RloxNThCWE82SFItbHJiYXhJRU00cnI3OXY5YTBibjBTQ2lSRFREMDBobzh0WFQ1c24yMzVnVGZ0NUZMQXJIZUpXV2JIMFdTRHF4MzNVZU45dVBlY2trdw?oc=5"
     },
     {
+      "time": "Portuguesa Reporta",
+      "message": "Servicio Geológico de EEUU corrige epicentro del segundo terremoto en Venezuela: Fue en Catia La Mar",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUJaWGpkNkZ5S251QXh2NDk0bHUxX2RTRURoRy01Vlh3MDQxS29BN1dfT3FNV0RuQUNJTldWUTN5ZnRmMHRmd3FiZ3EyZ2JvUkxIcjJ6ak00T0U0b0pCVmlzVXdyY0VETTlTb3BvWF9CY3NWVktjZEFoZGpScmppZUwwZGNsMzBSQk93Y1pua0loQ1M0dW5iRlM2WW55bzlIb1JodHZnMXZmWElFNEZaMlFaUjNnSGF1cE1ZSXdNQlRYcUJuOVBIak5KM3A1MTcwdWw4ZTRUYWRsZw?oc=5"
+    },
+    {
       "time": "CNN en Español",
       "message": "Sobrevivieron al sismo en Venezuela pero perdieron todo. Un mes después, sus días pasan entre carpas y rutinas provisorias",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOEdnRFVKdG1iZDFGeUVMVXZnV3k0NWE3UzhVUjJobl9CSV9ybVpMUGtpUWdfNC1saVRzZWl6RXVJMURfd3F6WkEyNWU1Z29uZHhRX2ZuNlZWVk9xMEJiRGx1cE1fYndpNk1zVkJ4QlE4aWphdmQyaDdiVEJIZENKU2k3QjIzNnBrUE5sbDNhVjlENkEwMjI3VERn?oc=5"
     },
     {
-      "time": "facebook.com",
-      "message": "La cifra de muertos por el doble terremoto que sacudió Venezuela hace un mes subió a 5 mil 546, informó Jorge Rodríguez, presidente de la Asamblea Nacional. El balance oficial también reporta 16 mil 740 personas heridas y 17 mil 907 que perdieron sus v",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc3A1Q3JHQXVpNXVEdE5aVnlDclg3Uy1GUUxvMWZQbVNmdldTZW9Ub1FqVDFnMTAwanFTeEJCVjZYU3pvdHVTSnVELWhGTXJQWTNRaVhWM1pSYTg5MTNEQ2JkdWY1eV92WHExQTJZaXpvdy1lQXlOZDZjSG1qVDRKeXFoelpyTkRMdlhpT0lBRko2eEVJZFBHR2RBNlh2NDBkaS1qaGVTTzNFTWpuOFdqRDRyLTR2dUR3UGNPQUwxbHBlekRFdEFzMXV5VTZpWTdnb1N3d2JZNDQxX3A0WXdCTzhB?oc=5"
-    },
-    {
       "time": "DW.com",
       "message": "EE.UU. suaviza controles financieros a Venezuela tras sismos",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmZ5eXh1RGpZOWZUWUdiRWROZ0Flc0NKU1BEREFyOG5mUWJYa3lEY0t5Sk83OWdOWGRTbzBfZnB3ZDRobDJlSVVVZGxyT3B2SXhJVlhtQl9SZmtlSUQ5TWpvQTdzQ1dvMmFmdlY3RFdlVmpTVVpBZ3N6bjNaWUtTNnRxNHJLS1VIY2s3REtHS09YcGJRZFHSAZYBQVVfeXFMT1FlNTFrUl9hWmE3emJZNERmWFFjb2JpckNtYWJ2ZnZrYWM0WFJPVVZoc2lYWkhTMTRmYnNVcFhHXzFXMHNuNGludzRKaWtUQmRzY2JlaVl5bFV5S3FCbVRuaFZ0dHZGcExKbm12Zk5JYU1oQVlVYkNQUER3WHhfRVFNbHJpb1F6NkhES1dwbUJfdFE4UzFR?oc=5"
-    },
-    {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: confirman 5.546 muertos y 16.740 heridos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pRG5JVVlhRkpnbnQ1SlhVcVNtTDRsT3QyUVgxRnY4ZXYxSTYxTzJ1dkJPc043SHJQN3BfR2E4M055SE1ESzZMS0JGU0VfUVZwOU1CeXBxd3lqY01NMm03QnZEWkdjVnRyQmRsZ0o4aHpNaGlQTWo4WkZsbzI?oc=5"
-    },
-    {
-      "time": "Finanzas Digital",
-      "message": "ONG internacional alerta que la respuesta humanitaria en Venezuela enfrenta un grave déficit de fondos",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUZST2lidmszRVJtQjJjLW1GMGRlQl9DMVBXVDRIa1llQVBIc1VUbGdOclNEY3JXT2FOdGVsSUgzeU45NFh3bF82UXNzYUYyVWptWW1iTmNSUXFFaEUtMXliYlVtVzd0RkQ5YWZIUHo5X2poNkFuc3R3VkdqS0Y4Wk9rQXFmYWFpRHlDUWd3?oc=5"
     }
   ]
 }
