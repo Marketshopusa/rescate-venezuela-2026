@@ -8,14 +8,14 @@
   },
   "reports": [
     {
-      "time": "El Impulso",
-      "message": "USGS ajusta el epicentro del terremoto en Venezuela: Se ubicó en La Guaira y no en Yaracuy #29Jul",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnIyN0d2eHJzdmp3Q2RwOUk2VUl4MGFWZ2VWY2dyRzloR3hWbmlkVUc1cjBKSW1YT0FVWHYxNm5ac29IbDdrUEkySmRBOERFa1ZnMkp0dWk5VnhQQ21ta085cm93Q1VweGFoajltbnFwQ09jQlBwVmNDSEJtWnRLVk1XcGRFTTk3QVZrVzdGT01JUXAwZVZwVnlPaXpnTnJpZDVsd1dxZENKZmxrYS16SGFRWGlqc0pndEhZUWVRbzBOQ1MtdFdlRlU5TF91dw?oc=5"
-    },
-    {
       "time": "instagram.com",
       "message": "Reportan sismo de magnitud 3.1 al oeste de La Guaira Autoridades de la Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportaron este lunes un movimiento telúrico a las 07:15 hora local, con epicentro a 10 km al oeste de La Guaira, a",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX2l6Znp3RzZucWg1R1BmX1Q4cm95MFpvY2Y3WUhERFg0cThTWW8yN2hxcXN1RHM5ZlNxYXNlbUNpeGUwWnhKVFFhcGhHMzJ1cWc?oc=5"
+    },
+    {
+      "time": "El Impulso",
+      "message": "USGS ajusta el epicentro del terremoto en Venezuela: Se ubicó en La Guaira y no en Yaracuy #29Jul",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnIyN0d2eHJzdmp3Q2RwOUk2VUl4MGFWZ2VWY2dyRzloR3hWbmlkVUc1cjBKSW1YT0FVWHYxNm5ac29IbDdrUEkySmRBOERFa1ZnMkp0dWk5VnhQQ21ta085cm93Q1VweGFoajltbnFwQ09jQlBwVmNDSEJtWnRLVk1XcGRFTTk3QVZrVzdGT01JUXAwZVZwVnlPaXpnTnJpZDVsd1dxZENKZmxrYS16SGFRWGlqc0pndEhZUWVRbzBOQ1MtdFdlRlU5TF91dw?oc=5"
     },
     {
       "time": "teleSUR",
@@ -23,7 +23,7 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlQxOTNXbG1Sa0hGQUtmV0lubDhRTG82R0liSGJlcVlZMjh3dmZSVjhFendyR25iZGRza1VLTWFqLUJDdVZHUHpKeGZCY3BBb0lWNEZsNS13VFg4Zlp5Ri1Nc1Nybmlxdk5yYWpRYUhIZVZzR0pxdnBRRGgyaVM3SVpDMzU2MDc3b01ySEY0Q3ZtdnNXQzFlWmE2UHdJdkwtNFdvc2doUU0taDNzNGc?oc=5"
     },
     {
-      "time": "diariovea.com.ve",
+      "time": "DiarioVea",
       "message": "USGS ahora dice que epicentro de segundo terremoto fue a 17 km de Catia La Mar",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWs5Ml9sbGdySVh3bzBZZGhMTWY2b2NCa0dGcDVRbGx5ZTFjcnRhZmhYWVA4UHlwRndLOGJFNnNoSDJyZHFKTVktZThsUHVxWVRQLVlCUURJSkROb3lENTZrQm9nWlgwQzhFMjFKMkhkVm40bmpRZE9xajVHTXVVcTBsUkw0b3VZS080QTdTdHQwZS02dDFVSWZNemJlelhZZVRaVl80NmFHeU1FX2dwX2xB?oc=5"
     },
@@ -38,9 +38,9 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeERPUHpxSkEyU2RwM2pCVFplMnlDTl93TDVxRkxzekVuSDVQcVdNc2hobTU3QXl3RlF3THNGZW5JdWN0RjFQWGFNc3VhV0pZb3JvaU02bmNhVjdGTjdyM1hEWXpsMXE1dWlBd0lrR25QeUFOeE1PV2ZhaVkxLWdaRTJXT1F6REhyaHVoRjBBQmt4Q2ZnWl8zc2pEWUYxcFp5bHlqT2hneGlLYVB2RE1jeDlOY2pnQXgtQ2U1bEtGcUVxZE82SDlQYWdhVdIB5gFBVV95cUxNNGx6Q2x6UzYzWkNvN2xvYjRMV2M4cW96NkRsc1IteGtXZkNKYVI1VERPc2c0QkFoMGxhVkM3b3g2ZW5CcXRiTlVldmY2YzI4Z2lvUlpTZFVwMmZueklwdk5oZWRTM0sway10T1p0Zkl4TkxYQUt5VTBmVVBsQTdlMmJ5Z01Bc0RZd1JyTWEwNkFYaHR2aUUtOC1hX2lrU1BzaUYzRUk2ZENXN3ZUWTFsdDJFTGlLSkFySm9MYUJzMi1UMEJ5ZVBwQllKRThwa3BJaVVMWFlJU0JqZ3lBcmpnZGd4ajNsQQ?oc=5"
     },
     {
-      "time": "Mundo UR",
-      "message": "Servicio Geológico de EEUU corrige epicentro del segundo terremoto en Venezuela: Fue en Catia La Mar",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU5WUnBjcG5IZXNqYXR1YmVzc0h0LXZKdFY2a2pRVTBKVVpwSW1FYk4zNWE0WWtnd1dNWU1yanBTYXBoS2x4TVlucWh1b0NLWkMxUnN3NGJNVUhsa2NBdlNSR3Y4UXEtOHNvcnRGaXI5NGVPNXpfcThGUW9yS1BjekpFWWpyVjl4bW1XbEo5bmkweFNwMlpBZENCMF83S3RBS2xGS3NrSl9ZZmxzZ2RXam1kek9lcDBkb29QU1dWSUtaQW1YTG5uclRDRQ?oc=5"
+      "time": "ntn24.com",
+      "message": "Servicio Geológico de EE. UU. corrigió el epicentro del sismo del 24 de junio en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFFmbVZLMHlILW9vRm1JMFhjYzVQOTU0ZWF1WXZ4YXRNNzRXUzIzV1pXRFZxZTBNRTlMV1Uwemt6SFN2RjN3bDFMRDU5dU53Ry1VOUMxREVVUUFtS3ItYUk0R1lFd1A0VUtXbV9qVmNPS0ZTXzRGTFFZdDhBSmZxLVZkX09yRkl3bFU5czluQUhYMUF2c1QzVTNQU0NQOEFfRDhzNGVjdURDRUFPZEtaOXRnZktfWHNYbjNqTlFOSm1QczRBTFdvemhYZUNlUFFpQUtV0gHTAUFVX3lxTE84bi12MGhqRXhiN3JFcWhzcHNIYlNhZmo3S19sU3FKbDNWcXQ3Skx4OGlfQUJCVkxMbl9FVE5kWE1hUFA3OGo2UXVUYlhVVG1yQ2FsU3NtUVdTeUMxQnVNVWRqTW5RVURTbHg4bkV5aVhDdVBELWk4eWlfQ3ZaWTB3Z3h5NXNPNERDT2RzekpjdGFBMW5Mc1ZsZzdMVEtjQkRjVEdaUHlRU2UxT2RNdUsxZWprYXMyUDVJdUw1U1BFQ0JTOEo0a01GendjekpwM1E1blU?oc=5"
     },
     {
       "time": "North American Congress on Latin America (NACLA)",
@@ -48,9 +48,9 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43bGU3bmEwbkZWNkdJQVgyS3g1RloxNThCWE82SFItbHJiYXhJRU00cnI3OXY5YTBibjBTQ2lSRFREMDBobzh0WFQ1c24yMzVnVGZ0NUZMQXJIZUpXV2JIMFdTRHF4MzNVZU45dVBlY2trdw?oc=5"
     },
     {
-      "time": "NTN24",
-      "message": "Servicio Geológico de EE. UU. corrigió el epicentro del sismo del 24 de junio en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFFmbVZLMHlILW9vRm1JMFhjYzVQOTU0ZWF1WXZ4YXRNNzRXUzIzV1pXRFZxZTBNRTlMV1Uwemt6SFN2RjN3bDFMRDU5dU53Ry1VOUMxREVVUUFtS3ItYUk0R1lFd1A0VUtXbV9qVmNPS0ZTXzRGTFFZdDhBSmZxLVZkX09yRkl3bFU5czluQUhYMUF2c1QzVTNQU0NQOEFfRDhzNGVjdURDRUFPZEtaOXRnZktfWHNYbjNqTlFOSm1QczRBTFdvemhYZUNlUFFpQUtV0gHTAUFVX3lxTE84bi12MGhqRXhiN3JFcWhzcHNIYlNhZmo3S19sU3FKbDNWcXQ3Skx4OGlfQUJCVkxMbl9FVE5kWE1hUFA3OGo2UXVUYlhVVG1yQ2FsU3NtUVdTeUMxQnVNVWRqTW5RVURTbHg4bkV5aVhDdVBELWk4eWlfQ3ZaWTB3Z3h5NXNPNERDT2RzekpjdGFBMW5Mc1ZsZzdMVEtjQkRjVEdaUHlRU2UxT2RNdUsxZWprYXMyUDVJdUw1U1BFQ0JTOEo0a01GendjekpwM1E1blU?oc=5"
+      "time": "Mundo UR",
+      "message": "Servicio Geológico de EEUU corrige epicentro del segundo terremoto en Venezuela: Fue en Catia La Mar",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSU5WUnBjcG5IZXNqYXR1YmVzc0h0LXZKdFY2a2pRVTBKVVpwSW1FYk4zNWE0WWtnd1dNWU1yanBTYXBoS2x4TVlucWh1b0NLWkMxUnN3NGJNVUhsa2NBdlNSR3Y4UXEtOHNvcnRGaXI5NGVPNXpfcThGUW9yS1BjekpFWWpyVjl4bW1XbEo5bmkweFNwMlpBZENCMF83S3RBS2xGS3NrSl9ZZmxzZ2RXam1kek9lcDBkb29QU1dWSUtaQW1YTG5uclRDRQ?oc=5"
     },
     {
       "time": "France 24",
