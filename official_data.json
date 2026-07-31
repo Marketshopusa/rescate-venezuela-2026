@@ -8,14 +8,9 @@
   },
   "reports": [
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Comienzan a demoler edificios dañados por sismo en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXpQbkg0N2U4cXFHZzdTOEFYTFNJeGNiX1EtVEpIQ2hDZjNoZWtjVVRBQ2lpcFQ0a3ZISV84bno1eWc2Uk1OdXJ1eGZ5RzYwV1RPZjRHckhoOG14cXBvaDNFcjUxblU4SE5YNjZqSlpFVG0xdU1UUXNaT2VhN25oMnZ1d1dTU3dxMHNYd2pha3h0RHZETEVhUDlxWmRTbkXSAZ8BQVVfeXFMTjJ4QUlGMUtaQUZVWlU2dlhpYmVsM19CMjJLcW5ja21EX3huOWJJYnkzVWhialBuMndERUZsNW9uOFIzTzdZWTMzbERsREt5LUtDUnFZN2cwcnBWT2NNbXU3aGRhU1ZIcmp0TDdFZXhjM2RYdU95VlNmUVBuNE1BSEdFakJVd2pqSXZTX2pnbVZPbnFCNWhkMC0zR1FzeElZ?oc=5"
-    },
-    {
-      "time": "instagram.com",
-      "message": "Reportan sismo de magnitud 3.1 al oeste de La Guaira Autoridades de la Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportaron este lunes un movimiento telúrico a las 07:15 hora local, con epicentro a 10 km al oeste de La Guaira, a",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yX2l6Znp3RzZucWg1R1BmX1Q4cm95MFpvY2Y3WUhERFg0cThTWW8yN2hxcXN1RHM5ZlNxYXNlbUNpeGUwWnhKVFFhcGhHMzJ1cWc?oc=5"
     },
     {
       "time": "facebook.com",
@@ -28,12 +23,17 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN1lNeUNTNlNIakxqZ0xIb09JZWliMEw2eUozZWFIRkxZRU5NVEJTeVRHeVcydkJNM1kxOEx6TmNFY3d0RENkakNhdjhxMS1xWWE2UDE2cXVjYjFlYl85UGwyRzNUUDVYUVlRQ21FSndFWkZCQXVTX2lEZEJQTFJmUU4wOTFRUQ?oc=5"
     },
     {
+      "time": "instagram.com",
+      "message": "#Venezuela | 🇻🇪🫨 Un sismo de magnitud 3,1 se registró a las 7:15 de la mañana de este lunes #27Jul, en el norte de Venezuela, de acuerdo a la Fundación Venezolana de Investigaciones Sismológicas. ➡️ El ente indicó que el movimiento se originó a 10 k",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02am9ZYVZsR2h3eVI0R0dwd25xX1JoZmU5bDdVUERHeE1OdV9YcXJkRjBZdF9fal9EQ1dxUm1TV2hqT3FIemhzdjd0VEszckxmNlE?oc=5"
+    },
+    {
       "time": "teleSUR",
       "message": "USGS reubicó epicentro del segundo sismo en Venezuela frente a costas de La Guaira",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlQxOTNXbG1Sa0hGQUtmV0lubDhRTG82R0liSGJlcVlZMjh3dmZSVjhFendyR25iZGRza1VLTWFqLUJDdVZHUHpKeGZCY3BBb0lWNEZsNS13VFg4Zlp5Ri1Nc1Nybmlxdk5yYWpRYUhIZVZzR0pxdnBRRGgyaVM3SVpDMzU2MDc3b01ySEY0Q3ZtdnNXQzFlWmE2UHdJdkwtNFdvc2doUU0taDNzNGc?oc=5"
     },
     {
-      "time": "elnacional.com",
+      "time": "El Nacional",
       "message": "Servicio Geológico de EE UU ubica en las costas de La Guaira el epicentro del segundo sismo del 24 de junio",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYlJkUUgteEVNTGxuc25EVzhtc2hETHFicnlVeGh5c1pwaEJWTWktREdidjhlYVRoWHN6c0ZhalE0aHF3ZjZnRTNYaXNRZDVhYzlsRjRBR2hOek1aZGdXTWxlRFVnd0huTnZmZ2dLeVNnSmw3dVpCcjZoczd1Z0ZQWURJWmtrMjNWLXpfRkd4ZnFsWWx2d3Fia2pUV29WV1RDUzVCQ0xlTUFqVFdPMWFrVEdvdjRpVE4zTHo4NzNsZWUtYnhQSnUyczA0Q0Z3Sm15LXpnS3laR1hHNWs?oc=5"
     },
@@ -48,7 +48,7 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnIyN0d2eHJzdmp3Q2RwOUk2VUl4MGFWZ2VWY2dyRzloR3hWbmlkVUc1cjBKSW1YT0FVWHYxNm5ac29IbDdrUEkySmRBOERFa1ZnMkp0dWk5VnhQQ21ta085cm93Q1VweGFoajltbnFwQ09jQlBwVmNDSEJtWnRLVk1XcGRFTTk3QVZrVzdGT01JUXAwZVZwVnlPaXpnTnJpZDVsd1dxZENKZmxrYS16SGFRWGlqc0pndEhZUWVRbzBOQ1MtdFdlRlU5TF91dw?oc=5"
     },
     {
-      "time": "NTN24",
+      "time": "ntn24.com",
       "message": "Servicio Geológico de EE. UU. corrigió el epicentro del sismo del 24 de junio en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWFFmbVZLMHlILW9vRm1JMFhjYzVQOTU0ZWF1WXZ4YXRNNzRXUzIzV1pXRFZxZTBNRTlMV1Uwemt6SFN2RjN3bDFMRDU5dU53Ry1VOUMxREVVUUFtS3ItYUk0R1lFd1A0VUtXbV9qVmNPS0ZTXzRGTFFZdDhBSmZxLVZkX09yRkl3bFU5czluQUhYMUF2c1QzVTNQU0NQOEFfRDhzNGVjdURDRUFPZEtaOXRnZktfWHNYbjNqTlFOSm1QczRBTFdvemhYZUNlUFFpQUtV0gHTAUFVX3lxTE84bi12MGhqRXhiN3JFcWhzcHNIYlNhZmo3S19sU3FKbDNWcXQ3Skx4OGlfQUJCVkxMbl9FVE5kWE1hUFA3OGo2UXVUYlhVVG1yQ2FsU3NtUVdTeUMxQnVNVWRqTW5RVURTbHg4bkV5aVhDdVBELWk4eWlfQ3ZaWTB3Z3h5NXNPNERDT2RzekpjdGFBMW5Mc1ZsZzdMVEtjQkRjVEdaUHlRU2UxT2RNdUsxZWprYXMyUDVJdUw1U1BFQ0JTOEo0a01GendjekpwM1E1blU?oc=5"
     },
