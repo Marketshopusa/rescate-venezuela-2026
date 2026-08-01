@@ -8,7 +8,7 @@
   },
   "reports": [
     {
-      "time": "DW.com",
+      "time": "dw.com",
       "message": "Comienzan a demoler edificios dañados por sismo en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXpQbkg0N2U4cXFHZzdTOEFYTFNJeGNiX1EtVEpIQ2hDZjNoZWtjVVRBQ2lpcFQ0a3ZISV84bno1eWc2Uk1OdXJ1eGZ5RzYwV1RPZjRHckhoOG14cXBvaDNFcjUxblU4SE5YNjZqSlpFVG0xdU1UUXNaT2VhN25oMnZ1d1dTU3dxMHNYd2pha3h0RHZETEVhUDlxWmRTbkXSAZ8BQVVfeXFMTjJ4QUlGMUtaQUZVWlU2dlhpYmVsM19CMjJLcW5ja21EX3huOWJJYnkzVWhialBuMndERUZsNW9uOFIzTzdZWTMzbERsREt5LUtDUnFZN2cwcnBWT2NNbXU3aGRhU1ZIcmp0TDdFZXhjM2RYdU95VlNmUVBuNE1BSEdFakJVd2pqSXZTX2pnbVZPbnFCNWhkMC0zR1FzeElZ?oc=5"
     },
@@ -23,16 +23,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlQxOTNXbG1Sa0hGQUtmV0lubDhRTG82R0liSGJlcVlZMjh3dmZSVjhFendyR25iZGRza1VLTWFqLUJDdVZHUHpKeGZCY3BBb0lWNEZsNS13VFg4Zlp5Ri1Nc1Nybmlxdk5yYWpRYUhIZVZzR0pxdnBRRGgyaVM3SVpDMzU2MDc3b01ySEY0Q3ZtdnNXQzFlWmE2UHdJdkwtNFdvc2doUU0taDNzNGc?oc=5"
     },
     {
-      "time": "DW.com",
-      "message": "Las víctimas invisibles del doble sismo en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVGJBbEVZaU9pcW9BLXdKczRsLUVRNkVvYmJlUUhHTHFxNzdXR2VuWFZMNTNkVUVjeklkV3RmVklobzR1TElXLUJyLUVJVEhYQjIyUjRVRzY1QlVPbnFrQWdzVzVZVUMyb1BEZDBjSE9KYVdZdEVhQTl0eTJMRnZfaV83SHRVMXpsTGtob3FES2RlclJf0gGUAUFVX3lxTE5NOG4tU0ljS3p3eFB6UGF6T2dIaVlMWm5Kd3pNV1dBY2NRLTFBN2d2R1kyNkRlNTVDaXZIQW11TXF3dmlzVnFpdjJpVVF0MF9SZ3NreFRvSkE0eGhNMzdtNHpWUGp4VXFIN1Q1Q2ZNVW9OX2piOXVmb1V5Q0x0cUJRZFdzUjFFX21FaE8zcEp1VU9qaDM?oc=5"
-    },
-    {
-      "time": "El Impulso",
-      "message": "USGS ajusta el epicentro del terremoto en Venezuela: Se ubicó en La Guaira y no en Yaracuy #29Jul",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnIyN0d2eHJzdmp3Q2RwOUk2VUl4MGFWZ2VWY2dyRzloR3hWbmlkVUc1cjBKSW1YT0FVWHYxNm5ac29IbDdrUEkySmRBOERFa1ZnMkp0dWk5VnhQQ21ta085cm93Q1VweGFoajltbnFwQ09jQlBwVmNDSEJtWnRLVk1XcGRFTTk3QVZrVzdGT01JUXAwZVZwVnlPaXpnTnJpZDVsd1dxZENKZmxrYS16SGFRWGlqc0pndEhZUWVRbzBOQ1MtdFdlRlU5TF91dw?oc=5"
-    },
-    {
       "time": "CNN en Español",
       "message": "A casi un mes del doble terremoto en Venezuela, la cifra de muertos supera los 5.000",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
@@ -43,6 +33,11 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeERPUHpxSkEyU2RwM2pCVFplMnlDTl93TDVxRkxzekVuSDVQcVdNc2hobTU3QXl3RlF3THNGZW5JdWN0RjFQWGFNc3VhV0pZb3JvaU02bmNhVjdGTjdyM1hEWXpsMXE1dWlBd0lrR25QeUFOeE1PV2ZhaVkxLWdaRTJXT1F6REhyaHVoRjBBQmt4Q2ZnWl8zc2pEWUYxcFp5bHlqT2hneGlLYVB2RE1jeDlOY2pnQXgtQ2U1bEtGcUVxZE82SDlQYWdhVdIB5gFBVV95cUxNNGx6Q2x6UzYzWkNvN2xvYjRMV2M4cW96NkRsc1IteGtXZkNKYVI1VERPc2c0QkFoMGxhVkM3b3g2ZW5CcXRiTlVldmY2YzI4Z2lvUlpTZFVwMmZueklwdk5oZWRTM0sway10T1p0Zkl4TkxYQUt5VTBmVVBsQTdlMmJ5Z01Bc0RZd1JyTWEwNkFYaHR2aUUtOC1hX2lrU1BzaUYzRUk2ZENXN3ZUWTFsdDJFTGlLSkFySm9MYUJzMi1UMEJ5ZVBwQllKRThwa3BJaVVMWFlJU0JqZ3lBcmpnZGd4ajNsQQ?oc=5"
     },
     {
+      "time": "dw.com",
+      "message": "Las víctimas invisibles del doble sismo en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVGJBbEVZaU9pcW9BLXdKczRsLUVRNkVvYmJlUUhHTHFxNzdXR2VuWFZMNTNkVUVjeklkV3RmVklobzR1TElXLUJyLUVJVEhYQjIyUjRVRzY1QlVPbnFrQWdzVzVZVUMyb1BEZDBjSE9KYVdZdEVhQTl0eTJMRnZfaV83SHRVMXpsTGtob3FES2RlclJf0gGUAUFVX3lxTE5NOG4tU0ljS3p3eFB6UGF6T2dIaVlMWm5Kd3pNV1dBY2NRLTFBN2d2R1kyNkRlNTVDaXZIQW11TXF3dmlzVnFpdjJpVVF0MF9SZ3NreFRvSkE0eGhNMzdtNHpWUGp4VXFIN1Q1Q2ZNVW9OX2piOXVmb1V5Q0x0cUJRZFdzUjFFX21FaE8zcEp1VU9qaDM?oc=5"
+    },
+    {
       "time": "france24.com",
       "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
@@ -51,6 +46,11 @@
       "time": "facebook.com",
       "message": "#Ahora | Parte oficial del 18 de julio por los sismos registrados en Venezuela el pasado 24 de junio. | #EUVzla |",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlQtOGFvbmhLWk5zMTZpdHNISUtXSFhWZmhISW52ZVBkSXJ0VFk0WWlWVzVjemo0bDVPa3B6bkZpWTMwWHRKWDZKQmd5MmMyTjEyZk5FdU96dkw1OGxQTzFLaDlWTS1wUkpLUXNQV3lYV0xnM1RCSk03MEU1SzdaZGtPbi1DbnJ5dlhlOExtcUVVZDk3SWsyLWdycnFtREx0bkk5cXhiVDl3OE1ha2g5T25QbElhajZldmVvczloMjZzQy1lQkdUVVo0V19mdWdQMlFLN0FDdXo?oc=5"
+    },
+    {
+      "time": "Minuto60",
+      "message": "¿Por qué el terremoto de Japón no fue tan destructivo como el de Venezuela?",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVG91X3ZtX09jU1gyVGtVLUY2N3J3VzgtckR0eUsycXRmMlc3RUwzVUEwY0x3cDNSVTZWdTFSWUtjNzhtY2UtVmNtN2k3YVJEZExPNWN6UWlHTk9wWDB4cTZzWGk5bE0wbWJMZDZMUzNvcnNPTlRaZ2wwT2FTTmtUNC1VcjhmelF3NDdHU2twUWk?oc=5"
     },
     {
       "time": "instagram.com",
