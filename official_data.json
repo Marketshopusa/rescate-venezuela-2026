@@ -8,14 +8,14 @@
   },
   "reports": [
     {
+      "time": "facebook.com",
+      "message": "#EnVideo 📹 | Captan en cámara el sismo sentido la noche de este sábado en Venezuela. Según la Fundación Venezolana de Investigaciones Sismológicas (Funvisis), el movimiento tuvo una magnitud de 4.2 Mw y se localizó al noroeste de Aroa, estado Yar",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSkFERkFzcG9qSEhQSEl4VjZUNTFsaWNFU2lwOUctTDdfMzlSUm5tYWtwLTZPM1hyMmtuSGF2Y2stVEUzSHhkUWJDVXhISHhVLVU3a1gtZTBwX0NpSGZyaWFuQTdXdk52bEE4WVlzVEhTYjhfRUZHVUxSa3Z6cDBBNHNOWW5jellzYVZOVURsYlh3YnVaV2dMdWxQZG9GZEtYdTM0RDNJQzR1ZHkwMDN3QVdKUGlMZmxwUVhuY2o0V0V6blAtLUhiSm9laGdtRlBVLWt0R2JMa1YyVzdoSWhURWpJc05GZw?oc=5"
+    },
+    {
       "time": "El Heraldo de México",
       "message": "Nuevo sismo en Venezuela hoy 1 de agosto 2026: magnitud 4.5 en Yaracuy",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0pncF9GREpOejZ4TDVLTnlNVk5PMkg4SzI4Sm4xRjJFbTZ1QnpnRWlxSmFBUm50eFBYakR3ZkZrR3hJUzdENFhCYXFxWjJuOV9UamFaelJrQ1ZxMUdfN1RHejFiUlBsX3VGX2paUFNpeHRTTlFvWF9YcC1TVGwydUExRzVpT2VBRjBEbmc3aUpJVDh6LWY2RzZqZVZkSVVNQUFxRTBDRTVDNTNSZDZOejVOcmxNOU9USlBESm1wRm5aQQ?oc=5"
-    },
-    {
-      "time": "facebook.com",
-      "message": "Esta es la realidad que enfrentan los rescatistas del terremoto en Venezuela. Visita el vínculo en los comentarios 👇",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObFZMa3ZCdERYckphd2RfZFRlTE10OVRzVGpFRUI5S2pMazI4eWFHMnVneWF3aVh0ZWtFTGszM2pJcVpOLW5lNmRNZlFyakFpTmFaUnlKdWs2M2hBNmJvaDhncW9nY3hKU09QbXY2THV5QjA0WVBndjhvbHZmZlZXR2pIcWVFOTFodjlfRTFPcDZFS0hsNllLYmcxVm5leWpaaUpwa05BWU9nN1lZMzVJR3kyVG5HMWFDRkRUN1JlcFYxeUZOanFiZ19uTmc2YVJhdVVTVGYyaFhYdw?oc=5"
     },
     {
       "time": "dw.com",
@@ -33,6 +33,11 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02am9ZYVZsR2h3eVI0R0dwd25xX1JoZmU5bDdVUERHeE1OdV9YcXJkRjBZdF9fal9EQ1dxUm1TV2hqT3FIemhzdjd0VEszckxmNlE?oc=5"
     },
     {
+      "time": "facebook.com",
+      "message": "Esta es la realidad que enfrentan los rescatistas del terremoto en Venezuela. Visita el vínculo en los comentarios 👇",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObFZMa3ZCdERYckphd2RfZFRlTE10OVRzVGpFRUI5S2pMazI4eWFHMnVneWF3aVh0ZWtFTGszM2pJcVpOLW5lNmRNZlFyakFpTmFaUnlKdWs2M2hBNmJvaDhncW9nY3hKU09QbXY2THV5QjA0WVBndjhvbHZmZlZXR2pIcWVFOTFodjlfRTFPcDZFS0hsNllLYmcxVm5leWpaaUpwa05BWU9nN1lZMzVJR3kyVG5HMWFDRkRUN1JlcFYxeUZOanFiZ19uTmc2YVJhdVVTVGYyaFhYdw?oc=5"
+    },
+    {
       "time": "teleSUR",
       "message": "USGS reubicó epicentro del segundo sismo en Venezuela frente a costas de La Guaira",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlQxOTNXbG1Sa0hGQUtmV0lubDhRTG82R0liSGJlcVlZMjh3dmZSVjhFendyR25iZGRza1VLTWFqLUJDdVZHUHpKeGZCY3BBb0lWNEZsNS13VFg4Zlp5Ri1Nc1Nybmlxdk5yYWpRYUhIZVZzR0pxdnBRRGgyaVM3SVpDMzU2MDc3b01ySEY0Q3ZtdnNXQzFlWmE2UHdJdkwtNFdvc2doUU0taDNzNGc?oc=5"
@@ -43,19 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
     },
     {
-      "time": "France 24",
-      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
-    },
-    {
       "time": "Infobae",
       "message": "Terremotos en Venezuela: aumentaron a 5.546 la cifra de muertos a un mes de la tragedia",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeERPUHpxSkEyU2RwM2pCVFplMnlDTl93TDVxRkxzekVuSDVQcVdNc2hobTU3QXl3RlF3THNGZW5JdWN0RjFQWGFNc3VhV0pZb3JvaU02bmNhVjdGTjdyM1hEWXpsMXE1dWlBd0lrR25QeUFOeE1PV2ZhaVkxLWdaRTJXT1F6REhyaHVoRjBBQmt4Q2ZnWl8zc2pEWUYxcFp5bHlqT2hneGlLYVB2RE1jeDlOY2pnQXgtQ2U1bEtGcUVxZE82SDlQYWdhVdIB5gFBVV95cUxNNGx6Q2x6UzYzWkNvN2xvYjRMV2M4cW96NkRsc1IteGtXZkNKYVI1VERPc2c0QkFoMGxhVkM3b3g2ZW5CcXRiTlVldmY2YzI4Z2lvUlpTZFVwMmZueklwdk5oZWRTM0sway10T1p0Zkl4TkxYQUt5VTBmVVBsQTdlMmJ5Z01Bc0RZd1JyTWEwNkFYaHR2aUUtOC1hX2lrU1BzaUYzRUk2ZENXN3ZUWTFsdDJFTGlLSkFySm9MYUJzMi1UMEJ5ZVBwQllKRThwa3BJaVVMWFlJU0JqZ3lBcmpnZGd4ajNsQQ?oc=5"
     },
     {
-      "time": "facebook.com",
-      "message": "En Mare Abajo, frente al Aeropuerto Internacional Simón Bolívar de Maiquetía, la comunidad surfista convirtió la costa en un espacio de duelo y memoria. A primera hora de la mañana, la Federación Venezolana de Surf convocó una ceremonia de Paddle Ou",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaWF0MjlOMnM4OWlfaE5TazN2d3FVcjdLczZOaS00WEhIMlVoZUNkV2hLMEZrdUpLbkhSUnBUV2ZVaUVWcHQ3akdLcmYwbnZMM1JYb3Y1eVM1UFFmMk45YXZaazVxeFF3UkdPbWE0X0k2WjNBY1p5UlVLbDlHeWl5dFBjbWtUbUVxRTNUU3RaeVVaUVFJWHhRcEJmQWZaWTE2NFd4NFh6NjN3eEtfVEdTSFJRSUJibVAxTFVIN3Z2ZWlKM3NfMXJTb3BHZ1NUY3JMWkg5cDQtSFowX0lrMUQ0VXBNZDFvVGpyXzlLYg?oc=5"
+      "time": "France 24",
+      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
     }
   ]
 }
