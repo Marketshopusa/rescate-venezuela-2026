@@ -23,14 +23,14 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX0pncF9GREpOejZ4TDVLTnlNVk5PMkg4SzI4Sm4xRjJFbTZ1QnpnRWlxSmFBUm50eFBYakR3ZkZrR3hJUzdENFhCYXFxWjJuOV9UamFaelJrQ1ZxMUdfN1RHejFiUlBsX3VGX2paUFNpeHRTTlFvWF9YcC1TVGwydUExRzVpT2VBRjBEbmc3aUpJVDh6LWY2RzZqZVZkSVVNQUFxRTBDRTVDNTNSZDZOejVOcmxNOU9USlBESm1wRm5aQQ?oc=5"
     },
     {
-      "time": "Noticias Venevisión",
-      "message": "Funvisis reporta sismo de magnitud 4.2 durante la noche del sábado 1° de agosto",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUlJrdkxWTGJrQ2JrMGYzSWxPLTdtRHRtcFlWbEstQXo5NGFaMTFwR3ZFYmd3M3psN1BZMVRJTDJ5LWQxUGhjZTYwMVRRdE55aFM4SnlCLTd1X2ZKSFhlRDNhMHdYX25zcTZfVnRKR19TSHNNRG5YT3ZpMzJic3FLWjE2ZndvZ1lUWUlaWmZCajNQc1k1Z2VKYjFtSmdtakx3S2RDMmphVF9nQmgtM2hvampTa2VNTDBuS3pKT3g2NGFjQ1pYRnJNOElFVjRseUcwNmEzSnRkQjFrTUtRd3VSaGRRRFRQd2lqNmVKb1k1OHgxdHM?oc=5"
-    },
-    {
       "time": "teleSUR",
       "message": "USGS reubicó epicentro del segundo sismo en Venezuela frente a costas de La Guaira",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYlQxOTNXbG1Sa0hGQUtmV0lubDhRTG82R0liSGJlcVlZMjh3dmZSVjhFendyR25iZGRza1VLTWFqLUJDdVZHUHpKeGZCY3BBb0lWNEZsNS13VFg4Zlp5Ri1Nc1Nybmlxdk5yYWpRYUhIZVZzR0pxdnBRRGgyaVM3SVpDMzU2MDc3b01ySEY0Q3ZtdnNXQzFlWmE2UHdJdkwtNFdvc2doUU0taDNzNGc?oc=5"
+    },
+    {
+      "time": "noticiasvenevision.com",
+      "message": "Funvisis reporta sismo de magnitud 4.2 durante la noche del sábado 1° de agosto",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUlJrdkxWTGJrQ2JrMGYzSWxPLTdtRHRtcFlWbEstQXo5NGFaMTFwR3ZFYmd3M3psN1BZMVRJTDJ5LWQxUGhjZTYwMVRRdE55aFM4SnlCLTd1X2ZKSFhlRDNhMHdYX25zcTZfVnRKR19TSHNNRG5YT3ZpMzJic3FLWjE2ZndvZ1lUWUlaWmZCajNQc1k1Z2VKYjFtSmdtakx3S2RDMmphVF9nQmgtM2hvampTa2VNTDBuS3pKT3g2NGFjQ1pYRnJNOElFVjRseUcwNmEzSnRkQjFrTUtRd3VSaGRRRFRQd2lqNmVKb1k1OHgxdHM?oc=5"
     },
     {
       "time": "instagram.com",
@@ -38,7 +38,7 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02am9ZYVZsR2h3eVI0R0dwd25xX1JoZmU5bDdVUERHeE1OdV9YcXJkRjBZdF9fal9EQ1dxUm1TV2hqT3FIemhzdjd0VEszckxmNlE?oc=5"
     },
     {
-      "time": "cnnespanol.cnn.com",
+      "time": "CNN en Español",
       "message": "A casi un mes del doble terremoto en Venezuela, la cifra de muertos supera los 5.000",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
     },
@@ -48,14 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeERPUHpxSkEyU2RwM2pCVFplMnlDTl93TDVxRkxzekVuSDVQcVdNc2hobTU3QXl3RlF3THNGZW5JdWN0RjFQWGFNc3VhV0pZb3JvaU02bmNhVjdGTjdyM1hEWXpsMXE1dWlBd0lrR25QeUFOeE1PV2ZhaVkxLWdaRTJXT1F6REhyaHVoRjBBQmt4Q2ZnWl8zc2pEWUYxcFp5bHlqT2hneGlLYVB2RE1jeDlOY2pnQXgtQ2U1bEtGcUVxZE82SDlQYWdhVdIB5gFBVV95cUxNNGx6Q2x6UzYzWkNvN2xvYjRMV2M4cW96NkRsc1IteGtXZkNKYVI1VERPc2c0QkFoMGxhVkM3b3g2ZW5CcXRiTlVldmY2YzI4Z2lvUlpTZFVwMmZueklwdk5oZWRTM0sway10T1p0Zkl4TkxYQUt5VTBmVVBsQTdlMmJ5Z01Bc0RZd1JyTWEwNkFYaHR2aUUtOC1hX2lrU1BzaUYzRUk2ZENXN3ZUWTFsdDJFTGlLSkFySm9MYUJzMi1UMEJ5ZVBwQllKRThwa3BJaVVMWFlJU0JqZ3lBcmpnZGd4ajNsQQ?oc=5"
     },
     {
-      "time": "france24.com",
+      "time": "France 24",
       "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
     },
     {
-      "time": "El Diario Venezuela",
-      "message": "Funvisis reportó un temblor de 4,2 con epicentro en Yaracuy",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtNTk4X2ZqU3I1dzFMM1NrRm9TaDhoLUNvdXd0b2RNSkd6SG9mRkpzR3hCUlhzOXpCWUlWU1FYaXdSUDRaOWMwel9sdjU3OVBxYUlNQ3dWNEVFMWpxZXFLUURDRkZ2a28z?oc=5"
+      "time": "dw.com",
+      "message": "Comienzan a demoler edificios dañados por sismo en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWXpQbkg0N2U4cXFHZzdTOEFYTFNJeGNiX1EtVEpIQ2hDZjNoZWtjVVRBQ2lpcFQ0a3ZISV84bno1eWc2Uk1OdXJ1eGZ5RzYwV1RPZjRHckhoOG14cXBvaDNFcjUxblU4SE5YNjZqSlpFVG0xdU1UUXNaT2VhN25oMnZ1d1dTU3dxMHNYd2pha3h0RHZETEVhUDlxWmRTbkXSAZ8BQVVfeXFMTjJ4QUlGMUtaQUZVWlU2dlhpYmVsM19CMjJLcW5ja21EX3huOWJJYnkzVWhialBuMndERUZsNW9uOFIzTzdZWTMzbERsREt5LUtDUnFZN2cwcnBWT2NNbXU3aGRhU1ZIcmp0TDdFZXhjM2RYdU95VlNmUVBuNE1BSEdFakJVd2pqSXZTX2pnbVZPbnFCNWhkMC0zR1FzeElZ?oc=5"
     }
   ]
 }
