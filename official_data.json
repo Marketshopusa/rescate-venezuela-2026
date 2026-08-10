@@ -18,19 +18,24 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZ1pfWUNHOUoyRXBMQTJBMW1sREI5Zlp0Mm1WRmMwQkZHSEpoTVJUOTg5ZXR2ak1VTzZsdzNYYi1pWFplU0w3Z0RPQTlWXzBrMWlrU21vcGFmWDZRSkoxZlhiRXluenhvMWpBOXZMRDBRMUlkTmV1bEdFQlY?oc=5"
     },
     {
+      "time": "El Comercio Perú",
+      "message": "Asciende a 6.301 la cifra de muertos por el doble terremoto del 24 de junio en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZm9FSzZCYjJUX1lKVUtQWWZpckpZWFlldFZRakdpWlFBeEJIazFwWDZwS2V6Mm1rQ3dzLVBOT2F2Mk9GSnFPdUZ4bUV3N0YtMnlNZ0R0eUtCbGU0c1ltQTFHV1BNMmE1Z1RjQ0ptX0k1enVrNUt6MUdLTGctUlpwWFBYOXpxZmtjc0FFaDNwckRVX1hDS0pMdVpmMlhtNXFIcElsb2dZTTBkNVF6YjVsX1h6enl4eTh1VE9nNGtRbUh2VWZ4czdsYTRmZDVTb3lnODVTaVpoXzhEdlZNR0x3QmpscG9kVk1mYk45UUFGY3R0WEdWMXJjOA?oc=5"
+    },
+    {
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #32 (07 de agosto de 2026, Hora: 02:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUNfNXVfMnliOWZzbjlKV2VUMERhWC1FZVNIWVpsajZFd19sOHlDWlpxR09GRFY4X2tRUDhsOHROSmJOcHlYWk1KblJObnlWd3VqQTdQUi1ZUFlJcERUTTdLelFjMXZYZlF0NXpxaXB1T2o2Y1cyaTdLejgyekhTbzBTWW9sdnVvSzJpOW1nQ2VaQ09FTTUtUWpaYURXRjRRSy1mdGxUV1lueW1JQUFlVE1ZM1BfY3k0ZnROek5QYV9TTk9pbXZZalQ0ZnZYZjVsdUdKVVA5TQ?oc=5"
     },
     {
-      "time": "Minuto60",
-      "message": "Sismo en Colombia hoy: ¿qué coincidencias tiene con el terremoto que sacudió Venezuela en junio?",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRk1GME8ybjVlWjZOS0s1MV9NWHhwTnN0OE52Ry1SSjU5d1kyZV9XSXVpMXpBbW5uY0djODdYZ3V4enJacUZ0RTh4V3BGSVRuRzI0M2c0d0V5d3NLOWh3MzFmcDFhME9IX0FtVTN3T3VqeVctbW1BanpndzVDaXBZbnRqZ29vQVk5LUNkdTdPLTJmeFA3RGtkcQ?oc=5"
-    },
-    {
       "time": "Univision",
       "message": "Terremoto en Colombia: ¿A qué se debe la actividad sísmica en el área luego de la tragedia en Venezuela?",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeUg1VXB4V0N3QjlqMzVPVnlPcXhDU3d6TkhKV2V3YjFVRkVQLUFzc1VqT2FSTk8tNFB3N3VFNVFxbnJCb19OLTRBNWlFOUZ6dzBYVm43TzVzUnNkNzZqSVhFVmpwXzFERml5ZzRObTJteVNnZDZNbWhOVlI3V3dkLTZ2UUZSR0tYY0YwbXNFbkx5Sm9Lb0hBMnAyTkZ1d2swRmdYbDFPVGVoZmhSeHhUWDlsaFgxTndoOXdDZ1QweXRCNVAtaXg5b3BPejRfLXBhcUo1N0p5N3Z3Zw?oc=5"
+    },
+    {
+      "time": "minuto60.com",
+      "message": "Sismo en Colombia hoy: ¿qué coincidencias tiene con el terremoto que sacudió Venezuela en junio?",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRk1GME8ybjVlWjZOS0s1MV9NWHhwTnN0OE52Ry1SSjU5d1kyZV9XSXVpMXpBbW5uY0djODdYZ3V4enJacUZ0RTh4V3BGSVRuRzI0M2c0d0V5d3NLOWh3MzFmcDFhME9IX0FtVTN3T3VqeVctbW1BanpndzVDaXBZbnRqZ29vQVk5LUNkdTdPLTJmeFA3RGtkcQ?oc=5"
     },
     {
       "time": "Diario Primicia",
@@ -51,11 +56,6 @@
       "time": "Clarin.com",
       "message": "Comparan el terremoto de Colombia con el de Venezuela y si tienen un vínculo: \"Suele ser más destructivo\"",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekxhODFmS1U4T0lqSzItanhJUGV3X2xHbUtoemllN3ZYQ2V2Vnh6QnRtaXJRZjRGMWJ4ck1ybVNmbk9HdWxiVmdnRHdYVVhiTzdUTlpMbFRaR29lZGtKT1RJMU1HMkppcGlSc2FxMWYtSHQ4Y004blB3QTR5ZWFUVUxubmp4bFZfbU1Md2pFOTVSZHd3SHUxRDRsOTZOVEIzQV9SMTZIMXNBZHBBUTl6ZncyOA?oc=5"
-    },
-    {
-      "time": "ENTER.CO",
-      "message": "Colombia y Venezuela: las diferencias entre sus terremotos de más de 7",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdW93VTRjSWFvLVlGR3Q1dmpNamdCbks5ODR2eEQtcVVZZWZra2R5ZDIzS2dzMUdNM203eEROZEVNZVExVVBfbmRaM1FBdDY2VGhhZ3RWTDFGM3J0SzZtMWZ1TWFMZV9ieWxqaU9obmlQUGJiU3pnS0ZCYUZWTHhCMUxCRWhLZGE1eDlhek1ucmd1ZE42dTFrRXl2c0dmMUJOcVE?oc=5"
     }
   ]
 }
