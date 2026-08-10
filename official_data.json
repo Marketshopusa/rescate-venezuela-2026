@@ -9,8 +9,8 @@
   "reports": [
     {
       "time": "facebook.com",
-      "message": "#Ahora 🚨 | Se transmiten en cadena nacional a esta hora micro documental sobre el manejo informativo que se hizo de los terremotos del 24 de junio. | #EUVzla |",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlRhT1VFVlB2V0lIRkdBSDBJZDFGYm5WaUFXLUJuR19abEllNGE3WWdXeERCTVRUWlY2aWJQS0NSQ0N2QXM4bVd3Z3ZmQ2tzU2k1SG90c1FnZHY5OERpSXJvWEFZYkw5U3RlaEZLLWw1NW5hVlQwcWhzem50ZHVZUnhBQ0t6ME1CdVBwQjg2V2FObHJISXFoSmN6NzdudHZfZThVeTlPUndaWndxaXdFc19CQ3N3U25sbVh6dDRsSmlRNEZBbUlSenUwalJJNlJLZTZ2X05LU0c?oc=5"
+      "message": "#EnVideo| Fuerte sismo originado en Colombia se sintió en Táchira El temblor registrado este lunes en el país vecino se percibió con fuerza en varias zonas del estado Táchira, generando momentos de alarma. En la ciudad de San Cristóbal se ejecutaron ev",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWUZzUDIwN0puZFpfbU5PeThHU1Z0d0s0dzVmemg4djdWVGRELWpMcENoN0M0cndwRDdDMUxfZ2J2bWs5b3RNRFExN2RENW1pMHIzam9KeVFxSWxpQ2x2Zmt0RU9tRXB0cnMzN1RvYTNpNkNwalN2YldmdHluXzFRMThXaGFHeUlCTjJlMnhEQnJPWGhLdDJKbTNkd2xTT1hnTVlXZWlvQlRHNlViMzlqVFdkUUViNk92bmV6aXFfSFBrNU1MdUhWYVZIZFRRQ1pMWW0yajJyT1Y2VkdnaWkxZVgwSzQxQQ?oc=5"
     },
     {
       "time": "ReliefWeb",
@@ -23,14 +23,24 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNejdZcWViN3pUdGlGeGhoSlVZU0ViX0hJTk55LW5XdE1vVFcwMk5tTE4tRmctdXowNGZJcnU3NkM0a05DNFA1bDFrUzJVWW1IcGpVVks0Rmc4ZDlCR0FZZmFXYml3UWcyaTl6X0hrcXZKdERlaDFKWUZoOTliQW0wWUpHeXpGQQ?oc=5"
     },
     {
+      "time": "minuto60.com",
+      "message": "Sismo en Colombia hoy: ¿qué coincidencias tiene con el terremoto que sacudió Venezuela en junio?",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRk1GME8ybjVlWjZOS0s1MV9NWHhwTnN0OE52Ry1SSjU5d1kyZV9XSXVpMXpBbW5uY0djODdYZ3V4enJacUZ0RTh4V3BGSVRuRzI0M2c0d0V5d3NLOWh3MzFmcDFhME9IX0FtVTN3T3VqeVctbW1BanpndzVDaXBZbnRqZ29vQVk5LUNkdTdPLTJmeFA3RGtkcQ?oc=5"
+    },
+    {
       "time": "El Diario Venezuela",
       "message": "Sismo de magnitud 7,4 en Colombia se sintió en Zulia y Panamá",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1lfd2pzWEZuN21ZSnU1WjU3azVJelNjUzRUeTBpU09sXzhFN0hKODJ4UUdTWnRxM0NIZEhvaGk1VnRVM1pfdjRVa1E3N3JXYndWVzRVVWVEN3ZqMmRBbXNTdVd4TE0zcWlWLUFQN3FsN3FyT2FOOXpiX2hNcFpwMGRfekdORThBaTBUbVozNkZfMnlfVXhuUw?oc=5"
     },
     {
+      "time": "EL UNIVERSAL",
+      "message": "Sismo con epicentro en Colombia se sintió en varias zonas de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFhrZ3owWjNwRmxsNzIwTldKTVc3OS01LTJEb3pwMVRDdnR5RVNqR184RzZCazItX2dBaWlQcVA0elRPcnNDU3h2SVRubVZyandtNWF5OE02TFl1akZaVzRuMkNuMjMxTFhBdVplazZBZS00MGR2WEFjWnJzTEF4Q3hRbU5aNzFaSFhtanhSd1I5ZTY2Ynl4cFJCZXVnNGgtajd1enpRN05lSVRyc2lhRlRxVkY?oc=5"
+    },
+    {
       "time": "facebook.com",
-      "message": "#EnVideo| Potente terremoto de magnitud 7,4 sacude a Colombia Un fuerte sismo de magnitud 7,4 estremeció gran parte del territorio colombiano. En Cali se registran graves afectaciones, incluyendo el colapso de viviendas y edificaciones. Organismos de e",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1pBZ2dOS2tvOXJqRmpzaE9xcmEwWW5mU1lYSHFPYWxwbEhFWl92TVJZUUtwSzBHZE8xV0ZGTU5ZZmdwTnhNNU91bTU4WHdIMEN5UmZWQ2xrRWpZUWRheHE4V0tveFZ4YVVxZVVMeDZQSE9ya0l1SEFodWhnZFBYbWdEM2JSNmZudU52ZjBhOFdoenFjY3k2LVR0Mi1hdU03SW9WMEFkbEEwcFdibE5YZkRDUXJzUl9xQW9zM2E0ZllUX0Vyd2dkaDU2OFlpMlE1bHBxVGRUazI?oc=5"
+      "message": "#Ahora 🚨 | Se transmiten en cadena nacional a esta hora micro documental sobre el manejo informativo que se hizo de los terremotos del 24 de junio. | #EUVzla |",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQlRhT1VFVlB2V0lIRkdBSDBJZDFGYm5WaUFXLUJuR19abEllNGE3WWdXeERCTVRUWlY2aWJQS0NSQ0N2QXM4bVd3Z3ZmQ2tzU2k1SG90c1FnZHY5OERpSXJvWEFZYkw5U3RlaEZLLWw1NW5hVlQwcWhzem50ZHVZUnhBQ0t6ME1CdVBwQjg2V2FObHJISXFoSmN6NzdudHZfZThVeTlPUndaWndxaXdFc19CQ3N3U25sbVh6dDRsSmlRNEZBbUlSenUwalJJNlJLZTZ2X05LU0c?oc=5"
     },
     {
       "time": "El Estímulo",
@@ -43,19 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE42YlRlMExQdzQzRUxrUkFEYjdIcHg0ZTJreWk4WmdWNE00a01iNklodnlTSDJJdG1yMmNjRGdzRWRWcWE0bzEyaDJyck9uOVo0cUNoaFBzYjFsWl96Z0RrMjFmZFdqbUpLLVIyYzVCRW93WC10cE41UjVFWS1tMnBuQUR2LTNKLUg4MzZVd0stWVhtSFlqSWtGUkhWYk9ILXJ1WUFXNnVGbXdGSkE4X0tWTjNTMnBhVTRIQjlkb09xZw?oc=5"
     },
     {
-      "time": "DW",
-      "message": "Venezuela supera las 6.000 muertes por el doble terremoto",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzlGbTZKb2tqNmd2ZjVnc1FIel9iQ2hqdV95d0NEY1I0MUFuNVZUcVp4ZVl2NjhRcDgxalVEcWItdVFhajhqM3dwWjQ4cE1yUGZZcUtPQnRicFVSRlRxSmRDV2pfbW9vR1ZpRndlOGhfVnBfT1B2RGFIeVdtc2lvdU1LYnBmbURDZFVfeGNxZjRXS3PSAZMBQVVfeXFMUEViYlVpT0JYT2pvX09LbGc2bk5ycjFobVp2TWtxbVVYYndCZ1haMm9IUXB6c2Y5aE5OeWI2VFk3QU1abkRyV3ppZlJKaE9hQ01OX0dUR1VubGh5Q0VHTVptSmczNGZHNktlR1g1eGZXNWJCTEd4VmtPcTVkTF91cy1OZUhRd09CU01vZ3RVaE56dEZv?oc=5"
-    },
-    {
-      "time": "MDZ Online",
-      "message": "Un terremoto de magnitud 7,4 sacudió Colombia: se sintió también en Ecuador y Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcFE5bHNQRVVJOXpxS2FGY2NpOEpBRUJkaTdkX2U5Nm03ODVzR3I1Ykd4dzBqVk1yWS12ZG1fQUNaeHhRUXZNRUd1bDNGdEd3NkhKdlFyX1VjUFlGOHQ3aXk0TUtJcGgwTktJNnFmaENOVEdEelk5UmJuRG43M3J5V1h2WDFXYkM5eVI4bmMtcGZwcFNTYUJ3U2NVSDBEN2ZkSm45MGpqMktaUzNjSVhZS2h6cDdEVU3SAbwBQVVfeXFMT05FaERmeVVTbmU2OVJQN0M3VUZVT3JaVGRyV2wwUUJBU1BsbFdUR2RfRjJ3OVdyVzFGalFvQjFadFFjTW5yWG5MUEpRZDlRWUFWQmR4TkFoN0NzTU5kb2RJd1Axa0FCMS00TUR0R2M1Q2tBaEo0R1ZwQ0JaMkRSeEdGY1hFVEhUMEJIRU1XdUxNSHdIanlnY0hBLWl2M3FPelhlemgzVnBQTlBZQ3dXSDNjVEtzUnU5WTJianc?oc=5"
-    },
-    {
-      "time": "Noticias Barquisimeto",
-      "message": "Sismo de magnitud 6,6 sacude a Colombia y se siente con fuerza en Venezuela: En Barquisimeto obligó a evacuar edificios",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd3g2N2Rqakpxc2pUSFd5RjlaZnd6Y3BWMEFCUl84UXloVEtMZm1RNlpMcnVPd1A1eWNxTkxJMlM3VTZkUWUyaWVjc0N2ekVrVmNaLWF4bWFKY3JnV2dfLXFfMlVGS1M4Rm56LTk2aE5HZ0ZFX0QxME5fYjlxUjFUbGVENW85aUVMV2VWSGtoVWdEOXVUUDZvUzFzbmNCUlFHMzFYT0N6TDdxeUhoeENwOUtGNDdGcFpYS2ZyNmJFZllLdlBzcXBVWFdHZUNSbF96d3JxQ3Q2Q05vd0JDcjZhaEVVOHFNdmlDU1lj?oc=5"
+      "time": "La Voz del Interior",
+      "message": "Terremoto. Sismo de 7,4 en Colombia: Venezuela evalúa el impacto en los estados fronterizos",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdnhmODd1Sk05SmxLdGFEdTY5UmdPZUUzUU83Wk1zZHVkU0I2bnRZcThlemhXZEdTcUdhd0dlZUkzWHNtU1dDcWtNTFlPRXJPdEp0QktfWWxUT29jUWpVOEFhWE1nbm5OSlZnMUduRVJGVFNFR3RvaXdlT1Y3VEtxNXM0WlZKS2VNQi1mNWlMd2gtdnRvTlpjRGZEbDV2RnhqY0h4V21ZMFluV1l5SDRDSw?oc=5"
     }
   ]
 }
