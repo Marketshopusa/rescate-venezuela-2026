@@ -8,7 +8,7 @@
   },
   "reports": [
     {
-      "time": "EL PAÍS",
+      "time": "elpais.com",
       "message": "Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRW45QkF6R1FhUkNlVzlBaU5XVG14WjFBWXFZNUp3QkdablFUYVhhdk5rNHZuNDNQRkF0cWt1WGpxUEJrWU1udm5hcTR1R2hKdXZjQmMybUZxTGE4dkxqc0tSTGh6bWNvRV9KZnJzREhWVy00T1dOTFp5UUdRc0JGb0NxcmpVNHF3TFMxcVFqOWJ6YThOVEFTZGkwQmhYQ3BIdGxJZHd4MFZKRkFLZ3phZnd5emRFcU5tekdJYWFWX1l2Y3dNTndmRkhMOUxOMlnSAeMBQVVfeXFMTmVlWDdKMjdTRTVjZjNRdUY3ZVdLWmxTU0lsa1hlajdVSHBYYUJuQjlXUmFUc0hYVlJDVkNGdWI2enI3MkFVOGdMclZsUGhZZ3RiTEVPT0lsWDVoYWlKR1pqOW9YQ1VVRU9LUE1XYWtRaXFOc2xWdF90WWdwTXFMekNyUFRMNDV0bzZKMTI0d0RNTTh6dE5rM0lDemVLSnZqa0JtbllNT1ByaDRVYkNfVl90WlZ0R2dlcWNWNFkyU3ViMndOQkFKYTRrNmRLa0poZnNBQTVqTlNmaUJfUnRtWTd4WjA?oc=5"
     },
@@ -18,7 +18,12 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekxhODFmS1U4T0lqSzItanhJUGV3X2xHbUtoemllN3ZYQ2V2Vnh6QnRtaXJRZjRGMWJ4ck1ybVNmbk9HdWxiVmdnRHdYVVhiTzdUTlpMbFRaR29lZGtKT1RJMU1HMkppcGlSc2FxMWYtSHQ4Y004blB3QTR5ZWFUVUxubmp4bFZfbU1Md2pFOTVSZHd3SHUxRDRsOTZOVEIzQV9SMTZIMXNBZHBBUTl6ZncyOA?oc=5"
     },
     {
-      "time": "Demócrata",
+      "time": "El Comercio Perú",
+      "message": "Temblor en Venezuela hoy, 12 de agosto: últimos sismos según el Funvisis",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNN2h3M1ZZbWZKX2lHY1RmMVRhSjRCLXJRMUZZdkJMcU1BQkpXOTd0azBpaHdBLTJ5NnRSdmJaaHFSWHBacDNpTVUwdWdILVQ5cF82c3VfOWJXSl9wMGszdDA3b3lQbUowRmFOY1VCS0NRMWxwUmsybnIyaDhpVDIyWVUyd1NHWTZIN1Q0V3JTT1pmYXRQZFBkeFN4eTNucTVhX25ZTFVRRUpoYTJWZm1JdjJMWHdLVGg0UnJuRWstdnMyS3V1MVFoSmJ3MUZRRmJhTGpiTGhWeENKQVdwMU03ZU5iYVIwMi01dUQtVGxsM1FCTG5EUFU5NWRpcnJCT2ZIdl9Fd2ozNUFXSFg4T0I5M3lJS181NURhZ0hpSDFZV0Fob19YSVhjQmNmOXU0WHR2YlVMNW9BRlV2SkwtM2FGVU5LTEE?oc=5"
+    },
+    {
+      "time": "democrata.es",
       "message": "Colombia y Venezuela, dos terremotos de magnitud similar pero consecuencias muy distintas",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPRzF6b0piLXV3RVpuSDF1S3dWNjZCVTYxWUtaaWFUZUlyWmRZbnJDQ3dKc1BGLTZCWExXMmFZNnlHMHllMWYwSExmcnE0dmlWT3B2Z2REcEpyS2pmMXlPUV9VRzFWRXdfT01obUY5bURsLS1Zd3dFLWk1TjF3WWlEdXR5SzlTbFlaYUdUMFlVdl9ubFl5eWkxemdmeEtpeG5pVnY3aVpRSk93SnVLdDJpS25SRjNmS3BuT3hXcTFjNGlWbFRfYjhiVl9ITEhCOENvaGhYYXRVRkxwd3lQVW1PMU5wenRMN0NOTXBmX2lLXzE1SDVid2diTkpaZ1VpOG8xUlhiRVBPUGVNa0RURnVaT0k2VGxjck3SAZwCQVVfeXFMUEtrU3VPY3lXVEpXQmZCOWtBZkV6SEFwTkNWWHFWM3BXdWR0Y2NvUVY2VUFlQmRaalRYSFNiMnRsNXJsX09lRDRlejV3R0ctc281N1FkWVdwSlJtZWpGTGFTazh2eUhRbjdzOXFtNmNBb2JzaGRONkI3NVZnRERJZHdpZE5TclZKNEQ0NFhZSUI5ZkRBWEFpbXF6dF9rMUJCN2xNSGhIR2VTVWtPTjVvUEdfcEhxQ1V3bkJORWhzWEpteWtKcG9nR0FGN1lIa0dSUnE5Ujd0XzBKNGE5NjZ6T3VvaXdnMFdIUWRKM1NHYkxvSFpWUlRWTHAtaElxcThNQ2U3ZE1wcThwVUo2Z19zM1dfc1BHVU5VTThmbGk?oc=5"
     },
@@ -26,11 +31,6 @@
       "time": "El Universo",
       "message": "¿El sismo de Venezuela del 24 de junio está relacionado con el terremoto de Colombia? Esto dice el Servicio Geológico Colombiano",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRTNKaThnN01MZEtFN1gwQ3RIQ3llUXBwLWFHazFBbVduUnBaYkVyQzBxbURsVFBtSnVjcVFMVzNObTNnejJWQUJCRG82ZFRVamhZQ0V5QWNYeDZMc25GNFVDQnRtRGNuempXN3dfNnFjNUphcDQ2MjJ4eHhFelpJRU54dG9xeW5naFZVVDRLOXA2MmFPR1lIZ1JqdHpyaVVobHM4Uk9uNUU2UzNlQjlvRzZacG5TNVFCQjhCT1hHLVpFNGc3a2M1c0U0aW5XdkRsd2FELW4tUlY3dTBUWjlnTXZLZ1pXaHlqTTRKMklhTzBGdlFJRlVCbWNqSmYxOFVpNkhJamtFUjdmZmhMVEJv0gGjAkFVX3lxTE5QRGtCX0pIcV9Od2pJeVNCajF6NzZkX3ZUMHlxVEQ0ZFJqb2YzdUo1c3pEYlRIWG5xc3E2OVRpdEVLdlE5U1JFSloydkhSOVY1OF9kQkl2anlCaE5iT0hBUVV6MVRtV2hncHA2VWZpMi1ac0VRaGt1cG05VjNJZEVJV1NvQlVTNDZLeGJON1lBT0VRc3d2WS1nb3VuNWF5dXU3dXVRb204ZDA2VFJ0T054UTE3eUllVi1DbzNTSkxQWWtlRTRJZzNVZ1NHUXgyclZjMG4ycElDeG1wdVZDWVdkSFU4VjRIOXRjdEdqTG9FbU9MSlAyajFrVGhLWnliV2J1dnp3MDk3ZnRPUUJqYXg0MXdVQmJELTVDX043WW5DWE1odw?oc=5"
-    },
-    {
-      "time": "El Comercio Perú",
-      "message": "Temblor en Venezuela hoy, martes 11 de agosto: hora, epicentro y magnitud",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNN2h3M1ZZbWZKX2lHY1RmMVRhSjRCLXJRMUZZdkJMcU1BQkpXOTd0azBpaHdBLTJ5NnRSdmJaaHFSWHBacDNpTVUwdWdILVQ5cF82c3VfOWJXSl9wMGszdDA3b3lQbUowRmFOY1VCS0NRMWxwUmsybnIyaDhpVDIyWVUyd1NHWTZIN1Q0V3JTT1pmYXRQZFBkeFN4eTNucTVhX25ZTFVRRUpoYTJWZm1JdjJMWHdLVGg0UnJuRWstdnMyS3V1MVFoSmJ3MUZRRmJhTGpiTGhWeENKQVdwMU03ZU5iYVIwMi01dUQtVGxsM1FCTG5EUFU5NWRpcnJCT2ZIdl9Fd2ozNUFXSFg4T0I5M3lJS181NURhZ0hpSDFZV0Fob19YSVhjQmNmOXU0WHR2YlVMNW9BRlV2SkwtM2FGVU5LTEE?oc=5"
     },
     {
       "time": "Infobae",
@@ -48,14 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmdkSzJRZGZOQTg3cDRDQXplOW14ZTFtaExiVWdIWkprTThCV2VsSHR2UEVnOEI2em11TTBWUVYwaVd5eWIwSzNuRTNuaW9PazhMcEItNURhU25UX3JyaVBTWnFTTmNmUHdTU0tGR0Zxd19GMVhUVnlka25OQlc4VmJwSDJlMnFDNjN6aWRsTFZWUdIBkgFBVV95cUxPa2FXQkJfVWpKSTVrMEtDY2tHMWZwcjJjWGtoa2pDWmpCd1l0OFg1NjJrTGhVMEdfZUNiLW5waEJBU243LWoxelJMZGxZZ0ZWN0drZ2xtVVZRaVk2TU91dzdLeVJTVnpPRHNudmRzeWVnM2tNaXQwR1lXbjRObEcyRWNSZXQybDRjOEhDaVMxQjFOQQ?oc=5"
     },
     {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #32 (07 de agosto de 2026, Hora: 02:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUNfNXVfMnliOWZzbjlKV2VUMERhWC1FZVNIWVpsajZFd19sOHlDWlpxR09GRFY4X2tRUDhsOHROSmJOcHlYWk1KblJObnlWd3VqQTdQUi1ZUFlJcERUTTdLelFjMXZYZlF0NXpxaXB1T2o2Y1cyaTdLejgyekhTbzBTWW9sdnVvSzJpOW1nQ2VaQ09FTTUtUWpaYURXRjRRSy1mdGxUV1lueW1JQUFlVE1ZM1BfY3k0ZnROek5QYV9TTk9pbXZZalQ0ZnZYZjVsdUdKVVA5TQ?oc=5"
-    },
-    {
       "time": "facebook.com",
       "message": "Decenas de personas han muerto tras el terremoto de magnitud 7,4 que sacudió el oeste de Colombia. El sismo, con epicentro en San José del Palmar, dejó edificios evacuados y personas atrapadas bajo escombros. Ocurre menos de dos meses después d",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTWJtalBvTFRGY2l2TTZIazRnVnkxWjRBZmJxSjllVGtmSjZWYV91RlFmN3pqMTdWV0ZyUVZPZllYNWJvakFSWnVONjJ4end6clNDYWJodDI3TzVYOWU5T1E3VDVXeVQzU1RfR1FBXzAxdVo4c3dyVkpGMnJNR21xMWFlRTdzRm55RWplNDVYSEwwVG9CXzNoVjZsRXV2cWxSYVlzQ0FhbC1zd0F2Zy1ycWphdlpGNmljbzNVQUgwdDZhenBoTmVRSmNTTnEzbFB4TmNnU21lajdGWnZEeHF0cA?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #32 (07 de agosto de 2026, Hora: 02:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUNfNXVfMnliOWZzbjlKV2VUMERhWC1FZVNIWVpsajZFd19sOHlDWlpxR09GRFY4X2tRUDhsOHROSmJOcHlYWk1KblJObnlWd3VqQTdQUi1ZUFlJcERUTTdLelFjMXZYZlF0NXpxaXB1T2o2Y1cyaTdLejgyekhTbzBTWW9sdnVvSzJpOW1nQ2VaQ09FTTUtUWpaYURXRjRRSy1mdGxUV1lueW1JQUFlVE1ZM1BfY3k0ZnROek5QYV9TTk9pbXZZalQ0ZnZYZjVsdUdKVVA5TQ?oc=5"
     }
   ]
 }
