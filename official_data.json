@@ -8,9 +8,19 @@
   },
   "reports": [
     {
-      "time": "DW.com",
+      "time": "BBC",
+      "message": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVVBxMmNkNDlxNldHSVZVcFktOTBuU1VRN0tIanRRbU83TlZxYkNSR2lseUlLQk94ajV4UW1vRDBTeTJjQ1MwYzJoMnBPVmR2cTlEN1JNNUxnV3fSAWBBVV95cUxPdEcyNzhHS2UyNlNaVU13YVJvSkd3TklYZmVUVjBxa2ZVeExJby1oRE4xS1FpSFJEWVpNN2NvcVQwVkx0YlZaUl9JbWlWUXUtWHJYbFR6ZHlYV3I3MTQ5c1Y?oc=5"
+    },
+    {
+      "time": "dw.com",
       "message": "Seis terremotos que han cimbrado al mundo en 2026",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFZWWEFkUzh5M0V3Ul9yQzg0RlloVjdscnhRa05NMHlUS056MGJTYmhwSUw3QTBnZUktc3o1YWRZYzQ3T0pjRFN4MTFQZnVOMTl1THplcTJrTjZFcXp2N0J4MGVBeEE2Z01sbDVxTWFjeGVwNW9rM25kY0ZLUm5xMnF4UENidjdtWGc?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "El terremoto de magnitud 7,4 que sacudió Colombia el 10 de agosto dejó cientos de muertos, miles de heridos y graves daños materiales. Pero ¿qué provocó este potente sismo? En este video Agustina Latourrette (@agustinalatourrette) te explica, de forma s",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNkRfVzFGM3J2MUJLdEJ3dEpHRXlBNE43anZ4NUdlbUZkeVdJeS1ZVERxWklXbFpNcXcteWxuVmhGQUZYN3YtOHhiRXozRnMyRF9BbDVqbGUxdmxXM2Exb0huN25HcU1KR3RBSVFUbjJlUVBjQmd5RUJUQ05WbnhvcTM0RklWNjFEdm9rNmllUVlJWlJpZEtxRWZFclpRRTVHR0F4UHRQWkF2WjkwQmxZUHExZS14MTl3aU9HekJIQXZudU9ROGZXcnFvX2pvSHpNRnkwbmNwODZnQ3BTMERyakYyaG1RNlk?oc=5"
     },
     {
       "time": "EL PAÍS",
@@ -23,24 +33,9 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdW5VRmpUUTdXZ3ZmQ3Q2djh0MXBhT2VVNF9sVnVVZlJGQVlqdTdpWHR3QzNLbjR0RXo4NXhncDR4eWpWdlRFMEx0UF9manNvRzF2dUZOTFNhZUNhd3dDWWZFMEdhdXVXWE1ENUJhM041X1hIa2gzVnlRS1pqNTRmWHZaMzl2U2FBVV9ZSlVJNkF1WkNjcGdoUkZlTWdPeUd0WFpBN3czRjdIeW5FTFZHcnl4SUtrc1lkMFc4dkRDdVVYYi1fMHk1bHdleWItVXdkQmFLUzdzaHZjQlZTR1UxVXF3YjZRUWvSAYICQVVfeXFMT25TdDlHRTB3UmZpYXJ5SWpORTV6VkJ5QmpuSnNqRjNHQWVTeU1mSHp1cXI3NlZEcE55c3FfYW9RRXVwZlFoaG9tUjAxekFUeDVReWtGbnZYaHVjTWRNSVpwRkhSelBySkZSN1NFdDBqVnNvWkVUY2NiVFF6UndmOW0zN0NoSDJiR3FtanZ1WkZldE1VVWdLZjdWdy1yLTJKWlZMWWZCb3JOR0ZsbzZvdXZMWXBacGlUaDdYRVFGWEF4MkdTaFRESkc1N3JjVUJ1U052aEdnMllXbjVfWTlILXd4aUZtekxDZnhLcm1SRDJkdkxGdXpxZ1lyV0Q2UV9CSWlR?oc=5"
     },
     {
-      "time": "Telemundo Miami (51)",
+      "time": "telemundo51.com",
       "message": "Magnitud similar: ¿Tiene el terremoto de Colombia relación con los de Venezuela?",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcnNsN1RhdWxJa0dNVmFfSm9yNkJVWTVucjl5elNUdS1GRXdXb1RoUEFLZ1JNZG9oNFZpV3YxdHhseTdid1N2aXFOT0NLZmQyZmQtMGlnOUI1RklQOGJ5dFRscjUyNVFRVnlvZzJhVzNmVmduTFhfUVFWYnFvcUFfdE5TM282ZmFwVE40MHF5bXhOdlBaTExQVVR1TUxJTVZ6MmZ3MHlQNlloWFZLZ1I3OFVGZ0p5Z0hMNFVPYVFtUk01WEw2ZS14Tjh1cmVDcVQt0gHYAUFVX3lxTE1vem5qVWFMb3BfQ2I5ZVlXN2UySENWU21wVlI3b05BWk0yVWVoR3RBOG9tWHAxSDk1b3ptUTgzZzRrUi00TkZzSXY3bWJXVS1aanJwZlRMVDVNV3FCTXV6NTdaV1N1Rk1JSUktdGlyMUNuSzNTbnJqS0ZFZ1NFY1pETmF3YXJHdC1LVy1Fbkh5LU82MFl4R3prRWdtU3hzbkJFQS1aRWwzOHlGMTM0RU1vQS1la0R2WjJjd1FOazhrak1rRHBleGFZRG9PZXlYTlZKVkdhN2ZVZA?oc=5"
-    },
-    {
-      "time": "BBC",
-      "message": "Qué es la subducción de placas que provocó el mayor terremoto en Colombia de la última década (y por qué no está conectado con los de Venezuela)",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FRV9PVF9vd1hpN1VhR3F5dFFxdzE1b0JLWG1NdHR2WE1HNmY1SVFSU3FjeWlzalVZN0xVZzd1RzhXMk9PSlNXenEzamVOMVJWVWJzV05wUGlrUU3SAWBBVV95cUxPXzJMdXBrcVNmSFZQRVZfeXhjSDdYMGRWeVhxUklPN29QcHhlVllham1zdTF6STJyTDVEcWxKZV9xdEVfTllQUEthcVJxNTZzTS1FRWVDcG16Q0pBY29NbXM?oc=5"
-    },
-    {
-      "time": "Telemundo",
-      "message": "¿Cuando hace calor tiembla? ¿Hay relación entre los terremotos de Colombia y Venezuela? Aclaramos estas y otras dudas",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWFLT3FLclA4c0FOLUJvM2xXOUVJcVQ4LXktNldCc25CMlpZM2prYWlZQjFaWW5TbmFGcmhtdl92cVJOclR1ZWNIcUJHYWtkMXBmZWdsNWc2Z2tMX3BXVVRxbk1KNU9PTWFEOGdYX2NFTkhadGNMc3ppLVc4Xzdvc1JPSHA2eTdFNHB6YXA3NzdYbE5MVWUwR0VxNVRrandTSVNnZzgwQTBDYWhFamhOMWE4ZWFsXzR3WUFyaWdCT0UyMlNvLWdVSDZSZ1lIWWpTVVR3UWVSUDJka2M?oc=5"
-    },
-    {
-      "time": "facebook.com",
-      "message": "BBC News Mundo. . El terremoto de magnitud 7,4 que sacudió Colombia el 10 de agosto dejó cientos de muertos, miles de heridos y graves daños materiales. Pero ¿qué provocó este potente sismo? En este video Agustina Latourrette (@agustinalatourrette) t",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZWNKOTJiWE8xRTJ3WGk4bVdNa2lrOHhFZmFOdEhmblRBa0ljOU9GUnJBLUlGWFlab3lGVnFGM1M3R3BFa2xWUWRHN1NhUDA5YVN6QnlzVURaN3A5VjhtOU9ZVkt1c1ZYU0tmbVlROS1uU3JkYUJxd0hTajF1UzBpeWpxRzJqWG0xQ1NXQUs4QndmUU1QMHE0Q3NoUHdfQXBaaHpPb2RBV3Z6UDJRVGNQUXZBeC1pRVo4VV9LdHZ2V1F1aHJXR2pkOU9ZYk5TMEtsZWZvTGlVXzFrTEZYNF9VSHZ6NUlPdV83?oc=5"
     },
     {
       "time": "El Nuevo Herald",
@@ -53,9 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZ1pfWUNHOUoyRXBMQTJBMW1sREI5Zlp0Mm1WRmMwQkZHSEpoTVJUOTg5ZXR2ak1VTzZsdzNYYi1pWFplU0w3Z0RPQTlWXzBrMWlrU21vcGFmWDZRSkoxZlhiRXluenhvMWpBOXZMRDBRMUlkTmV1bEdFQlY?oc=5"
     },
     {
-      "time": "Yahoo",
-      "message": "El video de una caravana con ayuda en Venezuela no tiene relación con el sismo en Colombia de 2026",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObWk3aFQ1TTRGdFM2YzNEZWJDazlPT1c5eTF5LXRvTHhnWmNlcnJRcGc4QnN0bk9jQ3N3d3RnUzgwQlBJdHJoa0ROSndpdXFUc2x6QTlmcjljMm90QV9IdUxNSWxYbWtjY00wUHdmTU5STV9faUUyV0pLXzZVTEJBRlczSWprWWw3d29kdHZLalJETjJNQmZr?oc=5"
+      "time": "Telemundo",
+      "message": "¿Cuando hace calor tiembla? ¿Hay relación entre los terremotos de Colombia y Venezuela? Aclaramos estas y otras dudas",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWFLT3FLclA4c0FOLUJvM2xXOUVJcVQ4LXktNldCc25CMlpZM2prYWlZQjFaWW5TbmFGcmhtdl92cVJOclR1ZWNIcUJHYWtkMXBmZWdsNWc2Z2tMX3BXVVRxbk1KNU9PTWFEOGdYX2NFTkhadGNMc3ppLVc4Xzdvc1JPSHA2eTdFNHB6YXA3NzdYbE5MVWUwR0VxNVRrandTSVNnZzgwQTBDYWhFamhOMWE4ZWFsXzR3WUFyaWdCT0UyMlNvLWdVSDZSZ1lIWWpTVVR3UWVSUDJka2M?oc=5"
+    },
+    {
+      "time": "Minuto60",
+      "message": "Sismo en Colombia hoy: ¿qué coincidencias tiene con el terremoto que sacudió Venezuela en junio?",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRk1GME8ybjVlWjZOS0s1MV9NWHhwTnN0OE52Ry1SSjU5d1kyZV9XSXVpMXpBbW5uY0djODdYZ3V4enJacUZ0RTh4V3BGSVRuRzI0M2c0d0V5d3NLOWh3MzFmcDFhME9IX0FtVTN3T3VqeVctbW1BanpndzVDaXBZbnRqZ29vQVk5LUNkdTdPLTJmeFA3RGtkcQ?oc=5"
     }
   ]
 }
