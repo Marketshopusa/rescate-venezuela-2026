@@ -8,7 +8,12 @@
   },
   "reports": [
     {
-      "time": "EL PAÍS",
+      "time": "dw.com",
+      "message": "Seis terremotos que han cimbrado al mundo en 2026",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFZWWEFkUzh5M0V3Ul9yQzg0RlloVjdscnhRa05NMHlUS056MGJTYmhwSUw3QTBnZUktc3o1YWRZYzQ3T0pjRFN4MTFQZnVOMTl1THplcTJrTjZFcXp2N0J4MGVBeEE2Z01sbDVxTWFjeGVwNW9rM25kY0ZLUm5xMnF4UENidjdtWGfSAYoBQVVfeXFMUG5BZzR2a1BaSUFkOWhRM0Z6MHFoaGxUY2ZSa19MTmlXMEUydjdvUjFhdmlfS3F4WTBGNE9LNm1oQktkelFpYmc0UkV6Q1ZNRlU4SEVkZmtiOVZzSUIwTGlDUHBVRS1pVDF4U05yZ3RuaG9jNGRVQzJEWWNMRzZMejh0SmlXRWlpRTdn?oc=5"
+    },
+    {
+      "time": "elpais.com",
       "message": "Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRW45QkF6R1FhUkNlVzlBaU5XVG14WjFBWXFZNUp3QkdablFUYVhhdk5rNHZuNDNQRkF0cWt1WGpxUEJrWU1udm5hcTR1R2hKdXZjQmMybUZxTGE4dkxqc0tSTGh6bWNvRV9KZnJzREhWVy00T1dOTFp5UUdRc0JGb0NxcmpVNHF3TFMxcVFqOWJ6YThOVEFTZGkwQmhYQ3BIdGxJZHd4MFZKRkFLZ3phZnd5emRFcU5tekdJYWFWX1l2Y3dNTndmRkhMOUxOMlnSAeMBQVVfeXFMTmVlWDdKMjdTRTVjZjNRdUY3ZVdLWmxTU0lsa1hlajdVSHBYYUJuQjlXUmFUc0hYVlJDVkNGdWI2enI3MkFVOGdMclZsUGhZZ3RiTEVPT0lsWDVoYWlKR1pqOW9YQ1VVRU9LUE1XYWtRaXFOc2xWdF90WWdwTXFMekNyUFRMNDV0bzZKMTI0d0RNTTh6dE5rM0lDemVLSnZqa0JtbllNT1ByaDRVYkNfVl90WlZ0R2dlcWNWNFkyU3ViMndOQkFKYTRrNmRLa0poZnNBQTVqTlNmaUJfUnRtWTd4WjA?oc=5"
     },
@@ -16,11 +21,6 @@
       "time": "facebook.com",
       "message": "El terremoto de magnitud 7,4 que sacudió Colombia el 10 de agosto dejó cientos de muertos, miles de heridos y graves daños materiales. Pero ¿qué provocó este potente sismo? En este video Agustina Latourrette (@agustinalatourrette) te explica, de forma s",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNkRfVzFGM3J2MUJLdEJ3dEpHRXlBNE43anZ4NUdlbUZkeVdJeS1ZVERxWklXbFpNcXcteWxuVmhGQUZYN3YtOHhiRXozRnMyRF9BbDVqbGUxdmxXM2Exb0huN25HcU1KR3RBSVFUbjJlUVBjQmd5RUJUQ05WbnhvcTM0RklWNjFEdm9rNmllUVlJWlJpZEtxRWZFclpRRTVHR0F4UHRQWkF2WjkwQmxZUHExZS14MTl3aU9HekJIQXZudU9ROGZXcnFvX2pvSHpNRnkwbmNwODZnQ3BTMERyakYyaG1RNlk?oc=5"
-    },
-    {
-      "time": "dw.com",
-      "message": "Venezuela eleva a 6.301 la cifra de muertos por terremotos",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXFTMDE1LUpmRV9QbHU5OEx0MGlNbWxEdkxPbFV6X3pHbVlDeGxjd2Zxa0xqdlhwLXZzeEU2MkNlYktFSGxaZ254LXA1MkZNcGJsUFIwMVNBRmUwakFWSm9jaVJ1U0hubXdjcDJlWFlfRlM5X2hmdGpPZEFLTGQtelc3aDdlSXB1d2hodEpsM21yZkM10gGUAUFVX3lxTFBfbkFNUWlCeXFKbThXcGRtWWlXNS1xTm9tcjhrZXdWWjg1LVhQY3psN1dlZXFESHM3cG0zYWZDUUdEOTZmcENPVmNqMnhmV084ZVFZSllXR29QbzhGZWtSOVVHU1UzdmlhOElLeWxmZ1pOaW5xOGt2dFFOX3FkQ2ExaDJ0UTVFVXBNcXBFVkk0NWZaV3E?oc=5"
     },
     {
       "time": "Infobae",
@@ -53,7 +53,7 @@
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVU8zRHhHTW4ya0luekJQWThLWWFWTXlFeHVId0QxaUhPNGViN1F5UWxRYlVuTVY1QjlIYU1uUzctVjhuMERYMHc4YkFnTGRZU19pa2J4NW5MdmN5OUlqMDNJVjR2TThBSkt6V3NEYzB6blhtVzJtT0hzdTBVVVlYckFNc2R0Z1d2SjJWZ0VZS0l4a0tHbTd2ZVlMZDEtVThEYTJJdXZSSUNNLUs4UkRpa244OUZHWFFlUGJFRkFaQl9jNnZjdnRWQXcyelVyOEs4eFprRTdpQm04NGNaYXJBd2lUczJLNTkxNXVpRGVDQdIB7wFBVV95cUxQa1FPdXR5R0hUZGZsOGR2bnBvX1FjenFHNmh4ZHAyTVFQdmNRalVoQmF5X245VHBsUHdGUHlraTF0c05ycHBOMHlmMTJPRW12RDJadGV0MENVOU91M1VWU3kyNTNuY3piOEZLRjRFX2drVmluX2tUUzhjc3pZRV9fN3ZlNnBEdXU1QlBpNkt1cFN4dDFJTnBYa1B5UDFNNkM5VHBna0lHSkJSQktVSVhKWVlpZGpNWG9HaVd6RkF2UzN4SjEya3BZNmJyQU9xaE9Wb2xnMWt5UThETDZPQjEzMGtzV2lLX2VkTnprTUM5dw?oc=5"
     },
     {
-      "time": "Minuto60",
+      "time": "minuto60.com",
       "message": "Terremoto de 7,4 en Colombia se sintió en Venezuela: estas son las ciudades donde tembló",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQm92dG0yaGhQZ2o5SlJTdUFVNlpHSGlGM0NCSjlPU1FhZ3B5bExDSzcwX1FkRjRMNFMxekFkTDJnTmktWXc0UjcxdW1mM1h6TURxRHBjVi1IR2pCQUY5WVh2LW9kMVJZRTNIV2QyVFUtWE5IYlNRb3NFdGh5emFFaFFxdWJfUTZJQVJpOWJHLWJjS1gyV0JCYjdFcWNhZGs?oc=5"
     }
