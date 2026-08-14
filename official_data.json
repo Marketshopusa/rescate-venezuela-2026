@@ -8,7 +8,7 @@
   },
   "reports": [
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Seis terremotos que han cimbrado al mundo en 2026",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcFZWWEFkUzh5M0V3Ul9yQzg0RlloVjdscnhRa05NMHlUS056MGJTYmhwSUw3QTBnZUktc3o1YWRZYzQ3T0pjRFN4MTFQZnVOMTl1THplcTJrTjZFcXp2N0J4MGVBeEE2Z01sbDVxTWFjeGVwNW9rM25kY0ZLUm5xMnF4UENidjdtWGfSAYoBQVVfeXFMUG5BZzR2a1BaSUFkOWhRM0Z6MHFoaGxUY2ZSa19MTmlXMEUydjdvUjFhdmlfS3F4WTBGNE9LNm1oQktkelFpYmc0UkV6Q1ZNRlU4SEVkZmtiOVZzSUIwTGlDUHBVRS1pVDF4U05yZ3RuaG9jNGRVQzJEWWNMRzZMejh0SmlXRWlpRTdn?oc=5"
     },
@@ -25,7 +25,7 @@
     {
       "time": "BBC",
       "message": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVVBxMmNkNDlxNldHSVZVcFktOTBuU1VRN0tIanRRbU83TlZxYkNSR2lseUlLQk94ajV4UW1vRDBTeTJjQ1MwYzJoMnBPVmR2cTlEN1JNNUxnV3fSAWBBVV95cUxPdEcyNzhHS2UyNlNaVU13YVJvSkd3TklYZmVUVjBxa2ZVeExJby1oRE4xS1FpSFJEWVpNN2NvcVQwVkx0YlZaUl9JbWlWUXUtWHJYbFR6ZHlYV3I3MTQ5c1Y?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVVBxMmNkNDlxNldHSVZVcFktOTBuU1VRN0tIanRRbU83TlZxYkNSR2lseUlLQk94ajV4UW1vRDBTeTJjQ1MwYzJoMnBPVmR2cTlEN1JNNUxnV3c?oc=5"
     },
     {
       "time": "Infobae",
@@ -43,12 +43,12 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcnNsN1RhdWxJa0dNVmFfSm9yNkJVWTVucjl5elNUdS1GRXdXb1RoUEFLZ1JNZG9oNFZpV3YxdHhseTdid1N2aXFOT0NLZmQyZmQtMGlnOUI1RklQOGJ5dFRscjUyNVFRVnlvZzJhVzNmVmduTFhfUVFWYnFvcUFfdE5TM282ZmFwVE40MHF5bXhOdlBaTExQVVR1TUxJTVZ6MmZ3MHlQNlloWFZLZ1I3OFVGZ0p5Z0hMNFVPYVFtUk01WEw2ZS14Tjh1cmVDcVQt0gHYAUFVX3lxTE1vem5qVWFMb3BfQ2I5ZVlXN2UySENWU21wVlI3b05BWk0yVWVoR3RBOG9tWHAxSDk1b3ptUTgzZzRrUi00TkZzSXY3bWJXVS1aanJwZlRMVDVNV3FCTXV6NTdaV1N1Rk1JSUktdGlyMUNuSzNTbnJqS0ZFZ1NFY1pETmF3YXJHdC1LVy1Fbkh5LU82MFl4R3prRWdtU3hzbkJFQS1aRWwzOHlGMTM0RU1vQS1la0R2WjJjd1FOazhrak1rRHBleGFZRG9PZXlYTlZKVkdhN2ZVZA?oc=5"
     },
     {
-      "time": "eldiario.com",
+      "time": "El Diario Venezuela",
       "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.301 la cifra de muertos",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBrZ1pfWUNHOUoyRXBMQTJBMW1sREI5Zlp0Mm1WRmMwQkZHSEpoTVJUOTg5ZXR2ak1VTzZsdzNYYi1pWFplU0w3Z0RPQTlWXzBrMWlrU21vcGFmWDZRSkoxZlhiRXluenhvMWpBOXZMRDBRMUlkTmV1bEdFQlY?oc=5"
     },
     {
-      "time": "El Nuevo Herald",
+      "time": "elnuevoherald.com",
       "message": "El doloroso baile de cifras de desaparecidos en los sismos en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmdkSzJRZGZOQTg3cDRDQXplOW14ZTFtaExiVWdIWkprTThCV2VsSHR2UEVnOEI2em11TTBWUVYwaVd5eWIwSzNuRTNuaW9PazhMcEItNURhU25UX3JyaVBTWnFTTmNmUHdTU0tGR0Zxd19GMVhUVnlka25OQlc4VmJwSDJlMnFDNjN6aWRsTFZWUdIBkgFBVV95cUxPa2FXQkJfVWpKSTVrMEtDY2tHMWZwcjJjWGtoa2pDWmpCd1l0OFg1NjJrTGhVMEdfZUNiLW5waEJBU243LWoxelJMZGxZZ0ZWN0drZ2xtVVZRaVk2TU91dzdLeVJTVnpPRHNudmRzeWVnM2tNaXQwR1lXbjRObEcyRWNSZXQybDRjOEhDaVMxQjFOQQ?oc=5"
     },
