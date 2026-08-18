@@ -8,9 +8,14 @@
   },
   "reports": [
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Tras una semana sin datos oficiales, Venezuela elevó a 6.438 la cifra de muertos por el doble terremoto",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQelZBR2VjTjZqQWpIT0ZMaHYyQmFqTlNENnloczJwUjZENEY0OU9fLWkxTEp6cGdBaXRDLUZPcVZXYjYyZWhubHNKczhoNUduaC1nVXhtb1ExcWl5aV9vUHBXUmRzLWxlckhDNnRPZlNoV0xaaktKUEtTR1l5Sld5dDdvS182NE9naDdYU2dBLThLUkR1QXUtb3p3UE43b3dnWlYwRWNFN2t5aEowZFllemhaSm9lWFplcXVvWHNJYnVKYmdRY2Z3NV9KSUszaVJSZVV2bXFRM2prUTZhaEFOWtIB-wFBVV95cUxOYUl3ZzRqZ2xPVUVhcWJYcnRjLXJYUVlqc0F0aTJ0R3dVQld0dTI5ZnExb0hiR1cweUViZHNpSExGVFpjdVdFTGU3eE9Sc1RDVlFHWndYNHlwLV93ekRjcHQ0Yi1FQXc4MnNxcUJpdlpxMC1MMFFZSXpOaHdaSC1TMEhsMllUQUVraDhTdGNVeHA0TV9aeHNIQ0JkaktCNVR3WVFPQVNQbXNFNnJuZHZWeXNSaktlOFc2RnY5dFZfbU9VZnhQY1BNMmxEOUNvTGRySjNnSDdnM3Rjem52T3hwZDRKU3hhOHJwNy1COG9PdE1zWmhJNVNPbW5yWQ?oc=5"
     },
     {
       "time": "ReliefWeb",
@@ -41,11 +46,6 @@
       "time": "Telemundo",
       "message": "El terremoto en Colombia es un déjà vu para los venezolanos; la respuesta gubernamental no tanto",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcXd2NFNYTUsxU2VqLTFDUnVKdWttZ3N6TVcyaVg4cUNfdFd2dmJQaVExVFlrLUxtdDBGMW1lcFBKWHlKZVQxeVU3MDNNXzg4eGJiZkZkVjA1RXpqWHUxS3l3eFdTQ1JYN3QxdHJGQld3U3h2UEp1SkZ1RnhtaDBQRXhZcWh2T0U0RHVtTDlGY0JRYUt4TDBTS0JvbW1VVVZoMFcwRFE4Vm9LVU1nOHRNamxyNFpURXlrVjNKYUxuSHlTZjRwX1RGWGp3aDJDT2NXNUdtU2xOY05VQnhjRTdJMFo0LXV4WjVtU01z?oc=5"
-    },
-    {
-      "time": "Infobae",
-      "message": "Venezuela elevó a 6.301 la cifra de muertos por el doble terremoto mientras avanza la remoción de escombros",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdW5VRmpUUTdXZ3ZmQ3Q2djh0MXBhT2VVNF9sVnVVZlJGQVlqdTdpWHR3QzNLbjR0RXo4NXhncDR4eWpWdlRFMEx0UF9manNvRzF2dUZOTFNhZUNhd3dDWWZFMEdhdXVXWE1ENUJhM041X1hIa2gzVnlRS1pqNTRmWHZaMzl2U2FBVV9ZSlVJNkF1WkNjcGdoUkZlTWdPeUd0WFpBN3czRjdIeW5FTFZHcnl4SUtrc1lkMFc4dkRDdVVYYi1fMHk1bHdleWItVXdkQmFLUzdzaHZjQlZTR1UxVXF3YjZRUWvSAYICQVVfeXFMT25TdDlHRTB3UmZpYXJ5SWpORTV6VkJ5QmpuSnNqRjNHQWVTeU1mSHp1cXI3NlZEcE55c3FfYW9RRXVwZlFoaG9tUjAxekFUeDVReWtGbnZYaHVjTWRNSVpwRkhSelBySkZSN1NFdDBqVnNvWkVUY2NiVFF6UndmOW0zN0NoSDJiR3FtanZ1WkZldE1VVWdLZjdWdy1yLTJKWlZMWWZCb3JOR0ZsbzZvdXZMWXBacGlUaDdYRVFGWEF4MkdTaFRESkc1N3JjVUJ1U052aEdnMllXbjVfWTlILXd4aUZtekxDZnhLcm1SRDJkdkxGdXpxZ1lyV0Q2UV9CSWlR?oc=5"
     },
     {
       "time": "National Geographic España",
