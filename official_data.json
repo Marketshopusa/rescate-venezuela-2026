@@ -8,7 +8,7 @@
   },
   "reports": [
     {
-      "time": "DW.com",
+      "time": "dw.com",
       "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
     },
@@ -16,6 +16,16 @@
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #33 (14 de agosto de 2026, Hora: 02:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFM0ZW15YnFEbzhWdjlwNjZwOEltU0lyTFNLZkdBOXhIdjN1T3NQOGg3OVo4cDlSTWM0VVJTM29fc28xellfN0g5aEdBdW4tSFNlWFlkUkt6NjJNY1hySzVER2JSNEZoZGJIMVp4eFRVMTRuQlpPcXptd0R5R2dlY3htcDY5dE9tYkVKbkNlZm1YN010RzVyeExGOGRHaHZXaVFrNmJuM2E3cU5NSzZKNllzT0FtbmV1WnZWSjZHd05VanJuOUU4Y3Fhd20wbDlhcUYyQ2FaYw?oc=5"
+    },
+    {
+      "time": "teleSUR",
+      "message": "Venezuela registra sismo de magnitud 4.0",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOTJ4ZzdVYS02RldNUkxMMVpuZVBTTWlDeEFvTTJPWktNbmJsRWVqczFPMFFzeE5xNFJQTldjLVI2ajF6SEI2ZzhWMllBWnRZbm5xSmJ3c1l6Ty1wNHpsTzcxRjJzOHRtaGYzSw?oc=5"
+    },
+    {
+      "time": "mundour.com",
+      "message": "Fuerte sismo se sintió en varias zonas de Caracas",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazJlWnJxWkhGRWVieVhNeWI5OG8xZzQwRThxZFl2R3Exc05uSnBiUkhtdUxPbV8wbnJvS1pBMWJWR1ppenNTcm1XTjNKSE1oanhJd1g0dlM1RmNXSFJUZk9vVXVnTmdfbG80Vlp0YWxTelFuUFJqb0xBb2JJLVdxcG1Gekdod1BL?oc=5"
     },
     {
       "time": "BBC",
@@ -28,7 +38,7 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWMxaGJFVjh0S0F5SXVBOE1MVWhMME5WQ3A3T1ByNkF0QVloNld5Tm9URmN5VFBSUzAzcE4wYVFpcnFkcDFITTNZNzV5ZDdEM1d5bURhd1VCVmxFVnpRenFzMHhGV3dmcVJ3cGlLT2F5aTEzUnRaQkNJR2RDQzRDZEdKY2o3dmFlVnhpYW9wdzlSTG9tSS1aNGU2VGZfUko5OXBnNEtaSkVINEZqR3lfVWozV1E3LXR5OHdRamNhZXR3djU2TEFYR01mbHI4RHBNcU44TEQxRlQ?oc=5"
     },
     {
-      "time": "elpais.com",
+      "time": "EL PAÍS",
       "message": "Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRW45QkF6R1FhUkNlVzlBaU5XVG14WjFBWXFZNUp3QkdablFUYVhhdk5rNHZuNDNQRkF0cWt1WGpxUEJrWU1udm5hcTR1R2hKdXZjQmMybUZxTGE4dkxqc0tSTGh6bWNvRV9KZnJzREhWVy00T1dOTFp5UUdRc0JGb0NxcmpVNHF3TFMxcVFqOWJ6YThOVEFTZGkwQmhYQ3BIdGxJZHd4MFZKRkFLZ3phZnd5emRFcU5tekdJYWFWX1l2Y3dNTndmRkhMOUxOMlnSAeMBQVVfeXFMTmVlWDdKMjdTRTVjZjNRdUY3ZVdLWmxTU0lsa1hlajdVSHBYYUJuQjlXUmFUc0hYVlJDVkNGdWI2enI3MkFVOGdMclZsUGhZZ3RiTEVPT0lsWDVoYWlKR1pqOW9YQ1VVRU9LUE1XYWtRaXFOc2xWdF90WWdwTXFMekNyUFRMNDV0bzZKMTI0d0RNTTh6dE5rM0lDemVLSnZqa0JtbllNT1ByaDRVYkNfVl90WlZ0R2dlcWNWNFkyU3ViMndOQkFKYTRrNmRLa0poZnNBQTVqTlNmaUJfUnRtWTd4WjA?oc=5"
     },
@@ -46,16 +56,6 @@
       "time": "Infobae",
       "message": "Venezuela elevó a 6.301 la cifra de muertos por el doble terremoto mientras avanza la remoción de escombros",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdW5VRmpUUTdXZ3ZmQ3Q2djh0MXBhT2VVNF9sVnVVZlJGQVlqdTdpWHR3QzNLbjR0RXo4NXhncDR4eWpWdlRFMEx0UF9manNvRzF2dUZOTFNhZUNhd3dDWWZFMEdhdXVXWE1ENUJhM041X1hIa2gzVnlRS1pqNTRmWHZaMzl2U2FBVV9ZSlVJNkF1WkNjcGdoUkZlTWdPeUd0WFpBN3czRjdIeW5FTFZHcnl4SUtrc1lkMFc4dkRDdVVYYi1fMHk1bHdleWItVXdkQmFLUzdzaHZjQlZTR1UxVXF3YjZRUWvSAYICQVVfeXFMT25TdDlHRTB3UmZpYXJ5SWpORTV6VkJ5QmpuSnNqRjNHQWVTeU1mSHp1cXI3NlZEcE55c3FfYW9RRXVwZlFoaG9tUjAxekFUeDVReWtGbnZYaHVjTWRNSVpwRkhSelBySkZSN1NFdDBqVnNvWkVUY2NiVFF6UndmOW0zN0NoSDJiR3FtanZ1WkZldE1VVWdLZjdWdy1yLTJKWlZMWWZCb3JOR0ZsbzZvdXZMWXBacGlUaDdYRVFGWEF4MkdTaFRESkc1N3JjVUJ1U052aEdnMllXbjVfWTlILXd4aUZtekxDZnhLcm1SRDJkdkxGdXpxZ1lyV0Q2UV9CSWlR?oc=5"
-    },
-    {
-      "time": "National Geographic España",
-      "message": "Terremotos en Granada, Colombia, Indonesia y Venezuela: ¿hay más actividad sísmica en 2026?",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXFUelpLaEhiaUtNRkZGeC1iS0pJbXNjRTVkVFM5QTVYY09ZQ1ZzclRveVIzakl2cUZQRFZHeXZ5bmRIWlZRaXRUNEl0akFHRHktVFRZVUZlVXhvaDh3RWFnOFV5MllpNmpQbkRsWnlzS3o2a0RyM0VfYXFCalRpTzZzRHhiTlNJc3EtaE1fd0NTak5nczh4bjIyWHBaLWM5T1ZyRjloVmJJMmVja3RWU2hYTXV0RmxyUG1mSkhJbzh2bm9IaFI3Sl83U2d5UQ?oc=5"
-    },
-    {
-      "time": "N+",
-      "message": "Aumenta la Cifra de Muertos por Terremoto Doble en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2NuSi1fQ0VneXl0YUdOMGdiRk13MTNLQUoxNkNieS1qcXpORkMzU3NueGkxam1yaVZmR2JQV1Z4RkFzZGF1YTAyY2Y3ZUw0dlV5ZUpPTjBnX3Radkl4QkZHU2t2dHF4YzhnU29GeFpBZEVJVmpSZkNERmt0NzJIOUJ1SUktcDJ6VnFRblFlSFNKZEVZSjhOWC1DVDFYZW1f?oc=5"
     }
   ]
 }
