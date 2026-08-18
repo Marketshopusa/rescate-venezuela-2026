@@ -8,6 +8,11 @@
   },
   "reports": [
     {
+      "time": "CNN en Español",
+      "message": "Sismo de magnitud 4 se sintió en La Guaira, la zona costera afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
+    },
+    {
       "time": "El Comercio Perú",
       "message": "Temblor en Venezuela hoy, martes 18 de agosto: sismos recientes reportados por el Funvisis",
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNWkI2U1U5eFJUYzV3VFJ4WDNVZS1tWVQ0X2FjYnZTTXlVbzJYN19Na094ZFREd0lJOFhVelRoNHdhcUw3cm1EeWpsRFpSVUpZSE1meGdyYTRKYnlyUlhPczRPa0hHZUhVcE95UFlCMGFTakMxUVMyZ0lWdEtIQzllMGNhcWVnbkZyZjhfWC1fYjBYektoV1RZX3Z6QlBfQ0lkekgzSWhHZDZfcDVFRk1ValQ1bjhVQ2R0Y2dwM0hKMXBmeHRqVWJuUVAzM1M5aUo0WUt5REVQOXJXOFlDOFJyelVGUFNyRnJiUmQ3X1IzdC1UNHRqS3MzUDFqTm1lMUtrVTl1YTM2LVJyX0tuY1ZMLUc3aTV6ZXZfVm5zTi1vMUxLTldGQ2drQnctYkRqOUJZZEc2dWlKNGtIci1GZTZwVnd0dEQ4eG1ONGlCdFBfRQ?oc=5"
@@ -28,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOV3FoQUlNQjJlclZ3b280UTJacGtRZkpnYjROX1V0QzlqMFZpNkxRMVdVUV9XanowRnQwemVFYkQxSEU5Uk9DaUp3azJySFkyUFUwY1hndG43TGtDWGlVRmtCS09KUkpwWFMxLWtnNUFUeDJ3Mi0zZ081ZFh6amRlOWZkRUZiNjNmY3pRRURXYnl4VUlhVk5YVVJGYVVTQUpPUnhsWjNySUdYYnpBaDAzSjQ4aWh5cURSelJwSk5ReG45dDZNRFNnR2J0YjdWTmJxajdqdUJYOEVzZFR0ZjJJaEE4bmRrd1FTSEQ1eTJaTFpYQTd0S0h0czcyZS1hOGhBQk5rd3hQQnUzUUZmbS1rNU9oTHdzSkRFbERyUmpBQ0Frd1VLcVFDNERwdGQ4bHJnNjdpc1lDUDA2dllQOTFLN3ZPX211eU5ZZU50bk5ZZw?oc=5"
     },
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
     },
@@ -48,14 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWFyb0JpT2tHWmJTUlhJU1JzWFlYOWl3LWlXSDJTRnl1MnhxenZCRGk2NWRURHNrQ1h5QzVnTDZvZ1puNnlwV2w3NmZfNG9WQ3hTdmh3OUJPeFV2OUkzel9xR2p1ekFCUmNRejZ0UzhmVnhTbU1GbUNTZnJ6MWMzUHpYbzFLbWhCRUpaWXBaRGtHNW83eXpSNk1Ncl9lMVduNmV1ZWNER0VlaU9CY196anZlQUVBNEh2eWZ6YmFxb291TWJhcHBaYkNEcE1WYmhZeW16RDRwR1ZlSjZRMFJv?oc=5"
     },
     {
-      "time": "El Colombiano",
+      "time": "elcolombiano.com",
       "message": "Volvió a temblar en Venezuela: sismo sacudió a La Guaira, zona afectada por los terremotos en junio | El Colombiano",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldqS3lCUU02TkcwVmdVZ0w2blhBYXhWSXh5emZob0xVMGhuSExzeUdVWkxyVy02Zl92NjhsSC1oUUtnR1hUcHUyU3gtVVJHb1Z3TnVjY3prZDhoWFlaVkFzTEFtLVJpaGMzZ1lOaFJ2dU9UVzE0cmJwZnBSSGFzMUN0WUwzT3M1YXB0MUlyc2pYZ9IBlwFBVV95cUxQQTVoQnVtMVphVkhQakQybkFYNXlvTjEzSHcyX05nbC1ESVZ5dU9xMHdUUVcxMmlTU0g5bHRzR1c2T2FYeTZQdnNPNWRLRGx4NEcxQk8yTHdaeGNZdVJ1YTVSdy10LXJxNmRuOWJZTkJNSTJDSE9wcnQ0M2E4Q2draC00SGYycGtwYzQ0anBaQWhWSENiVXdJ?oc=5"
-    },
-    {
-      "time": "El Tiempo",
-      "message": "Sismo de magnitud 4,0 ocurrió este martes 18 de agosto en La Guaira, Venezuela: conozca los detalles del movimiento y el reporte oficial",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV3MxV0pKUEl2SjZVcERyc3o1NkN6aHlCeE5FdG5tWVFpZXdQV3ZycXU4ZEZVaVFuWUE1RFhNWWhHTnR0WDBobUJ0OHk5SHlxOF84Nk02VTFIeHJ1WmgtdjVfVUxScWUxTFpOSmNRbFhqY3pld0tpc0hqb2lRLWw0SEM0NnpLZkV3SncyeTBuYlpZSXhSdmc5UXFHanA0VEJhRnV5a2Z6eVExVGFtS2g5Y1draXItaWVEeG9oemlzYzF6aUN0a1BtX2hucG5Pa3FPWldOeVJjNnVTeWtZM2ZudlpWVnNLS05sZ3hzaVdPNGY1T0ZTd0UxUnhQZ0k1Z2JodU94dV9tb2g5UWlJWVdlQXdmWFVZd9IBmwJBVV95cUxNSUUyOFZtN1ZJcmZZSXlYSVZaWXdVWGdPbUJRMEdFVW92R1hFNGEybGlqeEZTVTdHa2RhS3VCYjlraEJjNks2U3kyT0ozMEYwNks2ZXl6cUtWQXJqYVR2RlZ5cG5WQjZ6cENOZDczR3NndjU5cmVCdkxnMFJoV3hhd205cUJLNUlneGUtQ0NFVC13djhUVy1GeVhwdmdMNFd6RGtMaU10bUFWdHV6ekhXY3p2dTJ0SHJUMFlFVzdycUlVLXhHdDhRb2syUV9qMFlGV3dNLWdOYW1iZWsxQndEZUtFZ3pfT1NITG12UDdXTWF5X1BtYloxTFZVUjJBa2RZTk9RLV9QbG1DdTU3YXVuSDR3NGRMdlFQNHRB?oc=5"
     }
   ]
 }
