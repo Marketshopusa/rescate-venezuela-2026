@@ -8,14 +8,14 @@
   },
   "reports": [
     {
-      "time": "efe.com",
-      "message": "Un sismo de magnitud 4 se siente en la zona costera afectada por el doble terremoto en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2ptTWRSRlh2SjBFR3gwc1hndUxSalo0cEVRLTFRY21YZnl5Y3FkVkxaZjZJLWtMNmFibXBPVUtfQzFDbDhPUDVhTFJPZ1RONlpVQjZSUWFMSmcwWjFzMUI4UWU0aHVGYS1KdHVsdURDMTgxQ1Bnc01kSXNuNlllUXlpZHlldndZNmJWdGY1V292N00wRWN2V2lyZDNHSFk?oc=5"
-    },
-    {
       "time": "dw.com",
       "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
+    },
+    {
+      "time": "Agencia de noticias",
+      "message": "Un sismo de magnitud 4 se siente en la zona costera afectada por el doble terremoto en Venezuela - EFE",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2ptTWRSRlh2SjBFR3gwc1hndUxSalo0cEVRLTFRY21YZnl5Y3FkVkxaZjZJLWtMNmFibXBPVUtfQzFDbDhPUDVhTFJPZ1RONlpVQjZSUWFMSmcwWjFzMUI4UWU0aHVGYS1KdHVsdURDMTgxQ1Bnc01kSXNuNlllUXlpZHlldndZNmJWdGY1V292N00wRWN2V2lyZDNHSFk?oc=5"
     },
     {
       "time": "teleSUR",
@@ -28,12 +28,17 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFM0ZW15YnFEbzhWdjlwNjZwOEltU0lyTFNLZkdBOXhIdjN1T3NQOGg3OVo4cDlSTWM0VVJTM29fc28xellfN0g5aEdBdW4tSFNlWFlkUkt6NjJNY1hySzVER2JSNEZoZGJIMVp4eFRVMTRuQlpPcXptd0R5R2dlY3htcDY5dE9tYkVKbkNlZm1YN010RzVyeExGOGRHaHZXaVFrNmJuM2E3cU5NSzZKNllzT0FtbmV1WnZWSjZHd05VanJuOUU4Y3Fhd20wbDlhcUYyQ2FaYw?oc=5"
     },
     {
-      "time": "Mundo UR",
+      "time": "Primicias",
+      "message": "Nuevo temblor de magnitud 4 sacude La Guaira, Venezuela, pero no se reportan daños",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORjJxRXdWb19hMl9WeTZHb2lObEpqYUZaRmhFX05LZUl5QkpiSGtteWY3d2ZsdWY4VEJWWFI3b2JqbkRPS1pKek43OG5lbTFUVTIyMUttYS1yUTd1X0U4Z0lPcW9DWXZWMGxfNlJkOWlqUmNrMDI1S0VFUFBxZm1CZjhKbjBHU1JLRktSdXVGc0RfbU90RlQ4bg?oc=5"
+    },
+    {
+      "time": "mundour.com",
       "message": "Fuerte sismo se sintió en varias zonas de Caracas",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazJlWnJxWkhGRWVieVhNeWI5OG8xZzQwRThxZFl2R3Exc05uSnBiUkhtdUxPbV8wbnJvS1pBMWJWR1ppenNTcm1XTjNKSE1oanhJd1g0dlM1RmNXSFJUZk9vVXVnTmdfbG80Vlp0YWxTelFuUFJqb0xBb2JJLVdxcG1Gekdod1BL?oc=5"
     },
     {
-      "time": "BBC",
+      "time": "bbc.com",
       "message": "\"Los terremotos nos persiguen\": los hermanos adolescentes que perdieron a su madre en el sismo de Venezuela y ahora sufrieron el de Colombia",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVVBxMmNkNDlxNldHSVZVcFktOTBuU1VRN0tIanRRbU83TlZxYkNSR2lseUlLQk94ajV4UW1vRDBTeTJjQ1MwYzJoMnBPVmR2cTlEN1JNNUxnV3fSAWBBVV95cUxPdEcyNzhHS2UyNlNaVU13YVJvSkd3TklYZmVUVjBxa2ZVeExJby1oRE4xS1FpSFJEWVpNN2NvcVQwVkx0YlZaUl9JbWlWUXUtWHJYbFR6ZHlYV3I3MTQ5c1Y?oc=5"
     },
@@ -48,14 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRW45QkF6R1FhUkNlVzlBaU5XVG14WjFBWXFZNUp3QkdablFUYVhhdk5rNHZuNDNQRkF0cWt1WGpxUEJrWU1udm5hcTR1R2hKdXZjQmMybUZxTGE4dkxqc0tSTGh6bWNvRV9KZnJzREhWVy00T1dOTFp5UUdRc0JGb0NxcmpVNHF3TFMxcVFqOWJ6YThOVEFTZGkwQmhYQ3BIdGxJZHd4MFZKRkFLZ3phZnd5emRFcU5tekdJYWFWX1l2Y3dNTndmRkhMOUxOMlnSAeMBQVVfeXFMTmVlWDdKMjdTRTVjZjNRdUY3ZVdLWmxTU0lsa1hlajdVSHBYYUJuQjlXUmFUc0hYVlJDVkNGdWI2enI3MkFVOGdMclZsUGhZZ3RiTEVPT0lsWDVoYWlKR1pqOW9YQ1VVRU9LUE1XYWtRaXFOc2xWdF90WWdwTXFMekNyUFRMNDV0bzZKMTI0d0RNTTh6dE5rM0lDemVLSnZqa0JtbllNT1ByaDRVYkNfVl90WlZ0R2dlcWNWNFkyU3ViMndOQkFKYTRrNmRLa0poZnNBQTVqTlNmaUJfUnRtWTd4WjA?oc=5"
     },
     {
-      "time": "Telemundo",
-      "message": "El terremoto en Colombia es un déjà vu para los venezolanos; la respuesta gubernamental no tanto",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcXd2NFNYTUsxU2VqLTFDUnVKdWttZ3N6TVcyaVg4cUNfdFd2dmJQaVExVFlrLUxtdDBGMW1lcFBKWHlKZVQxeVU3MDNNXzg4eGJiZkZkVjA1RXpqWHUxS3l3eFdTQ1JYN3QxdHJGQld3U3h2UEp1SkZ1RnhtaDBQRXhZcWh2T0U0RHVtTDlGY0JRYUt4TDBTS0JvbW1VVVZoMFcwRFE4Vm9LVU1nOHRNamxyNFpURXlrVjNKYUxuSHlTZjRwX1RGWGp3aDJDT2NXNUdtU2xOY05VQnhjRTdJMFo0LXV4WjVtU01z?oc=5"
-    },
-    {
-      "time": "Fuentes Informadas",
-      "message": "Nuevo terremoto en Venezuela: un sismo de magnitud superior a 4 sacude La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjlYQ1ktNzE3TVFBa1MxRmFSWWdxaC1Ia2NWdmUxdkFRSGZCbXl2a1ZXUnB4Um5fTUF5aXFTeWF3Yk12Y2FvMVdSemJLcVlrb2VsODRLNDV5SmZVTHpjSmRRWE5kd3NYbXd4MUIxZ3VFTllIRU9feTBUcGRpTjdoa1U0VDR4dUhlTEFTNjJuZ1RnSzdBd1FNUVFmeGRiQUpHUlBoRFF2bmhDZnN1RGc?oc=5"
+      "time": "El Tiempo",
+      "message": "Sismo de magnitud 4,0 ocurrió este martes 18 de agosto en La Guaira, Venezuela: conozca los detalles del movimiento y el reporte oficial",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV3MxV0pKUEl2SjZVcERyc3o1NkN6aHlCeE5FdG5tWVFpZXdQV3ZycXU4ZEZVaVFuWUE1RFhNWWhHTnR0WDBobUJ0OHk5SHlxOF84Nk02VTFIeHJ1WmgtdjVfVUxScWUxTFpOSmNRbFhqY3pld0tpc0hqb2lRLWw0SEM0NnpLZkV3SncyeTBuYlpZSXhSdmc5UXFHanA0VEJhRnV5a2Z6eVExVGFtS2g5Y1draXItaWVEeG9oemlzYzF6aUN0a1BtX2hucG5Pa3FPWldOeVJjNnVTeWtZM2ZudlpWVnNLS05sZ3hzaVdPNGY1T0ZTd0UxUnhQZ0k1Z2JodU94dV9tb2g5UWlJWVdlQXdmWFVZd9IBmwJBVV95cUxNSUUyOFZtN1ZJcmZZSXlYSVZaWXdVWGdPbUJRMEdFVW92R1hFNGEybGlqeEZTVTdHa2RhS3VCYjlraEJjNks2U3kyT0ozMEYwNks2ZXl6cUtWQXJqYVR2RlZ5cG5WQjZ6cENOZDczR3NndjU5cmVCdkxnMFJoV3hhd205cUJLNUlneGUtQ0NFVC13djhUVy1GeVhwdmdMNFd6RGtMaU10bUFWdHV6ekhXY3p2dTJ0SHJUMFlFVzdycUlVLXhHdDhRb2syUV9qMFlGV3dNLWdOYW1iZWsxQndEZUtFZ3pfT1NITG12UDdXTWF5X1BtYloxTFZVUjJBa2RZTk9RLV9QbG1DdTU3YXVuSDR3NGRMdlFQNHRB?oc=5"
     }
   ]
 }
