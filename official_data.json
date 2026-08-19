@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkVVBxMmNkNDlxNldHSVZVcFktOTBuU1VRN0tIanRRbU83TlZxYkNSR2lseUlLQk94ajV4UW1vRDBTeTJjQ1MwYzJoMnBPVmR2cTlEN1JNNUxnV3fSAWBBVV95cUxPdEcyNzhHS2UyNlNaVU13YVJvSkd3TklYZmVUVjBxa2ZVeExJby1oRE4xS1FpSFJEWVpNN2NvcVQwVkx0YlZaUl9JbWlWUXUtWHJYbFR6ZHlYV3I3MTQ5c1Y?oc=5"
     },
     {
-      "time": "EL PAÍS",
+      "time": "elpais.com",
       "message": "Dos terremotos, dos respuestas: las reacciones de Venezuela y Colombia a la tragedia",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRW45QkF6R1FhUkNlVzlBaU5XVG14WjFBWXFZNUp3QkdablFUYVhhdk5rNHZuNDNQRkF0cWt1WGpxUEJrWU1udm5hcTR1R2hKdXZjQmMybUZxTGE4dkxqc0tSTGh6bWNvRV9KZnJzREhWVy00T1dOTFp5UUdRc0JGb0NxcmpVNHF3TFMxcVFqOWJ6YThOVEFTZGkwQmhYQ3BIdGxJZHd4MFZKRkFLZ3phZnd5emRFcU5tekdJYWFWX1l2Y3dNTndmRkhMOUxOMlnSAeMBQVVfeXFMTmVlWDdKMjdTRTVjZjNRdUY3ZVdLWmxTU0lsa1hlajdVSHBYYUJuQjlXUmFUc0hYVlJDVkNGdWI2enI3MkFVOGdMclZsUGhZZ3RiTEVPT0lsWDVoYWlKR1pqOW9YQ1VVRU9LUE1XYWtRaXFOc2xWdF90WWdwTXFMekNyUFRMNDV0bzZKMTI0d0RNTTh6dE5rM0lDemVLSnZqa0JtbllNT1ByaDRVYkNfVl90WlZ0R2dlcWNWNFkyU3ViMndOQkFKYTRrNmRLa0poZnNBQTVqTlNmaUJfUnRtWTd4WjA?oc=5"
     },
@@ -41,11 +41,6 @@
       "time": "Gestión",
       "message": "Temblor en Venezuela EN VIVO hoy, 18 de agosto 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo, según el FUNVISIS",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVFJSNktRQTVmTkE1SGpVRnk5Wk5uRUwyWkZtQ2k3Vy1xMDFvRnI3UmFOeXh2STJyMHJGRzFsTFd5SVFaMmxGVzRiTWl3YlZLTjlFcFpLQkhfOWRkMEVIOXY5cXVReE5ZRExza0VIT1VLbHBJc1NlSk56eTRsTHE1M3V2SS0tckVhZ2JKVzlGY3NtU2E2Sk1zM0JxQnlEbEdNUTdrRHVFVVNNMEUyZllwMVJKdTR0WFBkRUx3RlNCcnVmSlJLaVV3aGtaVF9LV2VIdFQ3VXM1OXNNNkZfOGNSaERVNHA2blNtYjdPSTJZbzByTWU1OVZvX196VlJ2TjF6ZnVsaEJNLXQ4cFF5RzFvaVdGTmVvVGVK?oc=5"
-    },
-    {
-      "time": "El Comercio Perú",
-      "message": "Temblor en Venezuela del domingo 16 de agosto: epicentro según último reporte FUNVISIS",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOV3FoQUlNQjJlclZ3b280UTJacGtRZkpnYjROX1V0QzlqMFZpNkxRMVdVUV9XanowRnQwemVFYkQxSEU5Uk9DaUp3azJySFkyUFUwY1hndG43TGtDWGlVRmtCS09KUkpwWFMxLWtnNUFUeDJ3Mi0zZ081ZFh6amRlOWZkRUZiNjNmY3pRRURXYnl4VUlhVk5YVVJGYVVTQUpPUnhsWjNySUdYYnpBaDAzSjQ4aWh5cURSelJwSk5ReG45dDZNRFNnR2J0YjdWTmJxajdqdUJYOEVzZFR0ZjJJaEE4bmRrd1FTSEQ1eTJaTFpYQTd0S0h0czcyZS1hOGhBQk5rd3hQQnUzUUZmbS1rNU9oTHdzSkRFbERyUmpBQ0Frd1VLcVFDNERwdGQ4bHJnNjdpc1lDUDA2dllQOTFLN3ZPX211eU5ZZU50bk5ZZw?oc=5"
     },
     {
       "time": "facebook.com",
@@ -56,6 +51,11 @@
       "time": "El Colombiano",
       "message": "Volvió a temblar en Venezuela: sismo sacudió a La Guaira, zona afectada por los terremotos en junio | El Colombiano",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldqS3lCUU02TkcwVmdVZ0w2blhBYXhWSXh5emZob0xVMGhuSExzeUdVWkxyVy02Zl92NjhsSC1oUUtnR1hUcHUyU3gtVVJHb1Z3TnVjY3prZDhoWFlaVkFzTEFtLVJpaGMzZ1lOaFJ2dU9UVzE0cmJwZnBSSGFzMUN0WUwzT3M1YXB0MUlyc2pYZ9IBlwFBVV95cUxQQTVoQnVtMVphVkhQakQybkFYNXlvTjEzSHcyX05nbC1ESVZ5dU9xMHdUUVcxMmlTU0g5bHRzR1c2T2FYeTZQdnNPNWRLRGx4NEcxQk8yTHdaeGNZdVJ1YTVSdy10LXJxNmRuOWJZTkJNSTJDSE9wcnQ0M2E4Q2draC00SGYycGtwYzQ0anBaQWhWSENiVXdJ?oc=5"
+    },
+    {
+      "time": "teleSUR",
+      "message": "Venezuela registra sismo de magnitud 4.0",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOTJ4ZzdVYS02RldNUkxMMVpuZVBTTWlDeEFvTTJPWktNbmJsRWVqczFPMFFzeE5xNFJQTldjLVI2ajF6SEI2ZzhWMllBWnRZbm5xSmJ3c1l6Ty1wNHpsTzcxRjJzOHRtaGYzSw?oc=5"
     }
   ]
 }
