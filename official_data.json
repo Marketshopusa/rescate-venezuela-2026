@@ -8,14 +8,14 @@
   },
   "reports": [
     {
-      "time": "DW.com",
-      "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
-    },
-    {
       "time": "Infobae",
       "message": "De Venezuela a Perú: por qué Sudamérica enfrenta tantos terremotos",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUF9QcmlNN0hsT1FRajlYRjNWbDJ6NzgwaXJrbkZkTWZUc29IM2VUekoyanR3YlZQdWZzR1dyWlpaZi0zczhtMDdKZU5NVFRxamFpZHdJUVJhS1ppYzdhY05rMF9UcTdmWjJmbjlfX29Ea1E0TUVKNjJnamF0UW0yV2VyOFU1ZmVKSDN6WnpoWHQ3T1BSckxFaHlNdGtXQi1ZYk5uV3ZCTS13SVVJZFJXYmZnQkp4SWlXVmpNeDZTNjRYUdIB3AFBVV95cUxPd0plWHYwSGxlR0J1NUE0MmFkNkM0dm9MTldzMW16ZkNZQkdPbFhYNzhyZnBmZ0taRWV0aGdGdDJuMFFMUWtZN2J6UkxWZVRvRGUxeWlGeVJLeDhSSTJFQ21iX05PTjdJWHFBNDdjd0JUQUhYcjNua0dTQU40WFFkTGoyX3lUUkp3dXJoTVM1UjlSeTNpaWgzWV9TTVRHOXU2dk1wV2Jrby10Nm5wZV84WXhZSHZ6UEVHSTEtVHFrN0N2cXphVEszMmFuTEZGdUt1eUZGM2ZuTjhVa1Vo?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
     },
     {
       "time": "Telemundo Miami (51)",
@@ -28,19 +28,9 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjlVeFE4c3JGYy1ERE9OS2V4UEx2WVlxRlJVdWJFaWw1N3RvYzV1TWJIOHRMWVJMcUdqaHV1YnlZTmhNaVBacDZMZWNpWkZEVGtSdi1sZ0x5M2pfQVU5MlBoYmQwNGdYbHkwSWJyQTdOLUk0OGl5UV9KUXlHNXZiVmRCQ3QzWVgtQWhJT1VOT252dVBRNTZHZXc2X3NrdVN2RVNxeDJsOXFxblRHVjVEakQ3TXU?oc=5"
     },
     {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #33 (14 de agosto de 2026, Hora: 02:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFM0ZW15YnFEbzhWdjlwNjZwOEltU0lyTFNLZkdBOXhIdjN1T3NQOGg3OVo4cDlSTWM0VVJTM29fc28xellfN0g5aEdBdW4tSFNlWFlkUkt6NjJNY1hySzVER2JSNEZoZGJIMVp4eFRVMTRuQlpPcXptd0R5R2dlY3htcDY5dE9tYkVKbkNlZm1YN010RzVyeExGOGRHaHZXaVFrNmJuM2E3cU5NSzZKNllzT0FtbmV1WnZWSjZHd05VanJuOUU4Y3Fhd20wbDlhcUYyQ2FaYw?oc=5"
-    },
-    {
       "time": "El Universo",
       "message": "Venezuela, Colombia y Perú: las magnitudes de sus últimos terremotos",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUdnbnhVN0hiZkc0MTdMTUhwbmRyVTk2RFVBMEdDMVJ1cEtudlNjcmhDNTNxYnoxcDk4TWlPZTFVdFFWMU1yQVR6UTBVTHp3ZnRZc3o0NVFpWnkxMXc4YVM1dFplQldSWDdtNXc0RVV0aFE3NTJlbFpkNVdtS0xTcVNOWkZuRUQ3YTJNc2lWMlMxTGxaRFFqN2NfN2JyTURUUHIzbHkwY0VHMzJFaERYQ1FjU19XSXVOcWJhaWxrSdIB0wFBVV95cUxPS2thZ2dLTHVHMC1xX1YweDhabUlwNDRLS0JiWUNWZFNnNklWZVI2OG9lb2d4ODJPQnFPdnZsWUhheFVqZ1VJeHVRa0lhcFd3d0VwTHNvZDlNWnl5a0Nia3dlQjE5T1lJU2RHQVA5OWtCaEZRSXdKMkl3aDMyMkxlRWFvVkl3ckRfYXcwWFA5SWFkYTBKdXZDM0lvUFZYTXlUZ3dna3F2WUoxcWctSEdqYjMtM1ZGelNObER5SVU2S1VYSmFKQUtqcURSdlZPM1g2dnpF?oc=5"
-    },
-    {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.438 la cifra de muertos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NLXFoWS14dDJiblVva244NGZidnFJd3BTdjVKT1RyQUh3ZzRreVllN18zTm13NmkzV21wTFVFc2pUZUZRMmRrazFrWW55YUVPS0Nqb3pHZndPWG4tV3BRb0VUQXJnYl96eXpBUk4tc3dETGNwcFlSX0RvaEs?oc=5"
     },
     {
       "time": "teleSUR",
@@ -48,9 +38,19 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOTJ4ZzdVYS02RldNUkxMMVpuZVBTTWlDeEFvTTJPWktNbmJsRWVqczFPMFFzeE5xNFJQTldjLVI2ajF6SEI2ZzhWMllBWnRZbm5xSmJ3c1l6Ty1wNHpsTzcxRjJzOHRtaGYzSw?oc=5"
     },
     {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
+      "time": "El Diario Venezuela",
+      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.438 la cifra de muertos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NLXFoWS14dDJiblVva244NGZidnFJd3BTdjVKT1RyQUh3ZzRreVllN18zTm13NmkzV21wTFVFc2pUZUZRMmRrazFrWW55YUVPS0Nqb3pHZndPWG4tV3BRb0VUQXJnYl96eXpBUk4tc3dETGNwcFlSX0RvaEs?oc=5"
+    },
+    {
+      "time": "Ambito",
+      "message": "Fuertes terremotos en Venezuela, Colombia y Perú en 2026: ¿aumentan las chances de un mega sismo en México este año?",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV2JBdTZFNndrTzJVSkxSUWhzQzllOEQtTXJQSmxGcDRfazJsMktEZ3dtT1lzMG1xTzQ4ekJfLWVLX3pVdUlabEVHYnNfSUNXVy0wOW9KejJZUkpHM2VjaXFlc3VhbEhmd0dpQmt1ZHBfdHk0YThwWUg2VUVVb29ZOHQ4Qkx1bU9xZERFZ0xXeUlOR1QwODR1TmQ5T0JHZk1aLVNlVVNfbDU5a18weEJzdDhqaFluMlVrZ0ZZbl9WME1zUkNsekRMa1JlYW9oSFQzZFpCLTg5Y1pQR1A3WlU2YnNQa9IB6AFBVV95cUxPdmlpbU40UHhTVlFzaXpmcGxHanhuZVVJZW9JYTNuWTk3bzZBbTNBRGg4MGFEcTRnMkdRS0VlbHdaZjJ5VHVuNkozazZtZDBFN21pUGRzRVZRNHRJdGRmUXg2ZFNUcmo4SjlRXzNrZWJCekVqXzgzQ2JXazRRUFM1SVBueHNGQ1EtZUFSTWZiVTFsSU9IWTdrWVBOY3JsN3lESDE1RzEzNk5GaXE3OXRjRFdZbVZmSjBTa2x3ZHpjMkdsenYzR3Q1RlJjdUpGVVZ3c1NQVHpCRmgtQWhoTXU5Z0Jmd0NmMDQ5?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #32 (07 de agosto de 2026, Hora: 02:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUNfNXVfMnliOWZzbjlKV2VUMERhWC1FZVNIWVpsajZFd19sOHlDWlpxR09GRFY4X2tRUDhsOHROSmJOcHlYWk1KblJObnlWd3VqQTdQUi1ZUFlJcERUTTdLelFjMXZYZlF0NXpxaXB1T2o2Y1cyaTdLejgyekhTbzBTWW9sdnVvSzJpOW1nQ2VaQ09FTTUtUWpaYURXRjRRSy1mdGxUV1lueW1JQUFlVE1ZM1BfY3k0ZnROek5QYV9TTk9pbXZZalQ0ZnZYZjVsdUdKVVA5TQ?oc=5"
     },
     {
       "time": "Diario Primicia",
