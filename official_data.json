@@ -8,7 +8,7 @@
   },
   "reports": [
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
     },
@@ -33,19 +33,14 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NLXFoWS14dDJiblVva244NGZidnFJd3BTdjVKT1RyQUh3ZzRreVllN18zTm13NmkzV21wTFVFc2pUZUZRMmRrazFrWW55YUVPS0Nqb3pHZndPWG4tV3BRb0VUQXJnYl96eXpBUk4tc3dETGNwcFlSX0RvaEs?oc=5"
     },
     {
+      "time": "El Colombiano",
+      "message": "Volvió a temblar en Venezuela: sismo sacudió a La Guaira, zona afectada por los terremotos en junio | El Colombiano",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldqS3lCUU02TkcwVmdVZ0w2blhBYXhWSXh5emZob0xVMGhuSExzeUdVWkxyVy02Zl92NjhsSC1oUUtnR1hUcHUyU3gtVVJHb1Z3TnVjY3prZDhoWFlaVkFzTEFtLVJpaGMzZ1lOaFJ2dU9UVzE0cmJwZnBSSGFzMUN0WUwzT3M1YXB0MUlyc2pYZ9IBlwFBVV95cUxQQTVoQnVtMVphVkhQakQybkFYNXlvTjEzSHcyX05nbC1ESVZ5dU9xMHdUUVcxMmlTU0g5bHRzR1c2T2FYeTZQdnNPNWRLRGx4NEcxQk8yTHdaeGNZdVJ1YTVSdy10LXJxNmRuOWJZTkJNSTJDSE9wcnQ0M2E4Q2draC00SGYycGtwYzQ0anBaQWhWSENiVXdJ?oc=5"
+    },
+    {
       "time": "El Universo",
       "message": "Venezuela, Colombia y Perú: las magnitudes de sus últimos terremotos",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUdnbnhVN0hiZkc0MTdMTUhwbmRyVTk2RFVBMEdDMVJ1cEtudlNjcmhDNTNxYnoxcDk4TWlPZTFVdFFWMU1yQVR6UTBVTHp3ZnRZc3o0NVFpWnkxMXc4YVM1dFplQldSWDdtNXc0RVV0aFE3NTJlbFpkNVdtS0xTcVNOWkZuRUQ3YTJNc2lWMlMxTGxaRFFqN2NfN2JyTURUUHIzbHkwY0VHMzJFaERYQ1FjU19XSXVOcWJhaWxrSdIB0wFBVV95cUxPS2thZ2dLTHVHMC1xX1YweDhabUlwNDRLS0JiWUNWZFNnNklWZVI2OG9lb2d4ODJPQnFPdnZsWUhheFVqZ1VJeHVRa0lhcFd3d0VwTHNvZDlNWnl5a0Nia3dlQjE5T1lJU2RHQVA5OWtCaEZRSXdKMkl3aDMyMkxlRWFvVkl3ckRfYXcwWFA5SWFkYTBKdXZDM0lvUFZYTXlUZ3dna3F2WUoxcWctSEdqYjMtM1ZGelNObER5SVU2S1VYSmFKQUtqcURSdlZPM1g2dnpF?oc=5"
-    },
-    {
-      "time": "teleSUR",
-      "message": "Venezuela registra sismo de magnitud 4.0",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOTJ4ZzdVYS02RldNUkxMMVpuZVBTTWlDeEFvTTJPWktNbmJsRWVqczFPMFFzeE5xNFJQTldjLVI2ajF6SEI2ZzhWMllBWnRZbm5xSmJ3c1l6Ty1wNHpsTzcxRjJzOHRtaGYzSw?oc=5"
-    },
-    {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
     },
     {
       "time": "facebook.com",
@@ -53,9 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQjlVeFE4c3JGYy1ERE9OS2V4UEx2WVlxRlJVdWJFaWw1N3RvYzV1TWJIOHRMWVJMcUdqaHV1YnlZTmhNaVBacDZMZWNpWkZEVGtSdi1sZ0x5M2pfQVU5MlBoYmQwNGdYbHkwSWJyQTdOLUk0OGl5UV9KUXlHNXZiVmRCQ3QzWVgtQWhJT1VOT252dVBRNTZHZXc2X3NrdVN2RVNxeDJsOXFxblRHVjVEakQ3TXU?oc=5"
     },
     {
-      "time": "Diario Primicia",
-      "message": "Funvisis reporta quinto sismo del día",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jYnRhZkJIdEZfRFBFQ0QyM0ZHQS1rSW1LRy1IM0JYOUctSmk5M0ZxRXI0Q19GWGhwSXBkdWFWZkNrbFFsQ280M3Noa280Q1luWEdNcFlVbV9ob0ZpRFFUWUhhOEVFcmNZMVVUajNPajFYeG1VSkhseQ?oc=5"
+      "time": "teleSUR",
+      "message": "Venezuela registra sismo de magnitud 4.0",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmOTJ4ZzdVYS02RldNUkxMMVpuZVBTTWlDeEFvTTJPWktNbmJsRWVqczFPMFFzeE5xNFJQTldjLVI2ajF6SEI2ZzhWMllBWnRZbm5xSmJ3c1l6Ty1wNHpsTzcxRjJzOHRtaGYzSw?oc=5"
+    },
+    {
+      "time": "NTN24",
+      "message": "Primero Venezuela, luego Colombia y ahora Perú: las primeras reacciones al fuerte terremoto de magnitud 7.2",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT0hzckhFWUVwM3YxNUY0Y0ZxTTlFTHlBU205ZGNLSGZQWTZSUWxqMUhXQXNUaHhmZjJQNHRvNnJ6Wm82Ny1mLXk2X1N5XzQybS1RLTRyZVF4QTBpSFlMbk5HT1BvelZvd2dudS1yNFYyVWlxM19xdlVUakR5SXd3UnJhSEQ1M21rRWJCSDZBRkotYjRocWNGN0lYZE9BMGtMYnpPbHd1UThFSGNuOHo2UG9uNGw4dGlOUmJSdzgtcW45RkNSWmxnSmMzTWJ3ZXo4dUR4d3lCVldEcnh4U3hnZkIxc0YyVHJtZkHSAeoBQVVfeXFMTXpEQzEyTFRFdDdfWnRiUF9UVmxvWV9NLW5KRzFCWU9Jb1g4YTQzOThJTVZVam1IcWtGekFhSnhBTy1LTGxOVlFzRVJQcFpWMElHU3FaaDNSampGZHBBTUFYcVpmNlFtU0NxTzNSQkJsa3FwZm14Y1dpNFIwZy1XUm1WbGY2NTlEeHowVTNkY1FELVc1SVdUN2N0T1dSUVFISUU4eGFSVjFMQ0xzWGRaSTNmYlFJc2lzc19NZ3N0ckNwLWR6aU9oallKb2lrZ1R3dEk3czN2UnVhNXhfYmJfSzloQktJNFJIZEJR?oc=5"
     }
   ]
 }
