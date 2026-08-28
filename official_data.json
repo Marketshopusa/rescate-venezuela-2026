@@ -8,14 +8,29 @@
   },
   "reports": [
     {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "#EnVideo l Un movimiento sísmico se registró en el estado Aragua a las 08:38 de la noche de este jueves 27 de agosto. De acuerdo con la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) el sismo tuvo una magnitud de 3.9; con epicentro u",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRUWVNST3dFcnJsQjZWZk1hYTQtenl5dnJIbjQ2Z3JNY0NQU0ZjaDhEaS0ybzFxU3FUS0xJaVdncm1Ha1NWQ0pfSFRFc2xYVlZkNmtwYnhNS1NibzBqTFZYY1p1cnpGSU95WFJGbkxoSHk1TWoxVVRVcG1lamJxVkpFMG9nbzFGZ3ZOc2ZwS0Y4d3g5THVVNG5keFRsdm1FLTdEdlFPamlOMGRJa0lfOFI3a3dvR2dhaWxaYVI2VEI2QWp1X1ZpYkEyTkI3OFJxYldaNVJ6MXFTQXluZXRJclFnNzVadw?oc=5"
+    },
+    {
+      "time": "El Diario Venezuela",
+      "message": "Usuarios reportaron un sismo cerca de Caracas la noche de este 27 de agosto",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXcEFOOE0xSGxSWmhRbWZ2MVpFRFVCTnVLc04xbTIxUHZMTFFKMTdkbmE0c19PZHBURFA5TkotQURyWUpyLXRQZFhTaTNWck1SUzN3N0NJa19SMXV4UEtzY1JIZks2cms?oc=5"
+    },
+    {
       "time": "laradiodelsur.com.ve",
       "message": "Venezuela: sismo magnitud 3.6 afectó al estado Mérida",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3dxc005dnlxdFBLbTlPajVPN3d1ZGVkbEQ4MXRuZGNBZjZHVUthMHkzZlZ3a0MyU2hLVWlkRDctMWJCQlJKUURnekdlZERxWEdKcGFhOExOalp2QXV5RmJBWXk4MHRNQURVMk82bHBkNXdkempKTVVWdTNQOURoaUt6enYycV9OYVA4eUtzUQ?oc=5"
     },
     {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
+      "time": "Univision",
+      "message": "Sismo de magnitud 3.5 sacude Mérida, Venezuela, dos meses después de la tragedia que dejó miles de muertos",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZlNEVm1way1HOXV5NHBHMmN2SUd4a2l1LVk3clA4LWdNLU1ZUmtYSGtaa3VjLXpXaVp5V251Ykk2cmdERnlabU00NDVialhVSHVXX1ZzWjlKNUVTX1ZZMmNLX1hLVm5NZzlQYW9xYzNXekRLSVhPbGhUeWhoRV9pb2kxWGFhWTdKMWFPbnRaUTY0WWF3MDZhcG54Z2VjSzZiZEctV0ludTU2cXlVVGdTcnNFMU53b3dMV3FKTHVHMmJvLWRwS1NDcWwwR2hPZEo5eEhrQUptcVdUSGttamVCU2o5LWx3NFU3VVE?oc=5"
     },
     {
       "time": "CNN en Español",
@@ -23,19 +38,14 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2tyemhZN0pLS0d1dElRaGJmblRkZFRxTWY2anRXbUltMnpFcHRpdHBYYkhVYTF2WGpHZ0N4UW1CSWU4QkRPUlhPcy1RcEZmLUx2djhWZ2o1amxITlplZWtFYjhOamRHTlM2M1N6ek1jT0lFMEdCODFXUVkzN1VxNWZGQlJRMzR0NzFtZg?oc=5"
     },
     {
-      "time": "elsalvador.com",
-      "message": "Sismo sacude Venezuela dos meses después de doble terremoto",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjJVeFM5dFgwZzViQ2VOd3VLR3hMRk02TDRZVkVTNXNkU3BSbVEzYWZjRmlTOTZOUWlNYjdZMEtlazFBeVpDM0x0VnZwRVQ4LVhHZVZkRVJuWS1uVHJGUWdVdmt6UkJwTzJPWnRhMDByQWpVVVZKbXdDZVpjMWpndklPbnJhcjhSVkRsOUJEOHpUSEwwYXRVNUl3?oc=5"
+      "time": "instagram.com",
+      "message": "#Repost: Fundación Venezolana de Investigaciones Sismológicas (@funvisis) FUNVISIS Sismo 22/08/2026 20:21 Mag (Mw): 3.4 Prof: 10.1 km Epicentro: 10.620 N -67.024 O 11 km al oeste de La Guaira",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zNWUyV2JPenlncWNoeHZIdklXTm9rY0pvaFgxU0FFS25vNWZySTV5eVNUeHNJM1VGWnJQbGRNLWRQSWtmMVJzenJFZ2NzdmZKREE?oc=5"
     },
     {
-      "time": "MILENIO",
-      "message": "Sismo de magnitud 4.2 sacude región costera de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUWNxZWE2Y28zanRCd3BvcWdPY3p0V3lQdzNJV0hjNE83a092NVJCWEtsVFdpaUx4TUlxYnFvRnJzdnVHLWxYOEdoelNsX2t6NzdmV3ZnUzBmS0I2d0pKcnRPTGotWnozakFvT1ZFZG42dTF5R1BmY0ZRZ3dwRnpLWnhFb0tPbjhFNHd1TVFiSmHSAZABQVVfeXFMTVdZU1lycGJTS05Hd0xFOXR1ZS1zXy1abUE2ajUzRVl3dHlxcVlUSU9OeE9DMTdMdk9QUmI2bUNtTGVhTVF5YV9CMDFxWWt0MWFjZ3U0dU9YUEotRy1rUXFLSDlKVVZNWm9VVmtST0JTQlJ1NTdkNGdRUURMT0N4dGlGT2ZrQWhuUW92X2FsaU05?oc=5"
-    },
-    {
-      "time": "dw.com",
-      "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
+      "time": "Perfil",
+      "message": "Doble terremoto en Venezuela: el número de muertos ascendió a 6.509 y se reportaron 1.579 desaparecidos en La...",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdFVmcnZfMWtPUGZGVlM2a0Nxc1c3eDhVdzZwdk11cW1PMlFRR3o5aHc1a0s0R1JvX3BlU3RWazFkc0s3QUNaZXpvMlFqNlI2NmM1eXcwSC1jUkliZTBicENkRkZsSWJwVF9WR1c0Yjd6MWMzX3N3VGJMdE1QLThUWm5iWk5hX3hUVlJQLUZPQ2JIdkpPQVQ1WkV2VXFGOXVuSkZCcHpmTkpyRVpMb0JFdjQzNHc3LTdiOWxFRVZURG5Pa1VmODc0ZzBwckJ2LXlCaGpyWmdKZnV6aXh1SEREelVEUHN5VkY2RFg1bVd1TzhpVnRka2czNU5MZE5LUdIBgwJBVV95cUxNUHc2enp0ZURYN19ic2xzVndFZzQ1VGxvWmVxMTl4NFdGVDE2bExtREpqY3NXd3dMb3k1cFMzU2lBaU9DWlhoQXpydWhCZ1VEOUNadkc0eDRiVWE4ZmJ4S3BNR05ndTBfMzhIVUFubWZXbmhnUmh3UEMxeWt5SXJKYXlYalUwak1qQWoxdWFBWG5QTE9KbE1wbFQ4dE13VGNvbzlTalk0aUFTdV9rdU9xZFdnQmZuNFJibnhyLUlXUEt0WEx2VjFRZmcxT0lLY3NvNTJzbXBNZW93OXQ5ZVpoTnNxZ25faUo3OEtvZE9CSmFQMDl6R1FOUVBhYWxZUXN6TV9F?oc=5"
     },
     {
       "time": "CiberCuba",
@@ -43,19 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2FpZ1AwSmdGeUhSdk83bDMxRHJidURwRjZoMy13R1ZMQklqdXBWRGVfSkRGUUFpYTdjUnJ2aDB3bUxUWnVhV3k5RWppRmZPaktuZnBoUU5MV1VUck1LTlZZU1lZWmEwcE9JdDd1S1YyWkkzb0F2ajJfajh0WjlCd2NhWWNOZnJUU18tdDBMcVJudUpKSENUZG5ZT2wzNHBqdUFKZWlaRi1jZmdIYmM5MUZGVXA2Y0NLQkNvYlZ30gG-AUFVX3lxTE9zYWlnUDBKZ0Z5SFJ2TzdsMzFEcmJ1RHBGNmgzLXdHVkxCSWp1cFZEZV9KREZRQWlhN2NScnZoMHdtTFRadWFXeTlFamlGZk9qS25mcGhRTkxXVVRyTUtOVllTWVlaYTBwT0l0N3VLVjJaSTNvQXZqMl9qOHRaOUJ3Y2FZY05mclRTXy10MExxUm51SkpIQ1RkbllPbDM0cGp1QUplaVpGLWNmZ0hiYzkxRkZVcDZjQ0tCQ29iVnc?oc=5"
     },
     {
-      "time": "instagram.com",
-      "message": "#Repost: Fundación Venezolana de Investigaciones Sismológicas (@funvisis) FUNVISIS Sismo 22/08/2026 20:21 Mag (Mw): 3.4 Prof: 10.1 km Epicentro: 10.620 N -67.024 O 11 km al oeste de La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zNWUyV2JPenlncWNoeHZIdklXTm9rY0pvaFgxU0FFS25vNWZySTV5eVNUeHNJM1VGWnJQbGRNLWRQSWtmMVJzenJFZ2NzdmZKREE?oc=5"
-    },
-    {
-      "time": "The New York Times",
-      "message": "Las 48 horas que cambiaron a Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEw0LW1EQjVWb2htdzM1TTNaOEpKdWtydkU3MnlHTm5UblVNNk5aSDAwaHBMaVREcGd5WC01VldlNlRoUFNUcXRkaWRPb3NNZ0gtWHdPV2FnSm1BLUN3cmw3Zk1SbEl4STFHeGRIYW9SdE5wTS1NNHVZWHByZ01CQVVfN1VfM21tdEhLWV85ejlBZ3JaRXpRVlZYMzRya2tGRUE?oc=5"
-    },
-    {
-      "time": "Perfil",
-      "message": "Doble terremoto en Venezuela: el número de muertos ascendió a 6.509 y se reportaron 1.579 desaparecidos en La...",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdFVmcnZfMWtPUGZGVlM2a0Nxc1c3eDhVdzZwdk11cW1PMlFRR3o5aHc1a0s0R1JvX3BlU3RWazFkc0s3QUNaZXpvMlFqNlI2NmM1eXcwSC1jUkliZTBicENkRkZsSWJwVF9WR1c0Yjd6MWMzX3N3VGJMdE1QLThUWm5iWk5hX3hUVlJQLUZPQ2JIdkpPQVQ1WkV2VXFGOXVuSkZCcHpmTkpyRVpMb0JFdjQzNHc3LTdiOWxFRVZURG5Pa1VmODc0ZzBwckJ2LXlCaGpyWmdKZnV6aXh1SEREelVEUHN5VkY2RFg1bVd1TzhpVnRka2czNU5MZE5LUdIBgwJBVV95cUxNUHc2enp0ZURYN19ic2xzVndFZzQ1VGxvWmVxMTl4NFdGVDE2bExtREpqY3NXd3dMb3k1cFMzU2lBaU9DWlhoQXpydWhCZ1VEOUNadkc0eDRiVWE4ZmJ4S3BNR05ndTBfMzhIVUFubWZXbmhnUmh3UEMxeWt5SXJKYXlYalUwak1qQWoxdWFBWG5QTE9KbE1wbFQ4dE13VGNvbzlTalk0aUFTdV9rdU9xZFdnQmZuNFJibnhyLUlXUEt0WEx2VjFRZmcxT0lLY3NvNTJzbXBNZW93OXQ5ZVpoTnNxZ25faUo3OEtvZE9CSmFQMDl6R1FOUVBhYWxZUXN6TV9F?oc=5"
+      "time": "dw.com",
+      "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
     }
   ]
 }
