@@ -8,14 +8,24 @@
   },
   "reports": [
     {
+      "time": "BBC",
+      "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
+    },
+    {
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
     },
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Tres sismos sacuden distintas zonas de Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
+    },
+    {
+      "time": "NTN24",
+      "message": "Venezuela registra nuevos sismos: temblores sacudieron distintas regiones incluido uno superficial que asustó a Caracas",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
     },
     {
       "time": "Infobae",
@@ -33,6 +43,11 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
     },
     {
+      "time": "eldiario.com",
+      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
+    },
+    {
       "time": "Telemundo Miami (51)",
       "message": "Reportan sismo de 4.0 cerca de La Guaira, la zona más afectada por el doble terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPck1HQWltUkpsandsRWt4eDNKcVNzSUVienU4ZF96NVVnbG9RNm5GNk1ieElUYVQtUEtSRGl4Rmt0M3VIeFNHbmZ5VG1CelR6d3NtRjdoLW9qcklHLUdISzRDd2JTdEZ5U09wbENtekxVYnZlOUxEQVoxNXJhQlFPTmVDYllnNFdUb1BfdnhBTmY3Yjl0OGtCd1UzOVhLMmQwUnBET0ZNNmprNzdjdlhLUlNlMlFEWEwyVkhENEVXVjVjQVY5Nm1YekNsMm5ycHpiS1NjM3Y4T3plQ1lXTjVpbld5V2VGWXVI0gHwAUFVX3lxTE9HVHE5YnVhZ2htc1FXeFdfZU5vRUxRRFNCOFROblN1MEtacVhJRHkxZThyVEFHOERYOFZPMVplUWRRbEVHTFY1Smc5M3c2VnVERTItMWVOUnRRT1Zpa2ZtNWxtTWVTSW9aWlRQSnZnaFBXTGw0R2NTSWIxSlBjLTVqQms5NlJ6ME1MOThQRmk3WDRYX3F3N0JySXJvNU5DQ0dydi1xMWhfdXpZRGFScUd3cWdXbjNXM2lqaktvb0M2X293cnpETWhKZ0Z4UDZlUFlsS2lGdlV2c203QlVuUVNkVlJDWmd2YXowbUwwTXo4MQ?oc=5"
@@ -41,21 +56,6 @@
       "time": "facebook.com",
       "message": "#EnVideo| Fuerte sismo de magnitud superior a 4,0 en el centro del país Cerca de las 3:07 a. m. se registró un temblor con epicentro en las costas del estado La Guaira. El movimiento se percibió en distintos puntos de Caracas y del litoral central. Cámaras d",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWFyb0JpT2tHWmJTUlhJU1JzWFlYOWl3LWlXSDJTRnl1MnhxenZCRGk2NWRURHNrQ1h5QzVnTDZvZ1puNnlwV2w3NmZfNG9WQ3hTdmh3OUJPeFV2OUkzel9xR2p1ekFCUmNRejZ0UzhmVnhTbU1GbUNTZnJ6MWMzUHpYbzFLbWhCRUpaWXBaRGtHNW83eXpSNk1Ncl9lMVduNmV1ZWNER0VlaU9CY196anZlQUVBNEh2eWZ6YmFxb291TWJhcHBaYkNEcE1WYmhZeW16RDRwR1ZlSjZRMFJv?oc=5"
-    },
-    {
-      "time": "instagram.com",
-      "message": "#Repost: Fundación Venezolana de Investigaciones Sismológicas (@funvisis) FUNVISIS Sismo 22/08/2026 20:21 Mag (Mw): 3.4 Prof: 10.1 km Epicentro: 10.620 N -67.024 O 11 km al oeste de La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zNWUyV2JPenlncWNoeHZIdklXTm9rY0pvaFgxU0FFS25vNWZySTV5eVNUeHNJM1VGWnJQbGRNLWRQSWtmMVJzenJFZ2NzdmZKREE?oc=5"
-    },
-    {
-      "time": "elcolombiano.com",
-      "message": "Volvió a temblar en Venezuela: sismo sacudió a La Guaira, zona afectada por los terremotos en junio | El Colombiano",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldqS3lCUU02TkcwVmdVZ0w2blhBYXhWSXh5emZob0xVMGhuSExzeUdVWkxyVy02Zl92NjhsSC1oUUtnR1hUcHUyU3gtVVJHb1Z3TnVjY3prZDhoWFlaVkFzTEFtLVJpaGMzZ1lOaFJ2dU9UVzE0cmJwZnBSSGFzMUN0WUwzT3M1YXB0MUlyc2pYZ9IBlwFBVV95cUxQQTVoQnVtMVphVkhQakQybkFYNXlvTjEzSHcyX05nbC1ESVZ5dU9xMHdUUVcxMmlTU0g5bHRzR1c2T2FYeTZQdnNPNWRLRGx4NEcxQk8yTHdaeGNZdVJ1YTVSdy10LXJxNmRuOWJZTkJNSTJDSE9wcnQ0M2E4Q2draC00SGYycGtwYzQ0anBaQWhWSENiVXdJ?oc=5"
-    },
-    {
-      "time": "eltiempo.com",
-      "message": "Sismo de magnitud 4,0 ocurrió este martes 18 de agosto en La Guaira, Venezuela: conozca los detalles del movimiento y el reporte oficial",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV3MxV0pKUEl2SjZVcERyc3o1NkN6aHlCeE5FdG5tWVFpZXdQV3ZycXU4ZEZVaVFuWUE1RFhNWWhHTnR0WDBobUJ0OHk5SHlxOF84Nk02VTFIeHJ1WmgtdjVfVUxScWUxTFpOSmNRbFhqY3pld0tpc0hqb2lRLWw0SEM0NnpLZkV3SncyeTBuYlpZSXhSdmc5UXFHanA0VEJhRnV5a2Z6eVExVGFtS2g5Y1draXItaWVEeG9oemlzYzF6aUN0a1BtX2hucG5Pa3FPWldOeVJjNnVTeWtZM2ZudlpWVnNLS05sZ3hzaVdPNGY1T0ZTd0UxUnhQZ0k1Z2JodU94dV9tb2g5UWlJWVdlQXdmWFVZd9IBmwJBVV95cUxNSUUyOFZtN1ZJcmZZSXlYSVZaWXdVWGdPbUJRMEdFVW92R1hFNGEybGlqeEZTVTdHa2RhS3VCYjlraEJjNks2U3kyT0ozMEYwNks2ZXl6cUtWQXJqYVR2RlZ5cG5WQjZ6cENOZDczR3NndjU5cmVCdkxnMFJoV3hhd205cUJLNUlneGUtQ0NFVC13djhUVy1GeVhwdmdMNFd6RGtMaU10bUFWdHV6ekhXY3p2dTJ0SHJUMFlFVzdycUlVLXhHdDhRb2syUV9qMFlGV3dNLWdOYW1iZWsxQndEZUtFZ3pfT1NITG12UDdXTWF5X1BtYloxTFZVUjJBa2RZTk9RLV9QbG1DdTU3YXVuSDR3NGRMdlFQNHRB?oc=5"
     }
   ]
 }
