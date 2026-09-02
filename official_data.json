@@ -6,56 +6,5 @@
     "safe": 14639,
     "deceased": 4930
   },
-  "reports": [
-    {
-      "time": "BBC",
-      "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
-    },
-    {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Tres sismos sacuden distintas zonas de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
-    },
-    {
-      "time": "NTN24",
-      "message": "Venezuela registra nuevos sismos: temblores sacudieron distintas regiones incluido uno superficial que asustó a Caracas",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
-    },
-    {
-      "time": "Infobae",
-      "message": "Controles nulos y escombros: el resultado de las construcciones chinas en La Guaira, el núcleo del sismo en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPazhGM2MwaHlkZDBjcEQ2bHpEcF81SWZZZ0RPU2NBM1JNa0ZkMUQ0aEFIbjJfdi0teWY2akxpeFYwOWR5VlVRM0pMU0V2Z3Atb2dIVHpEVHRqT3BaUjR3YUdFS1UzRGRBZ1FFdnJ3clBXVXhZaHQ4RDk3dzFJZ3lvb0oxSW0weV8xS1BVbkNTcW5BYXRRVDhoS2drXzJ2dG8yM1VkZ2xlUkQ0d1VoZFAwNHdmUzFTY2ttN21aNnBVR1N1UG1BZ1dfal9YUUliTkRaVjZaM1ljekd6dEgtd2VDY3hhTVgyVVFheGswSzJtQ3UyZzTSAY4CQVVfeXFMTU5OUEFwd0ZGaC1POTQzZ3ZVMTVhSkppMzRVOVFxbWtZd2VLWW9YNFpPeFFHN05QYVM4Q1d4OWJleU5TSXJaNGdoamQtN2xrOUZJY2IweFR1QVllakhwZGJtYnlfN00zVnJJZmJFSVN0TEVJdUlmaUZ1dFlZaUthRkI1bDlBNWtDSFUxRjFhbjl4Y3RLVGN3Q21hOFdGQlNzSFZ6VnBwMWpTY2NLa3IxWEtBQ1Y4VXBndHc1V2FsZVVhdFY5WllwMlBzb2I4bVZKMm03U0FZTTBOLWt6ckRWWlkzMzNDTEV5T1Q0SkkxR1hiemZFb2tfdDQ4LU9CQW9JcGQ2OUk2eVUyeXJGMjNn?oc=5"
-    },
-    {
-      "time": "EL PAÍS",
-      "message": "A dos meses de los terremotos en Venezuela, La Guaira regresa al trabajo sin turismo y entre los escombros",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUDd5dEdrclNUWDhPMENPTVROcGx2VWFnbzc4SFg1c0FKZ0J5ZjJ3eHg1Q2ZUbWdfYnk4bEpqSzA2Uk5NZXJDcGhTNDI3dG5wUGhpbmdTaDhlZ0lvNmhjR1RIVmpKZTlsM01wQnJta3JaMTFleFd6U1NGeXF2RWNmVzFELUVWWWZFNG9sdnRUTWFnNDEzbDZsc0RONDRJRGRMalR2Tjc5UGxxWDdjaFhJT2JjNkd3aWRMRVBvQ0VWZXl6UEI3S0FPVjVZckFXb3YtQkNQUmxGQ2FQMnBMR0Z4VVZR0gH2AUFVX3lxTE02bDdQSm9ka3gxdXBJMnp5bXRLVzhyVEpYZ3Ffcm5hYi0zZVROenVSNUl0TW1kdjRvLW5kc2FhM3lMMUxQdElsdDdEcHJoemc3a1Mzc25UckxsTWFHNk1NMnlzU2o1WkZPb2hQdXluUkJ6NVBVZ2RTX0J1dnh2QzJhZW5MWjVqTmdaSTJOMnVkWHcxa0t3endLdjlNelU5SW9hYk9SdFZBTjFDUWdjd2p2a2V3Q2pBeWFlWC1xb0w3RVlmTTRMblQ1ZlhielVPdWlVT1pWUnUta1ZNbm9TUHZ4Z2NJbUNXa0tFcHBYMnJlVThEZkRSUQ?oc=5"
-    },
-    {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
-    },
-    {
-      "time": "eldiario.com",
-      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
-    },
-    {
-      "time": "Telemundo Miami (51)",
-      "message": "Reportan sismo de 4.0 cerca de La Guaira, la zona más afectada por el doble terremoto en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPck1HQWltUkpsandsRWt4eDNKcVNzSUVienU4ZF96NVVnbG9RNm5GNk1ieElUYVQtUEtSRGl4Rmt0M3VIeFNHbmZ5VG1CelR6d3NtRjdoLW9qcklHLUdISzRDd2JTdEZ5U09wbENtekxVYnZlOUxEQVoxNXJhQlFPTmVDYllnNFdUb1BfdnhBTmY3Yjl0OGtCd1UzOVhLMmQwUnBET0ZNNmprNzdjdlhLUlNlMlFEWEwyVkhENEVXVjVjQVY5Nm1YekNsMm5ycHpiS1NjM3Y4T3plQ1lXTjVpbld5V2VGWXVI0gHwAUFVX3lxTE9HVHE5YnVhZ2htc1FXeFdfZU5vRUxRRFNCOFROblN1MEtacVhJRHkxZThyVEFHOERYOFZPMVplUWRRbEVHTFY1Smc5M3c2VnVERTItMWVOUnRRT1Zpa2ZtNWxtTWVTSW9aWlRQSnZnaFBXTGw0R2NTSWIxSlBjLTVqQms5NlJ6ME1MOThQRmk3WDRYX3F3N0JySXJvNU5DQ0dydi1xMWhfdXpZRGFScUd3cWdXbjNXM2lqaktvb0M2X293cnpETWhKZ0Z4UDZlUFlsS2lGdlV2c203QlVuUVNkVlJDWmd2YXowbUwwTXo4MQ?oc=5"
-    },
-    {
-      "time": "facebook.com",
-      "message": "#EnVideo| Fuerte sismo de magnitud superior a 4,0 en el centro del país Cerca de las 3:07 a. m. se registró un temblor con epicentro en las costas del estado La Guaira. El movimiento se percibió en distintos puntos de Caracas y del litoral central. Cámaras d",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTWFyb0JpT2tHWmJTUlhJU1JzWFlYOWl3LWlXSDJTRnl1MnhxenZCRGk2NWRURHNrQ1h5QzVnTDZvZ1puNnlwV2w3NmZfNG9WQ3hTdmh3OUJPeFV2OUkzel9xR2p1ekFCUmNRejZ0UzhmVnhTbU1GbUNTZnJ6MWMzUHpYbzFLbWhCRUpaWXBaRGtHNW83eXpSNk1Ncl9lMVduNmV1ZWNER0VlaU9CY196anZlQUVBNEh2eWZ6YmFxb291TWJhcHBaYkNEcE1WYmhZeW16RDRwR1ZlSjZRMFJv?oc=5"
-    }
-  ]
+  "reports": []
 }
