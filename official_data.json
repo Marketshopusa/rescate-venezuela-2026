@@ -8,9 +8,14 @@
   },
   "reports": [
     {
-      "time": "ReliefWeb",
+      "time": "reliefweb.int",
       "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
     },
     {
       "time": "DW.com",
@@ -23,9 +28,14 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
     },
     {
-      "time": "Infobae",
-      "message": "Controles nulos y escombros: el resultado de las construcciones chinas en La Guaira, el núcleo del sismo en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPazhGM2MwaHlkZDBjcEQ2bHpEcF81SWZZZ0RPU2NBM1JNa0ZkMUQ0aEFIbjJfdi0teWY2akxpeFYwOWR5VlVRM0pMU0V2Z3Atb2dIVHpEVHRqT3BaUjR3YUdFS1UzRGRBZ1FFdnJ3clBXVXhZaHQ4RDk3dzFJZ3lvb0oxSW0weV8xS1BVbkNTcW5BYXRRVDhoS2drXzJ2dG8yM1VkZ2xlUkQ0d1VoZFAwNHdmUzFTY2ttN21aNnBVR1N1UG1BZ1dfal9YUUliTkRaVjZaM1ljekd6dEgtd2VDY3hhTVgyVVFheGswSzJtQ3UyZzTSAY4CQVVfeXFMTU5OUEFwd0ZGaC1POTQzZ3ZVMTVhSkppMzRVOVFxbWtZd2VLWW9YNFpPeFFHN05QYVM4Q1d4OWJleU5TSXJaNGdoamQtN2xrOUZJY2IweFR1QVllakhwZGJtYnlfN00zVnJJZmJFSVN0TEVJdUlmaUZ1dFlZaUthRkI1bDlBNWtDSFUxRjFhbjl4Y3RLVGN3Q21hOFdGQlNzSFZ6VnBwMWpTY2NLa3IxWEtBQ1Y4VXBndHc1V2FsZVVhdFY5WllwMlBzb2I4bVZKMm03U0FZTTBOLWt6ckRWWlkzMzNDTEV5T1Q0SkkxR1hiemZFb2tfdDQ4LU9CQW9JcGQ2OUk2eVUyeXJGMjNn?oc=5"
+      "time": "EL PAÍS",
+      "message": "El principal aeropuerto de Venezuela vuelve a operar dos meses después del terremoto",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXVEUm8zcG5qVUVEb1d4eDlFTllJSkhxdU4tWk8zaUFTTWhRR01qN1drbFJtcDhwNXFWNzFHbExwa1ZyYXdnckQwU1lXSHo0RkNUcmFkdWJBOEoybEpRdl9yS1lKQ3NBVFdiTUJCaC0zSDc4RWFURjhWR3VQMTFnd1VVUlhHVk16S25XR1E3REtGZVY1dzJUUXZJWDB6Y3o2S3p6RXg2cDN6S1J4N1cyRWp5SWFKVG5haHRTQTRXTjRrU2Z6QklWTNIB3AFBVV95cUxPQWNFQVBVOFJibW1ZZ2hpaE44aXl5c0lKNk5MX0I4R1FQTmt0RTRIZUVtemVtTzkycS0yaUljTENQYUtFaUxjZ2hJRGEyRjQzTXJIa1lRWE1PS0xrRFFRMjJubWxPNi1MTVpQZEhwam9jTW1uRFZfNDFKTDRCbV9Cb3hRU0FmVzBLVkxYdkZVYUxCdmsyNmU5NXRWUEJvY25kMmdIelM1UVhJRmRXaTdvNDQxbnkzbVRqVEpFYjdiVjlzX2FJVzVIZ0lKYlZnM1NMYkcycE56M2tnell0?oc=5"
+    },
+    {
+      "time": "El Diario Venezuela",
+      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
     },
     {
       "time": "facebook.com",
@@ -38,24 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPck1HQWltUkpsandsRWt4eDNKcVNzSUVienU4ZF96NVVnbG9RNm5GNk1ieElUYVQtUEtSRGl4Rmt0M3VIeFNHbmZ5VG1CelR6d3NtRjdoLW9qcklHLUdISzRDd2JTdEZ5U09wbENtekxVYnZlOUxEQVoxNXJhQlFPTmVDYllnNFdUb1BfdnhBTmY3Yjl0OGtCd1UzOVhLMmQwUnBET0ZNNmprNzdjdlhLUlNlMlFEWEwyVkhENEVXVjVjQVY5Nm1YekNsMm5ycHpiS1NjM3Y4T3plQ1lXTjVpbld5V2VGWXVI0gHwAUFVX3lxTE9HVHE5YnVhZ2htc1FXeFdfZU5vRUxRRFNCOFROblN1MEtacVhJRHkxZThyVEFHOERYOFZPMVplUWRRbEVHTFY1Smc5M3c2VnVERTItMWVOUnRRT1Zpa2ZtNWxtTWVTSW9aWlRQSnZnaFBXTGw0R2NTSWIxSlBjLTVqQms5NlJ6ME1MOThQRmk3WDRYX3F3N0JySXJvNU5DQ0dydi1xMWhfdXpZRGFScUd3cWdXbjNXM2lqaktvb0M2X293cnpETWhKZ0Z4UDZlUFlsS2lGdlV2c203QlVuUVNkVlJDWmd2YXowbUwwTXo4MQ?oc=5"
     },
     {
-      "time": "laradiodelsur.com.ve",
-      "message": "Venezuela: sismo magnitud 3.6 afectó al estado Mérida",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3dxc005dnlxdFBLbTlPajVPN3d1ZGVkbEQ4MXRuZGNBZjZHVUthMHkzZlZ3a0MyU2hLVWlkRDctMWJCQlJKUURnekdlZERxWEdKcGFhOExOalp2QXV5RmJBWXk4MHRNQURVMk82bHBkNXdkempKTVVWdTNQOURoaUt6enYycV9OYVA4eUtzUQ?oc=5"
-    },
-    {
-      "time": "El Colombiano",
-      "message": "Volvió a temblar en Venezuela: sismo sacudió a La Guaira, zona afectada por los terremotos en junio | El Colombiano",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldqS3lCUU02TkcwVmdVZ0w2blhBYXhWSXh5emZob0xVMGhuSExzeUdVWkxyVy02Zl92NjhsSC1oUUtnR1hUcHUyU3gtVVJHb1Z3TnVjY3prZDhoWFlaVkFzTEFtLVJpaGMzZ1lOaFJ2dU9UVzE0cmJwZnBSSGFzMUN0WUwzT3M1YXB0MUlyc2pYZ9IBlwFBVV95cUxQQTVoQnVtMVphVkhQakQybkFYNXlvTjEzSHcyX05nbC1ESVZ5dU9xMHdUUVcxMmlTU0g5bHRzR1c2T2FYeTZQdnNPNWRLRGx4NEcxQk8yTHdaeGNZdVJ1YTVSdy10LXJxNmRuOWJZTkJNSTJDSE9wcnQ0M2E4Q2draC00SGYycGtwYzQ0anBaQWhWSENiVXdJ?oc=5"
-    },
-    {
       "time": "Mongabay Latam",
       "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
     },
     {
-      "time": "El Tiempo",
-      "message": "Sismo de magnitud 4,0 ocurrió este martes 18 de agosto en La Guaira, Venezuela: conozca los detalles del movimiento y el reporte oficial",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV3MxV0pKUEl2SjZVcERyc3o1NkN6aHlCeE5FdG5tWVFpZXdQV3ZycXU4ZEZVaVFuWUE1RFhNWWhHTnR0WDBobUJ0OHk5SHlxOF84Nk02VTFIeHJ1WmgtdjVfVUxScWUxTFpOSmNRbFhqY3pld0tpc0hqb2lRLWw0SEM0NnpLZkV3SncyeTBuYlpZSXhSdmc5UXFHanA0VEJhRnV5a2Z6eVExVGFtS2g5Y1draXItaWVEeG9oemlzYzF6aUN0a1BtX2hucG5Pa3FPWldOeVJjNnVTeWtZM2ZudlpWVnNLS05sZ3hzaVdPNGY1T0ZTd0UxUnhQZ0k1Z2JodU94dV9tb2g5UWlJWVdlQXdmWFVZd9IBmwJBVV95cUxNSUUyOFZtN1ZJcmZZSXlYSVZaWXdVWGdPbUJRMEdFVW92R1hFNGEybGlqeEZTVTdHa2RhS3VCYjlraEJjNks2U3kyT0ozMEYwNks2ZXl6cUtWQXJqYVR2RlZ5cG5WQjZ6cENOZDczR3NndjU5cmVCdkxnMFJoV3hhd205cUJLNUlneGUtQ0NFVC13djhUVy1GeVhwdmdMNFd6RGtMaU10bUFWdHV6ekhXY3p2dTJ0SHJUMFlFVzdycUlVLXhHdDhRb2syUV9qMFlGV3dNLWdOYW1iZWsxQndEZUtFZ3pfT1NITG12UDdXTWF5X1BtYloxTFZVUjJBa2RZTk9RLV9QbG1DdTU3YXVuSDR3NGRMdlFQNHRB?oc=5"
+      "time": "El Colombiano",
+      "message": "Volvió a temblar en Venezuela: sismo sacudió a La Guaira, zona afectada por los terremotos en junio | El Colombiano",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldqS3lCUU02TkcwVmdVZ0w2blhBYXhWSXh5emZob0xVMGhuSExzeUdVWkxyVy02Zl92NjhsSC1oUUtnR1hUcHUyU3gtVVJHb1Z3TnVjY3prZDhoWFlaVkFzTEFtLVJpaGMzZ1lOaFJ2dU9UVzE0cmJwZnBSSGFzMUN0WUwzT3M1YXB0MUlyc2pYZ9IBlwFBVV95cUxQQTVoQnVtMVphVkhQakQybkFYNXlvTjEzSHcyX05nbC1ESVZ5dU9xMHdUUVcxMmlTU0g5bHRzR1c2T2FYeTZQdnNPNWRLRGx4NEcxQk8yTHdaeGNZdVJ1YTVSdy10LXJxNmRuOWJZTkJNSTJDSE9wcnQ0M2E4Q2draC00SGYycGtwYzQ0anBaQWhWSENiVXdJ?oc=5"
     }
   ]
 }
