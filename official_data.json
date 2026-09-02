@@ -6,5 +6,56 @@
     "safe": 14639,
     "deceased": 4930
   },
-  "reports": []
+  "reports": [
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Tres sismos sacuden distintas zonas de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
+    },
+    {
+      "time": "NTN24",
+      "message": "Venezuela registra nuevos sismos: temblores sacudieron distintas regiones incluido uno superficial que asustó a Caracas",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Controles nulos y escombros: el resultado de las construcciones chinas en La Guaira, el núcleo del sismo en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPazhGM2MwaHlkZDBjcEQ2bHpEcF81SWZZZ0RPU2NBM1JNa0ZkMUQ0aEFIbjJfdi0teWY2akxpeFYwOWR5VlVRM0pMU0V2Z3Atb2dIVHpEVHRqT3BaUjR3YUdFS1UzRGRBZ1FFdnJ3clBXVXhZaHQ4RDk3dzFJZ3lvb0oxSW0weV8xS1BVbkNTcW5BYXRRVDhoS2drXzJ2dG8yM1VkZ2xlUkQ0d1VoZFAwNHdmUzFTY2ttN21aNnBVR1N1UG1BZ1dfal9YUUliTkRaVjZaM1ljekd6dEgtd2VDY3hhTVgyVVFheGswSzJtQ3UyZzTSAY4CQVVfeXFMTU5OUEFwd0ZGaC1POTQzZ3ZVMTVhSkppMzRVOVFxbWtZd2VLWW9YNFpPeFFHN05QYVM4Q1d4OWJleU5TSXJaNGdoamQtN2xrOUZJY2IweFR1QVllakhwZGJtYnlfN00zVnJJZmJFSVN0TEVJdUlmaUZ1dFlZaUthRkI1bDlBNWtDSFUxRjFhbjl4Y3RLVGN3Q21hOFdGQlNzSFZ6VnBwMWpTY2NLa3IxWEtBQ1Y4VXBndHc1V2FsZVVhdFY5WllwMlBzb2I4bVZKMm03U0FZTTBOLWt6ckRWWlkzMzNDTEV5T1Q0SkkxR1hiemZFb2tfdDQ4LU9CQW9JcGQ2OUk2eVUyeXJGMjNn?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "#Ahora 🚨 | La Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportó un sismo de magnitud 3.4 en la costa central de Venezuela la noche de este sábado. El evento telúrico ocurrió a las 8:21 p. m. hora local y registró una profundidad d",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeld4T3E0Z0VPTGFTdC1BckEtUXVzZU1VX2hmRWU0VVI2R1hDaW1uVW1NZjBWT2lGMTh1ODduY2M3Qy1DZ0VZeWUtbkI3M2x2ZkRSdHp6REI0V3ZJZDJNSVJxQzVxRU1NQjRUSDVsc19IRXRnY1plVDlPMUJGM2dxMkJUZUxROXJTeG5fY3pzMngxc3czMll0dDdSaWotclZ1eVRGdlByNUlYTm9nZjNaOEhxcEVjZWdlYUdpWmMyaC1XcWg3YmdZT2NLUU43RlJGODI4N3NqbEplUVpYS0hVUFd4QWNJRnFiT3VhZg?oc=5"
+    },
+    {
+      "time": "Telemundo Miami (51)",
+      "message": "Reportan sismo de 4.0 cerca de La Guaira, la zona más afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPck1HQWltUkpsandsRWt4eDNKcVNzSUVienU4ZF96NVVnbG9RNm5GNk1ieElUYVQtUEtSRGl4Rmt0M3VIeFNHbmZ5VG1CelR6d3NtRjdoLW9qcklHLUdISzRDd2JTdEZ5U09wbENtekxVYnZlOUxEQVoxNXJhQlFPTmVDYllnNFdUb1BfdnhBTmY3Yjl0OGtCd1UzOVhLMmQwUnBET0ZNNmprNzdjdlhLUlNlMlFEWEwyVkhENEVXVjVjQVY5Nm1YekNsMm5ycHpiS1NjM3Y4T3plQ1lXTjVpbld5V2VGWXVI0gHwAUFVX3lxTE9HVHE5YnVhZ2htc1FXeFdfZU5vRUxRRFNCOFROblN1MEtacVhJRHkxZThyVEFHOERYOFZPMVplUWRRbEVHTFY1Smc5M3c2VnVERTItMWVOUnRRT1Zpa2ZtNWxtTWVTSW9aWlRQSnZnaFBXTGw0R2NTSWIxSlBjLTVqQms5NlJ6ME1MOThQRmk3WDRYX3F3N0JySXJvNU5DQ0dydi1xMWhfdXpZRGFScUd3cWdXbjNXM2lqaktvb0M2X293cnpETWhKZ0Z4UDZlUFlsS2lGdlV2c203QlVuUVNkVlJDWmd2YXowbUwwTXo4MQ?oc=5"
+    },
+    {
+      "time": "laradiodelsur.com.ve",
+      "message": "Venezuela: sismo magnitud 3.6 afectó al estado Mérida",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3dxc005dnlxdFBLbTlPajVPN3d1ZGVkbEQ4MXRuZGNBZjZHVUthMHkzZlZ3a0MyU2hLVWlkRDctMWJCQlJKUURnekdlZERxWEdKcGFhOExOalp2QXV5RmJBWXk4MHRNQURVMk82bHBkNXdkempKTVVWdTNQOURoaUt6enYycV9OYVA4eUtzUQ?oc=5"
+    },
+    {
+      "time": "El Colombiano",
+      "message": "Volvió a temblar en Venezuela: sismo sacudió a La Guaira, zona afectada por los terremotos en junio | El Colombiano",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaldqS3lCUU02TkcwVmdVZ0w2blhBYXhWSXh5emZob0xVMGhuSExzeUdVWkxyVy02Zl92NjhsSC1oUUtnR1hUcHUyU3gtVVJHb1Z3TnVjY3prZDhoWFlaVkFzTEFtLVJpaGMzZ1lOaFJ2dU9UVzE0cmJwZnBSSGFzMUN0WUwzT3M1YXB0MUlyc2pYZ9IBlwFBVV95cUxQQTVoQnVtMVphVkhQakQybkFYNXlvTjEzSHcyX05nbC1ESVZ5dU9xMHdUUVcxMmlTU0g5bHRzR1c2T2FYeTZQdnNPNWRLRGx4NEcxQk8yTHdaeGNZdVJ1YTVSdy10LXJxNmRuOWJZTkJNSTJDSE9wcnQ0M2E4Q2draC00SGYycGtwYzQ0anBaQWhWSENiVXdJ?oc=5"
+    },
+    {
+      "time": "Mongabay Latam",
+      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
+    },
+    {
+      "time": "El Tiempo",
+      "message": "Sismo de magnitud 4,0 ocurrió este martes 18 de agosto en La Guaira, Venezuela: conozca los detalles del movimiento y el reporte oficial",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV3MxV0pKUEl2SjZVcERyc3o1NkN6aHlCeE5FdG5tWVFpZXdQV3ZycXU4ZEZVaVFuWUE1RFhNWWhHTnR0WDBobUJ0OHk5SHlxOF84Nk02VTFIeHJ1WmgtdjVfVUxScWUxTFpOSmNRbFhqY3pld0tpc0hqb2lRLWw0SEM0NnpLZkV3SncyeTBuYlpZSXhSdmc5UXFHanA0VEJhRnV5a2Z6eVExVGFtS2g5Y1draXItaWVEeG9oemlzYzF6aUN0a1BtX2hucG5Pa3FPWldOeVJjNnVTeWtZM2ZudlpWVnNLS05sZ3hzaVdPNGY1T0ZTd0UxUnhQZ0k1Z2JodU94dV9tb2g5UWlJWVdlQXdmWFVZd9IBmwJBVV95cUxNSUUyOFZtN1ZJcmZZSXlYSVZaWXdVWGdPbUJRMEdFVW92R1hFNGEybGlqeEZTVTdHa2RhS3VCYjlraEJjNks2U3kyT0ozMEYwNks2ZXl6cUtWQXJqYVR2RlZ5cG5WQjZ6cENOZDczR3NndjU5cmVCdkxnMFJoV3hhd205cUJLNUlneGUtQ0NFVC13djhUVy1GeVhwdmdMNFd6RGtMaU10bUFWdHV6ekhXY3p2dTJ0SHJUMFlFVzdycUlVLXhHdDhRb2syUV9qMFlGV3dNLWdOYW1iZWsxQndEZUtFZ3pfT1NITG12UDdXTWF5X1BtYloxTFZVUjJBa2RZTk9RLV9QbG1DdTU3YXVuSDR3NGRMdlFQNHRB?oc=5"
+    }
+  ]
 }
