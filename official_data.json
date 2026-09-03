@@ -8,9 +8,24 @@
   },
   "reports": [
     {
+      "time": "BBC",
+      "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "#EnVideo| Secretario de Energía Wright inspecciona zonas afectadas por el sismo en Caracas El secretario de Energía, Chris Wright, visitó los puntos de recuperación en la capital venezolana tras el reciente terremoto. Durante el recorrido, se evaluaron los tr",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWXcyN2JndjBpS2lNTEV6Q0R4ZkVhSkYzSGI0TnBpRTVqZG9MQTlzT1EzMURiQVJNa0E1MTBaTi05a2ZoTTRuSzJnX2hmV2tuRnpwRjkzd0FUR2lMWVh4MlhibUpHR2ZQVk1IdjNaQm1wdDhFX2hsUThCXy03NWtoeW5xeEZsZTJvYmxZaWk3cDZtRFl1RzNHaTdFRi1qcFR6MXgwOVd0LWo2M3pxcEk5SUN6VklIY2xieGFGeEtvOWVjWDNoVnRlX1ByeThpMnRoeHVSS085TW1QRWUwTmdpcQ?oc=5"
+    },
+    {
       "time": "dw.com",
       "message": "Tres sismos sacuden distintas zonas de Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
+    },
+    {
+      "time": "Yvke Mundial",
+      "message": "Venezuela recibe donación de Malasia para atender a los afectados por los sismos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGdxQjc4OFB0OGVlY3dhZGtkNDFSczc3WGJ3Y19udUxteUdrWDJ1U05MLTlaX0dIMTdPUXJOREJydzl3dHhkVXZqSmlOVTF1dEc0QTlWNEpuYnByQUQyTzIxc3psT29NUlFBYy1kLTU5d09LN3JDbjJLSWltWjlDUWNHb0o1Uk9LS0dtcWdrN2lycWJ1U0dFU21zS3h5SEVONDdJdE9ZbXEzMFVvSXc?oc=5"
     },
     {
       "time": "instagram.com",
@@ -21,11 +36,6 @@
       "time": "NTN24",
       "message": "Venezuela registra nuevos sismos: temblores sacudieron distintas regiones incluido uno superficial que asustó a Caracas",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
-    },
-    {
-      "time": "facebook.com",
-      "message": "#Ahora 🚨 | La Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportó un sismo de magnitud 3.4 en la costa central de Venezuela la noche de este sábado. El evento telúrico ocurrió a las 8:21 p. m. hora local y registró una profundidad d",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeld4T3E0Z0VPTGFTdC1BckEtUXVzZU1VX2hmRWU0VVI2R1hDaW1uVW1NZjBWT2lGMTh1ODduY2M3Qy1DZ0VZeWUtbkI3M2x2ZkRSdHp6REI0V3ZJZDJNSVJxQzVxRU1NQjRUSDVsc19IRXRnY1plVDlPMUJGM2dxMkJUZUxROXJTeG5fY3pzMngxc3czMll0dDdSaWotclZ1eVRGdlByNUlYTm9nZjNaOEhxcEVjZWdlYUdpWmMyaC1XcWg3YmdZT2NLUU43RlJGODI4N3NqbEplUVpYS0hVUFd4QWNJRnFiT3VhZg?oc=5"
     },
     {
       "time": "Agencia de noticias",
@@ -46,16 +56,6 @@
       "time": "Telemundo Miami (51)",
       "message": "Magnitud similar: ¿Tiene el terremoto de Colombia relación con los de Venezuela?",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcnNsN1RhdWxJa0dNVmFfSm9yNkJVWTVucjl5elNUdS1GRXdXb1RoUEFLZ1JNZG9oNFZpV3YxdHhseTdid1N2aXFOT0NLZmQyZmQtMGlnOUI1RklQOGJ5dFRscjUyNVFRVnlvZzJhVzNmVmduTFhfUVFWYnFvcUFfdE5TM282ZmFwVE40MHF5bXhOdlBaTExQVVR1TUxJTVZ6MmZ3MHlQNlloWFZLZ1I3OFVGZ0p5Z0hMNFVPYVFtUk01WEw2ZS14Tjh1cmVDcVQt0gHYAUFVX3lxTE1vem5qVWFMb3BfQ2I5ZVlXN2UySENWU21wVlI3b05BWk0yVWVoR3RBOG9tWHAxSDk1b3ptUTgzZzRrUi00TkZzSXY3bWJXVS1aanJwZlRMVDVNV3FCTXV6NTdaV1N1Rk1JSUktdGlyMUNuSzNTbnJqS0ZFZ1NFY1pETmF3YXJHdC1LVy1Fbkh5LU82MFl4R3prRWdtU3hzbkJFQS1aRWwzOHlGMTM0RU1vQS1la0R2WjJjd1FOazhrak1rRHBleGFZRG9PZXlYTlZKVkdhN2ZVZA?oc=5"
-    },
-    {
-      "time": "CiberCuba",
-      "message": "Ascienden a 6,509 los fallecidos por sismos en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2FpZ1AwSmdGeUhSdk83bDMxRHJidURwRjZoMy13R1ZMQklqdXBWRGVfSkRGUUFpYTdjUnJ2aDB3bUxUWnVhV3k5RWppRmZPaktuZnBoUU5MV1VUck1LTlZZU1lZWmEwcE9JdDd1S1YyWkkzb0F2ajJfajh0WjlCd2NhWWNOZnJUU18tdDBMcVJudUpKSENUZG5ZT2wzNHBqdUFKZWlaRi1jZmdIYmM5MUZGVXA2Y0NLQkNvYlZ30gG-AUFVX3lxTE9zYWlnUDBKZ0Z5SFJ2TzdsMzFEcmJ1RHBGNmgzLXdHVkxCSWp1cFZEZV9KREZRQWlhN2NScnZoMHdtTFRadWFXeTlFamlGZk9qS25mcGhRTkxXVVRyTUtOVllTWVlaYTBwT0l0N3VLVjJaSTNvQXZqMl9qOHRaOUJ3Y2FZY05mclRTXy10MExxUm51SkpIQ1RkbllPbDM0cGp1QUplaVpGLWNmZ0hiYzkxRkZVcDZjQ0tCQ29iVnc?oc=5"
-    },
-    {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
     }
   ]
 }
