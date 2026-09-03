@@ -6,5 +6,56 @@
     "safe": 14639,
     "deceased": 4930
   },
-  "reports": []
+  "reports": [
+    {
+      "time": "dw.com",
+      "message": "Tres sismos sacuden distintas zonas de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
+    },
+    {
+      "time": "instagram.com",
+      "message": "Funvisis reporta sismo de 2.3 a 14 kilómetros al oeste de Caracas Autoridades de la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) informaron que un sismo de magnitud 2.3 fue reportado este viernes 28 de agosto a las 9:58 de la mañan",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uQ3ppMzVXQlpxb19DNUtBNEtvc0ZsakFzZlBBWDA2V3lGS0hpWE1SdHlLQXV0R2E3TnV2NlVkWGpiaXo0dkMzS1o3eTVNMktmUEE?oc=5"
+    },
+    {
+      "time": "NTN24",
+      "message": "Venezuela registra nuevos sismos: temblores sacudieron distintas regiones incluido uno superficial que asustó a Caracas",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "#Ahora 🚨 | La Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportó un sismo de magnitud 3.4 en la costa central de Venezuela la noche de este sábado. El evento telúrico ocurrió a las 8:21 p. m. hora local y registró una profundidad d",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeld4T3E0Z0VPTGFTdC1BckEtUXVzZU1VX2hmRWU0VVI2R1hDaW1uVW1NZjBWT2lGMTh1ODduY2M3Qy1DZ0VZeWUtbkI3M2x2ZkRSdHp6REI0V3ZJZDJNSVJxQzVxRU1NQjRUSDVsc19IRXRnY1plVDlPMUJGM2dxMkJUZUxROXJTeG5fY3pzMngxc3czMll0dDdSaWotclZ1eVRGdlByNUlYTm9nZjNaOEhxcEVjZWdlYUdpWmMyaC1XcWg3YmdZT2NLUU43RlJGODI4N3NqbEplUVpYS0hVUFd4QWNJRnFiT3VhZg?oc=5"
+    },
+    {
+      "time": "Agencia de noticias",
+      "message": "Un sismo de magnitud 4 se siente en la zona costera afectada por el doble terremoto en Venezuela - EFE",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2ptTWRSRlh2SjBFR3gwc1hndUxSalo0cEVRLTFRY21YZnl5Y3FkVkxaZjZJLWtMNmFibXBPVUtfQzFDbDhPUDVhTFJPZ1RONlpVQjZSUWFMSmcwWjFzMUI4UWU0aHVGYS1KdHVsdURDMTgxQ1Bnc01kSXNuNlllUXlpZHlldndZNmJWdGY1V292N00wRWN2V2lyZDNHSFk?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "A dos meses del doble terremoto, Venezuela superó los 6.500 muertos mientras continúa la remoción de escombros",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZlo3TzBpV0ktX0NQNGVQYmtBQWpZQjd2bFlLYzhQU3pGaHk1RGE3bWt4R2hXRmIwVjY2ZnQ1Q0hqVW9uaTJrSFFBWjdSVGFQd3ZjWjVSeld1cnBRNF83UkszTGtVRHRMRGw2SDVPdDlNMXh4NUowUFVOT2Z1WlpzZ0xfRko5QVBVWjZBX2Z1WnB5dTFlckpXUzhGaVZBRE1rRTVRQmlDN3hoazhEZ0FaUm9DT3BaUnJ6TGNZYkI5ODZnYnQ1U0cxZTl5b1RtSGtVd2ZBeFNJa0d2QkoxYXQ4M0l3VDhKZ3Fyc1HSAYQCQVVfeXFMTzJwWGxxaURaWjJMX0xaS0FwcjJjRG5MR2M5VWxKSmpJdUJtWGZ6SVZYNHdqdWh1eEtLcnZlT2wxSTBhT01vUHhQSk42b3hsRnFHMWFuYUdwcGl6SVJIdUkzYXlNRmhjLTVXVTZTUzhiTDdMVEhPbFBwT3NVVzV0WUNiMDNReE1FVUdWV1Z0REhudlBvNGVNOTlvMzVEUnJKc1FjU3JJcGxOY1dtT0pMdUhNN1lLU0FqaTM5aGNjT1hGblp2bzNpWUc3U2xKcTc0cFdhRTI4SGpqaF84TXo2UkVkUGZodFpqM2ZXVHBnWE9ZZC1KMFZlOVZ1U2t5Z281Z1p1bUw?oc=5"
+    },
+    {
+      "time": "EL PAÍS",
+      "message": "El principal aeropuerto de Venezuela vuelve a operar dos meses después del terremoto",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXVEUm8zcG5qVUVEb1d4eDlFTllJSkhxdU4tWk8zaUFTTWhRR01qN1drbFJtcDhwNXFWNzFHbExwa1ZyYXdnckQwU1lXSHo0RkNUcmFkdWJBOEoybEpRdl9yS1lKQ3NBVFdiTUJCaC0zSDc4RWFURjhWR3VQMTFnd1VVUlhHVk16S25XR1E3REtGZVY1dzJUUXZJWDB6Y3o2S3p6RXg2cDN6S1J4N1cyRWp5SWFKVG5haHRTQTRXTjRrU2Z6QklWTNIB3AFBVV95cUxPQWNFQVBVOFJibW1ZZ2hpaE44aXl5c0lKNk5MX0I4R1FQTmt0RTRIZUVtemVtTzkycS0yaUljTENQYUtFaUxjZ2hJRGEyRjQzTXJIa1lRWE1PS0xrRFFRMjJubWxPNi1MTVpQZEhwam9jTW1uRFZfNDFKTDRCbV9Cb3hRU0FmVzBLVkxYdkZVYUxCdmsyNmU5NXRWUEJvY25kMmdIelM1UVhJRmRXaTdvNDQxbnkzbVRqVEpFYjdiVjlzX2FJVzVIZ0lKYlZnM1NMYkcycE56M2tnell0?oc=5"
+    },
+    {
+      "time": "Telemundo Miami (51)",
+      "message": "Magnitud similar: ¿Tiene el terremoto de Colombia relación con los de Venezuela?",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcnNsN1RhdWxJa0dNVmFfSm9yNkJVWTVucjl5elNUdS1GRXdXb1RoUEFLZ1JNZG9oNFZpV3YxdHhseTdid1N2aXFOT0NLZmQyZmQtMGlnOUI1RklQOGJ5dFRscjUyNVFRVnlvZzJhVzNmVmduTFhfUVFWYnFvcUFfdE5TM282ZmFwVE40MHF5bXhOdlBaTExQVVR1TUxJTVZ6MmZ3MHlQNlloWFZLZ1I3OFVGZ0p5Z0hMNFVPYVFtUk01WEw2ZS14Tjh1cmVDcVQt0gHYAUFVX3lxTE1vem5qVWFMb3BfQ2I5ZVlXN2UySENWU21wVlI3b05BWk0yVWVoR3RBOG9tWHAxSDk1b3ptUTgzZzRrUi00TkZzSXY3bWJXVS1aanJwZlRMVDVNV3FCTXV6NTdaV1N1Rk1JSUktdGlyMUNuSzNTbnJqS0ZFZ1NFY1pETmF3YXJHdC1LVy1Fbkh5LU82MFl4R3prRWdtU3hzbkJFQS1aRWwzOHlGMTM0RU1vQS1la0R2WjJjd1FOazhrak1rRHBleGFZRG9PZXlYTlZKVkdhN2ZVZA?oc=5"
+    },
+    {
+      "time": "CiberCuba",
+      "message": "Ascienden a 6,509 los fallecidos por sismos en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2FpZ1AwSmdGeUhSdk83bDMxRHJidURwRjZoMy13R1ZMQklqdXBWRGVfSkRGUUFpYTdjUnJ2aDB3bUxUWnVhV3k5RWppRmZPaktuZnBoUU5MV1VUck1LTlZZU1lZWmEwcE9JdDd1S1YyWkkzb0F2ajJfajh0WjlCd2NhWWNOZnJUU18tdDBMcVJudUpKSENUZG5ZT2wzNHBqdUFKZWlaRi1jZmdIYmM5MUZGVXA2Y0NLQkNvYlZ30gG-AUFVX3lxTE9zYWlnUDBKZ0Z5SFJ2TzdsMzFEcmJ1RHBGNmgzLXdHVkxCSWp1cFZEZV9KREZRQWlhN2NScnZoMHdtTFRadWFXeTlFamlGZk9qS25mcGhRTkxXVVRyTUtOVllTWVlaYTBwT0l0N3VLVjJaSTNvQXZqMl9qOHRaOUJ3Y2FZY05mclRTXy10MExxUm51SkpIQ1RkbllPbDM0cGp1QUplaVpGLWNmZ0hiYzkxRkZVcDZjQ0tCQ29iVnc?oc=5"
+    },
+    {
+      "time": "Mongabay Latam",
+      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
+    }
+  ]
 }
