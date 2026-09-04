@@ -8,7 +8,7 @@
   },
   "reports": [
     {
-      "time": "BBC",
+      "time": "bbc.com",
       "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
     },
@@ -18,14 +18,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
     },
     {
-      "time": "facebook.com",
-      "message": "#EnVideo| Secretario de Energía Wright inspecciona zonas afectadas por el sismo en Caracas El secretario de Energía, Chris Wright, visitó los puntos de recuperación en la capital venezolana tras el reciente terremoto. Durante el recorrido, se evaluaron los tr",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWXcyN2JndjBpS2lNTEV6Q0R4ZkVhSkYzSGI0TnBpRTVqZG9MQTlzT1EzMURiQVJNa0E1MTBaTi05a2ZoTTRuSzJnX2hmV2tuRnpwRjkzd0FUR2lMWVh4MlhibUpHR2ZQVk1IdjNaQm1wdDhFX2hsUThCXy03NWtoeW5xeEZsZTJvYmxZaWk3cDZtRFl1RzNHaTdFRi1qcFR6MXgwOVd0LWo2M3pxcEk5SUN6VklIY2xieGFGeEtvOWVjWDNoVnRlX1ByeThpMnRoeHVSS085TW1QRWUwTmdpcQ?oc=5"
-    },
-    {
-      "time": "DW.com",
+      "time": "dw.com",
       "message": "Tres sismos sacuden distintas zonas de Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
+    },
+    {
+      "time": "CNN en Español",
+      "message": "Sismo de magnitud 4 se sintió en La Guaira, la zona costera afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "#Ahora 🚨 | La Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportó un sismo de magnitud 3.4 en la costa central de Venezuela la noche de este sábado. El evento telúrico ocurrió a las 8:21 p. m. hora local y registró una profundidad d",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeld4T3E0Z0VPTGFTdC1BckEtUXVzZU1VX2hmRWU0VVI2R1hDaW1uVW1NZjBWT2lGMTh1ODduY2M3Qy1DZ0VZeWUtbkI3M2x2ZkRSdHp6REI0V3ZJZDJNSVJxQzVxRU1NQjRUSDVsc19IRXRnY1plVDlPMUJGM2dxMkJUZUxROXJTeG5fY3pzMngxc3czMll0dDdSaWotclZ1eVRGdlByNUlYTm9nZjNaOEhxcEVjZWdlYUdpWmMyaC1XcWg3YmdZT2NLUU43RlJGODI4N3NqbEplUVpYS0hVUFd4QWNJRnFiT3VhZg?oc=5"
     },
     {
       "time": "El Diario Venezuela",
@@ -33,19 +38,9 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
     },
     {
-      "time": "ntn24.com",
+      "time": "NTN24",
       "message": "Venezuela registra nuevos sismos: temblores sacudieron distintas regiones incluido uno superficial que asustó a Caracas",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
-    },
-    {
-      "time": "Yvke Mundial",
-      "message": "Venezuela recibe donación de Malasia para atender a los afectados por los sismos",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGdxQjc4OFB0OGVlY3dhZGtkNDFSczc3WGJ3Y19udUxteUdrWDJ1U05MLTlaX0dIMTdPUXJOREJydzl3dHhkVXZqSmlOVTF1dEc0QTlWNEpuYnByQUQyTzIxc3psT29NUlFBYy1kLTU5d09LN3JDbjJLSWltWjlDUWNHb0o1Uk9LS0dtcWdrN2lycWJ1U0dFU21zS3h5SEVONDdJdE9ZbXEzMFVvSXc?oc=5"
-    },
-    {
-      "time": "Infobae",
-      "message": "Un nuevo sismo de magnitud 4 se sintió en zona costera afectada por el doble terremoto en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVnY5Y1ZuYXdIc0NTS3c2M3p1TVZheWNSOWZnVW5Rc1NPQ2ZGN3FwMUVNVFA1SXVXMWtvMHJaUy1WWEJqM3dQeVpQVWgzcjFmc2RZY1lEbXhCaS1Pb2pkaDI4WnNUTzNLaUlMSUVoZVliSzB5eGV2TzFtMWNVQ0tiYkhLZHMyc3N2LWFIallQSnhpaXBIVHNNdkU1Q0FiWFNpWmc4aF9PRlZ5c0drckw4djhpZnZxSnc4dkFNTklHcDVkblRZOXd5YXFtWVJva3RnVUx4Rkx5emM5TFFXT2fSAfgBQVVfeXFMT0JSMXRmY2JrOUZEYXN1Qkp2XzlpMFR2dmFPNEM3ZXU0VjFjQkhXcmRGXzF0aExtWmtpZGxRcnNzSk1HRmxZRDZ5U1ZjbFZDUVk5MERNZWhXejRQbFZURm5QSTFtcWlDd0VKaHM0VWF2b0FfYXlJQktMaHBlWFFvOE9Da2J5WWFYVGRmSk9MdUkyRG9YalpFVFlWaVlYSWZTVy1ONHpDbDJ5OGw2T0hDN2d1eDNoVC1mZnJpZG5DVnVMRVhMMi1QZDhwMkdfYlRKX3M2bUh5aFF0NUtscDJFRnFBVzlfOU4wNmItRTNIVEpvNzEyTG9qLXo?oc=5"
     },
     {
       "time": "instagram.com",
@@ -53,9 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zNWUyV2JPenlncWNoeHZIdklXTm9rY0pvaFgxU0FFS25vNWZySTV5eVNUeHNJM1VGWnJQbGRNLWRQSWtmMVJzenJFZ2NzdmZKREE?oc=5"
     },
     {
-      "time": "EL PAÍS",
-      "message": "El principal aeropuerto de Venezuela vuelve a operar dos meses después del terremoto",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZXVEUm8zcG5qVUVEb1d4eDlFTllJSkhxdU4tWk8zaUFTTWhRR01qN1drbFJtcDhwNXFWNzFHbExwa1ZyYXdnckQwU1lXSHo0RkNUcmFkdWJBOEoybEpRdl9yS1lKQ3NBVFdiTUJCaC0zSDc4RWFURjhWR3VQMTFnd1VVUlhHVk16S25XR1E3REtGZVY1dzJUUXZJWDB6Y3o2S3p6RXg2cDN6S1J4N1cyRWp5SWFKVG5haHRTQTRXTjRrU2Z6QklWTNIB3AFBVV95cUxPQWNFQVBVOFJibW1ZZ2hpaE44aXl5c0lKNk5MX0I4R1FQTmt0RTRIZUVtemVtTzkycS0yaUljTENQYUtFaUxjZ2hJRGEyRjQzTXJIa1lRWE1PS0xrRFFRMjJubWxPNi1MTVpQZEhwam9jTW1uRFZfNDFKTDRCbV9Cb3hRU0FmVzBLVkxYdkZVYUxCdmsyNmU5NXRWUEJvY25kMmdIelM1UVhJRmRXaTdvNDQxbnkzbVRqVEpFYjdiVjlzX2FJVzVIZ0lKYlZnM1NMYkcycE56M2tnell0?oc=5"
+      "time": "Infobae",
+      "message": "Controles nulos y escombros: el resultado de las construcciones chinas en La Guaira, el núcleo del sismo en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPazhGM2MwaHlkZDBjcEQ2bHpEcF81SWZZZ0RPU2NBM1JNa0ZkMUQ0aEFIbjJfdi0teWY2akxpeFYwOWR5VlVRM0pMU0V2Z3Atb2dIVHpEVHRqT3BaUjR3YUdFS1UzRGRBZ1FFdnJ3clBXVXhZaHQ4RDk3dzFJZ3lvb0oxSW0weV8xS1BVbkNTcW5BYXRRVDhoS2drXzJ2dG8yM1VkZ2xlUkQ0d1VoZFAwNHdmUzFTY2ttN21aNnBVR1N1UG1BZ1dfal9YUUliTkRaVjZaM1ljekd6dEgtd2VDY3hhTVgyVVFheGswSzJtQ3UyZzTSAY4CQVVfeXFMTU5OUEFwd0ZGaC1POTQzZ3ZVMTVhSkppMzRVOVFxbWtZd2VLWW9YNFpPeFFHN05QYVM4Q1d4OWJleU5TSXJaNGdoamQtN2xrOUZJY2IweFR1QVllakhwZGJtYnlfN00zVnJJZmJFSVN0TEVJdUlmaUZ1dFlZaUthRkI1bDlBNWtDSFUxRjFhbjl4Y3RLVGN3Q21hOFdGQlNzSFZ6VnBwMWpTY2NLa3IxWEtBQ1Y4VXBndHc1V2FsZVVhdFY5WllwMlBzb2I4bVZKMm03U0FZTTBOLWt6ckRWWlkzMzNDTEV5T1Q0SkkxR1hiemZFb2tfdDQ4LU9CQW9JcGQ2OUk2eVUyeXJGMjNn?oc=5"
+    },
+    {
+      "time": "Yvke Mundial",
+      "message": "Venezuela recibe donación de Malasia para atender a los afectados por los sismos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUGdxQjc4OFB0OGVlY3dhZGtkNDFSczc3WGJ3Y19udUxteUdrWDJ1U05MLTlaX0dIMTdPUXJOREJydzl3dHhkVXZqSmlOVTF1dEc0QTlWNEpuYnByQUQyTzIxc3psT29NUlFBYy1kLTU5d09LN3JDbjJLSWltWjlDUWNHb0o1Uk9LS0dtcWdrN2lycWJ1U0dFU21zS3h5SEVONDdJdE9ZbXEzMFVvSXc?oc=5"
     }
   ]
 }
