@@ -8,19 +8,19 @@
   },
   "reports": [
     {
-      "time": "BBC",
+      "time": "bbc.com",
       "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
     },
     {
-      "time": "reliefweb.int",
+      "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
     },
     {
-      "time": "Diario Primicia",
-      "message": "Funvisis registra sismo de magnitud 4,4 en Delta Amacuro",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTM4Y2Iwc3Y0OVB4QzBCZEFWWUl6NWlhcVI2NHk0QWJSSlIyYW9TWi1FTUZ6MTJWRVEwNDFwZjh3WWFFNlhKSkNwejRyeWxsWXE5QWc2MFBDdWt0MzFvZkVfeHE1N1o1MjlqeUdBOXhWVDdiNFN4MmtqcjV5Zm8ycms5bzllVE1ySEtPbmFaeXM?oc=5"
+      "time": "El Diario Venezuela",
+      "message": "Funvisis registró 96 sismos entre el 28 de agosto y el 3 de septiembre",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zVEVidVpvVXVPVTIxV09OdnhGand2ODNEeTBhdUVOVy1rQUZWbHlfQmZ3VlY5MU1JRWphdXhDa0RfQWIxaU9ESEkyZXQxTWFnZlVNQlc0ZVFnS2M2eWdJT1BGYVRfcVVNM2pJZW9MSEd0Zkx0RHc?oc=5"
     },
     {
       "time": "facebook.com",
@@ -28,7 +28,12 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPczBnNjhwcDBhS281TnlFd1JUQkQtN3p2M2FrQmlmRXRIRHhydV81eWpvaXkyWVNpTmtCenBLVi13NHZaR2U4R1BHNWdlcl9odGRaUGE2emsyaS02ajl4NE1ObExZTkVLSEVDMGlEMng1SUU2U3NrYk5WNWFoUnNMWG5JZzVzRjU4QjNBcWtxbUZfQ1dYQTlBS2xxdnNrU0xaQ0tWallncDRHOVJkUlRaZjEwcjMwTGx4QWNnVHZwRG1DVlNHbzBiNGlSUG4xRmVLUHBzd3V1RG8?oc=5"
     },
     {
-      "time": "DW.com",
+      "time": "Diario Primicia",
+      "message": "Funvisis registra sismo de magnitud 4,4 en Delta Amacuro",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTM4Y2Iwc3Y0OVB4QzBCZEFWWUl6NWlhcVI2NHk0QWJSSlIyYW9TWi1FTUZ6MTJWRVEwNDFwZjh3WWFFNlhKSkNwejRyeWxsWXE5QWc2MFBDdWt0MzFvZkVfeHE1N1o1MjlqeUdBOXhWVDdiNFN4MmtqcjV5Zm8ycms5bzllVE1ySEtPbmFaeXM?oc=5"
+    },
+    {
+      "time": "dw.com",
       "message": "Tres sismos sacuden distintas zonas de Venezuela",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
     },
@@ -38,9 +43,9 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
     },
     {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
+      "time": "Telemundo Miami (51)",
+      "message": "Reportan sismo de 4.0 cerca de La Guaira, la zona más afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPck1HQWltUkpsandsRWt4eDNKcVNzSUVienU4ZF96NVVnbG9RNm5GNk1ieElUYVQtUEtSRGl4Rmt0M3VIeFNHbmZ5VG1CelR6d3NtRjdoLW9qcklHLUdISzRDd2JTdEZ5U09wbENtekxVYnZlOUxEQVoxNXJhQlFPTmVDYllnNFdUb1BfdnhBTmY3Yjl0OGtCd1UzOVhLMmQwUnBET0ZNNmprNzdjdlhLUlNlMlFEWEwyVkhENEVXVjVjQVY5Nm1YekNsMm5ycHpiS1NjM3Y4T3plQ1lXTjVpbld5V2VGWXVI0gHwAUFVX3lxTE9HVHE5YnVhZ2htc1FXeFdfZU5vRUxRRFNCOFROblN1MEtacVhJRHkxZThyVEFHOERYOFZPMVplUWRRbEVHTFY1Smc5M3c2VnVERTItMWVOUnRRT1Zpa2ZtNWxtTWVTSW9aWlRQSnZnaFBXTGw0R2NTSWIxSlBjLTVqQms5NlJ6ME1MOThQRmk3WDRYX3F3N0JySXJvNU5DQ0dydi1xMWhfdXpZRGFScUd3cWdXbjNXM2lqaktvb0M2X293cnpETWhKZ0Z4UDZlUFlsS2lGdlV2c203QlVuUVNkVlJDWmd2YXowbUwwTXo4MQ?oc=5"
     },
     {
       "time": "NTN24",
@@ -49,13 +54,8 @@
     },
     {
       "time": "Infobae",
-      "message": "Un nuevo sismo de magnitud 4 se sintió en zona costera afectada por el doble terremoto en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVnY5Y1ZuYXdIc0NTS3c2M3p1TVZheWNSOWZnVW5Rc1NPQ2ZGN3FwMUVNVFA1SXVXMWtvMHJaUy1WWEJqM3dQeVpQVWgzcjFmc2RZY1lEbXhCaS1Pb2pkaDI4WnNUTzNLaUlMSUVoZVliSzB5eGV2TzFtMWNVQ0tiYkhLZHMyc3N2LWFIallQSnhpaXBIVHNNdkU1Q0FiWFNpWmc4aF9PRlZ5c0drckw4djhpZnZxSnc4dkFNTklHcDVkblRZOXd5YXFtWVJva3RnVUx4Rkx5emM5TFFXT2fSAfgBQVVfeXFMT0JSMXRmY2JrOUZEYXN1Qkp2XzlpMFR2dmFPNEM3ZXU0VjFjQkhXcmRGXzF0aExtWmtpZGxRcnNzSk1HRmxZRDZ5U1ZjbFZDUVk5MERNZWhXejRQbFZURm5QSTFtcWlDd0VKaHM0VWF2b0FfYXlJQktMaHBlWFFvOE9Da2J5WWFYVGRmSk9MdUkyRG9YalpFVFlWaVlYSWZTVy1ONHpDbDJ5OGw2T0hDN2d1eDNoVC1mZnJpZG5DVnVMRVhMMi1QZDhwMkdfYlRKX3M2bUh5aFF0NUtscDJFRnFBVzlfOU4wNmItRTNIVEpvNzEyTG9qLXo?oc=5"
-    },
-    {
-      "time": "instagram.com",
-      "message": "#Repost: Fundación Venezolana de Investigaciones Sismológicas (@funvisis) FUNVISIS Sismo 22/08/2026 20:21 Mag (Mw): 3.4 Prof: 10.1 km Epicentro: 10.620 N -67.024 O 11 km al oeste de La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zNWUyV2JPenlncWNoeHZIdklXTm9rY0pvaFgxU0FFS25vNWZySTV5eVNUeHNJM1VGWnJQbGRNLWRQSWtmMVJzenJFZ2NzdmZKREE?oc=5"
+      "message": "Controles nulos y escombros: el resultado de las construcciones chinas en La Guaira, el núcleo del sismo en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPazhGM2MwaHlkZDBjcEQ2bHpEcF81SWZZZ0RPU2NBM1JNa0ZkMUQ0aEFIbjJfdi0teWY2akxpeFYwOWR5VlVRM0pMU0V2Z3Atb2dIVHpEVHRqT3BaUjR3YUdFS1UzRGRBZ1FFdnJ3clBXVXhZaHQ4RDk3dzFJZ3lvb0oxSW0weV8xS1BVbkNTcW5BYXRRVDhoS2drXzJ2dG8yM1VkZ2xlUkQ0d1VoZFAwNHdmUzFTY2ttN21aNnBVR1N1UG1BZ1dfal9YUUliTkRaVjZaM1ljekd6dEgtd2VDY3hhTVgyVVFheGswSzJtQ3UyZzTSAY4CQVVfeXFMTU5OUEFwd0ZGaC1POTQzZ3ZVMTVhSkppMzRVOVFxbWtZd2VLWW9YNFpPeFFHN05QYVM4Q1d4OWJleU5TSXJaNGdoamQtN2xrOUZJY2IweFR1QVllakhwZGJtYnlfN00zVnJJZmJFSVN0TEVJdUlmaUZ1dFlZaUthRkI1bDlBNWtDSFUxRjFhbjl4Y3RLVGN3Q21hOFdGQlNzSFZ6VnBwMWpTY2NLa3IxWEtBQ1Y4VXBndHc1V2FsZVVhdFY5WllwMlBzb2I4bVZKMm03U0FZTTBOLWt6ckRWWlkzMzNDTEV5T1Q0SkkxR1hiemZFb2tfdDQ4LU9CQW9JcGQ2OUk2eVUyeXJGMjNn?oc=5"
     }
   ]
 }
