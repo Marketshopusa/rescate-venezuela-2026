@@ -6,5 +6,56 @@
     "safe": 14639,
     "deceased": 4930
   },
-  "reports": []
+  "reports": [
+    {
+      "time": "BBC",
+      "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
+    },
+    {
+      "time": "dw.com",
+      "message": "Tres sismos sacuden distintas zonas de Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
+    },
+    {
+      "time": "CNN en Español",
+      "message": "Sismo de magnitud 4 se sintió en La Guaira, la zona costera afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
+    },
+    {
+      "time": "facebook.com",
+      "message": "#Ahora 🚨 | La Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS) reportó un sismo de magnitud 3.4 en la costa central de Venezuela la noche de este sábado. El evento telúrico ocurrió a las 8:21 p. m. hora local y registró una profundidad d",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeld4T3E0Z0VPTGFTdC1BckEtUXVzZU1VX2hmRWU0VVI2R1hDaW1uVW1NZjBWT2lGMTh1ODduY2M3Qy1DZ0VZeWUtbkI3M2x2ZkRSdHp6REI0V3ZJZDJNSVJxQzVxRU1NQjRUSDVsc19IRXRnY1plVDlPMUJGM2dxMkJUZUxROXJTeG5fY3pzMngxc3czMll0dDdSaWotclZ1eVRGdlByNUlYTm9nZjNaOEhxcEVjZWdlYUdpWmMyaC1XcWg3YmdZT2NLUU43RlJGODI4N3NqbEplUVpYS0hVUFd4QWNJRnFiT3VhZg?oc=5"
+    },
+    {
+      "time": "Diario Primicia",
+      "message": "Funvisis registra sismo de magnitud 4,4 en Delta Amacuro",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTM4Y2Iwc3Y0OVB4QzBCZEFWWUl6NWlhcVI2NHk0QWJSSlIyYW9TWi1FTUZ6MTJWRVEwNDFwZjh3WWFFNlhKSkNwejRyeWxsWXE5QWc2MFBDdWt0MzFvZkVfeHE1N1o1MjlqeUdBOXhWVDdiNFN4MmtqcjV5Zm8ycms5bzllVE1ySEtPbmFaeXM?oc=5"
+    },
+    {
+      "time": "El Diario Venezuela",
+      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
+    },
+    {
+      "time": "Telemundo Miami (51)",
+      "message": "Reportan sismo de 4.0 cerca de La Guaira, la zona más afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPck1HQWltUkpsandsRWt4eDNKcVNzSUVienU4ZF96NVVnbG9RNm5GNk1ieElUYVQtUEtSRGl4Rmt0M3VIeFNHbmZ5VG1CelR6d3NtRjdoLW9qcklHLUdISzRDd2JTdEZ5U09wbENtekxVYnZlOUxEQVoxNXJhQlFPTmVDYllnNFdUb1BfdnhBTmY3Yjl0OGtCd1UzOVhLMmQwUnBET0ZNNmprNzdjdlhLUlNlMlFEWEwyVkhENEVXVjVjQVY5Nm1YekNsMm5ycHpiS1NjM3Y4T3plQ1lXTjVpbld5V2VGWXVI0gHwAUFVX3lxTE9HVHE5YnVhZ2htc1FXeFdfZU5vRUxRRFNCOFROblN1MEtacVhJRHkxZThyVEFHOERYOFZPMVplUWRRbEVHTFY1Smc5M3c2VnVERTItMWVOUnRRT1Zpa2ZtNWxtTWVTSW9aWlRQSnZnaFBXTGw0R2NTSWIxSlBjLTVqQms5NlJ6ME1MOThQRmk3WDRYX3F3N0JySXJvNU5DQ0dydi1xMWhfdXpZRGFScUd3cWdXbjNXM2lqaktvb0M2X293cnpETWhKZ0Z4UDZlUFlsS2lGdlV2c203QlVuUVNkVlJDWmd2YXowbUwwTXo4MQ?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Un nuevo sismo de magnitud 4 se sintió en zona costera afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVnY5Y1ZuYXdIc0NTS3c2M3p1TVZheWNSOWZnVW5Rc1NPQ2ZGN3FwMUVNVFA1SXVXMWtvMHJaUy1WWEJqM3dQeVpQVWgzcjFmc2RZY1lEbXhCaS1Pb2pkaDI4WnNUTzNLaUlMSUVoZVliSzB5eGV2TzFtMWNVQ0tiYkhLZHMyc3N2LWFIallQSnhpaXBIVHNNdkU1Q0FiWFNpWmc4aF9PRlZ5c0drckw4djhpZnZxSnc4dkFNTklHcDVkblRZOXd5YXFtWVJva3RnVUx4Rkx5emM5TFFXT2fSAfgBQVVfeXFMT0JSMXRmY2JrOUZEYXN1Qkp2XzlpMFR2dmFPNEM3ZXU0VjFjQkhXcmRGXzF0aExtWmtpZGxRcnNzSk1HRmxZRDZ5U1ZjbFZDUVk5MERNZWhXejRQbFZURm5QSTFtcWlDd0VKaHM0VWF2b0FfYXlJQktMaHBlWFFvOE9Da2J5WWFYVGRmSk9MdUkyRG9YalpFVFlWaVlYSWZTVy1ONHpDbDJ5OGw2T0hDN2d1eDNoVC1mZnJpZG5DVnVMRVhMMi1QZDhwMkdfYlRKX3M2bUh5aFF0NUtscDJFRnFBVzlfOU4wNmItRTNIVEpvNzEyTG9qLXo?oc=5"
+    },
+    {
+      "time": "NTN24",
+      "message": "Venezuela registra nuevos sismos: temblores sacudieron distintas regiones incluido uno superficial que asustó a Caracas",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOU1Nmb1BTUDJEa284WXVaNVdneXpEWTZROHFlZWhsRnBlcVZBb1h3RFc2bnQ5Q1dzWV9MUFZNVHU3ZEJ6RHotSW9IUm5mdE5RMUl4RVFYLVZyUmtQU1NZVU1LOEV0WFQ2UmVTeWptR3gtblU2TWFQZ1I1Q3NXMFdCV1Y1SDVTTTI4c1RCSkE3Z0NYLUZHczNBUjRwMEUtU2VHZnBvdXZfVERLS3BkSW9tRXdNOFM4bW5ZOHQ4cjEtLTg0eE9wWlhpcG9qSXpLZFBieWRJVFhUUUt3dVd0VVIwUjFRZWpXY2lXbVVuSEFR0gHuAUFVX3lxTE83MnpBQm9jZkVQMGxvN3h2djVMQTJ6T3pvT2JvMEM1cEZpSm5JakM0OFI2OUNiaGI4YkF0ZU5iQm94WmJ4bnRNUThxZFRVSjBWYzZ1eGZ1WGNPYml5aUtfZGkzcG1DaUM1OHJFRkNlLU1MbTEyVUU3VzNkWXJGNlBlZGpwU1h5NzZDazl2MWJyTnpEMDN3TldQQU9RZWs4VWdPWXBUQWd4alItVGJaX3V1cHVLdTQtZDM4TlpybEdjMEdHR1pzdmcxaDYycmRNRm9PUl9vaGM4bDZzci1GaXBxTWJReGMzTWdFb0VqZWc?oc=5"
+    }
+  ]
 }
