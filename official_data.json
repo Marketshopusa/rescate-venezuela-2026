@@ -8,14 +8,14 @@
   },
   "reports": [
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Venezuela: cuando un terremoto golpea a un país en crisis",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0VVeEMwWld0a0RKOG02MW5ENHJrOUdtX01TQ2VzdEZJRWxOMGNEYTFlTVhHOVVXajhsOElyemdUVTdnS3A1cG0zVnRacHVmMUxwTVhJNmJ6VTdLX2dZUVFJTGNNYkg1eldpSzB6dU0xTjc4T01hdjZ2dEpEVDUyU3BXdjdQUnlfRDRMd2xTSHRYbHdPd280MnpRY1RSbTg?oc=5"
     },
     {
-      "time": "instagram.com",
-      "message": "Funvisis reporta cuatro sismos en Falcón y Yaracuy La Fundación Venezolana de Investigaciones Sismológicas (Funvisis), registró la madrugada de este martes 8 de septiembre, cuatro nuevos sismos en el país, tres de ellos localizados en el estado Falcón.",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRmdXYXNUTEtGZVY5S2xnd0NWc0FjUnhUVDhkWkl4T2RHMGFMeG95VXExTnhHOTlXSTNmRFBra1l1YW90dHhVNk1XcUtNTzQwWmc?oc=5"
+      "time": "El Diario Venezuela",
+      "message": "El reto del año escolar 2026-2027 en Venezuela: entre reubicaciones y la incertidumbre tras el doble terremoto",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZWU9VRnRhdDUtQ1JZcVI1bzBYVHBVdDJjR0dyQ3RoYTRpVWk0Wm1OUXowQVR6U2p1aDF5T3prcmJPN0F0andYeTlSaFJWdXhCNklkSGQ0aW5rMFN2cUNhQXVjTnVLRXQ2Y1NZWTR3TQ?oc=5"
     },
     {
       "time": "El Estímulo",
@@ -38,24 +38,24 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdlJaMWRycU80Qk9leDZCT3VEbTJjSGJIbmZqVG5tZnlheUMwc1lzTlA3WmphdGR2RmNRSEZJaUpQU2F6T3hZY0JoSTRZa3pPT252TUs4bl95Y2NwcDJZTjBNRlF0R282dnBpNjZwb1o0RjhvZlpaUGRB?oc=5"
     },
     {
-      "time": "El Diario Venezuela",
-      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
-    },
-    {
       "time": "Bloomberg Línea",
       "message": "Funvisis reporta sismos de 4,4 y 3,4 en Venezuela, sentidos en la región central",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ0ljZlpBaWloaVNhVG4tdnhsclotMkFTQ3I4UkdjVHUyeVB5OUFHUHR5UWhNOEpNUVhpYnJfOENvdGlfX3NHSzdqS2NIclJnVDZPQ3BRODZxVVNGcVdaM29EQ2Frbi1nVHZOMTljWjV0ekpBQjJnWUU5Q2JITHoyc3M4aEtWWjloajJjdlJYekZBY0d2WjA4UHhJcnlKYmhxTkU2YkFZTXJVWDRlV2RNWmVCQnFHMkhGT1k1TGRPZkh6R3NqemdveHp3NWxYd9IB4gFBVV95cUxOWXVVN0thWUw3WXFhT3AyYjM1b3VFTkgxanoyT3hCY1YtZmg2OUdveWRrNHpVc3ZpWllYRTgyUlRyeXRZZDRhLTc1eWg1WkZCRGhVWWlxNnNLanJjaUJ4eTNJMGdVUUs4aWFQRkxOb1pNcFpfTkIxYVZ4MkNRT093SFBFTWhmdklxUDdSZjE5SnBMVjljT1JyejRsNWM1aXY3bmw5WnRVcFlVTllicHdwdlJ1RngxdUhvb1A3SVgybnU1aXFfOFhIcE9IcEdCM0NkODJ0anRIYTBzeGN5YmhpTkxB?oc=5"
     },
     {
-      "time": "extra.ec",
-      "message": "Sismo de magnitud 3,6 sacude la frontera entre Colombia y Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmZXLW90RDJuaWNkZFYzTWhJVTdETDZkeFg0cmRyZlEzN2RlVTJHaEFaRTQ4QTlaTEx2YVlhTjJ5SWNnbUJzMXA3Z2pEb0Rwd05BU0FxMzJhVDBhNllJVmdmU0tnVEtHN0V6bWkzaE9LMDlxS05rMTNCVGhxaDBQVHNGZU9pUkRPQ2RtUVBIMThkLVBFSHFCM3NmRFdUMEZ4WVE?oc=5"
+      "time": "instagram.com",
+      "message": "Funvisis reporta sismo de 2.3 a 14 kilómetros al oeste de Caracas Autoridades de la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) informaron que un sismo de magnitud 2.3 fue reportado este viernes 28 de agosto a las 9:58 de la mañan",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uQ3ppMzVXQlpxb19DNUtBNEtvc0ZsakFzZlBBWDA2V3lGS0hpWE1SdHlLQXV0R2E3TnV2NlVkWGpiaXo0dkMzS1o3eTVNMktmUEE?oc=5"
     },
     {
       "time": "CNN en Español",
       "message": "Sismo de magnitud 4 se sintió en La Guaira, la zona costera afectada por el doble terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
+    },
+    {
+      "time": "Telemundo Miami (51)",
+      "message": "Reportan sismo de 4.0 cerca de La Guaira, la zona más afectada por el doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPck1HQWltUkpsandsRWt4eDNKcVNzSUVienU4ZF96NVVnbG9RNm5GNk1ieElUYVQtUEtSRGl4Rmt0M3VIeFNHbmZ5VG1CelR6d3NtRjdoLW9qcklHLUdISzRDd2JTdEZ5U09wbENtekxVYnZlOUxEQVoxNXJhQlFPTmVDYllnNFdUb1BfdnhBTmY3Yjl0OGtCd1UzOVhLMmQwUnBET0ZNNmprNzdjdlhLUlNlMlFEWEwyVkhENEVXVjVjQVY5Nm1YekNsMm5ycHpiS1NjM3Y4T3plQ1lXTjVpbld5V2VGWXVI0gHwAUFVX3lxTE9HVHE5YnVhZ2htc1FXeFdfZU5vRUxRRFNCOFROblN1MEtacVhJRHkxZThyVEFHOERYOFZPMVplUWRRbEVHTFY1Smc5M3c2VnVERTItMWVOUnRRT1Zpa2ZtNWxtTWVTSW9aWlRQSnZnaFBXTGw0R2NTSWIxSlBjLTVqQms5NlJ6ME1MOThQRmk3WDRYX3F3N0JySXJvNU5DQ0dydi1xMWhfdXpZRGFScUd3cWdXbjNXM2lqaktvb0M2X293cnpETWhKZ0Z4UDZlUFlsS2lGdlV2c203QlVuUVNkVlJDWmd2YXowbUwwTXo4MQ?oc=5"
     }
   ]
 }
