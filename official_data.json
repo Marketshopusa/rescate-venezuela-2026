@@ -33,11 +33,6 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdlJaMWRycU80Qk9leDZCT3VEbTJjSGJIbmZqVG5tZnlheUMwc1lzTlA3WmphdGR2RmNRSEZJaUpQU2F6T3hZY0JoSTRZa3pPT252TUs4bl95Y2NwcDJZTjBNRlF0R282dnBpNjZwb1o0RjhvZlpaUGRB?oc=5"
     },
     {
-      "time": "El Diario Venezuela",
-      "message": "El reto del año escolar 2026-2027 en Venezuela: entre reubicaciones y la incertidumbre tras el doble terremoto",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZWU9VRnRhdDUtQ1JZcVI1bzBYVHBVdDJjR0dyQ3RoYTRpVWk0Wm1OUXowQVR6U2p1aDF5T3prcmJPN0F0andYeTlSaFJWdXhCNklkSGQ0aW5rMFN2cUNhQXVjTnVLRXQ2Y1NZWTR3TQ?oc=5"
-    },
-    {
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #33 (14 de agosto de 2026, Hora: 02:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFM0ZW15YnFEbzhWdjlwNjZwOEltU0lyTFNLZkdBOXhIdjN1T3NQOGg3OVo4cDlSTWM0VVJTM29fc28xellfN0g5aEdBdW4tSFNlWFlkUkt6NjJNY1hySzVER2JSNEZoZGJIMVp4eFRVMTRuQlpPcXptd0R5R2dlY3htcDY5dE9tYkVKbkNlZm1YN010RzVyeExGOGRHaHZXaVFrNmJuM2E3cU5NSzZKNllzT0FtbmV1WnZWSjZHd05VanJuOUU4Y3Fhd20wbDlhcUYyQ2FaYw?oc=5"
@@ -48,7 +43,12 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uQ3ppMzVXQlpxb19DNUtBNEtvc0ZsakFzZlBBWDA2V3lGS0hpWE1SdHlLQXV0R2E3TnV2NlVkWGpiaXo0dkMzS1o3eTVNMktmUEE?oc=5"
     },
     {
-      "time": "cnnespanol.cnn.com",
+      "time": "eldiario.com",
+      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
+    },
+    {
+      "time": "CNN en Español",
       "message": "Sismo de magnitud 4 se sintió en La Guaira, la zona costera afectada por el doble terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
     },
