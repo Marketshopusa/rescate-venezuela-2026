@@ -28,7 +28,12 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdlJaMWRycU80Qk9leDZCT3VEbTJjSGJIbmZqVG5tZnlheUMwc1lzTlA3WmphdGR2RmNRSEZJaUpQU2F6T3hZY0JoSTRZa3pPT252TUs4bl95Y2NwcDJZTjBNRlF0R282dnBpNjZwb1o0RjhvZlpaUGRB?oc=5"
     },
     {
-      "time": "ReliefWeb",
+      "time": "El Nacional",
+      "message": "Funvisis registró 105 sismos de menor intensidad en Venezuela entre el 4 y el 10 de septiembre",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMEdkYkgyZXRncDFNRHlkUFFPMkg0SlJGaG8zZmltcW9FV19OSjV5X3FEUEFSVG5MdlVfSXNuVDVCS3hETWpZdDQySmdQSEM3Q2pHSWN4TWxISXBBUXhVLUR4ejhLVG9hSkZCalIzcnk1bjF6MUR5RndyT0ZFZ3hGLUo1dzNkNWZHRDZPRnE3N0N2MzctNE9SU0YzZXdZQXI4M01DdDAya194LTF5UmIxYjA5elJITGdqVjhzVHVtc1l2d05ZenFsLW9n?oc=5"
+    },
+    {
+      "time": "reliefweb.int",
       "message": "Terremotos en Venezuela: Reporte de situación #33 (14 de agosto de 2026, Hora: 02:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFM0ZW15YnFEbzhWdjlwNjZwOEltU0lyTFNLZkdBOXhIdjN1T3NQOGg3OVo4cDlSTWM0VVJTM29fc28xellfN0g5aEdBdW4tSFNlWFlkUkt6NjJNY1hySzVER2JSNEZoZGJIMVp4eFRVMTRuQlpPcXptd0R5R2dlY3htcDY5dE9tYkVKbkNlZm1YN010RzVyeExGOGRHaHZXaVFrNmJuM2E3cU5NSzZKNllzT0FtbmV1WnZWSjZHd05VanJuOUU4Y3Fhd20wbDlhcUYyQ2FaYw?oc=5"
     },
@@ -38,14 +43,9 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uQ3ppMzVXQlpxb19DNUtBNEtvc0ZsakFzZlBBWDA2V3lGS0hpWE1SdHlLQXV0R2E3TnV2NlVkWGpiaXo0dkMzS1o3eTVNMktmUEE?oc=5"
     },
     {
-      "time": "eldiario.com",
-      "message": "Terremotos en Venezuela: gobierno actualizó balance y elevó a 6.509 la cifra de muertos",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
-    },
-    {
-      "time": "facebook.com",
-      "message": "#EnVideo l Un movimiento sísmico se registró en el estado Aragua a las 08:38 de la noche de este jueves 27 de agosto. De acuerdo con la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) el sismo tuvo una magnitud de 3.9; con epicentro u",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRUWVNST3dFcnJsQjZWZk1hYTQtenl5dnJIbjQ2Z3JNY0NQU0ZjaDhEaS0ybzFxU3FUS0xJaVdncm1Ha1NWQ0pfSFRFc2xYVlZkNmtwYnhNS1NibzBqTFZYY1p1cnpGSU95WFJGbkxoSHk1TWoxVVRVcG1lamJxVkpFMG9nbzFGZ3ZOc2ZwS0Y4d3g5THVVNG5keFRsdm1FLTdEdlFPamlOMGRJa0lfOFI3a3dvR2dhaWxaYVI2VEI2QWp1X1ZpYkEyTkI3OFJxYldaNVJ6MXFTQXluZXRJclFnNzVadw?oc=5"
+      "time": "El Diario Venezuela",
+      "message": "Funvisis registró 105 sismos en Venezuela entre el 4 y el 10 de septiembre",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXhXMWgzamloTV9xcW9STHNnVHRxVS1OdTMzZGhzZUZvWXNGY2RGZVpnUkY3TVdVZnBuQjBNQzQ5UDNPQ1pFNkNoei1McUJaaGZSTmp1ZFJwMXdHckxRYXBlU0YwNnZoQm13SmZ0VWNBZllFSkhtM2R4VS1VcVRmV1NTaWNyeDJaUkRsU0hVU3ljZ19MOFo4dmtmTWRJZ1NkblBHZ1Vsdkh1eFE?oc=5"
     },
     {
       "time": "CNN en Español",
@@ -53,9 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
     },
     {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
+      "time": "facebook.com",
+      "message": "#EnVideo l Un movimiento sísmico se registró en el estado Aragua a las 08:38 de la noche de este jueves 27 de agosto. De acuerdo con la Fundación Venezolana de Investigaciones Sismológicas (Funvisis) el sismo tuvo una magnitud de 3.9; con epicentro u",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRUWVNST3dFcnJsQjZWZk1hYTQtenl5dnJIbjQ2Z3JNY0NQU0ZjaDhEaS0ybzFxU3FUS0xJaVdncm1Ha1NWQ0pfSFRFc2xYVlZkNmtwYnhNS1NibzBqTFZYY1p1cnpGSU95WFJGbkxoSHk1TWoxVVRVcG1lamJxVkpFMG9nbzFGZ3ZOc2ZwS0Y4d3g5THVVNG5keFRsdm1FLTdEdlFPamlOMGRJa0lfOFI3a3dvR2dhaWxaYVI2VEI2QWp1X1ZpYkEyTkI3OFJxYldaNVJ6MXFTQXluZXRJclFnNzVadw?oc=5"
     }
   ]
 }
