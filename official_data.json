@@ -8,12 +8,12 @@
   },
   "reports": [
     {
-      "time": "DW.com",
+      "time": "dw.com",
       "message": "Venezuela: cuando un terremoto golpea a un país en crisis",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0VVeEMwWld0a0RKOG02MW5ENHJrOUdtX01TQ2VzdEZJRWxOMGNEYTFlTVhHOVVXajhsOElyemdUVTdnS3A1cG0zVnRacHVmMUxwTVhJNmJ6VTdLX2dZUVFJTGNNYkg1eldpSzB6dU0xTjc4T01hdjZ2dEpEVDUyU3BXdjdQUnlfRDRMd2xTSHRYbHdPd280MnpRY1RSbTg?oc=5"
     },
     {
-      "time": "El Estímulo",
+      "time": "elestimulo.com",
       "message": "\"No está temblando más, es hiperfoco\": experta aclara la realidad de la actividad sísmica luego del terremoto",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVV0UVp2QWNTN2tjTzdTN21nenZOMmtnRlpzX0tjdDAyVmkyNlJRSG4wTFQyaUhXSThCNW02bWtUMDhaMklteVRRSmZDYThkTG9DS1RRSGlaRXhPa3NCQm1VQlRZQzBiQUZFXzVXbWUwczc3Z2xHRm96cm5YT254Q08zRWpZSVFoUTdhcE43NFQ1RjFsMHdzczAzNDYyRDZpWVE?oc=5"
     },
@@ -21,11 +21,6 @@
       "time": "Los Angeles Times",
       "message": "Meses después de los sismos en Venezuela, una familia no deja de buscar a uno de los suyos",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOGZNNGVxR1BZVGc2YXhDbFRsbGVyR3F6cEIxbHlQTVVqd2RDMjRJd3pVOXBpekdzNmU0Zjk3ME1iMFN0Nmh4UzRxb1ZycG5UTVZoWkU5Ml80V1Jsenk3M044dGR1ZmFjVVB1SFE2Y3NLWXRSZE05LUNEVWxuY1F1enNSY240TkxtSndKQnJIUzFFUFYzcmpIV2JZWElwLXNtN0hIZUZGVU5FTGc5MmJGTzFnUmRlUmQwbXp4QVV6NV9XNVFvM1RSTDR3NTh6NWtaN1FibjZvUjZjZGY3ZnZSdmV6N0hKZ29Z?oc=5"
-    },
-    {
-      "time": "teleSUR",
-      "message": "Escombros, ayuda internacional y vivienda: cómo respondieron Colombia y Venezuela a los sismos",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdlJaMWRycU80Qk9leDZCT3VEbTJjSGJIbmZqVG5tZnlheUMwc1lzTlA3WmphdGR2RmNRSEZJaUpQU2F6T3hZY0JoSTRZa3pPT252TUs4bl95Y2NwcDJZTjBNRlF0R282dnBpNjZwb1o0RjhvZlpaUGRB?oc=5"
     },
     {
       "time": "instagram.com",
@@ -36,6 +31,11 @@
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #33 (14 de agosto de 2026, Hora: 02:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFM0ZW15YnFEbzhWdjlwNjZwOEltU0lyTFNLZkdBOXhIdjN1T3NQOGg3OVo4cDlSTWM0VVJTM29fc28xellfN0g5aEdBdW4tSFNlWFlkUkt6NjJNY1hySzVER2JSNEZoZGJIMVp4eFRVMTRuQlpPcXptd0R5R2dlY3htcDY5dE9tYkVKbkNlZm1YN010RzVyeExGOGRHaHZXaVFrNmJuM2E3cU5NSzZKNllzT0FtbmV1WnZWSjZHd05VanJuOUU4Y3Fhd20wbDlhcUYyQ2FaYw?oc=5"
+    },
+    {
+      "time": "teleSUR",
+      "message": "Escombros, ayuda internacional y vivienda: cómo respondieron Colombia y Venezuela a los sismos",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdlJaMWRycU80Qk9leDZCT3VEbTJjSGJIbmZqVG5tZnlheUMwc1lzTlA3WmphdGR2RmNRSEZJaUpQU2F6T3hZY0JoSTRZa3pPT252TUs4bl95Y2NwcDJZTjBNRlF0R282dnBpNjZwb1o0RjhvZlpaUGRB?oc=5"
     },
     {
       "time": "eldiario.com",
