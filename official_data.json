@@ -8,19 +8,14 @@
   },
   "reports": [
     {
-      "time": "ReliefWeb",
+      "time": "reliefweb.int",
       "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
     },
     {
-      "time": "DW.com",
+      "time": "dw.com",
       "message": "Tres sismos sacuden distintas zonas de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl0?oc=5"
-    },
-    {
-      "time": "Los Angeles Times",
-      "message": "Meses después de los sismos en Venezuela, una familia no deja de buscar a uno de los suyos",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOGZNNGVxR1BZVGc2YXhDbFRsbGVyR3F6cEIxbHlQTVVqd2RDMjRJd3pVOXBpekdzNmU0Zjk3ME1iMFN0Nmh4UzRxb1ZycG5UTVZoWkU5Ml80V1Jsenk3M044dGR1ZmFjVVB1SFE2Y3NLWXRSZE05LUNEVWxuY1F1enNSY240TkxtSndKQnJIUzFFUFYzcmpIV2JZWElwLXNtN0hIZUZGVU5FTGc5MmJGTzFnUmRlUmQwbXp4QVV6NV9XNVFvM1RSTDR3NTh6NWtaN1FibjZvUjZjZGY3ZnZSdmV6N0hKZ29Z?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
     },
     {
       "time": "instagram.com",
@@ -28,9 +23,9 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uQ3ppMzVXQlpxb19DNUtBNEtvc0ZsakFzZlBBWDA2V3lGS0hpWE1SdHlLQXV0R2E3TnV2NlVkWGpiaXo0dkMzS1o3eTVNMktmUEE?oc=5"
     },
     {
-      "time": "El Estímulo",
-      "message": "\"No está temblando más, es hiperfoco\": experta aclara la realidad de la actividad sísmica luego del terremoto",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVV0UVp2QWNTN2tjTzdTN21nenZOMmtnRlpzX0tjdDAyVmkyNlJRSG4wTFQyaUhXSThCNW02bWtUMDhaMklteVRRSmZDYThkTG9DS1RRSGlaRXhPa3NCQm1VQlRZQzBiQUZFXzVXbWUwczc3Z2xHRm96cm5YT254Q08zRWpZSVFoUTdhcE43NFQ1RjFsMHdzczAzNDYyRDZpWVE?oc=5"
+      "time": "Los Angeles Times",
+      "message": "Meses después de los sismos en Venezuela, una familia no deja de buscar a uno de los suyos",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOGZNNGVxR1BZVGc2YXhDbFRsbGVyR3F6cEIxbHlQTVVqd2RDMjRJd3pVOXBpekdzNmU0Zjk3ME1iMFN0Nmh4UzRxb1ZycG5UTVZoWkU5Ml80V1Jsenk3M044dGR1ZmFjVVB1SFE2Y3NLWXRSZE05LUNEVWxuY1F1enNSY240TkxtSndKQnJIUzFFUFYzcmpIV2JZWElwLXNtN0hIZUZGVU5FTGc5MmJGTzFnUmRlUmQwbXp4QVV6NV9XNVFvM1RSTDR3NTh6NWtaN1FibjZvUjZjZGY3ZnZSdmV6N0hKZ29Z?oc=5"
     },
     {
       "time": "El Diario Venezuela",
@@ -38,7 +33,12 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DeWtvREtyUFZsSHowcGxiakVXaVh0MXNwT2pFS3FJeUlNSWlubUJxeGlYTWhEU2xsUURDUlptTzY4X1c3djFNdGZSdUVnckJUYTM5Y1ZCc0R2YnRkc29mRVB5amNfMDUtekt1QUNXOWlHYXg1MU4yZGl3bHY?oc=5"
     },
     {
-      "time": "Mongabay Latam",
+      "time": "El Estímulo",
+      "message": "\"No está temblando más, es hiperfoco\": experta aclara la realidad de la actividad sísmica luego del terremoto",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVV0UVp2QWNTN2tjTzdTN21nenZOMmtnRlpzX0tjdDAyVmkyNlJRSG4wTFQyaUhXSThCNW02bWtUMDhaMklteVRRSmZDYThkTG9DS1RRSGlaRXhPa3NCQm1VQlRZQzBiQUZFXzVXbWUwczc3Z2xHRm96cm5YT254Q08zRWpZSVFoUTdhcE43NFQ1RjFsMHdzczAzNDYyRDZpWVE?oc=5"
+    },
+    {
+      "time": "es.mongabay.com",
       "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
     },
@@ -48,14 +48,14 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRUWVNST3dFcnJsQjZWZk1hYTQtenl5dnJIbjQ2Z3JNY0NQU0ZjaDhEaS0ybzFxU3FUS0xJaVdncm1Ha1NWQ0pfSFRFc2xYVlZkNmtwYnhNS1NibzBqTFZYY1p1cnpGSU95WFJGbkxoSHk1TWoxVVRVcG1lamJxVkpFMG9nbzFGZ3ZOc2ZwS0Y4d3g5THVVNG5keFRsdm1FLTdEdlFPamlOMGRJa0lfOFI3a3dvR2dhaWxaYVI2VEI2QWp1X1ZpYkEyTkI3OFJxYldaNVJ6MXFTQXluZXRJclFnNzVadw?oc=5"
     },
     {
-      "time": "teleSUR",
-      "message": "Escombros, ayuda internacional y vivienda: cómo respondieron Colombia y Venezuela a los sismos",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdlJaMWRycU80Qk9leDZCT3VEbTJjSGJIbmZqVG5tZnlheUMwc1lzTlA3WmphdGR2RmNRSEZJaUpQU2F6T3hZY0JoSTRZa3pPT252TUs4bl95Y2NwcDJZTjBNRlF0R282dnBpNjZwb1o0RjhvZlpaUGRB?oc=5"
-    },
-    {
       "time": "CNN en Español",
       "message": "Sismo de magnitud 4 se sintió en La Guaira, la zona costera afectada por el doble terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOVdQUk9yVUpZVERMNVZ3SDlLalVPYXBiMkx1Yk1VSkZvbnMzdkEzQ1ZTNjFRcC03R1puNmxUeDhpUWt3UGtKdWRTNWpUR1FiWEo2Y3lFYWpnaVc2RFVQclhuamVMVmNaWkJCb29jdG1nckNqRFZWVjZ1MkNmVnZGc2NTdkI?oc=5"
+    },
+    {
+      "time": "teleSUR",
+      "message": "Escombros, ayuda internacional y vivienda: cómo respondieron Colombia y Venezuela a los sismos",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pdlJaMWRycU80Qk9leDZCT3VEbTJjSGJIbmZqVG5tZnlheUMwc1lzTlA3WmphdGR2RmNRSEZJaUpQU2F6T3hZY0JoSTRZa3pPT252TUs4bl95Y2NwcDJZTjBNRlF0R282dnBpNjZwb1o0RjhvZlpaUGRB?oc=5"
     }
   ]
 }
