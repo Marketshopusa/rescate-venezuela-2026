@@ -8,9 +8,19 @@
   },
   "reports": [
     {
-      "time": "telemundo.com",
+      "time": "dw.com",
+      "message": "Qué falló antes y después del terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMFB4eUswRmV5WFlkdVFQbWUzRFg0WHhzTFp5R2V3bHZRaHNUS3dHT0lMU3lZRnFGVEx5VHpZcEFMSld5UTh0V19GX0tyZjRHbDFiYTJ5Y01ldlNZRG9OTGdROU5weWhZUEhMYVFNekFCRVRpN2N4REk0UHlzajdPbXh3UHMzaVF3VjJseDNvakx0SUJIMGdSbjVaY3hjVllFejdmb0VyVmxfSFpZQnR2aS00T1FyLTJLVGhmY1Z3YjZCa0Fza2dB0gHHAUFVX3lxTFBNaUY1ejNuR254bmVKckhfTk0zRVdPaDNPZTcwQW5CWElmSmVSZUNYSHZpdHJ5VjBWUUVrLXBwclQ3UkV5SXdaU1NESmpCSm9hY1dIOVZVa1h4ZFBMRXcwODNBVW1SYWNrMmdkYXk1MUZ4SlBpMWVjcFJWaURXdGNpZFo4a0xKa0d4OE1ZYk5rQnFTaHgyN1pBNFZab2RjcFZWQ21rLUxuWExqcHN5RDludkU4RGRPX19aalFLREFDXzVwdmVSbm8?oc=5"
+    },
+    {
+      "time": "Telemundo",
       "message": "A tres meses de los sismos en Venezuela, todavía esperan por los cuerpos de sus seres queridos: “Nunca la dejé sola”",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTkxzeFR6dzVoajh2RklycHNwWU13bExMdG16VWN2V0ZpUjF4cHpUVVBNbVozYmdBWTFLdWF3MGZ1eERoZm5YdGFTLTNOZTJ2RGJIWEZidndLdFdlQlNNNUFEcF9lQTZLRmlJMnBna0QyekNHcUxMTW11REFacDlJUU9UVUlwUVc3TE1wNXIxdUZibVozSkRVQ2dmbmNSTEVnQm94T0ZELUdXclN4RFAzN2x0dEhlOGxYTTliVU5SZ1ktT2RiX3VuVlpIZ2tFdU5HMGFEa25tUFZUTVVSNlMtVmZycw?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Estimaron en más de USD 20.000 millones la recuperación de Venezuela tras los devastadores terremotos",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQVdSMlN0T0pJSjlHS2xkQTNRQnRaX3k1RkprVGt3ODVUSU9MN3B3T3ZyTVoxSF9xdF9hNk91cWtxbUZub0hRSk1obml4NGIyUEVhYTc1S05rQlUzMTh1OEdXNFU3bUgwNnpDMjc3czM1eGpXNk55TlBpeVJBSTUxdGFnRVNiTG5KbzlNc3lHNjVGRW1QdjM3NXc4eXRobG1ucnpWNmpQTkk0OG9NQm9FZ0NLSXprbkdmQnpkXzJyQUNRTkhhdm1Zc3pwSmdWSGZ6ZmVHZXBSaHRtMHp3TmdB0gH6AUFVX3lxTE1udHZLYUlvZnJoRFFnWENnWG90YW5hX0VLbjBXWkVQbTJUb3VFM0hkRG03Y3VvRVRTQW9kcVRHNEpLdkU0U09QRGc1SnJkVkVhbVEtLTFpXzg0SGw4dTUwUE1nNUpteUI0aEJ2YVRqZmlZS1VoV1pvTzVmRFRzVU8tTEJBd0FjS2x2ck1ibnZXbkxCeGhpbnZWNGRkUnVHdy1DanE2bktFRkQ0WEQ5cjhKV1g4RVg3QmRwQzF6SlFHYXZGZlAyYWFCREtlZ3dDSGxkaF8zYWs1Z0NaVXREUkR3T3pVVzVpbVNHWlI5Y0s5SC1RSm1yeFJyMnc?oc=5"
     },
     {
       "time": "instagram.com",
@@ -18,9 +28,9 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRmdXYXNUTEtGZVY5S2xnd0NWc0FjUnhUVDhkWkl4T2RHMGFMeG95VXExTnhHOTlXSTNmRFBra1l1YW90dHhVNk1XcUtNTzQwWmc?oc=5"
     },
     {
-      "time": "DW.com",
-      "message": "Venezuela: cuando un terremoto golpea a un país en crisis",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0VVeEMwWld0a0RKOG02MW5ENHJrOUdtX01TQ2VzdEZJRWxOMGNEYTFlTVhHOVVXajhsOElyemdUVTdnS3A1cG0zVnRacHVmMUxwTVhJNmJ6VTdLX2dZUVFJTGNNYkg1eldpSzB6dU0xTjc4T01hdjZ2dEpEVDUyU3BXdjdQUnlfRDRMd2xTSHRYbHdPd280MnpRY1RSbTg?oc=5"
+      "time": "BBC",
+      "message": "Susana Raffalli | \"Lo que ocurrió en Venezuela no lo he visto ni en Haití ni en Pakistán\": la experta en desastres que alerta sobre los desafíos de la reconstrucción tras los terremotos",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWkpzM1Nwek5SeTlVd0gzZWlPWnd3MlBIZEh3MFNaV25VNFowblZ2UjRMMWVraHlCcHdZS0JlRmtQeTVWXzQybjVobE1xSTN5SE0wT0tsaGhrcE3SAWBBVV95cUxPSU1hN0h0MDlsdUdiUkRSWGowdjcyS3ZWUmhzV1B2RmtNdE9iNWxMUEZBandhbkdzeUxCd2JvOFBhYmEtWXA5cFJqU2FjRzM5eGlGbllPYnFsdlVIdGZlN0E?oc=5"
     },
     {
       "time": "ReliefWeb",
@@ -28,29 +38,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
     },
     {
-      "time": "BBC",
-      "message": "Susana Raffalli | \"Lo que ocurrió en Venezuela no lo he visto ni en Haití ni en Pakistán\": la experta en desastres que alerta sobre los desafíos de la reconstrucción tras los terremotos",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hWkpzM1Nwek5SeTlVd0gzZWlPWnd3MlBIZEh3MFNaV25VNFowblZ2UjRMMWVraHlCcHdZS0JlRmtQeTVWXzQybjVobE1xSTN5SE0wT0tsaGhrcE3SAWBBVV95cUxPSU1hN0h0MDlsdUdiUkRSWGowdjcyS3ZWUmhzV1B2RmtNdE9iNWxMUEZBandhbkdzeUxCd2JvOFBhYmEtWXA5cFJqU2FjRzM5eGlGbllPYnFsdlVIdGZlN0E?oc=5"
-    },
-    {
       "time": "Los Angeles Times",
       "message": "Meses después de los sismos en Venezuela, una familia no deja de buscar a uno de los suyos",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOGZNNGVxR1BZVGc2YXhDbFRsbGVyR3F6cEIxbHlQTVVqd2RDMjRJd3pVOXBpekdzNmU0Zjk3ME1iMFN0Nmh4UzRxb1ZycG5UTVZoWkU5Ml80V1Jsenk3M044dGR1ZmFjVVB1SFE2Y3NLWXRSZE05LUNEVWxuY1F1enNSY240TkxtSndKQnJIUzFFUFYzcmpIV2JZWElwLXNtN0hIZUZGVU5FTGc5MmJGTzFnUmRlUmQwbXp4QVV6NV9XNVFvM1RSTDR3NTh6NWtaN1FibjZvUjZjZGY3ZnZSdmV6N0hKZ29Z?oc=5"
     },
     {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
+      "time": "Telemundo",
+      "message": "Las familias buscan a sus seres queridos entre los escombros a tres meses de los sismos en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQbFNuT2ZEd0htSEUxUTZiamN5dWMyTjU2cjJBMV84eGptdkRaUDhGUEtwaHlwNVNwUk1CdGZVdlQwQXQ5dC1VSWlRY1ZUa2ZxWjIwaERlSEtpakVqRlBJMzdRWlpuVUE0Vy14RzRoMWpqT010OVg0ZGNoOEpoZmhGUTZZSmwtOGQzR0U5cnJOTk9RTms1dlk4RjRBQ3hmTmhDTll5NE5VYjRwb3lrV1JxWC0zSnBRcm1FWTR2OUY0WFFNakNuVU9UQURwMHRDR181VjQ5VlFCWmltUnNSaG9WakZzQ284ZmJyM1B5SFVpaG51LUZkZzZOS21WV3pGVnlEa2dyZ3FyRS1XcVNqSE9qblV6cURsalkzdVdSbFN3?oc=5"
     },
     {
-      "time": "telemundo.com",
-      "message": "Un documental reúne las historias de supervivencia y solidaridad tras los sismos en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOWXBGSW0tSkF5dURPMU1jZGcydl9lT3FKREg5MkFoOWFOZ1JBWkNuZm93aF84UVlnOGZKaWdJcVNITC1uUFhRNDJVZHliQUswTFNvTWRYQmZLbmh2Qy1jTUJ4TzJuU0VwNkpqaG10cTNnVWJXbnZ6aWtGMkJGY3BXV2FYMENpaF9yN2tET05ISjhQVzROaXV1QThzaFA4RHVFOHNaNFM2RU1PSVo2ejBZa2UzTmVzVVFVUWNCWnZCU0lISkt6a2d1UGhHZ2ROYWRQTWw4ckYyUnZuZ2xqdS1WX3dXV1NxS1dtM3lYQTZXTGxib1dTZ1UyeDBBanA0SWo5Rl9aeTFZOVR2YTBadXBaN3ZadVo?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Tres sismos sacuden distintas zonas de Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVpoWGtOSHVtUWxMZEl3akpWNWY4X1FhQ055cGNfWXdkVE10NktWb2dUbWhGQ0IweG9oaVFFWV9fNk9TQkhTTEprdW96SGdaeUltRUx3Wlh0WEUweWtlODNuQjhQU2ZMbFl2VlhPQUtyTnFGdzRhRTZXdGc2UVJIeTR1Mkh6WWl00gGIAUFVX3lxTE5oT2dJVjN1UXJrU3drcnpRcFVPdEtrMVBvTjBOX0J5S01RMGFvUG1MYVBEbDRGYVhPODlzV3gxOEUyVk9VbjQxam5VV0YwMGN5Ri01NG1qdkhuWFJBZzk4Si04U1dULXNUV0F3ZG1LUnFxeXRZRzNrRGFSYS1zWGlEb0FKbUI4Z24?oc=5"
+      "time": "dw.com",
+      "message": "Venezuela: cuando un terremoto golpea a un país en crisis",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY0VVeEMwWld0a0RKOG02MW5ENHJrOUdtX01TQ2VzdEZJRWxOMGNEYTFlTVhHOVVXajhsOElyemdUVTdnS3A1cG0zVnRacHVmMUxwTVhJNmJ6VTdLX2dZUVFJTGNNYkg1eldpSzB6dU0xTjc4T01hdjZ2dEpEVDUyU3BXdjdQUnlfRDRMd2xTSHRYbHdPd280MnpRY1RSbTg?oc=5"
     },
     {
       "time": "BBC",
