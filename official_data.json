@@ -8,24 +8,24 @@
   },
   "reports": [
     {
-      "time": "DW.com",
-      "message": "Qué falló antes y después del terremoto en Venezuela",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYi1Pd2ZKTlRlZW92MnpmWXdLZzNSdm9IZF9XNzBOOXVVanBsOEpDWjliV3Z3R3VZRFl4NjBCY1VCVUVQdFdUa3R1VGZiQWlHMFhEQnJLNnNHczMwX3ZYSk5WdHZQXzJGQm5PWFIyVndnRE84M2xsRnkxS1J3QnJsM1lLT2padnBJVXU4YTlYYVNFM1ptUVZYZGtRcTlrcFhnRDZFOHNUc2ItWFlMVlJOT2tXZDJRX1YtQkJtejBMVzFUWGh4T3g0UWkyTkg?oc=5"
-    },
-    {
-      "time": "bloomberglinea.com",
+      "time": "Bloomberg Línea",
       "message": "Sismo de magnitud 5,3 sacude la costa de Venezuela, según el Servicio Geológico Colombiano",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVE0UjFDbmxXX2M0TkdIMzBwVU5ZS1h6T2N1YUpYMkRfVkxwdWlNWnNabWVnSzFJaURhQVNjNUVRRElkZHVwV1BYdUxiczgyZDMwUTN6eUN6Wm9TLXBUbUpfRFFYT0pRTndXOVN5bEZWUjVyam94bE1LbGFDSzZPUm85dHZ6ZmMtVVd4bVRTMXZPaWk5TkVMbUpSSlpvWklSTEFvRlBKSzJXT0NVeXBkSmYxS0NuOTdlM1paNkZ4N3pFa3N0ZGxUSm9tenByMldsXzVNajVwd2x5SUZz0gHwAUFVX3lxTE82V0RKY1h5a0lpeDlMak9rU3dpSGJLbko1eXIwcGMzLXYtZWhKY2k5U3plc0tpRFkyYTVENjNZb2JzaGdIaUhDZHBGMkZOOG9fZWVEc28wdnc5OW5MMVNUOVUtZGRpS3BmX1p6LUZIbWcxSVRFWTlZSmZSdVllTWVVYlpRTlNERmkxNjRuenBaeURiYjJqbVozZnp6bjYzTHQxaEpFY0ZzV0dXTW1Hbi1WbTN2d2pKQlZmMW10TXhJYXV5dUcyRFZtQlgydi1Sbkp2R05zNUZ5UTlLemNqczZ0c0o1d3FlbzhubEg2emQ0Mg?oc=5"
     },
     {
-      "time": "CNN en Español",
-      "message": "Después del terremoto en Venezuela, estas mujeres buscan su futuro en el sueño americano: “Mi punto final es Estados Unidos”",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHRtUXB5Vm85cHdxaWpsQjJ4enlkSkZSLXV4N1lxeXItUTBTZTZWc2xLWU5xN1dVdURUQTVqNjkwMElPWXlvWGtOcmlUMmJ6RUR0UlRRblZoNU9uNm5SYUhVNThKeEVXdWVhLVFtck5STTlPTmVhZnVvQ3VVYUxDSkdmZG0xYU5PR0F6b014WEdudThPQTl1MHVTdDF4c2ZaeUlZSVNn?oc=5"
-    },
-    {
-      "time": "noticiasrcn.com",
+      "time": "Noticias RCN",
       "message": "Fuerte temblor en Venezuela hoy, 2 de octubre: sismo de magnitud 5,3 sacudió la costa",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVhvMHZTb0FqUXcxSU5ydF9lVEJ6UFhWeHJZdkJTWmJmVlpseTJuV3hVYlJnWkdiZ2R6VE9xdlFiV05JVW8wRF9mS0lCTVBhamZMSHVPeVBSRnVhS2JKcm5ubVNLVEVZVXBGMkdsclY5c1JWTVM4bXdZVUdzVFA2SEprdVNXQnc0eWRmXzRhTzA1YU8wVG9LT1o0RGlvYjFQc3lfcDd2Tl9hNW1EUHfSAa4BQVVfeXFMTTF0NktMYk5hdDRndUVZdkZITXBkckJ1UTZxemtSRnFJTEFoOEI5Z3k3WDhjdFJjdVVMX0E5eFRRejVFcjVHZjR1b1FrcnRmNHhnRTk1Z2ZwREJOWDVTWlQteG1QWU1CdGRUVVpnQTM0ZkNQdlYwMDlUNXRaSEphbWJONU9ZVlF3ODhFM0NjeUp4UHl5b1JWa3FrNHhjWmtPMWRiS09UekxTUjhSTkpB?oc=5"
+    },
+    {
+      "time": "dw.com",
+      "message": "Qué falló antes y después del terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYi1Pd2ZKTlRlZW92MnpmWXdLZzNSdm9IZF9XNzBOOXVVanBsOEpDWjliV3Z3R3VZRFl4NjBCY1VCVUVQdFdUa3R1VGZiQWlHMFhEQnJLNnNHczMwX3ZYSk5WdHZQXzJGQm5PWFIyVndnRE84M2xsRnkxS1J3QnJsM1lLT2padnBJVXU4YTlYYVNFM1ptUVZYZGtRcTlrcFhnRDZFOHNUc2ItWFlMVlJOT2tXZDJRX1YtQkJtejBMVzFUWGh4T3g0UWkyTkg?oc=5"
+    },
+    {
+      "time": "cnnespanol.cnn.com",
+      "message": "Después del terremoto en Venezuela, estas mujeres buscan su futuro en el sueño americano: “Mi punto final es Estados Unidos”",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHRtUXB5Vm85cHdxaWpsQjJ4enlkSkZSLXV4N1lxeXItUTBTZTZWc2xLWU5xN1dVdURUQTVqNjkwMElPWXlvWGtOcmlUMmJ6RUR0UlRRblZoNU9uNm5SYUhVNThKeEVXdWVhLVFtck5STTlPTmVhZnVvQ3VVYUxDSkdmZG0xYU5PR0F6b014WEdudThPQTl1MHVTdDF4c2ZaeUlZSVNn?oc=5"
     },
     {
       "time": "El Diario Venezuela",
