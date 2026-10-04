@@ -8,9 +8,14 @@
   },
   "reports": [
     {
-      "time": "dw.com",
+      "time": "DW.com",
       "message": "Qué falló antes y después del terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYi1Pd2ZKTlRlZW92MnpmWXdLZzNSdm9IZF9XNzBOOXVVanBsOEpDWjliV3Z3R3VZRFl4NjBCY1VCVUVQdFdUa3R1VGZiQWlHMFhEQnJLNnNHczMwX3ZYSk5WdHZQXzJGQm5PWFIyVndnRE84M2xsRnkxS1J3QnJsM1lLT2padnBJVXU4YTlYYVNFM1ptUVZYZGtRcTlrcFhnRDZFOHNUc2ItWFlMVlJOT2tXZDJRX1YtQkJtejBMVzFUWGh4T3g0UWkyTkg?oc=5"
+    },
+    {
+      "time": "bloomberglinea.com",
+      "message": "Sismo de magnitud 5,3 sacude la costa de Venezuela, según el Servicio Geológico Colombiano",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVE0UjFDbmxXX2M0TkdIMzBwVU5ZS1h6T2N1YUpYMkRfVkxwdWlNWnNabWVnSzFJaURhQVNjNUVRRElkZHVwV1BYdUxiczgyZDMwUTN6eUN6Wm9TLXBUbUpfRFFYT0pRTndXOVN5bEZWUjVyam94bE1LbGFDSzZPUm85dHZ6ZmMtVVd4bVRTMXZPaWk5TkVMbUpSSlpvWklSTEFvRlBKSzJXT0NVeXBkSmYxS0NuOTdlM1paNkZ4N3pFa3N0ZGxUSm9tenByMldsXzVNajVwd2x5SUZz0gHwAUFVX3lxTE82V0RKY1h5a0lpeDlMak9rU3dpSGJLbko1eXIwcGMzLXYtZWhKY2k5U3plc0tpRFkyYTVENjNZb2JzaGdIaUhDZHBGMkZOOG9fZWVEc28wdnc5OW5MMVNUOVUtZGRpS3BmX1p6LUZIbWcxSVRFWTlZSmZSdVllTWVVYlpRTlNERmkxNjRuenBaeURiYjJqbVozZnp6bjYzTHQxaEpFY0ZzV0dXTW1Hbi1WbTN2d2pKQlZmMW10TXhJYXV5dUcyRFZtQlgydi1Sbkp2R05zNUZ5UTlLemNqczZ0c0o1d3FlbzhubEg2emQ0Mg?oc=5"
     },
     {
       "time": "CNN en Español",
@@ -18,12 +23,7 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVHRtUXB5Vm85cHdxaWpsQjJ4enlkSkZSLXV4N1lxeXItUTBTZTZWc2xLWU5xN1dVdURUQTVqNjkwMElPWXlvWGtOcmlUMmJ6RUR0UlRRblZoNU9uNm5SYUhVNThKeEVXdWVhLVFtck5STTlPTmVhZnVvQ3VVYUxDSkdmZG0xYU5PR0F6b014WEdudThPQTl1MHVTdDF4c2ZaeUlZSVNn?oc=5"
     },
     {
-      "time": "Bloomberg Línea",
-      "message": "Sismo de magnitud 5,3 sacude la costa de Venezuela, según el Servicio Geológico Colombiano",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRVE0UjFDbmxXX2M0TkdIMzBwVU5ZS1h6T2N1YUpYMkRfVkxwdWlNWnNabWVnSzFJaURhQVNjNUVRRElkZHVwV1BYdUxiczgyZDMwUTN6eUN6Wm9TLXBUbUpfRFFYT0pRTndXOVN5bEZWUjVyam94bE1LbGFDSzZPUm85dHZ6ZmMtVVd4bVRTMXZPaWk5TkVMbUpSSlpvWklSTEFvRlBKSzJXT0NVeXBkSmYxS0NuOTdlM1paNkZ4N3pFa3N0ZGxUSm9tenByMldsXzVNajVwd2x5SUZz0gHwAUFVX3lxTE82V0RKY1h5a0lpeDlMak9rU3dpSGJLbko1eXIwcGMzLXYtZWhKY2k5U3plc0tpRFkyYTVENjNZb2JzaGdIaUhDZHBGMkZOOG9fZWVEc28wdnc5OW5MMVNUOVUtZGRpS3BmX1p6LUZIbWcxSVRFWTlZSmZSdVllTWVVYlpRTlNERmkxNjRuenBaeURiYjJqbVozZnp6bjYzTHQxaEpFY0ZzV0dXTW1Hbi1WbTN2d2pKQlZmMW10TXhJYXV5dUcyRFZtQlgydi1Sbkp2R05zNUZ5UTlLemNqczZ0c0o1d3FlbzhubEg2emQ0Mg?oc=5"
-    },
-    {
-      "time": "Noticias RCN",
+      "time": "noticiasrcn.com",
       "message": "Fuerte temblor en Venezuela hoy, 2 de octubre: sismo de magnitud 5,3 sacudió la costa",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVhvMHZTb0FqUXcxSU5ydF9lVEJ6UFhWeHJZdkJTWmJmVlpseTJuV3hVYlJnWkdiZ2R6VE9xdlFiV05JVW8wRF9mS0lCTVBhamZMSHVPeVBSRnVhS2JKcm5ubVNLVEVZVXBGMkdsclY5c1JWTVM4bXdZVUdzVFA2SEprdVNXQnc0eWRmXzRhTzA1YU8wVG9LT1o0RGlvYjFQc3lfcDd2Tl9hNW1EUHfSAa4BQVVfeXFMTTF0NktMYk5hdDRndUVZdkZITXBkckJ1UTZxemtSRnFJTEFoOEI5Z3k3WDhjdFJjdVVMX0E5eFRRejVFcjVHZjR1b1FrcnRmNHhnRTk1Z2ZwREJOWDVTWlQteG1QWU1CdGRUVVpnQTM0ZkNQdlYwMDlUNXRaSEphbWJONU9ZVlF3ODhFM0NjeUp4UHl5b1JWa3FrNHhjWmtPMWRiS09UekxTUjhSTkpB?oc=5"
     },
@@ -33,7 +33,7 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xQm9BdVdvYnpiSUtYQlFsZHJjY1A5azRNZFVXWENuekktb1ZPdkJiUl9fUUxDZmJ0R0V6alhvUS1uLUVzcDVVRHFhV0JmaFE1WElHYUhEbzFsdEhpSnVubk9CNUE1ZUk4Ymc?oc=5"
     },
     {
-      "time": "noticiascaracol.com",
+      "time": "Noticias Caracol",
       "message": "Temblor en el Caribe cerca de las costas de Venezuela: magnitud de 5.3",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOExOM0llbjRVa09USEF5MVloSF9mdkxob1YzV1pLZTRCaVRxT2RYQW1ubzRKa2Y4c1NHNTRMakVvYjlFUUtDQ2JzdEhoLW9yMHVXamVJV0ZtR25udGJxODN4WkNuUF9OR3g4ODZkVy16MUc0WUdIbWl4X0hEeEJ2UUtHZWpTN2xGUFI2VFhBOTIzd0l1SlluM2xCNndpYVNpMGlsLW9pTi1kQmdrb1BGSVdablRscUtjaGczWllqTXphbnJNQ29JOTVteWRQQWNzUW8wdk16eExhNHYtRnhJ0gHsAUFVX3lxTE8zeTRhN0NMQ3VWaVpZWndjdXRaS0d2bFR2ZE5Kb1ZiMTVQN2lqNjhBMnQ3ZVFmMTFhblJmUGN2UWV6MjByZXpldTM5cHdrbFZiY2dqaEI1eU1INnE0cW03ZGtUWWRVYjdDWlpxMVZLdnpSVVVsMGNSRUdhUVlmMThzVUNyZ29DbWtGM2NMa29Gb1VobkY5NkxVck9QeDF0bTJDY05jNXFkSU1fS0E5WjVGZUVNVUp2a1dPTEVwbnliZzM1RjBBUVlFTll0WmdXQlJFaEpPMEQ2b0pRRmJxemszN1ZMalFHdlpxT0ZB?oc=5"
     },
@@ -48,7 +48,7 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalNUaWNpa2hhTFprMUFndEs2SndKX1RtaS1oQ1hPcEVqVjNnQ0t5N2FCNEk0OWpNa2toamI5ZnFydEt5djFmMGoxOTJJZFFST0xEaE1tSTJlV21FU2lkR1hiX2l6czA3dVRZV1N5cFNZMWI1b3p5X1EwM0hLdmExZkRKVjdsQ2g2TWFlYlM5RFB0YWFxVTZR?oc=5"
     },
     {
-      "time": "elnacional.com",
+      "time": "El Nacional",
       "message": "Acnur alerta que miles de afectados por los sismos en Venezuela continúan sin vivienda propia",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa3pXUGk0WFdvdDhuNEdHdnZmUDgxOC14Q2NPVkRDS29NSkcyc2kya2JkYmE2TmZtb1ZaRWoycFBJRTktY1Z3X2hMWWFraFpKcTN4dW1SVkx0SmhOV3JMUkwtbkZ1R05SQ2czemFYWDJFaldCQlROcGZFUkRtR2JVbXdyeWRDU0tBRkJIM01xWDNueE90STB0VHFBbWE5cnhkTmZhenFrdFUzQS13MFZqdm9aWVFkUjRDaTJ4WWFEV0RuU01pNzB4UQ?oc=5"
     },
