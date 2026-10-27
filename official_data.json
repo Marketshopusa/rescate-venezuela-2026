@@ -8,29 +8,14 @@
   },
   "reports": [
     {
-      "time": "El Diario Venezuela",
-      "message": "Funvisis registró 2.286 eventos sísmicos en Venezuela desde el 24 de junio",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81ajdoTGRnX3o3R2ZQREZHNFc5TlRRMnU0V3I1NEtwa095bFptYVlFX1ZRTlV2Y2RuRWhOcmZQbTNweVhLbVlwOE9SQTNoVzdOUzBHSDhpb0lpd3Z1ejVXWA?oc=5"
-    },
-    {
-      "time": "Alba Ciudad 96.3 FM",
-      "message": "Concierto “Venezuela, Esperanza que renace” rindió homenaje a las víctimas del sismo en La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXZCUzY4dV96c2FMMXY0Mmt1OE15UHJ5ZzJsS1dnTlc0Qi15cUttQ2ozLTNCY1paNzBUSVQyakZkUEVqUG5IYmktd2F6aHZXeE1LRTg1SmRuUkJUOWNTRGNNejR4Mm85U0w4dnVQVmMzZXZXY0I5XzA1NkNfWWZ6cnlkQVJpd291Z0E?oc=5"
-    },
-    {
-      "time": "Infobae",
-      "message": "A cuatro meses de los terremotos en Venezuela, 200.000 niños siguen sin clases",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUdCdVVRd3B5Nkl0VWFPOXQ0RlBVTnE4SHJpS2RzWTM0Yi04VkJHOU1vV1B6QXlWUXBOQlF2RFZHeG0ySG9sYUtfdjQ4SzNYWDVXUVB2eGlZNmFnRDNrTGlBZF82U1gxUzNxNjVLa3NTZEM3cXBzWWZDVEotbVFHYksyS3BvbVZ5Q09zUWRDRS04UWVMa3Z1MkJzWlJrMnQ0b091ZHQ2VTRHelFzUmxERkFUNVZMQjFaUFhtRVlBNNIB2gFBVV95cUxQNEstZGdtT3ZPYS1xdzVxTllBRWNoWXFnd2UzeHRnNF9iOHl3cEk3cU1veUZpLTl2QlFBLXRrRWZ2RkR0c3NnZ3B0SmlBRnVTbEhWN3pKRVNYSnJ1MFBqV1NQWFRiZ0RtMk91ZFJadm43eWNiN21BcGRzdmJDTjVLTjVVNXdJMVNxd1RjTzBFellXT3FJS0tlSHotdW05X0pYYVlGdlR1bXBEendqY05GVGVUVEpaNVBORnp5bGJ6YXU5eGJLVTV3WnNTc0JYNjR6LVcydm82YVQyQQ?oc=5"
-    },
-    {
       "time": "Amnesty International",
       "message": "Venezuela: A tres meses del doble terremoto sigue ausente una respuesta centrada en derechos humanos",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2RpV21tNExhYV9JYzVLQ2xIVzNyWmViemI0RGFkWDBTem5zaXdXTXE1cTJBQlRvdi1sZXpQTGVvVzdYdlNZRWV0YzBmUFJ6STBVQk5STG1wUE1FeUN1UDQxT2hzbll3WWpkUWh3VWVHUGhHQjZBZml4dlhwcU1GVnR0N2htM0lqenZGVkRFVFdOOHpuMVlOUHF3cTR6NmNpeE9RRFItNU9EZXNzcngwWTMtUk9Lb1hwRUd1bGNyd3dWM2hNUWIxSVFOVEUtX3d6UmpZTzZodDZwSEhSXzg3bQ?oc=5"
     },
     {
-      "time": "Megatiempo",
-      "message": "Sismo en Venezuela: Estudio de la Universidad de Chile revela cómo se movió el suelo durante el terremoto en La Guaira",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONk5EeWVSNUZrUWFDS1hGTlc0VjUwMzJ6QzI3emQ1NUZvSUR4N3l6eXNCUlpWMUJQaWl6OXJVUDFTWE44ekdRQnpuOWFOSVdNTnU3SThiSHlrb01Tb1Vhd0JYLWl4Yld2OVVNLTZudkMzaHNlYzJ5cFdRT1BuVVYwODlwQVJ2NEtVWjFV?oc=5"
+      "time": "El Diario Venezuela",
+      "message": "Funvisis registró 2.286 eventos sísmicos en Venezuela desde el 24 de junio",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81ajdoTGRnX3o3R2ZQREZHNFc5TlRRMnU0V3I1NEtwa095bFptYVlFX1ZRTlV2Y2RuRWhOcmZQbTNweVhLbVlwOE9SQTNoVzdOUzBHSDhpb0lpd3Z1ejVXWA?oc=5"
     },
     {
       "time": "Mongabay Latam",
@@ -38,24 +23,39 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
     },
     {
+      "time": "Alba Ciudad 96.3 FM",
+      "message": "Concierto “Venezuela, Esperanza que renace” rindió homenaje a las víctimas del sismo en La Guaira",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNXZCUzY4dV96c2FMMXY0Mmt1OE15UHJ5ZzJsS1dnTlc0Qi15cUttQ2ozLTNCY1paNzBUSVQyakZkUEVqUG5IYmktd2F6aHZXeE1LRTg1SmRuUkJUOWNTRGNNejR4Mm85U0w4dnVQVmMzZXZXY0I5XzA1NkNfWWZ6cnlkQVJpd291Z0E?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremoto en Venezuela Panorama de la situación (25 de junio de 2026)",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVUlEZTVZVWFkRXdVUVVQRGpMemNEcUI4dFhwWTVMajFGbUE1LVgwQUM5SVE5S3ZnM2RDbzM0SXFCcEtPWWc3V19LOWFGdklHLVBwV0hScnIzWVRuSjR4X3FNdGxjTEg3NEU4LTlJRmpVTTdOdjFna3NVTjIzd1NHOXRHbU44VEV3eXR2Vml5QU9UTFF3RnFZT1dDMzZDSUJ3YUw3Mk9aWTVfSWVHTG5abUM3NnBfbE5OQ0xZdTEzYXdNWnE5?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Doble terremoto en Venezuela: una tragedia anunciada",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVF9FSUtXRDBCclQ2WjFrWV9weGxNMTlBMjlhU1FWd3NYbDlrVmRFUEhfSzlGREpqbW1zcXRMbVk5b0M5Mmg3eXRFV0c2ZTdxS0JhX1c5cjZ3WDB5NHNCRHZ0YkhYOFhhOXJwM0hXVXQwVUsyZUVNREJIZ3BSSXZndFJGVG1SWkNlX3hicdIBjAFBVV95cUxOV2QwdjZlQm1XZlZjM3FDeThuNXlDa01BTGl6UGJ6eG9aSHllX2J1OWhBM3BGbG1Ld0hoZVlFRWh6ckxUc3lRdk5pc3hKRUZmNklaYTRIZ21lakhMLVpmb18tcmZWRXZwX3dSSEQ2Y2V1dUxqVzBva2R1YjBzQ1FLS3hpTWN2bzRBY3dFVw?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "A cuatro meses de los terremotos en Venezuela, 200.000 niños siguen sin clases",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUdCdVVRd3B5Nkl0VWFPOXQ0RlBVTnE4SHJpS2RzWTM0Yi04VkJHOU1vV1B6QXlWUXBOQlF2RFZHeG0ySG9sYUtfdjQ4SzNYWDVXUVB2eGlZNmFnRDNrTGlBZF82U1gxUzNxNjVLa3NTZEM3cXBzWWZDVEotbVFHYksyS3BvbVZ5Q09zUWRDRS04UWVMa3Z1MkJzWlJrMnQ0b091ZHQ2VTRHelFzUmxERkFUNVZMQjFaUFhtRVlBNNIB2gFBVV95cUxQNEstZGdtT3ZPYS1xdzVxTllBRWNoWXFnd2UzeHRnNF9iOHl3cEk3cU1veUZpLTl2QlFBLXRrRWZ2RkR0c3NnZ3B0SmlBRnVTbEhWN3pKRVNYSnJ1MFBqV1NQWFRiZ0RtMk91ZFJadm43eWNiN21BcGRzdmJDTjVLTjVVNXdJMVNxd1RjTzBFellXT3FJS0tlSHotdW05X0pYYVlGdlR1bXBEendqY05GVGVUVEpaNVBORnp5bGJ6YXU5eGJLVTV3WnNTc0JYNjR6LVcydm82YVQyQQ?oc=5"
+    },
+    {
       "time": "BBC",
       "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
     },
     {
-      "time": "DW.com",
-      "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
+      "time": "France 24",
+      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
     },
     {
       "time": "ReliefWeb",
       "message": "Terremotos en Venezuela: Reporte de situación #6 (29 de junio de 2026, Hora: 06:00 pm)",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYktESWQzc1ZSeU92Ykc4UHBCR25yUjBra0RPYTRwakN0cVNscHNKN2VwdEJUQ1FBRmJCM3lzRW4za3M3Wmd5Z1ZzOERlVVNrTnlYMVg2dV8xYy1DTkt4WE5hY1IzcGlXSjd0aFNncGpSTmZXU2VMZ1pJZGRwUXBmSFh5d1NrNDcxYXpPblBSUDExcVZ4MEItY3JDeTBoMjBLbmliZFJZY3RBcXRYQjdjMHJVTTNYUGtXQ0hOTDR5MHNPZ3JYVnZLSTRSVmJJYi1sSlNidg?oc=5"
-    },
-    {
-      "time": "France 24",
-      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
     }
   ]
 }
