@@ -8,6 +8,16 @@
   },
   "reports": [
     {
+      "time": "DiarioVea",
+      "message": "Viviendas prefabricadas chinas para damnificados del doble sismo",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDFZVWNKeWM2cHY5WFNURzRHMGRaZHN2cTJvME1LT1ZDWTBrR19TRG1EVWotXy0tMWFpMEI4SUpoNkhLYnVIN1dQRXBFRUNEbHpMVUc2YVRnUlVwTU84b291ai1mSmVGVHRFRjRnLUQ1VHFscEtIc3ZFOVNIbzBnaUFyd29Cb0dENzdOWFdORkZuTUtRRzVMbm1NOUdPSXZYZnA3aVRvQkRJMmN4ZVYzbnhNaDJWQnd2Z0x1LU5jZkQ3UEQzZzdfOE9iQVhXZ0JBc25z?oc=5"
+    },
+    {
+      "time": "Blu Radio",
+      "message": "Revelan por qué el terremoto en Venezuela fue tan destructivo: alcanzó velocidades supersísmicas",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaG5UdTJYQWZUQUU0UjdjQkY3NnlhSjZYWDhsdmpacVpMOEs4UlhoRTFLeWdtRGNoajN2TlpoZWF2VXl1YkhkdFV2dGpLSTAxOEVYcmRzQU91U1BRamJ3OEI5d3JCWkk5MHR6M3BMZFlHbnRFVFpCeEdDVXJGTFRHOFpyendBa09lX18zVjg4Z1BWVnNELVdyazB3akFNMDRkOTNjeWJjMWlfRncwQjB1Q3lMTXVHa3pxeXRDalc2dk5KNkVFWF9fYXNHb9IB2AFBVV95cUxPeEd0NFdhbkx2aGtzUEZfY0ZxMzZlc2VwQVpUWmN1ZTZWNXZkM0RRZFE3TkVUcGYtQnRxMWdzSDZTUVczWmM2VmYwamVIZG93LTBjRVVVTWJHNXg1YkpWS0VVbkxtREE0SU1JVXpsa0QyS0NoNVBkTkMyQ2FRQ2RRVjFfZHUzc2h4Q3paWmJFX3JuelpXTEpLa1VlcThiS0xEWk5taDN3b2hJcllVeHVleGdqZmczNXM3SEswQzBoOTFUWmNyaGNXSDN6LUY4MG9Oc1lzTFcxSDE?oc=5"
+    },
+    {
       "time": "The New York Times",
       "message": "La cifra de muertos por los terremotos en Venezuela podría superar por mucho el conteo oficial",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmlHNXdFTVNkaWhEWl95NElZTVJWSGJyT0FHSUM3anMzTTVaemxZYk9QX1F1MnBGT2wzamJHMS03VGNHZHVDTWUzLVlEcVI3RmZaRDdUcDVWUjJvLVN2cGx0RUpFMHZRMkZMbm8xV2MtVnBjdktxUHgtWjl5ZHdpUk9QeW1qVmZvdk16UUVKME4wV284NllPT0h3?oc=5"
@@ -38,11 +48,6 @@
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SNzdEVGJXQ25NM3lrQndhOVE2Y05DeklaZ3h6Mk9ZM1pVRGZUZ0VhbHRBa00yTGQzUjVzbUhYdDNGUDFiUGtodkx5cVFHano5Q1E?oc=5"
     },
     {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
-    },
-    {
       "time": "Infobae",
       "message": "María Corina Machado recorrió La Guaira tras los terremotos que devastaron el estado",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHdWVXBzYVhwdmM5MW82X0xPbkpib1FaWGhLV2FNamhSMkdPVDNDV25tR3lIV0JPRFZqY092Y2ppWl9Ka3ZPU0ctbUYtWGRXZnFKMzRwcldIQ285NmRkNkhveENtX2o0Qi1VY1E0aExCNEdoODMwSnVXWURWM0NsNy05QzBvQkpsc3NFTjEwRGxGbXdJSHlqeWZqUl8tOWh6Vk1CTUczNHg5RTJSbFY4M2h2eEVDQmdwRzdraXdmOGRnUDlLanV6YVpn0gHkAUFVX3lxTE1TOER2LUJJYmpRWUNhd3QxYW55TVZ1RlZhS2FPbnpaSUZpRUttZ1JURmFVODd0enNzQk1QZFlTZU9GSHFFSGpzay1EVkhYVzlQZXRiZWdaZnBUV0lOT2xaOXc0QjVLdUhsdTBBNjBEUGh1Rm1qbl9kVUVhMENrcHJQaTVIb1NTaHlNMlhBZDdZMXR6WGFiV3pDM3BaczBzVVJHMF90TGRoWF9hSDVYTDk1VDhjc2NvS0RZbWFYbjZ3X0hPbWotY1FyelZnbzdrR1BtVjdXV1JjNzhaZkpXWVE4VVdtMA?oc=5"
@@ -51,11 +56,6 @@
       "time": "La Radio del Sur",
       "message": "Más de 564 familias obtienen viviendas gracias al Plan Venezuela Renace",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkI0QUZLZnphai1uSlhkbjZILVNaNDJ2UzJWZE8yZUZXYmRGM3hHZ0tVYUlrQWpNQ2ZHRThMSHktOENwZFpfVjhSNHVCM3FTMWRRUFFRNVdUcjJsbnJtTFB0YnJyNWE1S1RqYXVzR0Jna3JiaHdiOHZYcTg1NGlJZE1iVWQwRThfYzhzMHFqMjRONzJheHEtRTJkaGhwXy1kTk9HWm1ZMy0?oc=5"
-    },
-    {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #33 (14 de agosto de 2026, Hora: 02:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVFM0ZW15YnFEbzhWdjlwNjZwOEltU0lyTFNLZkdBOXhIdjN1T3NQOGg3OVo4cDlSTWM0VVJTM29fc28xellfN0g5aEdBdW4tSFNlWFlkUkt6NjJNY1hySzVER2JSNEZoZGJIMVp4eFRVMTRuQlpPcXptd0R5R2dlY3htcDY5dE9tYkVKbkNlZm1YN010RzVyeExGOGRHaHZXaVFrNmJuM2E3cU5NSzZKNllzT0FtbmV1WnZWSjZHd05VanJuOUU4Y3Fhd20wbDlhcUYyQ2FaYw?oc=5"
     }
   ]
 }
