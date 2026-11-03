@@ -8,14 +8,29 @@
   },
   "reports": [
     {
+      "time": "CNN en Español",
+      "message": "Casi cuatro meses después del sismo, muchas familias venezolanas aún buscan desaparecidos entre los escombros",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0F2azExSDVsdDRLMmpMMEl6V1hqajU3SGVfSkdVUG1wYUhYSGFHdHJsY3phcGlwbFhMRHhPTFo0WlhaTHExZ0Z4YlZjTWY1bmdvYmtSeEZMYkRrcmtRVFBLZHV5Nm5JZkd5VnczRVJpTmVKQTEyMzl6dWlETUc1ZmU2dzhVVV9ZdzBhR0xscm1ib29QQVhKVmdyUDItS24wTUFlbGR3?oc=5"
+    },
+    {
       "time": "Infobae",
       "message": "Venezuela inició las celebraciones de Navidad, marcadas por la ausencia de Maduro y las secuelas del doble sismo",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY09aNzJqdDI4bW5pY2ZmS2FJWk5mRlJVU1FpSDRjV09QNjBxVkJqV0JPV2FWRk80OUJCeWxpcUp0Q2ZVTDZXYUtuV0VLYldkLUpYOEkzZmVkM2xVR3JxbjlMQldvTEh3alpBb3lRMW9kSnZVcVpKbkZlNHVwWG9BS19kTk1PNS1fTHktcmFPVThxQVB2YXpyM0ROeW02WWJNR1FaUGlqSnlqNkxkdGRLVFRHbGw3RFpoRG1OU1J3T3ktOTVoUElyRzR4NmNFVjlYRnpBcC1xaXJhR2dtd2hJNHltSV9mUVlrXzhUclN30gGIAkFVX3lxTFB5aDkzckg1aXN3aXNST0pNYmR0b2ZSWk9pSDdEV1RnblJ6OWYyUWdQQ3VLMThDRHRRQUdsZERvdVJoLTNxZnRDWlR0cjR4Q1VWb2xGd0JjQTNmVDV1dVFjWWtER0JBb2VYRmVvNFgzSV9VX0V0dVFCN0JQaHFIRjBjOENZaWJMakpIRExDUFlzZm91dGFud0l0ejQyeDFwbVltZ3ZNUU5zcm1jeDhSNzJYRTRDZTU1STBJek9uVEpGNzdWX3owTUxrUld2ckl3b1lRV1NFMDdyTkpGZTFNbENvNnlKOWcyNC1IN3hORC1sYWVQTzVVTUVlUDRzWVlYb3VKTVVJSGtEVw?oc=5"
     },
     {
+      "time": "The New York Times",
+      "message": "La cifra de muertos por los terremotos en Venezuela podría superar por mucho el conteo oficial",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmlHNXdFTVNkaWhEWl95NElZTVJWSGJyT0FHSUM3anMzTTVaemxZYk9QX1F1MnBGT2wzamJHMS03VGNHZHVDTWUzLVlEcVI3RmZaRDdUcDVWUjJvLVN2cGx0RUpFMHZRMkZMbm8xV2MtVnBjdktxUHgtWjl5ZHdpUk9QeW1qVmZvdk16UUVKME4wV284NllPT0h3?oc=5"
+    },
+    {
       "time": "DiarioVea",
       "message": "Viviendas prefabricadas chinas para damnificados del doble sismo",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDFZVWNKeWM2cHY5WFNURzRHMGRaZHN2cTJvME1LT1ZDWTBrR19TRG1EVWotXy0tMWFpMEI4SUpoNkhLYnVIN1dQRXBFRUNEbHpMVUc2YVRnUlVwTU84b291ai1mSmVGVHRFRjRnLUQ1VHFscEtIc3ZFOVNIbzBnaUFyd29Cb0dENzdOWFdORkZuTUtRRzVMbm1NOUdPSXZYZnA3aVRvQkRJMmN4ZVYzbnhNaDJWQnd2Z0x1LU5jZkQ3UEQzZzdfOE9iQVhXZ0JBc25z?oc=5"
+    },
+    {
+      "time": "El Nacional",
+      "message": "NYT: Número de fallecidos por los terremotos en Venezuela podría ser mucho mayor que el balance oficial",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQU4ybFhTbUh3MEVoR21SZFBnR3ZyWTAtMmhOd3E4MVVIcEdCNllzallsTllsSjRnZ1JnOW1FcnFRZEFrelRNQmpvWGJDUHdDMkZkM004ZDVwMUViZmtZWGEyWDRkeC1kM21EbnJXNmpuSG9KV0F2M3l5M2VmMWJLNFM2VU9qc0dGT1I5ZE0wdG54YjF2VThCZnRMSjZPVFpyRkNBTmVMQjB2N19odUx6Z2gxem9VT25uZXNjVGpsZUJYMTNCY29wTVpteHdIZ2s?oc=5"
     },
     {
       "time": "Amnesty International",
@@ -33,24 +48,9 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
     },
     {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
-    },
-    {
-      "time": "BBC",
-      "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Cifra de fallecidos por sismos en Venezuela sube a 6.438",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWZ3OXdyQVR1eVVXNFhpbWFxWFc4SFB0OFdkWDVJQjZXazVVWk9TZFhQUTZ0VXpWVDBCaHJycTNtSzZ0MjZoQzBpOGxScENxN1ZucUpSSTJpM2R4VUZjOXFtYzk1UFBnNjNQTDVNUkozak1CRUtyTGh0V3BOcUxQT2xzUlNIemoxWktnd0N3aFdzZ9IBkgFBVV95cUxPTTdLOTVEU1JjdjZFZG1IcnVyd1hBWGNrQnJRemZMamNIa0pfeUoxNURHTEtPdFlCSENWNDhHTWFGNG1Hbzl3VUFBN005d2UtYlAwaXNWeFFrUUc2VURfU3NnUkFlRnNSdENHVkVHRktydDExbS1YWWpNZ1l3WlNGRVZBMlBuV2UyQmhWRWRNa181Zw?oc=5"
-    },
-    {
-      "time": "Teletrece",
-      "message": "¿Qué es la ruptura multidoble? Estudio chileno explica por qué terremoto de Venezuela fue tan destructivo",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUllGSmU0eFdRRUpXcWNlb21TZDRJbERZSU9tZmtmcGc4VWp2dW9yMkdjenRfQ25MNWdqdnNQQ002T1NvZGtqUWlPOG5uZ2tKSkItSHE5blFaYVBIeEhIYmN5R3ZHeVRzbFhFRXNIRUxFWWFCcGN2Zi1QWjF5U2dLeWhraGVoSmNVM0VwNFRRbnJoRDFBVkhWZXp3amRlbzh0WEVfYWVLaHF0c2dySXlPYVJZeTY3eTU5NHdEX05Kd3NJY2c?oc=5"
+      "time": "Infobae",
+      "message": "Las razones por las que dos sismos de igual magnitud en Venezuela y Panamá produjeron daños tan distintos",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3FFaU83WjlIMlNyVWRKTHBxZWwtZENrai1VMlZac3ZobWF0dVpWTVF6cU5PRnRRVXVzSkUwVnlQTHN1bG50N3NTRlJOeExLNzBfNk15dkhSeURQZmRfR0EtVUtqOWFIMk9PREtPMFRZam5XcjlETGFZeWgwLThlOHF6T240SEZvQVVUYWtBQm83MzdGZ2ZvX0htblBMQmZmYmtrRXdDakFic0ZRdEh6MTZkeHpob0VUemhXNEtjZ1Q0bnowcEhrelRCM1NERUwyX3pKQUZDcnV1aE9vUk9EYlhR0gH8AUFVX3lxTE1ZWDJUWDJYMVRNc2FOMzZKWVg5aWpHRktCc2gtQzZVU0JlY3k2cG5za29DdFJTaE1DZUpkUklUYXFHU1hLTWNkYTNFZ3R6WEFLYzJNenp3THBZUFo0dmRKR2stY0x1NExpWEVRN2YxXzZReVlqTWZGODhmVW0tcXp2bjYyUmh3bG5wdHVJWGhnY2RmaDcwa3B4LXR2c3lpbmR2TTE0ZWZUR2NoX2JkT0FjN1J1TXdPREZKVkt2a2FPQ1F4bHJwNVd0cHIzSG1vTU1ZT3FadlRjMU9NY2Fjd3pZaS1UMmpNeVpJRm51cUFqVUxWc0JUcEx0bHhxZQ?oc=5"
     },
     {
       "time": "La Radio del Sur",
