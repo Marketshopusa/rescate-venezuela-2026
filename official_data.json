@@ -8,14 +8,39 @@
   },
   "reports": [
     {
+      "time": "Instagram",
+      "message": "Funvisis reporta sismo de magnitud 2.9 al norte de Macuro La Fundación Venezolana de Investigaciones Sismológicas (Funvisis), reportó a través de redes sociales, un sismo de magnitud 2.9 al norte de Macuro, estado Sucre. Descubre mucho más en nuestr",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5RjQtQjlEZDRDU2JRMWZ3d0ZOLWZfOHdUS05TRnpqbEFQdkNZUVRfMS1qcUFjUFFmT0xnREp5QkUwdEJCeG5lWU9NUWtjUFRZVnc?oc=5"
+    },
+    {
+      "time": "CNN en Español",
+      "message": "Casi cuatro meses después del sismo, muchas familias venezolanas aún buscan desaparecidos entre los escombros",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0F2azExSDVsdDRLMmpMMEl6V1hqajU3SGVfSkdVUG1wYUhYSGFHdHJsY3phcGlwbFhMRHhPTFo0WlhaTHExZ0Z4YlZjTWY1bmdvYmtSeEZMYkRrcmtRVFBLZHV5Nm5JZkd5VnczRVJpTmVKQTEyMzl6dWlETUc1ZmU2dzhVVV9ZdzBhR0xscm1ib29QQVhKVmdyUDItS24wTUFlbGR3?oc=5"
+    },
+    {
+      "time": "The New York Times",
+      "message": "La cifra de muertos por los terremotos en Venezuela podría superar por mucho el conteo oficial",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTmlHNXdFTVNkaWhEWl95NElZTVJWSGJyT0FHSUM3anMzTTVaemxZYk9QX1F1MnBGT2wzamJHMS03VGNHZHVDTWUzLVlEcVI3RmZaRDdUcDVWUjJvLVN2cGx0RUpFMHZRMkZMbm8xV2MtVnBjdktxUHgtWjl5ZHdpUk9QeW1qVmZvdk16UUVKME4wV284NllPT0h3?oc=5"
+    },
+    {
       "time": "Infobae",
       "message": "Venezuela inició las celebraciones de Navidad, marcadas por la ausencia de Maduro y las secuelas del doble sismo",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY09aNzJqdDI4bW5pY2ZmS2FJWk5mRlJVU1FpSDRjV09QNjBxVkJqV0JPV2FWRk80OUJCeWxpcUp0Q2ZVTDZXYUtuV0VLYldkLUpYOEkzZmVkM2xVR3JxbjlMQldvTEh3alpBb3lRMW9kSnZVcVpKbkZlNHVwWG9BS19kTk1PNS1fTHktcmFPVThxQVB2YXpyM0ROeW02WWJNR1FaUGlqSnlqNkxkdGRLVFRHbGw3RFpoRG1OU1J3T3ktOTVoUElyRzR4NmNFVjlYRnpBcC1xaXJhR2dtd2hJNHltSV9mUVlrXzhUclN30gGIAkFVX3lxTFB5aDkzckg1aXN3aXNST0pNYmR0b2ZSWk9pSDdEV1RnblJ6OWYyUWdQQ3VLMThDRHRRQUdsZERvdVJoLTNxZnRDWlR0cjR4Q1VWb2xGd0JjQTNmVDV1dVFjWWtER0JBb2VYRmVvNFgzSV9VX0V0dVFCN0JQaHFIRjBjOENZaWJMakpIRExDUFlzZm91dGFud0l0ejQyeDFwbVltZ3ZNUU5zcm1jeDhSNzJYRTRDZTU1STBJek9uVEpGNzdWX3owTUxrUld2ckl3b1lRV1NFMDdyTkpGZTFNbENvNnlKOWcyNC1IN3hORC1sYWVQTzVVTUVlUDRzWVlYb3VKTVVJSGtEVw?oc=5"
     },
     {
+      "time": "Correo del Caroní",
+      "message": "Estudio sitúa terremoto en el país entre los “más intensos” de la historia mundial",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnE1dGtUeTFmd2ZUV2FKWjNNdzlkNWxDVGtwWDNyemlLdTkyTXR2NGJqdWFDV3dGUzRmalNkWWdYajA4RzFsc3g3TUlKSlY5Y2lQWi1WM2FNdW9MUWJqMTM3elZHS0tySDRTS1J6YWxtOGdSSXhXYXRvMlhBX1RWekJsNXVuMHBpdC1CV3l6bUV5YmlFMnpISTl1elgwd2VEQkFxWFZudmtwWi1SUW5iU1JYM3JxM1loSHo1ZGJwbUttMnJqbUE?oc=5"
+    },
+    {
       "time": "DiarioVea",
       "message": "Viviendas prefabricadas chinas para damnificados del doble sismo",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDFZVWNKeWM2cHY5WFNURzRHMGRaZHN2cTJvME1LT1ZDWTBrR19TRG1EVWotXy0tMWFpMEI4SUpoNkhLYnVIN1dQRXBFRUNEbHpMVUc2YVRnUlVwTU84b291ai1mSmVGVHRFRjRnLUQ1VHFscEtIc3ZFOVNIbzBnaUFyd29Cb0dENzdOWFdORkZuTUtRRzVMbm1NOUdPSXZYZnA3aVRvQkRJMmN4ZVYzbnhNaDJWQnd2Z0x1LU5jZkQ3UEQzZzdfOE9iQVhXZ0JBc25z?oc=5"
+    },
+    {
+      "time": "El Nacional",
+      "message": "NYT: Número de fallecidos por los terremotos en Venezuela podría ser mucho mayor que el balance oficial",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQU4ybFhTbUh3MEVoR21SZFBnR3ZyWTAtMmhOd3E4MVVIcEdCNllzallsTllsSjRnZ1JnOW1FcnFRZEFrelRNQmpvWGJDUHdDMkZkM004ZDVwMUViZmtZWGEyWDRkeC1kM21EbnJXNmpuSG9KV0F2M3l5M2VmMWJLNFM2VU9qc0dGT1I5ZE0wdG54YjF2VThCZnRMSjZPVFpyRkNBTmVMQjB2N19odUx6Z2gxem9VT25uZXNjVGpsZUJYMTNCY29wTVpteHdIZ2s?oc=5"
     },
     {
       "time": "Amnesty International",
@@ -28,34 +53,9 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0dpWjF5ZUtZc2NqNjhobVU1b09HNFBWWFV6SUR4WHpwLWROd2VPQm04ZTRHNmxDbXJQLWwtUkJOcm8ydEVfSmlROHlIcXhmeVZJbFRvd21seU11VmJaZ2pBdm1oZXJqcU5idTRNckdQbVJzWGVsQlN0TVVWZVV6SWlibGhPVjVNR3dxWnFxRktrMmNycjZhOUpuUlQ?oc=5"
     },
     {
-      "time": "ReliefWeb",
-      "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
-    },
-    {
-      "time": "Mongabay Latam",
-      "message": "Terremoto en Venezuela: alertan por escombros arrojados al mar y riesgos para la salud",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTFBaV9rN013RFludWktUnBwVmIyNTRfZWl6Z3FkZ09KLWJxbmVEUk56UmQxMGFxc1ZzRmNQYWc3S3E0Ri1EYi1vUkRjb1ZzZ3dkUHlGYXlyNlhOSHd3MlVrRmhqbXhPanpRWlIydk42R1BMa0RoNlp2STZiclVvNDR0VERRckdud09pSERRWml6LWhpREtvRGppY3VwU2M?oc=5"
-    },
-    {
-      "time": "DW.com",
-      "message": "Venezuela eleva a 6.301 la cifra de muertos por terremotos",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXFTMDE1LUpmRV9QbHU5OEx0MGlNbWxEdkxPbFV6X3pHbVlDeGxjd2Zxa0xqdlhwLXZzeEU2MkNlYktFSGxaZ254LXA1MkZNcGJsUFIwMVNBRmUwakFWSm9jaVJ1U0hubXdjcDJlWFlfRlM5X2hmdGpPZEFLTGQtelc3aDdlSXB1d2hodEpsM21yZkM10gGUAUFVX3lxTFBfbkFNUWlCeXFKbThXcGRtWWlXNS1xTm9tcjhrZXdWWjg1LVhQY3psN1dlZXFESHM3cG0zYWZDUUdEOTZmcENPVmNqMnhmV084ZVFZSllXR29QbzhGZWtSOVVHU1UzdmlhOElLeWxmZ1pOaW5xOGt2dFFOX3FkQ2ExaDJ0UTVFVXBNcXBFVkk0NWZaV3E?oc=5"
-    },
-    {
-      "time": "BBC",
-      "message": "¿Hay alguna conexión entre los recientes terremotos en Venezuela, Colombia y Perú?",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bWxXOW1CdDRNeFdmaXUtbkFXRktVVDNpa0hPdU80YmJMb1BZMUtIeEhjbkt5SDZGS1VqaE02QmUtRXZtbW9LZV81alRFN2lTNGhpd0lRVHJuT1XSAWBBVV95cUxQR25WUlRNb0l4OFJFQ1UtVHozUk8taHEyVm5uaW11VXhjeTF3Z0NQelhFdmoxMS1adWdRcjBWZlVGTTRsM0FXRnZiX09yU3Bob1NiNWdFd3pQaEZWNXhVZHU?oc=5"
-    },
-    {
-      "time": "France 24",
-      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
-    },
-    {
-      "time": "CNN en Español",
-      "message": "A casi un mes del doble terremoto en Venezuela, la cifra de muertos supera los 5.000",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
+      "time": "Infobae",
+      "message": "Las razones por las que dos sismos de igual magnitud en Venezuela y Panamá produjeron daños tan distintos",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3FFaU83WjlIMlNyVWRKTHBxZWwtZENrai1VMlZac3ZobWF0dVpWTVF6cU5PRnRRVXVzSkUwVnlQTHN1bG50N3NTRlJOeExLNzBfNk15dkhSeURQZmRfR0EtVUtqOWFIMk9PREtPMFRZam5XcjlETGFZeWgwLThlOHF6T240SEZvQVVUYWtBQm83MzdGZ2ZvX0htblBMQmZmYmtrRXdDakFic0ZRdEh6MTZkeHpob0VUemhXNEtjZ1Q0bnowcEhrelRCM1NERUwyX3pKQUZDcnV1aE9vUk9EYlhR0gH8AUFVX3lxTE1ZWDJUWDJYMVRNc2FOMzZKWVg5aWpHRktCc2gtQzZVU0JlY3k2cG5za29DdFJTaE1DZUpkUklUYXFHU1hLTWNkYTNFZ3R6WEFLYzJNenp3THBZUFo0dmRKR2stY0x1NExpWEVRN2YxXzZReVlqTWZGODhmVW0tcXp2bjYyUmh3bG5wdHVJWGhnY2RmaDcwa3B4LXR2c3lpbmR2TTE0ZWZUR2NoX2JkT0FjN1J1TXdPREZKVkt2a2FPQ1F4bHJwNVd0cHIzSG1vTU1ZT3FadlRjMU9NY2Fjd3pZaS1UMmpNeVpJRm51cUFqVUxWc0JUcEx0bHhxZQ?oc=5"
     }
   ]
 }
