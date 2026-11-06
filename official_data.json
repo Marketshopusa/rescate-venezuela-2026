@@ -8,6 +8,11 @@
   },
   "reports": [
     {
+      "time": "CNN en Español",
+      "message": "Casi cuatro meses después del sismo, muchas familias venezolanas aún buscan desaparecidos entre los escombros",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0F2azExSDVsdDRLMmpMMEl6V1hqajU3SGVfSkdVUG1wYUhYSGFHdHJsY3phcGlwbFhMRHhPTFo0WlhaTHExZ0Z4YlZjTWY1bmdvYmtSeEZMYkRrcmtRVFBLZHV5Nm5JZkd5VnczRVJpTmVKQTEyMzl6dWlETUc1ZmU2dzhVVV9ZdzBhR0xscm1ib29QQVhKVmdyUDItS24wTUFlbGR3?oc=5"
+    },
+    {
       "time": "Amnesty International",
       "message": "Venezuela: A tres meses del doble terremoto sigue ausente una respuesta centrada en derechos humanos",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2RpV21tNExhYV9JYzVLQ2xIVzNyWmViemI0RGFkWDBTem5zaXdXTXE1cTJBQlRvdi1sZXpQTGVvVzdYdlNZRWV0YzBmUFJ6STBVQk5STG1wUE1FeUN1UDQxT2hzbll3WWpkUWh3VWVHUGhHQjZBZml4dlhwcU1GVnR0N2htM0lqenZGVkRFVFdOOHpuMVlOUHF3cTR6NmNpeE9RRFItNU9EZXNzcngwWTMtUk9Lb1hwRUd1bGNyd3dWM2hNUWIxSVFOVEUtX3d6UmpZTzZodDZwSEhSXzg3bQ?oc=5"
@@ -28,14 +33,14 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVF9FSUtXRDBCclQ2WjFrWV9weGxNMTlBMjlhU1FWd3NYbDlrVmRFUEhfSzlGREpqbW1zcXRMbVk5b0M5Mmg3eXRFV0c2ZTdxS0JhX1c5cjZ3WDB5NHNCRHZ0YkhYOFhhOXJwM0hXVXQwVUsyZUVNREJIZ3BSSXZndFJGVG1SWkNlX3hicdIBjAFBVV95cUxOV2QwdjZlQm1XZlZjM3FDeThuNXlDa01BTGl6UGJ6eG9aSHllX2J1OWhBM3BGbG1Ld0hoZVlFRWh6ckxUc3lRdk5pc3hKRUZmNklaYTRIZ21lakhMLVpmb18tcmZWRXZwX3dSSEQ2Y2V1dUxqVzBva2R1YjBzQ1FLS3hpTWN2bzRBY3dFVw?oc=5"
     },
     {
-      "time": "Infobae",
-      "message": "Venezuela inició las celebraciones de Navidad, marcadas por la ausencia de Maduro y las secuelas del doble sismo",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY09aNzJqdDI4bW5pY2ZmS2FJWk5mRlJVU1FpSDRjV09QNjBxVkJqV0JPV2FWRk80OUJCeWxpcUp0Q2ZVTDZXYUtuV0VLYldkLUpYOEkzZmVkM2xVR3JxbjlMQldvTEh3alpBb3lRMW9kSnZVcVpKbkZlNHVwWG9BS19kTk1PNS1fTHktcmFPVThxQVB2YXpyM0ROeW02WWJNR1FaUGlqSnlqNkxkdGRLVFRHbGw3RFpoRG1OU1J3T3ktOTVoUElyRzR4NmNFVjlYRnpBcC1xaXJhR2dtd2hJNHltSV9mUVlrXzhUclN30gGIAkFVX3lxTFB5aDkzckg1aXN3aXNST0pNYmR0b2ZSWk9pSDdEV1RnblJ6OWYyUWdQQ3VLMThDRHRRQUdsZERvdVJoLTNxZnRDWlR0cjR4Q1VWb2xGd0JjQTNmVDV1dVFjWWtER0JBb2VYRmVvNFgzSV9VX0V0dVFCN0JQaHFIRjBjOENZaWJMakpIRExDUFlzZm91dGFud0l0ejQyeDFwbVltZ3ZNUU5zcm1jeDhSNzJYRTRDZTU1STBJek9uVEpGNzdWX3owTUxrUld2ckl3b1lRV1NFMDdyTkpGZTFNbENvNnlKOWcyNC1IN3hORC1sYWVQTzVVTUVlUDRzWVlYb3VKTVVJSGtEVw?oc=5"
-    },
-    {
       "time": "BBC",
       "message": "Terremoto en Venezuela: 3 factores que explican por qué se derrumbaron tantos edificios en La Guaira",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblHSAWBBVV95cUxPTkVxamRkRTE1enE0UjEyM2FjWlY2UmpKSngydGp6aGdINjNuc1hQWHBmbUxSSFJfSGR6X3ZQWTNkZlRFTGpsZFVoR3JHRTEyMVdoWFFmM0NzVXh1TDhGVHU?oc=5"
+    },
+    {
+      "time": "Infobae",
+      "message": "Venezuela inició las celebraciones de Navidad, marcadas por la ausencia de Maduro y las secuelas del doble sismo",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPY09aNzJqdDI4bW5pY2ZmS2FJWk5mRlJVU1FpSDRjV09QNjBxVkJqV0JPV2FWRk80OUJCeWxpcUp0Q2ZVTDZXYUtuV0VLYldkLUpYOEkzZmVkM2xVR3JxbjlMQldvTEh3alpBb3lRMW9kSnZVcVpKbkZlNHVwWG9BS19kTk1PNS1fTHktcmFPVThxQVB2YXpyM0ROeW02WWJNR1FaUGlqSnlqNkxkdGRLVFRHbGw3RFpoRG1OU1J3T3ktOTVoUElyRzR4NmNFVjlYRnpBcC1xaXJhR2dtd2hJNHltSV9mUVlrXzhUclN30gGIAkFVX3lxTFB5aDkzckg1aXN3aXNST0pNYmR0b2ZSWk9pSDdEV1RnblJ6OWYyUWdQQ3VLMThDRHRRQUdsZERvdVJoLTNxZnRDWlR0cjR4Q1VWb2xGd0JjQTNmVDV1dVFjWWtER0JBb2VYRmVvNFgzSV9VX0V0dVFCN0JQaHFIRjBjOENZaWJMakpIRExDUFlzZm91dGFud0l0ejQyeDFwbVltZ3ZNUU5zcm1jeDhSNzJYRTRDZTU1STBJek9uVEpGNzdWX3owTUxrUld2ckl3b1lRV1NFMDdyTkpGZTFNbENvNnlKOWcyNC1IN3hORC1sYWVQTzVVTUVlUDRzWVlYb3VKTVVJSGtEVw?oc=5"
     },
     {
       "time": "France 24",
@@ -46,11 +51,6 @@
       "time": "EL PAÍS",
       "message": "Mapas y gráficos del devastador doble terremoto en Venezuela",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm1MNWFGYVY2WWlqMkVCRDdtSlVBWkU5TWs4bTFXNWEzNHBFT0FlV1VnU3FtVk1rcGthb0tBek5rN2Z4WEQ0dVVIUmJER2JYOU9BVVRvUlRveWlScTJ5b0NGcHVjY0czNnAzdHVMb3I3bXRibUxrME5TWXZ3UzVETFByek5XTnJmaDhTTjQ0QTFFY2lMbjZCWWE2ck9sb0VBRl9VRnNmaHVuYlFkWW5mbGlxZ0U1Zw?oc=5"
-    },
-    {
-      "time": "CNN en Español",
-      "message": "A casi un mes del doble terremoto en Venezuela, la cifra de muertos supera los 5.000",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcXRBOHFOOUVQSDhFcGVlSE5YQzQtWGlSWkx0aGRFM2hDaW9NS0E4UmNhSzB1SVNVNFJhMGVVemdNRkpicWQyZHBTSmFDR0VxSGFUUk9BSWYzS0FTbGg5eUhRRmpJZFVvRWNqWWJ5eXZacG5ZNllRaWw0STF1QUp4TWtXNDRocW1kMHJzZWlfeXNHa2cyZERnMA?oc=5"
     },
     {
       "time": "Facebook",
