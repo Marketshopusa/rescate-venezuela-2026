@@ -6,5 +6,56 @@
     "safe": 14639,
     "deceased": 4930
   },
-  "reports": []
+  "reports": [
+    {
+      "time": "Amnesty International",
+      "message": "Venezuela: A tres meses del doble terremoto sigue ausente una respuesta centrada en derechos humanos",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ2RpV21tNExhYV9JYzVLQ2xIVzNyWmViemI0RGFkWDBTem5zaXdXTXE1cTJBQlRvdi1sZXpQTGVvVzdYdlNZRWV0YzBmUFJ6STBVQk5STG1wUE1FeUN1UDQxT2hzbll3WWpkUWh3VWVHUGhHQjZBZml4dlhwcU1GVnR0N2htM0lqenZGVkRFVFdOOHpuMVlOUHF3cTR6NmNpeE9RRFItNU9EZXNzcngwWTMtUk9Lb1hwRUd1bGNyd3dWM2hNUWIxSVFOVEUtX3d6UmpZTzZodDZwSEhSXzg3bQ?oc=5"
+    },
+    {
+      "time": "CNN en Español",
+      "message": "Casi cuatro meses después del sismo, muchas familias venezolanas aún buscan desaparecidos entre los escombros",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc0F2azExSDVsdDRLMmpMMEl6V1hqajU3SGVfSkdVUG1wYUhYSGFHdHJsY3phcGlwbFhMRHhPTFo0WlhaTHExZ0Z4YlZjTWY1bmdvYmtSeEZMYkRrcmtRVFBLZHV5Nm5JZkd5VnczRVJpTmVKQTEyMzl6dWlETUc1ZmU2dzhVVV9ZdzBhR0xscm1ib29QQVhKVmdyUDItS24wTUFlbGR3?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #32 (07 de agosto de 2026, Hora: 02:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUNfNXVfMnliOWZzbjlKV2VUMERhWC1FZVNIWVpsajZFd19sOHlDWlpxR09GRFY4X2tRUDhsOHROSmJOcHlYWk1KblJObnlWd3VqQTdQUi1ZUFlJcERUTTdLelFjMXZYZlF0NXpxaXB1T2o2Y1cyaTdLejgyekhTbzBTWW9sdnVvSzJpOW1nQ2VaQ09FTTUtUWpaYURXRjRRSy1mdGxUV1lueW1JQUFlVE1ZM1BfY3k0ZnROek5QYV9TTk9pbXZZalQ0ZnZYZjVsdUdKVVA5TQ?oc=5"
+    },
+    {
+      "time": "DW.com",
+      "message": "Doble terremoto en Venezuela: una tragedia anunciada",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVF9FSUtXRDBCclQ2WjFrWV9weGxNMTlBMjlhU1FWd3NYbDlrVmRFUEhfSzlGREpqbW1zcXRMbVk5b0M5Mmg3eXRFV0c2ZTdxS0JhX1c5cjZ3WDB5NHNCRHZ0YkhYOFhhOXJwM0hXVXQwVUsyZUVNREJIZ3BSSXZndFJGVG1SWkNlX3hicdIBjAFBVV95cUxOV2QwdjZlQm1XZlZjM3FDeThuNXlDa01BTGl6UGJ6eG9aSHllX2J1OWhBM3BGbG1Ld0hoZVlFRWh6ckxUc3lRdk5pc3hKRUZmNklaYTRIZ21lakhMLVpmb18tcmZWRXZwX3dSSEQ2Y2V1dUxqVzBva2R1YjBzQ1FLS3hpTWN2bzRBY3dFVw?oc=5"
+    },
+    {
+      "time": "BBC",
+      "message": "Terremoto en Venezuela: 3 factores que explican por qué se derrumbaron tantos edificios en La Guaira",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZYXhtRUo5SUtFUm9DUTg4ZWJ6RnBQbm4tLUY5aXhqVDJfMFpKVVk0WDU4Zi15YTVQRm5VVkpPNDlLenVoMzdwazV4dE1SNzE1bks0MS1Vak1yblHSAWBBVV95cUxPTkVxamRkRTE1enE0UjEyM2FjWlY2UmpKSngydGp6aGdINjNuc1hQWHBmbUxSSFJfSGR6X3ZQWTNkZlRFTGpsZFVoR3JHRTEyMVdoWFFmM0NzVXh1TDhGVHU?oc=5"
+    },
+    {
+      "time": "Facebook",
+      "message": "BBC News Mundo. . Dos terremotos sacudieron Venezuela con apenas 39 segundos de diferencia, dejando una escena de destrucción y miles de afectados. Pero lo más sorprendente no fue solo la rapidez, sino que el segundo sismo fue incluso más fuerte",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcl9vT05ydS1qbE5EMW1rWWNPZnktUWt5Rlp0c2JDYlhEWHZzVXZMWmdESHoyeXc5aDAxNTRld0YyVTBkTlo2cGtsWUFfN1ZacmUzeWJGcTBFTlBIVElGNXRmUmRkQUFZVjNxOFRFZ3Q5RXdENEZoMktzb2NhczB5RGxHYmNQUk5LOHQwcHZrNjBnM1dsQXNIMTFSRlpfQ1ZkRzNjNGpqZGkwTWRRdmdzbWJoUzh0UmM4dVhfbHZMajJMa2dkSFIwLTRkYlpZYWdYMUoxd2R3XzFpNjQ?oc=5"
+    },
+    {
+      "time": "France 24",
+      "message": "Un mes del doble sismo en Venezuela: más de 5.000 muertos, impotencia por los desaparecidos y temor al olvido",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPdjlURnJJVkNlNXkyUDM5QnJEZDRheGZGVnBDNkk2c3hfUjF4Q2trQUFBdHNRWVQ3LUFtdFZGWXoxdDRXaktxS094LXlXXzFmSkxBeFhWZkpHRnJsWC1TbmtRM1dpdmM2d1hTc2NkYnd5R0luN1ozMjZ1UFVobmVuVEZQR0xYU0tmT1hKUk9TRWs1NVpQSDY4WjdlZ1lzc1RsYlQzVTdYT1FwcHFudjFUa3ZGMUtTakw2T0d4RVVXV1NYbmZ0LXVJV0YtUi1qN0RnUVAwZWtMakJDSHRhdHVKbnNMenI3RDBjTGlra1l5TUV2N3ZmNnh4REVmX2hwUQ?oc=5"
+    },
+    {
+      "time": "EL PAÍS",
+      "message": "Mapas y gráficos del devastador doble terremoto en Venezuela",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm1MNWFGYVY2WWlqMkVCRDdtSlVBWkU5TWs4bTFXNWEzNHBFT0FlV1VnU3FtVk1rcGthb0tBek5rN2Z4WEQ0dVVIUmJER2JYOU9BVVRvUlRveWlScTJ5b0NGcHVjY0czNnAzdHVMb3I3bXRibUxrME5TWXZ3UzVETFByek5XTnJmaDhTTjQ0QTFFY2lMbjZCWWE2ck9sb0VBRl9VRnNmaHVuYlFkWW5mbGlxZ0U1Zw?oc=5"
+    },
+    {
+      "time": "The Conversation",
+      "message": "Terremotos en Venezuela: así se produjo el “doblete sísmico” que puede causar réplicas durante semanas",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXhxeEdMNnBjSXRHQXFKano1UWswVFlDMmM5S1Z4VlV0bjFOOXM0cFBNTWRyeGhtSmlMNGRuTDdyazc2eU52eU9lMHk0TDhCX3I4bFZSZGFlaTh6U2ZTeFFLR3ludTdYa0Q0eXBrWFpLOXpaYzBzZ3dPampUSkI5aUVSdU96cnhMLTU4eE5tOW1tcjNOb2RUQnByUWFidlBzc2VWeENYTUtzMHowY0JpcV9WZjRKUDJXb2pkMjgwNlc0Q3BVZ29hMTd0XzZ6Nms?oc=5"
+    },
+    {
+      "time": "ReliefWeb",
+      "message": "Terremotos en Venezuela: Reporte de situación #34 (27 de agosto de 2026, Hora: 5:00 pm)",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb1FNck5GSXhhdWlNbkVERTJiYXZ5WFBsSmJub29GNC1LMDJXeVJsUmVucWhmUEJXRUZuOUY0MjdnWnZvZmFMQW1nbTV0RTF0dTVkWGh4WU9PX3pJNzVUNnY2bEM1SENHb2R2X1pTZ2txQXFwTEprQVB5Y3hQbEZfUWhJbTJYNkRBMzRvcG01Z2NBeDZKV1IwYnlNUVZaMnpNbnZaRjY5UC1fVlFzQ0QtVFhLNG8wYkJkTk5Rbk51dlZCQkhGSjBRM1E5d0Jjem5wMlVZU0xR?oc=5"
+    }
+  ]
 }
